@@ -162,9 +162,14 @@ const adaHarga = produkSemua.filter((p) => p.harga > 0);
       </div>
       <div class="cat-grid">
         {teratas.map((k) => (
-          <a class="cat-card" href={pautan(`/kategori/${k.slug}`)}>
+          <a
+            class="cat-card"
+            href={pautan(`/kategori/${k.slug}`)}
+            data-inisial={k.nama.split(' ').map((w) => w[0]).join('').slice(0, 2).toUpperCase()}
+          >
             <img
               class="cat-img"
+              onerror="this.closest('.cat-card').classList.add('img-gagal'); this.remove();"
               src={pautan(gambarKategori(k.nama, 400))}
               srcset={`${pautan(gambarKategori(k.nama, 400))} 400w, ${pautan(gambarKategori(k.nama, 800))} 800w`}
               sizes="(max-width: 640px) 45vw, (max-width: 1100px) 30vw, 240px"

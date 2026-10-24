@@ -1,262 +1,314 @@
 {
  "Aluminium Plaque": {
   "slug": "aluminium-plaque",
-  "dari": "Aluminium Plaque (WP60)",
-  "skor": 0.96
+  "jenis": "tunggal",
+  "dari": "Aluminium Plaque (WP61)",
+  "putih": 47.1
  },
  "Anti Theft Back Pack": {
   "slug": "anti-theft-back-pack",
-  "dari": "3 in 1 Anti Theft Laptop Back Pack ( Fully Padded Bag ) (LT4931)",
-  "skor": 0.92
+  "jenis": "tunggal",
+  "dari": "Anti Theft Laptop Back Pack (Fully Padded Bag) (LT1903)",
+  "putih": 51.8
  },
  "Apron & Jacket": {
   "slug": "apron-and-jacket",
-  "dari": "Apron (APRON-12)",
-  "skor": 0.9
+  "jenis": "tunggal",
+  "dari": "Safety Vest (SV990)",
+  "putih": 39.2
  },
  "Back Pack": {
   "slug": "back-pack",
-  "dari": "Back Pack (BP5039-2)",
-  "skor": 0.87
+  "jenis": "tunggal",
+  "dari": "Back Pack (BP7272)",
+  "putih": 52.9
  },
  "Bag Series": {
   "slug": "bag-series",
-  "dari": "Toiletries @ Cosmetic Bag (COS1090)",
-  "skor": 0.95
+  "jenis": "tunggal",
+  "dari": "Laptop Back Pack (LT9092)",
+  "putih": 54.8
  },
  "Bath Towel": {
   "slug": "bath-towel",
-  "dari": "Bath Towel (BT270)",
-  "skor": 0.91
+  "jenis": "tunggal",
+  "dari": "Bath Towel (BT25)",
+  "putih": 44.6
  },
  "Black Stone Series": {
   "slug": "black-stone-series",
-  "dari": "Black Crystal Plaque (CP3854)",
-  "skor": 1.0
+  "jenis": "tunggal",
+  "dari": "Black Crystal Plaque (CP3889)",
+  "putih": 18.4
  },
  "Bottle": {
   "slug": "bottle",
-  "dari": "Sport Bottle (SB1211)",
-  "skor": 0.98
+  "jenis": "tunggal",
+  "dari": "Organic Wheat Fiber Mug (OPM80)",
+  "putih": 44.9
  },
  "Cap": {
   "slug": "cap",
-  "dari": "Cap (CAP5551)",
-  "skor": 0.91
+  "jenis": "tunggal",
+  "dari": "Cap (CAP7030)",
+  "putih": 57.6
  },
  "Casing": {
   "slug": "casing",
+  "jenis": "tunggal",
   "dari": "Transparent Box (PB32(boxonly))",
-  "skor": 0.99
+  "putih": 48.0
  },
  "Certificate Holder": {
   "slug": "certificate-holder",
-  "dari": "Craft Certificate Holder (CH232)",
-  "skor": 0.98
+  "jenis": "tunggal",
+  "dari": "PU Certificate Holder (CH227)",
+  "putih": 41.6
  },
  "Clock": {
   "slug": "clock",
+  "jenis": "tunggal",
   "dari": "Round Wall Clock (CLK3015(c/wbox))",
-  "skor": 0.99
+  "putih": 36.9
  },
  "Crystal Hanging Medal": {
   "slug": "crystal-hanging-medal",
+  "jenis": "tunggal",
   "dari": "Crystal Hanging Medal (CHM136)",
-  "skor": 0.82
+  "putih": 78.7
  },
  "Crystal Series": {
   "slug": "crystal-series",
-  "dari": "Crystal (CP3936)",
-  "skor": 1.0
+  "jenis": "tunggal",
+  "dari": "Crystal Plaque (CP3899)",
+  "putih": 18.4
  },
  "Crystal Trophies & Awards": {
   "slug": "crystal-trophies-and-awards",
-  "dari": "Crystal Hanging Medal (CHM122)",
-  "skor": 1.0
+  "jenis": "tunggal",
+  "dari": "Wooden Crystal (CW9500)",
+  "putih": 19.0
  },
  "Cutlery Set": {
   "slug": "cutlery-set",
+  "jenis": "tunggal",
   "dari": "Cutlery Set (FS129)",
-  "skor": 0.76
+  "putih": 58.4
  },
  "ECO - Jute & Canvas Bag": {
   "slug": "eco-jute-and-canvas-bag",
-  "dari": "Foldable Canvas Bag 12oz (CAN344-1)",
-  "skor": 1.0
+  "jenis": "tunggal",
+  "dari": "Jute + Canvas Laminated Bag (JCL269)",
+  "putih": 53.1
  },
  "ECO Memo Pad": {
   "slug": "eco-memo-pad",
-  "dari": "Eco Memopad with Pen Holder (EME23)",
-  "skor": 0.93
+  "jenis": "tunggal",
+  "dari": "Eco Restick Memopad (EME3225)",
+  "putih": 49.1
  },
  "ECO Notebook & Memo Pad": {
   "slug": "eco-notebook-and-memo-pad",
-  "dari": "Eco Notebook with Pen (ENB3388)",
-  "skor": 0.96
+  "jenis": "tunggal",
+  "dari": "Eco Restick Memo Pad with Pen (ENB3005)",
+  "putih": 28.6
  },
  "Eco Bag": {
   "slug": "eco-bag",
+  "jenis": "tunggal",
   "dari": "Laundry Bags / Carrier Bag (LWB560)",
-  "skor": 1.0
+  "putih": 19.0
  },
  "Electronic Gadget": {
   "slug": "electronic-gadget",
+  "jenis": "blob",
   "dari": "Portable USB Rechargeable Handheld Fan (FAN013)",
-  "skor": 0.73
+  "putih": 56.5
  },
  "Empty": {
   "slug": "empty",
+  "jenis": "tunggal",
   "dari": "Wooden Box (WB01)",
-  "skor": 0.9
+  "putih": 61.0
  },
  "Face Towel & Hand Towel": {
   "slug": "face-towel-and-hand-towel",
+  "jenis": "tunggal",
   "dari": "Face Towel (FT14A)",
-  "skor": 0.68
+  "putih": 50.8
  },
  "Fridge Magnet": {
   "slug": "fridge-magnet",
+  "jenis": "tunggal",
   "dari": "Wooden Fridge Magnet (FM61)",
-  "skor": 0.83
+  "putih": 65.5
  },
  "Gadget": {
   "slug": "gadget",
-  "dari": "Worldwide Travel Adapter (UA931(C/WBOX))",
-  "skor": 0.98
+  "jenis": "tunggal",
+  "dari": "Digital Alarm Clock (CLK3020)",
+  "putih": 44.9
  },
  "Gift Box": {
   "slug": "gift-box",
+  "jenis": "tunggal",
   "dari": "2 in 1 Gift Box (BOX206-1)",
-  "skor": 0.97
+  "putih": 53.2
  },
  "Gift Set": {
   "slug": "gift-set",
+  "jenis": "tunggal",
   "dari": "Diary Box (BOX17)",
-  "skor": 0.95
+  "putih": 58.5
  },
  "Gift Sets & OEM Gifts": {
   "slug": "gift-sets-and-oem-gifts",
-  "dari": "Gift Box (BOX203)",
-  "skor": 0.99
+  "jenis": "tunggal",
+  "dari": "Gift Box (BOX01-3(SolelyBuyBoxOnly))",
+  "putih": 44.2
  },
  "Glass Bottle": {
   "slug": "glass-bottle",
+  "jenis": "tunggal",
   "dari": "Mini Glass Bottle with Phone Stand (GB4500)",
-  "skor": 0.95
+  "putih": 60.2
  },
  "Highlighter Pen": {
   "slug": "highlighter-pen",
+  "jenis": "tunggal",
   "dari": "Coral Highlighter (HP04)",
-  "skor": 0.97
+  "putih": 74.5
  },
  "Household Series": {
   "slug": "household-series",
-  "dari": "Food Container (LB8147)",
-  "skor": 1.0
+  "jenis": "tunggal",
+  "dari": "Double Layer Food Container (SLB720(c/wbox))",
+  "putih": 35.6
  },
  "IT Series": {
   "slug": "it-series",
+  "jenis": "tunggal",
   "dari": "Thumb Drive 16GB (UST016-1)",
-  "skor": 0.94
+  "putih": 58.7
  },
  "Keychain": {
   "slug": "keychain",
-  "dari": "Keychain (KC15)",
-  "skor": 0.89
+  "jenis": "tunggal",
+  "dari": "A5 Keychain Holder (KCH9292(c/wBox))",
+  "putih": 54.8
  },
  "Lanyard": {
   "slug": "lanyard",
-  "dari": "Nylon Lanyard 20mm (LYB23)",
-  "skor": 0.98
+  "jenis": "tunggal",
+  "dari": "Nylon Lanyard 20mm (DCLY20)",
+  "putih": 54.7
  },
  "Manicure Series": {
   "slug": "manicure-series",
-  "dari": "Manicure Set (6 in 1) (MED972)",
-  "skor": 0.94
+  "jenis": "tunggal",
+  "dari": "Manicure Set 6in1 (MED4861)",
+  "putih": 55.7
  },
  "Metal & Aluminium Pen": {
   "slug": "metal-and-aluminium-pen",
+  "jenis": "tunggal",
   "dari": "Aluminium Gel Ink Pen (AP4353G)",
-  "skor": 0.82
+  "putih": 66.5
  },
  "Miscellaneous": {
   "slug": "miscellaneous",
-  "dari": "Wristband (W07)",
-  "skor": 0.99
+  "jenis": "tunggal",
+  "dari": "First Aid Kit (FAK471)",
+  "putih": 40.5
  },
  "Mug": {
   "slug": "mug",
+  "jenis": "tunggal",
   "dari": "11oz Colour Coating Mug (CM77(c/wbox))",
-  "skor": 0.54
+  "putih": 65.4
  },
  "Name Card & ID Card Holder": {
   "slug": "name-card-and-id-card-holder",
-  "dari": "ID Card Holder (ID-K)",
-  "skor": 0.83
+  "jenis": "tunggal",
+  "dari": "ID Card Holder (ID202)",
+  "putih": 46.1
  },
  "New Arrival": {
   "slug": "new-arrival",
+  "jenis": "tunggal",
   "dari": "Face Towel (FT271)",
-  "skor": 0.88
+  "putih": 61.5
  },
  "Notebook": {
   "slug": "notebook",
-  "dari": "Pocket Notebook (NB5077)",
-  "skor": 0.99
+  "jenis": "tunggal",
+  "dari": "Notebook (NB1061)",
+  "putih": 41.9
  },
  "OEM 2in1": {
   "slug": "oem-2in1",
+  "jenis": "blob",
   "dari": "OEM Set – 2 in 1 (BOX1128)",
-  "skor": 0.29
+  "putih": 55.7
  },
  "OEM 4in1 & 3in1": {
   "slug": "oem-4in1-and-3in1",
+  "jenis": "blob",
   "dari": "OEM Set – 4 in 1 (BOX1007)",
-  "skor": 0.47
+  "putih": 45.0
  },
  "PU Organizer": {
   "slug": "pu-organizer",
-  "dari": "PU Organizer with Calendar (NB412)",
-  "skor": 0.81
+  "jenis": "tunggal",
+  "dari": "PU Organizer with Calendar (NB705)",
+  "putih": 37.6
  },
  "Pen Box": {
   "slug": "pen-box",
-  "dari": "Pen Box (Solely Buy Box Only) (PT05(Solelybuyboxonly))",
-  "skor": 0.95
+  "jenis": "tunggal",
+  "dari": "Executive Metal Pen Case (EB111)",
+  "putih": 54.9
  },
  "Pen Holder": {
   "slug": "pen-holder",
+  "jenis": "tunggal",
   "dari": "Wooden Pen Holder (Round) (WPH1233)",
-  "skor": 0.44
+  "putih": 71.3
  },
  "Pen Series": {
   "slug": "pen-series",
-  "dari": "Hand Highlighter (HP07)",
-  "skor": 0.97
+  "jenis": "tunggal",
+  "dari": "Flower Highlighter (HP05)",
+  "putih": 56.6
  },
  "Pencil Case": {
   "slug": "pencil-case",
+  "jenis": "tunggal",
   "dari": "Pencil Case (CPC669)",
-  "skor": 0.59
+  "putih": 65.0
  },
  "Seminar Folder": {
   "slug": "seminar-folder",
+  "jenis": "tunggal",
   "dari": "PP Document File (A4 Size) (CPC701(A4SIZE))",
-  "skor": 0.77
+  "putih": 61.8
  },
  "Thumb Drive": {
   "slug": "thumb-drive",
+  "jenis": "blob",
   "dari": "Pendrive Box (If Purchase IG Pendrive) (PB9335(withIGproduct))",
-  "skor": 0.78
+  "putih": 57.6
  },
  "Towel Series": {
   "slug": "towel-series",
+  "jenis": "tunggal",
   "dari": "Bath Towel (BT267)",
-  "skor": 1.0
+  "putih": 27.5
  },
  "Umbrella Series": {
   "slug": "umbrella-series",
-  "dari": "Umbrella (SC306)",
-  "skor": 0.98
+  "jenis": "tunggal",
+  "dari": "( 1 set ) Front Mirror Sun Shade (SSF10)",
+  "putih": 58.9
  }
 }

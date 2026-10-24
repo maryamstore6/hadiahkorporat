@@ -332,6 +332,18 @@ body.nav-open .mobile-nav { display: block; }
 .cat-card:hover {
   border-color: var(--forest); transform: translateY(-2px); box-shadow: var(--shadow-2);
 }
+/* Fallback: jika gambar kategori gagal dimuat, tunjuk jubin berwarna
+   dengan inisial — bukan ikon gambar rosak. */
+.cat-card.img-gagal::before {
+  content: attr(data-inisial);
+  display: grid; place-items: center;
+  aspect-ratio: 1 / 1; width: 100%;
+  background: var(--stone, #efeee7);
+  font-family: var(--disp); font-size: clamp(1.6rem, 4vw, 2.4rem);
+  color: var(--sage, #7c8a6b); letter-spacing: .05em;
+  border-bottom: 1px solid var(--line-2);
+}
+
 .cat-card .cat-img {
   width: 100%;
   height: auto;          /* WAJIB: tanpa ini atribut height="400" menang atas aspect-ratio */
