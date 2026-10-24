@@ -64,13 +64,21 @@ const adaHarga = produkSemua.filter((p) => p.harga > 0);
     </div>
   </section>
 
-  <!-- JALUR KEPERCAYAAN -->
-  <div class="strip">
-    <div class="wrap strip-row">
-      <span class="strip-item"><i></i> Harga seunit, tanpa caj tersembunyi</span>
-      <span class="strip-item"><i></i> Mock-up percuma sebelum cetak</span>
-      <span class="strip-item"><i></i> MOQ {SITE.moq} pcs sahaja</span>
-      <span class="strip-item"><i></i> Penghantaran seluruh Malaysia</span>
+  <!-- MARQUEE: jalur kepercayaan bergerak -->
+  <div class="marquee" aria-label="Kelebihan kami">
+    <div class="marquee-track">
+      {[0, 1].map((n) => (
+        <div class="marquee-group" aria-hidden={n === 1 ? 'true' : undefined}>
+          <span class="strip-item">Harga seunit, tanpa caj tersembunyi</span>
+          <span class="marquee-dot" aria-hidden="true">·</span>
+          <span class="strip-item">Mock-up percuma sebelum cetak</span>
+          <span class="marquee-dot" aria-hidden="true">·</span>
+          <span class="strip-item">MOQ {SITE.moq} pcs sahaja</span>
+          <span class="marquee-dot" aria-hidden="true">·</span>
+          <span class="strip-item">Penghantaran seluruh Malaysia</span>
+          <span class="marquee-dot" aria-hidden="true">·</span>
+        </div>
+      ))}
     </div>
   </div>
 

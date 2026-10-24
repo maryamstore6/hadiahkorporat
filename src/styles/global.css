@@ -139,7 +139,46 @@ p:last-child { margin-bottom: 0; }
   display: block;
 }
 
-/* ---------- Jalur keprcayaan (mikro-kaps) ---------- */
+/* ---------- Marquee: jalur kepercayaan bergerak ---------- */
+.marquee {
+  border-block: 1px solid var(--line);
+  background: var(--stone);
+  padding: .95rem 0;
+  overflow: hidden;
+  position: relative;
+  /* Pudarkan tepi supaya teks tidak "terputus" mengejut */
+  -webkit-mask-image: linear-gradient(90deg, transparent, #000 6%, #000 94%, transparent);
+  mask-image: linear-gradient(90deg, transparent, #000 6%, #000 94%, transparent);
+}
+.marquee-track {
+  display: flex;
+  width: max-content;
+  animation: marquee-roll 34s linear infinite;
+}
+.marquee-group {
+  display: flex; align-items: center; gap: 2.4rem;
+  padding-right: 2.4rem;   /* jarak sama dengan gap -> gelung tanpa lompat */
+  flex: none;
+}
+.marquee-dot { color: var(--sage); font-size: .9rem; line-height: 1; }
+
+/* Dua kumpulan serupa: -50% = tepat satu kumpulan -> gelung lancar */
+@keyframes marquee-roll {
+  from { transform: translateX(0); }
+  to   { transform: translateX(-50%); }
+}
+
+/* Berhenti bila tetikus di atas supaya boleh dibaca */
+.marquee:hover .marquee-track,
+.marquee:focus-within .marquee-track { animation-play-state: paused; }
+
+/* Hormati tetapan "kurangkan gerakan" — jadikan jalur boleh skrol biasa */
+@media (prefers-reduced-motion: reduce) {
+  .marquee { -webkit-mask-image: none; mask-image: none; }
+  .marquee-track { animation: none; }
+  .marquee { overflow-x: auto; }
+}
+
 .strip { border-block: 1px solid var(--line); background: var(--stone); padding: 0; }
 .strip-row {
   display: flex; flex-wrap: wrap; align-items: center;
@@ -602,6 +641,9 @@ textarea.input { border-radius: var(--r); resize: vertical; }
   .hero-cta .btn { width: 100%; }
   .hero-stats { grid-template-columns: 1fr 1fr; gap: 1.1rem; }
   .hero-stat b { font-size: 1.5rem; }
+  .marquee { padding: .8rem 0; }
+  .marquee-group { gap: 1.4rem; padding-right: 1.4rem; }
+  .marquee-track { animation-duration: 22s; }
   .infostrip { padding: .75rem .9rem; gap: .35rem .7rem; }
   .infostrip span, .strip-item { font-size: .56rem; letter-spacing: .13em; }
 
