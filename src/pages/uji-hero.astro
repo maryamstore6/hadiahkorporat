@@ -1,4 +1,5 @@
 ---
+import '../styles/global.css';
 import { SITE, produkSemua, kategoriSemua, pautan } from '../lib/site.js';
 
 const kategori = kategoriSemua();   /* kategoriSemua ialah fungsi — bukan array */
@@ -107,7 +108,7 @@ const versi = [
         <div class="hero-grid uji-grid">
           <div>
             <p class="eyebrow">{v.eyebrow}</p>
-            <h1>{v.h1}<em>{v.em}</em></h1>
+            <h1>{v.h1} <em>{v.em}</em></h1>
             <p class="hero-lead">{v.lead}</p>
             <div class="hero-cta">
               <a class="btn btn-lime" href="#">{v.cta1}</a>
@@ -128,8 +129,7 @@ const versi = [
             </picture>
           </figure>
         </div>
-
-        <p class="uji-cta">CTA: <code>{v.cta1}</code> + <code>{v.cta2}</code></p>
+ 
       </div>
     </section>
   ))}
@@ -166,6 +166,9 @@ const versi = [
   .uji-sasaran { font-size: .7rem; letter-spacing: .1em; text-transform: uppercase; color: var(--muted); }
 
   .uji-grid { align-items: center; }
+  .uji-grid h1 { font-family: var(--disp); line-height: 1.08; margin: 0 0 .5em;
+                 font-size: clamp(2rem, 4.4vw, 3.3rem); font-weight: 400; letter-spacing: -.015em; }
+  .uji-grid h1 em { display: block; font-style: italic; }
   .uji-gambar img { border-radius: var(--r-lg); }
   .uji-cta { font-size: .68rem; color: var(--muted); margin-top: .9rem; }
   .uji-cta code { background: var(--stone); border: 1px solid var(--line); padding: .1rem .35rem; border-radius: 3px; font-size: .95em; }
