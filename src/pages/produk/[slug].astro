@@ -27,12 +27,16 @@ const hargaTeks = p.harga > 0 ? duit(p.harga) : 'Sebut harga';
 
     <div class="prod-layout">
       <div>
-        <div class="prod-hero-media" style={`background:linear-gradient(${sudut}deg,${c1},${c2})`}>
-          <span class="ph">{inisial(p.nama)}</span>
+        <div class="prod-hero-media" style={p.gambar ? undefined : `background:linear-gradient(${sudut}deg,${c1},${c2})`}>
+          {p.gambar
+            ? <img src={pautan(p.gambar)} alt={p.nama} width="900" height="900" fetchpriority="high" decoding="async" />
+            : <span class="ph">{inisial(p.nama)}</span>}
         </div>
-        <p style="font-size:.8rem;color:var(--muted);margin-top:.6rem">
-          Gambar sebenar akan dimuatkan oleh pembekal. Jubin di atas ialah pengganti sementara.
-        </p>
+        {!p.gambar && (
+          <p style="font-size:.8rem;color:var(--muted);margin-top:.6rem">
+            Gambar sebenar akan dimuatkan oleh pembekal. Jubin di atas ialah pengganti sementara.
+          </p>
+        )}
       </div>
 
       <div>

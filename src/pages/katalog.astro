@@ -11,6 +11,7 @@ const ringan = produkSemua.map((p) => ({
   k: p.kategori,
   h: p.harga,
   c: p.sku || '',
+  g: p.gambar || '',
 }));
 ---
 <Base tajuk="Katalog" huraian={`Cari ${produkSemua.length} produk hadiah korporat mengikut kategori dan bajet. Harga seunit, MOQ ${SITE.moq} pcs.`}>
@@ -95,10 +96,13 @@ const ringan = produkSemua.map((p) => ({
     function kad(p) {
       const [c1, c2] = warna(p.k);
       const harga = p.h > 0 ? duit(p.h) : 'Sebut harga';
+      const isiMedia = p.g
+        ? `<img src="${BASE}${p.g}" alt="${p.n.replace(/"/g, '&quot;')}" loading="lazy" decoding="async" width="440" height="330">`
+        : `<span class="ph">${inisial(p.n)}</span>`;
       return `<article class="card">
-        <a class="card-media" href="${BASE}/produk/${p.s}/" style="background:linear-gradient(135deg,${c1},${c2})" aria-label="${p.n}">
+        <a class="card-media" href="${BASE}/produk/${p.s}/" ${p.g ? '' : `style="background:linear-gradient(135deg,${c1},${c2})"`} aria-label="${p.n}">
           <span class="tag">${p.k.length > 20 ? p.k.slice(0, 19) + '…' : p.k}</span>
-          <span class="ph">${inisial(p.n)}</span>
+          ${isiMedia}
         </a>
         <div class="card-body">
           <h3 class="card-name"><a href="${BASE}/produk/${p.s}/">${p.n}</a></h3>

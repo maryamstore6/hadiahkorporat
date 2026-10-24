@@ -199,6 +199,9 @@ p:last-child { margin-bottom: 0; }
   display: grid; place-items: center;
   border-bottom: 1px solid var(--line-2);
 }
+.card-media img { width: 100%; height: 100%; object-fit: cover; }
+.prod-hero-media img { width: 100%; height: 100%; object-fit: contain; background: var(--surface); }
+
 .card-media .ph {
   font-family: var(--font-head); font-size: 2rem; font-weight: 600;
   color: #fff; mix-blend-mode: normal; letter-spacing: -.02em;
