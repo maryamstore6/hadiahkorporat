@@ -1,6 +1,6 @@
 ---
 import Base from '../../layouts/Base.astro';
-import { SITE, produkSemua, kategoriSemua, pautan } from '../../lib/site.js';
+import { SITE, produkSemua, kategoriSemua, gambarKategori, pautan } from '../../lib/site.js';
 const kategori = kategoriSemua();
 ---
 <Base tajuk="Kategori" huraian={`${kategori.length} kategori hadiah korporat — pen, beg, trofi, mug, teknologi dan banyak lagi.`}>
@@ -16,8 +16,21 @@ const kategori = kategoriSemua();
     <div class="cat-grid" style="padding-bottom:4rem">
       {kategori.map((k) => (
         <a class="cat-card" href={pautan(`/kategori/${k.slug}`)}>
-          <b>{k.nama}</b>
-          <small>{k.bilangan} produk</small>
+          <img
+            class="cat-img"
+            src={pautan(gambarKategori(k.nama, 400))}
+            srcset={`${pautan(gambarKategori(k.nama, 400))} 400w, ${pautan(gambarKategori(k.nama, 800))} 800w`}
+            sizes="(max-width: 640px) 45vw, (max-width: 1100px) 30vw, 240px"
+            alt=""
+            width="400"
+            height="400"
+            loading="lazy"
+            decoding="async"
+          />
+          <div class="cat-teks">
+            <b>{k.nama}</b>
+            <small>{k.bilangan} produk</small>
+          </div>
         </a>
       ))}
     </div>

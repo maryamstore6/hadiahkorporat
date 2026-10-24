@@ -76,6 +76,11 @@ export function slugify(s) {
     .slice(0, 70);
 }
 
+/* Gambar wakil kategori: /kategori/<slug>-400.webp dan -800.webp */
+export function gambarKategori(nama, saiz = 400) {
+  return `/kategori/${slugify(nama)}-${saiz}.webp`;
+}
+
 export function duit(n) {
   return 'RM' + Number(n).toLocaleString('ms-MY', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
 }

@@ -266,16 +266,42 @@ body.nav-open .mobile-nav { display: block; }
 .section-stone { background: var(--stone); }
 
 /* ---------- Kategori ---------- */
-.cat-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: .7rem; }
+.cat-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(215px, 1fr)); gap: .8rem; }
 .cat-card {
-  display: flex; flex-direction: column; justify-content: space-between; gap: .6rem;
+  display: flex; flex-direction: column;
   background: var(--white); border: 1px solid var(--line);
-  border-radius: var(--r); padding: 1.1rem 1.15rem; min-height: 104px;
-  transition: border-color .18s var(--ease), transform .18s var(--ease);
+  border-radius: var(--r); overflow: hidden;
+  transition: border-color .18s var(--ease), transform .18s var(--ease), box-shadow .18s var(--ease);
 }
-.cat-card:hover { border-color: var(--forest); transform: translateY(-2px); }
-.cat-card b { font-family: var(--disp); font-weight: 400; font-size: 1.12rem; line-height: 1.2; }
-.cat-card small { font-size: .62rem; letter-spacing: .16em; text-transform: uppercase; color: var(--muted); }
+.cat-card:hover {
+  border-color: var(--forest); transform: translateY(-2px); box-shadow: var(--shadow-2);
+}
+.cat-card .cat-img {
+  width: 100%; aspect-ratio: 1 / 1; object-fit: cover;
+  background: var(--white); border-bottom: 1px solid var(--line-2); display: block;
+}
+.cat-teks {
+  display: flex; flex-direction: column; gap: .3rem;
+  padding: .85rem 1rem 1rem;
+}
+.cat-card b {
+  font-family: var(--disp); font-weight: 400; font-size: 1.06rem; line-height: 1.22;
+}
+.cat-card small {
+  font-size: .6rem; letter-spacing: .16em; text-transform: uppercase; color: var(--muted);
+}
+
+/* ---------- Hero kategori ---------- */
+.kat-hero {
+  display: grid; grid-template-columns: 1.15fr .85fr;
+  gap: clamp(1.5rem, 4vw, 3rem); align-items: center;
+  margin: 1.2rem 0 2.2rem;
+}
+.kat-hero-img {
+  width: 100%; aspect-ratio: 4 / 3; object-fit: cover;
+  border-radius: var(--r-lg); border: 1px solid var(--line);
+  background: var(--white);
+}
 
 /* ---------- Kad produk ---------- */
 .grid-prod { display: grid; grid-template-columns: repeat(auto-fill, minmax(228px, 1fr)); gap: .9rem; }
@@ -524,6 +550,7 @@ textarea.input { border-radius: var(--r); resize: vertical; }
   .head-search { display: none; }
   .prod-layout { grid-template-columns: 1fr; }
   .calc { grid-template-columns: 1fr; }
+  .kat-hero { grid-template-columns: 1fr; }
 }
 
 @media (max-width: 640px) {
@@ -561,8 +588,9 @@ textarea.input { border-radius: var(--r); resize: vertical; }
 
   /* Kategori: 2 lajur */
   .cat-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: .6rem; }
-  .cat-card { min-height: 92px; padding: .9rem; }
-  .cat-card b { font-size: 1rem; }
+  .cat-teks { padding: .65rem .7rem .8rem; gap: .25rem; }
+  .cat-card b { font-size: .9rem; }
+  .cat-card small { font-size: .55rem; }
 
   /* Penapis */
   .filter-row select.input { width: 100%; }

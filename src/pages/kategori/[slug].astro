@@ -1,7 +1,7 @@
 ---
 import Base from '../../layouts/Base.astro';
 import ProductCard from '../../components/ProductCard.astro';
-import { SITE, kategoriSemua, produkKategori, pautan, slugify, duit } from '../../lib/site.js';
+import { SITE, kategoriSemua, produkKategori, gambarKategori, pautan, slugify, duit } from '../../lib/site.js';
 
 export function getStaticPaths() {
   return kategoriSemua().map((k) => ({ params: { slug: k.slug }, props: { kategori: k } }));
@@ -22,15 +22,29 @@ const lain = kategoriSemua().filter((k) => k.slug !== kategori.slug).slice(0, 10
     <nav class="crumb" aria-label="Laluan">
       <a href={pautan('/')}>Utama</a> / <a href={pautan('/kategori')}>Kategori</a> / {kategori.nama}
     </nav>
-    <div class="section-head" style="margin-top:1.2rem">
+    <div class="kat-hero">
       <div>
         <p class="eyebrow">Kategori</p>
         <h1 style="font-size:clamp(1.8rem,4vw,2.7rem)">{kategori.nama}</h1>
-        <p>
+        <p style="color:var(--muted)">
           {kategori.bilangan} produk{murah ? ` · ${murah} hingga ${mahal} seunit` : ''} · MOQ {SITE.moq} pcs
         </p>
+        <div class="stack-mobile" style="margin-top:1.2rem">
+          <a class="btn btn-primary btn-sm" href={pautan('/sebut-harga')}>Minta sebut harga</a>
+          <a class="btn btn-ghost btn-sm" href={pautan('/katalog')}>Lihat semua produk</a>
+        </div>
       </div>
-      <a class="btn btn-primary btn-sm" href={pautan('/sebut-harga')}>Minta sebut harga</a>
+      <img
+        class="kat-hero-img"
+        src={pautan(gambarKategori(kategori.nama, 800))}
+        srcset={`${pautan(gambarKategori(kategori.nama, 400))} 400w, ${pautan(gambarKategori(kategori.nama, 800))} 800w`}
+        sizes="(max-width: 900px) 92vw, 40vw"
+        alt={`Contoh produk ${kategori.nama}`}
+        width="800"
+        height="600"
+        fetchpriority="high"
+        decoding="async"
+      />
     </div>
 
     <div class="grid-prod" style="padding-bottom:2.5rem">
