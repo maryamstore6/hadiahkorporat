@@ -9,7 +9,7 @@ export const SITE = {
   namaPendek: 'HK',
   tagline: 'Hadiah korporat bercetak logo, dihantar terus dari kilang.',
   // ⚠️ Tukar kepada nombor WhatsApp bisnes anda (format antarabangsa, tiada +)
-  whatsapp: '60196359232',
+  whatsapp: '60176055349',
   emel: 'hello@hadiahkorporat.my',
   negeri: 'Melaka, Malaysia',
   moq: 10,
