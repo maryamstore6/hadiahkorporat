@@ -2,7 +2,10 @@
 import { SITE, pautan } from '../lib/site.js';
 import '../styles/global.css';
 
-const { tajuk, huraian } = Astro.props;
+const { tajuk, huraian, gambar } = Astro.props;
+/* Imej kongsi sosial. Kalau halaman beri imejnya sendiri, guna itu;
+   jika tidak, guna kad OG lalai laman. URL mesti MUTLAK. */
+const ogImej = new URL(pautan(gambar || '/og.jpg'), Astro.site).href;
 const penuh = tajuk ? `${tajuk} · ${SITE.nama}` : `${SITE.nama} — ${SITE.tagline}`;
 const desc = huraian || SITE.tagline;
 const kat = [
@@ -24,6 +27,11 @@ const kat = [
     <meta property="og:title" content={penuh} />
     <meta property="og:description" content={desc} />
     <meta property="og:type" content="website" />
+    <meta property="og:image" content={ogImej} />
+    <meta property="og:image:alt" content={penuh} />
+    <meta property="og:site_name" content={SITE.nama} />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:image" content={ogImej} />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link

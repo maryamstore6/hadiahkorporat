@@ -16,8 +16,9 @@ const serupa = produkSemua
 const hargaTeks = p.harga > 0 ? teksHarga(p) : 'Sebut harga';
 ---
 <Base
+  gambar={p.gambar || undefined}
   tajuk={p.nama}
-  huraian={`${p.nama}${p.sku ? ` (${p.sku})` : ''} — ${hargaTeks} seunit, MOQ ${SITE.moq} pcs. Cetakan logo & mock-up percuma.`}
+  huraian={`${p.nama}${p.sku && !p.nama.includes(p.sku) ? ` (${p.sku})` : ''} — ${hargaTeks} seunit, MOQ ${SITE.moq} pcs. Cetakan logo & mock-up percuma.`}
 >
   <div class="wrap">
     <nav class="crumb" aria-label="Laluan">

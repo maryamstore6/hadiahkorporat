@@ -15,6 +15,7 @@ const mahal = berharga.length ? duit(berharga[berharga.length - 1].harga) : null
 const lain = kategoriSemua().filter((k) => k.slug !== kategori.slug).slice(0, 10);
 ---
 <Base
+  gambar={gambarKategori(kategori.nama, 800)}
   tajuk={kategori.nama}
   huraian={`${kategori.bilangan} produk ${kategori.nama} untuk hadiah korporat. Harga ${murah ?? 'sebut harga'}–${mahal ?? ''} seunit, MOQ ${SITE.moq} pcs.`}
 >
