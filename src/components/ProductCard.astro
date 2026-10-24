@@ -1,0 +1,30 @@
+---
+import { warnaProduk, inisial, duit, slugify, pautan, SITE } from '../lib/site.js';
+
+const { p, ringkas = false } = Astro.props;
+const { c1, c2, sudut, lapis } = warnaProduk(p.nama, p.kategori);
+const hargaTeks = p.harga > 0 ? duit(p.harga) : 'Sebut harga';
+---
+<article class="card">
+  <a class="card-media" href={pautan(`/produk/${p.slug}`)} style={`background:linear-gradient(${sudut}deg,${c1},${c2}),linear-gradient(${lapis},${lapis})`} aria-label={p.nama}>
+    <span class="tag">{p.kategori.length > 20 ? p.kategori.slice(0, 19) + '…' : p.kategori}</span>
+    <span class="ph">{inisial(p.nama)}</span>
+  </a>
+  <div class="card-body">
+    <h3 class="card-name"><a href={pautan(`/produk/${p.slug}`)}>{p.nama}</a></h3>
+    {!ringkas && p.sku && <div class="card-meta">Kod: {p.sku}</div>}
+    <div class="card-foot">
+      <div class="card-price">
+        {p.harga > 0 ? <>{duit(p.harga)}<small>seunit · MOQ {SITE.moq}</small></> : <>{hargaTeks}<small>hubungi kami</small></>}
+      </div>
+      <button
+        class="card-btn"
+        type="button"
+        data-tambah={p.slug}
+        data-nama={p.nama}
+        data-harga={p.harga > 0 ? duit(p.harga) : 'Sebut harga'}
+        data-sku={p.sku || ''}
+      >Tambah ke senarai</button>
+    </div>
+  </div>
+</article>

@@ -1,0 +1,49 @@
+---
+import Base from '../../layouts/Base.astro';
+import ProductCard from '../../components/ProductCard.astro';
+import { SITE, kategoriSemua, produkKategori, pautan, slugify, duit } from '../../lib/site.js';
+
+export function getStaticPaths() {
+  return kategoriSemua().map((k) => ({ params: { slug: k.slug }, props: { kategori: k } }));
+}
+
+const { kategori } = Astro.props;
+const senarai = produkKategori(kategori.slug).sort((a, b) => (a.harga || 1e9) - (b.harga || 1e9));
+const berharga = senarai.filter((p) => p.harga > 0);
+const murah = berharga.length ? duit(berharga[0].harga) : null;
+const mahal = berharga.length ? duit(berharga[berharga.length - 1].harga) : null;
+const lain = kategoriSemua().filter((k) => k.slug !== kategori.slug).slice(0, 10);
+---
+<Base
+  tajuk={kategori.nama}
+  huraian={`${kategori.bilangan} produk ${kategori.nama} untuk hadiah korporat. Harga ${murah ?? 'sebut harga'}–${mahal ?? ''} seunit, MOQ ${SITE.moq} pcs.`}
+>
+  <div class="wrap">
+    <nav class="crumb" aria-label="Laluan">
+      <a href={pautan('/')}>Utama</a> / <a href={pautan('/kategori')}>Kategori</a> / {kategori.nama}
+    </nav>
+    <div class="section-head" style="margin-top:1.2rem">
+      <div>
+        <p class="eyebrow">Kategori</p>
+        <h1 style="font-size:clamp(1.8rem,4vw,2.7rem)">{kategori.nama}</h1>
+        <p>
+          {kategori.bilangan} produk{murah ? ` · ${murah} hingga ${mahal} seunit` : ''} · MOQ {SITE.moq} pcs
+        </p>
+      </div>
+      <a class="btn btn-primary btn-sm" href={pautan('/sebut-harga')}>Minta sebut harga</a>
+    </div>
+
+    <div class="grid-prod" style="padding-bottom:2.5rem">
+      {senarai.map((p) => <ProductCard p={p} />)}
+    </div>
+
+    <section style="padding:1rem 0 4rem">
+      <h2 style="font-size:1.3rem">Kategori lain</h2>
+      <div class="chips" style="margin-top:.8rem">
+        {lain.map((k) => (
+          <a class="chip" href={pautan(`/kategori/${k.slug}`)} style="text-decoration:none">{k.nama}</a>
+        ))}
+      </div>
+    </section>
+  </div>
+</Base>

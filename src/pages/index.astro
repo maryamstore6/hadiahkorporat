@@ -1,0 +1,219 @@
+---
+import Base from '../layouts/Base.astro';
+import ProductCard from '../components/ProductCard.astro';
+import { SITE, produkSemua, kategoriSemua, pautan, duit } from '../lib/site.js';
+
+const kategori = kategoriSemua();
+const teratas = kategori.slice(0, 10);
+const unggul = [...produkSemua]
+  .filter((p) => p.harga > 0 && p.harga < 60)
+  .sort((a, b) => a.nama.localeCompare(b.nama))
+  .slice(0, 8);
+const berharga = [...produkSemua].filter((p) => p.harga >= 100).sort((a, b) => b.harga - a.harga).slice(0, 4);
+const adaHarga = produkSemua.filter((p) => p.harga > 0);
+---
+<Base huraian={`${produkSemua.length} produk hadiah korporat bercetak logo. Harga seunit, MOQ ${SITE.moq} pcs. Sebut harga dalam 1 hari kerja.`}>
+  <!-- HERO -->
+  <section class="hero">
+    <div class="wrap hero-grid">
+      <div>
+        <p class="eyebrow">Harga seunit jelas · Tiada caj tersembunyi</p>
+        <h1>Hadiah yang orang <em>simpan</em>, bukan buang.</h1>
+        <p class="hero-lead">
+          {produkSemua.length} produk bercetak logo — dari pen RM1.96 hingga trofi kristal RM528.
+          Harga seunit jelas, tiada caj tersembunyi. MOQ {SITE.moq} pcs setiap reka bentuk.
+        </p>
+        <div class="hero-cta">
+          <a class="btn btn-primary" href={pautan('/katalog')}>Lihat katalog penuh</a>
+          <a class="btn btn-ghost" href={pautan('/sebut-harga')}>Minta sebut harga</a>
+        </div>
+        <div class="hero-stats">
+          <div class="hero-stat"><b>{produkSemua.length}</b><span>Produk tersedia</span></div>
+          <div class="hero-stat"><b>{kategori.length}</b><span>Kategori</span></div>
+          <div class="hero-stat"><b>1 hari</b><span>Masa sebut harga</span></div>
+          <div class="hero-stat"><b>{SITE.moq}</b><span>MOQ (pcs)</span></div>
+        </div>
+      </div>
+      <div class="hero-card">
+        <h3>Tak pasti nak mula dari mana?</h3>
+        <p class="hint">Beritahu bajet dan majlis — kami syorkan 3 pilihan yang sesuai.</p>
+        <form style="display:grid;gap:.7rem;margin-top:1.1rem" onsubmit="return laksanaKalkulator(event)">
+          <label for="bil" style="font-weight:600;font-size:.88rem">Bilangan (pcs)</label>
+          <input class="input" id="bil" type="number" min="1" value="100" placeholder="Contoh: 100" />
+          <label for="bajet" style="font-weight:600;font-size:.88rem">Bajet seunit (RM)</label>
+          <input class="input" id="bajet" type="number" min="1" value="30" placeholder="Contoh: 30" />
+          <button class="btn btn-primary" type="submit" style="justify-content:center">Tunjuk pilihan saya</button>
+        </form>
+        <p style="font-size:.8rem;color:var(--muted);margin-top:.7rem">
+          Kami susun katalog ikut bajet anda — tiada e-mel diperlukan.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <!-- JALUR KEPERCAYAAN -->
+  <div class="strip">
+    <div class="wrap strip-row">
+      <span class="strip-item"><i></i> Harga seunit, tanpa caj tersembunyi</span>
+      <span class="strip-item"><i></i> Mock-up percuma sebelum cetak</span>
+      <span class="strip-item"><i></i> MOQ {SITE.moq} pcs sahaja</span>
+      <span class="strip-item"><i></i> Penghantaran seluruh Malaysia</span>
+    </div>
+  </div>
+
+  <!-- KATEGORI -->
+  <section class="section" id="kategori">
+    <div class="wrap">
+      <div class="section-head">
+        <div>
+          <p class="eyebrow">Kategori</p>
+          <h2>Mula dari jenis hadiah</h2>
+          <p>{kategori.length} kategori — pen, beg, trofi, mug, teknologi dan banyak lagi.</p>
+        </div>
+        <a class="btn btn-ghost btn-sm" href={pautan('/kategori')} style="border-color:var(--accent);color:var(--accent)">Semua kategori →</a>
+      </div>
+      <div class="cat-grid">
+        {teratas.map((k) => (
+          <a class="cat-card" href={pautan(`/kategori/${k.slug}`)}>
+            <b>{k.nama}</b>
+            <small>{k.bilangan} produk</small>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- KALKULATOR -->
+  <section class="section" style="background:var(--surface);border-block:1px solid var(--line)">
+    <div class="wrap calc">
+      <div>
+        <p class="eyebrow">Kalkulator bajet</p>
+        <h2>Berapa sebenarnya kosnya?</h2>
+        <p style="color:var(--ink-2)">
+          Masukkan bilangan dan bajet seunit. Kami kira jumlah keseluruhan serta-merta —
+          supaya anda tahu sebelum minta sebut harga.
+        </p>
+        <div class="note-box" style="margin-top:1.2rem">
+          <b>Nota:</b> harga seunit biasanya turun bila bilangan naik. Minta sebut harga untuk
+          harga sebenar pada bilangan anda.
+        </div>
+      </div>
+      <div class="calc-form">
+        <label for="k-bil" style="font-weight:600;font-size:.9rem">Bilangan (pcs)</label>
+        <input class="input" id="k-bil" type="number" min="1" value="100" />
+        <label for="k-bajet" style="font-weight:600;font-size:.9rem">Bajet seunit (RM)</label>
+        <input class="input" id="k-bajet" type="number" min="1" value="30" step="0.5" />
+        <div class="calc-out" style="margin-top:.6rem">
+          <div class="lbl">Anggaran jumlah</div>
+          <div class="val" id="k-jumlah">RM3,000.00</div>
+          <p id="k-nota">Untuk 100 pcs pada RM30 seunit. Cetakan &amp; penghantaran dikira berasingan.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- PRODUK BAWAH RM60 -->
+  <section class="section">
+    <div class="wrap">
+      <div class="section-head">
+        <div>
+          <p class="eyebrow">Paling laris</p>
+          <h2>Hadiah bawah RM60 seunit</h2>
+          <p>Sesuai untuk sukan, seminar, dan hadiah kakitangan dalam bilangan besar.</p>
+        </div>
+        <a class="btn btn-ghost btn-sm" href={pautan('/katalog?maks=60')}>Lihat semua →</a>
+      </div>
+      <div class="grid-prod">
+        {unggul.map((p) => <ProductCard p={p} ringkas />)}
+      </div>
+    </div>
+  </section>
+
+  <!-- PRODUK PREMIUM -->
+  <section class="section" style="padding-top:0">
+    <div class="wrap">
+      <div class="section-head">
+        <div>
+          <p class="eyebrow">Untuk majlis besar</p>
+          <h2>Hadiah premium &amp; anugerah</h2>
+          <p>Trofi kristal, plak, dan hadiah khas untuk menghargai klien utama.</p>
+        </div>
+      </div>
+      <div class="grid-prod">
+        {berharga.map((p) => <ProductCard p={p} ringkas />)}
+      </div>
+    </div>
+  </section>
+
+  <!-- CARA PESAN -->
+  <section class="section" style="background:var(--surface);border-block:1px solid var(--line)">
+    <div class="wrap">
+      <div class="section-head">
+        <div>
+          <p class="eyebrow">Cara pesan</p>
+          <h2>Empat langkah, tiada borang panjang</h2>
+        </div>
+        <a class="btn btn-ghost btn-sm" href={pautan('/cara-pesan')}>Perincian penuh →</a>
+      </div>
+      <div class="steps">
+        <div class="step">
+          <h3>Pilih produk</h3>
+          <p>Tambah apa yang anda minat ke Senarai Sebut Harga — boleh campur kategori.</p>
+        </div>
+        <div class="step">
+          <h3>Hantar senarai</h3>
+          <p>Satu klik ke WhatsApp. Kami balas dengan harga sebenar ikut bilangan anda.</p>
+        </div>
+        <div class="step">
+          <h3>Sahkan mock-up</h3>
+          <p>Kami hantar gambar mock-up logo pada produk. Tiada caj, tiada komitmen.</p>
+        </div>
+        <div class="step">
+          <h3>Cetak &amp; hantar</h3>
+          <p>Selepas anda luluskan, kami cetak dan hantar ke pintu pejabat anda.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CTA AKHIR -->
+  <section class="section">
+    <div class="wrap narrow" style="text-align:center">
+      <p class="eyebrow">Sedia mula?</p>
+      <h2>Hantar senarai anda hari ini</h2>
+      <p style="color:var(--ink-2);max-width:52ch;margin-inline:auto">
+        Sebut harga dalam 1 hari kerja. Tiada bayaran pendahuluan sehingga anda luluskan mock-up.
+      </p>
+      <div style="display:flex;gap:.7rem;justify-content:center;flex-wrap:wrap;margin-top:1.5rem">
+        <a class="btn btn-primary" href={pautan('/katalog')}>Terokai {produkSemua.length} produk</a>
+        <a class="btn btn-ghost" href={`https://wa.me/${SITE.whatsapp}`} target="_blank" rel="noopener">WhatsApp terus</a>
+      </div>
+    </div>
+  </section>
+
+  <script is:inline>
+    // Kalkulator bajet
+    const bil = document.getElementById('k-bil');
+    const bajet = document.getElementById('k-bajet');
+    const jumlah = document.getElementById('k-jumlah');
+    const nota = document.getElementById('k-nota');
+    function kira() {
+      const b = Math.max(1, Number(bil.value) || 0);
+      const h = Math.max(0, Number(bajet.value) || 0);
+      jumlah.textContent = 'RM' + (b * h).toLocaleString('ms-MY', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+      nota.textContent = `Untuk ${b.toLocaleString('ms-MY')} pcs pada RM${h.toFixed(2)} seunit. Cetakan & penghantaran dikira berasingan.`;
+    }
+    bil?.addEventListener('input', kira);
+    bajet?.addEventListener('input', kira);
+    kira();
+
+    // Hero: susun katalog ikut bajet
+    function laksanaKalkulator(e) {
+      e.preventDefault();
+      const b = document.getElementById('bil').value || 100;
+      const h = document.getElementById('bajet').value || 30;
+      location.href = 'katalog?maks=' + encodeURIComponent(h) + '&bil=' + encodeURIComponent(b);
+      return false;
+    }
+  </script>
+</Base>

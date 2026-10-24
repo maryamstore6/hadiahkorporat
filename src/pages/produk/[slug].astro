@@ -1,0 +1,92 @@
+---
+import Base from '../../layouts/Base.astro';
+import ProductCard from '../../components/ProductCard.astro';
+import { SITE, produkSemua, warnaProduk, inisial, duit, pautan, slugify } from '../../lib/site.js';
+
+export function getStaticPaths() {
+  return produkSemua.map((p) => ({ params: { slug: p.slug }, props: { p } }));
+}
+
+const { p } = Astro.props;
+const { c1, c2, sudut } = warnaProduk(p.nama, p.kategori);
+const katSlug = slugify(p.kategori);
+const serupa = produkSemua
+  .filter((x) => x.kategori === p.kategori && x.slug !== p.slug)
+  .slice(0, 8);
+const hargaTeks = p.harga > 0 ? duit(p.harga) : 'Sebut harga';
+---
+<Base
+  tajuk={p.nama}
+  huraian={`${p.nama}${p.sku ? ` (${p.sku})` : ''} — ${hargaTeks} seunit, MOQ ${SITE.moq} pcs. Cetakan logo & mock-up percuma.`}
+>
+  <div class="wrap">
+    <nav class="crumb" aria-label="Laluan">
+      <a href={pautan('/')}>Utama</a> / <a href={pautan('/katalog')}>Katalog</a> /
+      <a href={pautan(`/kategori/${katSlug}`)}>{p.kategori}</a> / {p.nama}
+    </nav>
+
+    <div class="prod-layout">
+      <div>
+        <div class="prod-hero-media" style={`background:linear-gradient(${sudut}deg,${c1},${c2})`}>
+          <span class="ph">{inisial(p.nama)}</span>
+        </div>
+        <p style="font-size:.8rem;color:var(--muted);margin-top:.6rem">
+          Gambar sebenar akan dimuatkan oleh pembekal. Jubin di atas ialah pengganti sementara.
+        </p>
+      </div>
+
+      <div>
+        <p class="eyebrow">{p.kategori}</p>
+        <h1 style="font-size:clamp(1.7rem,3.6vw,2.5rem)">{p.nama}</h1>
+
+        <div class="price-box">
+          <div class="big">{hargaTeks}</div>
+          <div class="note">
+            {p.harga > 0
+              ? `Harga seunit untuk MOQ ${SITE.moq} pcs. Cetakan logo & penghantaran dikira berasingan.`
+              : 'Hubungi kami untuk harga pada bilangan anda.'}
+          </div>
+        </div>
+
+        <button
+          class="btn btn-primary"
+          type="button"
+          data-tambah={p.slug}
+          data-nama={p.nama}
+          data-harga={hargaTeks}
+          data-sku={p.sku || ''}
+          style="width:100%;justify-content:center"
+        >Tambah ke senarai sebut harga</button>
+
+        <div style="display:flex;gap:.6rem;margin-top:.6rem">
+          <a class="btn btn-ghost btn-sm" href={`https://wa.me/${SITE.whatsapp}?text=${encodeURIComponent(`Salam, saya berminat dengan ${p.nama}${p.sku ? ' (' + p.sku + ')' : ''}. Boleh dapatkan sebut harga untuk 100 pcs?`)}`} target="_blank" rel="noopener">Tanya terus di WhatsApp</a>
+          <a class="btn btn-ghost btn-sm" href={pautan('/sebut-harga')}>Cara sebut harga</a>
+        </div>
+
+        <ul class="prod-specs">
+          {p.sku && <li><span>Kod produk</span><b>{p.sku}</b></li>}
+          <li><span>Kategori</span><b><a href={pautan(`/kategori/${katSlug}`)}>{p.kategori}</a></b></li>
+          {p.jenama && <li><span>Jenama</span><b>{p.jenama}</b></li>}
+          <li><span>Kuantiti minimum</span><b>{SITE.moq} pcs</b></li>
+          <li><span>Cetakan logo</span><b>Termasuk mock-up percuma</b></li>
+          <li><span>Masa siap</span><b>7–14 hari kerja selepas kelulusan</b></li>
+        </ul>
+
+        <div class="note-box">
+          <b>Penting:</b> harga di atas ialah harga seunit asas. Kos cetakan logo bergantung pada
+          kaedah (pad print, silkscreen, UV, sulam) dan bilangan warna. Kami beri sebut harga penuh
+          dalam 1 hari kerja.
+        </div>
+      </div>
+    </div>
+
+    {serupa.length > 0 && (
+      <section style="padding:1rem 0 4rem;border-top:1px solid var(--line)">
+        <h2 style="font-size:1.4rem;margin-top:2rem">Lain-lain dalam {p.kategori}</h2>
+        <div class="grid-prod" style="margin-top:1.2rem">
+          {serupa.map((x) => <ProductCard p={x} ringkas />)}
+        </div>
+      </section>
+    )}
+  </div>
+</Base>

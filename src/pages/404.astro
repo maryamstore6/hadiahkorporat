@@ -1,0 +1,15 @@
+---
+import Base from '../layouts/Base.astro';
+import { pautan, produkSemua } from '../lib/site.js';
+---
+<Base tajuk="Halaman tidak dijumpai">
+  <div class="wrap narrow" style="text-align:center;padding:clamp(3rem,10vw,7rem) 0">
+    <p class="eyebrow">Ralat 404</p>
+    <h1>Halaman ini tak ada</h1>
+    <p style="color:var(--ink-2)">Mungkin pautan sudah berubah, atau produk itu telah dikeluarkan.</p>
+    <div style="display:flex;gap:.7rem;justify-content:center;flex-wrap:wrap;margin-top:1.6rem">
+      <a class="btn btn-primary" href={pautan('/katalog')}>Lihat {produkSemua.length} produk</a>
+      <a class="btn btn-ghost" href={pautan('/')}>Balik ke utama</a>
+    </div>
+  </div>
+</Base>

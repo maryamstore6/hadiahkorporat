@@ -1,0 +1,77 @@
+---
+import Base from '../layouts/Base.astro';
+import { SITE, pautan } from '../lib/site.js';
+---
+<Base tajuk="Minta Sebut Harga" huraian="Hantar senarai produk anda dan dapatkan sebut harga penuh dalam 1 hari kerja. Mock-up percuma, tiada bayaran pendahuluan.">
+  <div class="wrap narrow" style="padding-bottom:4rem">
+    <nav class="crumb"><a href={pautan('/')}>Utama</a> / Minta Sebut Harga</nav>
+    <p class="eyebrow" style="margin-top:1.5rem">Sebut harga</p>
+    <h1>Dapatkan harga sebenar untuk bilangan anda</h1>
+    <p style="color:var(--ink-2);font-size:1.05rem">
+      Harga katalog ialah harga seunit asas. Harga sebenar bergantung pada bilangan, kaedah cetakan,
+      dan lokasi penghantaran. Isi maklumat di bawah — kami balas dalam 1 hari kerja.
+    </p>
+
+    <form id="borang" style="display:grid;gap:.9rem;margin-top:2rem" novalidate>
+      <label for="f-nama" style="font-weight:600;font-size:.9rem">Nama anda *</label>
+      <input class="input" id="f-nama" required placeholder="Nama penuh" />
+
+      <label for="f-syarikat" style="font-weight:600;font-size:.9rem">Syarikat / organisasi</label>
+      <input class="input" id="f-syarikat" placeholder="Nama syarikat (jika ada)" />
+
+      <label for="f-bil" style="font-weight:600;font-size:.9rem">Bilangan (pcs) *</label>
+      <input class="input" id="f-bil" type="number" min="1" value="100" required />
+
+      <label for="f-bajet" style="font-weight:600;font-size:.9rem">Bajet seunit (RM)</label>
+      <input class="input" id="f-bajet" type="number" min="0" step="0.5" placeholder="Contoh: 30" />
+
+      <label for="f-tarikh" style="font-weight:600;font-size:.9rem">Tarikh diperlukan</label>
+      <input class="input" id="f-tarikh" type="date" />
+
+      <label for="f-nota" style="font-weight:600;font-size:.9rem">Nota</label>
+      <textarea class="input" id="f-nota" rows="4" placeholder="Contoh: perlukan 100 pen + 50 beg, cetakan logo 1 warna, hantar ke Kuala Lumpur" style="border-radius:var(--r);resize:vertical"></textarea>
+
+      <button class="btn btn-primary" type="submit" style="justify-content:center">Buka WhatsApp dengan maklumat ini</button>
+      <p style="font-size:.82rem;color:var(--muted);text-align:center">
+        Tiada data disimpan di laman ini. Butang di atas hanya menyediakan mesej WhatsApp untuk anda hantar.
+      </p>
+    </form>
+
+    <div class="note-box" style="margin-top:1.5rem">
+      <b>Punya senarai produk?</b> Tambah produk dari
+      <a href={pautan('/katalog')} style="color:var(--accent);font-weight:600">katalog</a> ke Senarai Sebut Harga —
+      senarai itu akan dimasukkan ke dalam mesej secara automatik.
+    </div>
+  </div>
+
+  <script is:inline define:vars={{ WA: SITE.whatsapp, NAMA: SITE.nama }}>
+    document.getElementById('borang')?.addEventListener('submit', (e) => {
+      e.preventDefault();
+      const v = (id) => (document.getElementById(id)?.value || '').trim();
+      if (!v('f-nama')) { alert('Sila isi nama anda.'); return; }
+
+      let senarai = [];
+      try { senarai = JSON.parse(localStorage.getItem('hk_sebut_v1')) || []; } catch {}
+
+      const baris = [
+        `Salam ${NAMA},`,
+        '',
+        'Saya ingin minta sebut harga:',
+        '',
+        `Nama: ${v('f-nama')}`,
+        v('f-syarikat') ? `Syarikat: ${v('f-syarikat')}` : '',
+        `Bilangan: ${v('f-bil')} pcs`,
+        v('f-bajet') ? `Bajet seunit: RM${v('f-bajet')}` : '',
+        v('f-tarikh') ? `Tarikh diperlukan: ${v('f-tarikh')}` : '',
+        v('f-nota') ? `Nota: ${v('f-nota')}` : '',
+      ].filter(Boolean);
+
+      if (senarai.length) {
+        baris.push('', 'Produk yang saya minat:');
+        senarai.forEach((x, i) => baris.push(`${i + 1}. ${x.nama}${x.sku ? ' (' + x.sku + ')' : ''} — ${x.harga}/unit`));
+      }
+
+      window.open(`https://wa.me/${WA}?text=${encodeURIComponent(baris.join('\n'))}`, '_blank', 'noopener');
+    });
+  </script>
+</Base>

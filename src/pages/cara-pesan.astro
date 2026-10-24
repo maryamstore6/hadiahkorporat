@@ -1,0 +1,70 @@
+---
+import Base from '../layouts/Base.astro';
+import { SITE, pautan } from '../lib/site.js';
+---
+<Base tajuk="Cara Pesan" huraian="Empat langkah mudah memesan hadiah korporat bercetak logo — tanpa borang panjang, tanpa bayaran sehingga mock-up diluluskan.">
+  <div class="wrap narrow" style="padding-bottom:4rem">
+    <nav class="crumb"><a href={pautan('/')}>Utama</a> / Cara Pesan</nav>
+    <p class="eyebrow" style="margin-top:1.5rem">Cara pesan</p>
+    <h1>Empat langkah, tiada kejutan</h1>
+    <p style="color:var(--ink-2);font-size:1.05rem">
+      Kami sengaja buat proses ini pendek. Tiada borang panjang, tiada bayaran sehingga anda
+      nampak mock-up dan berpuas hati.
+    </p>
+
+    <div class="steps" style="margin:2.5rem 0">
+      <div class="step">
+        <h3>Pilih produk</h3>
+        <p>Tambah apa yang anda minat ke Senarai Sebut Harga. Boleh campur kategori dan bilangan berbeza.</p>
+      </div>
+      <div class="step">
+        <h3>Hantar senarai</h3>
+        <p>Satu klik — senarai penuh dihantar ke WhatsApp kami. Beritahu bilangan setiap item.</p>
+      </div>
+      <div class="step">
+        <h3>Sahkan mock-up</h3>
+        <p>Kami hantar gambar logo anda pada produk. Ubah suku kata pun kami buat — tanpa caj.</p>
+      </div>
+      <div class="step">
+        <h3>Cetak &amp; hantar</h3>
+        <p>Selepas kelulusan, kami cetak dalam 7–14 hari kerja dan hantar ke pintu pejabat anda.</p>
+      </div>
+    </div>
+
+    <h2>Siapa yang sesuai guna {SITE.nama}?</h2>
+    <ul style="color:var(--ink-2);line-height:1.9">
+      <li><b>Jabatan HR</b> — hadiah kakitangan, sukan tahunan, sambutan perkhidmatan panjang.</li>
+      <li><b>Jabatan pemasaran</b> — cenderahati pameran, hadiah klien, korporat suvenir.</li>
+      <li><b>Penganjur acara</b> — trofi, medal, plak untuk majlis anugerah.</li>
+      <li><b>Sekolah &amp; persatuan</b> — hadiah sukan, cenderahati penceramah.</li>
+    </ul>
+
+    <h2>Soalan lazim</h2>
+    <div style="display:grid;gap:.8rem">
+      <details style="background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:1rem 1.1rem">
+        <summary style="cursor:pointer;font-weight:600">Berapa kuantiti minimum (MOQ)?</summary>
+        <p style="margin-top:.6rem;color:var(--ink-2)">{SITE.moq} pcs untuk satu reka bentuk cetakan. Untuk hadiah bernilai tinggi seperti trofi kristal, MOQ boleh lebih rendah — tanya kami.</p>
+      </details>
+      <details style="background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:1rem 1.1rem">
+        <summary style="cursor:pointer;font-weight:600">Harga di katalog itu harga muktamad?</summary>
+        <p style="margin-top:.6rem;color:var(--ink-2)">Ia harga <b>seunit asas</b>, belum termasuk kos cetakan logo dan penghantaran. Cetakan bergantung pada kaedah dan bilangan warna. Kami beri sebut harga penuh dalam 1 hari kerja.</p>
+      </details>
+      <details style="background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:1rem 1.1rem">
+        <summary style="cursor:pointer;font-weight:600">Ada caj untuk mock-up?</summary>
+        <p style="margin-top:.6rem;color:var(--ink-2)">Tiada. Mock-up percuma, dan anda tiada kewajipan membeli selepas melihatnya.</p>
+      </details>
+      <details style="background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:1rem 1.1rem">
+        <summary style="cursor:pointer;font-weight:600">Berapa lama masa siap?</summary>
+        <p style="margin-top:.6rem;color:var(--ink-2)">7–14 hari kerja selepas anda luluskan mock-up. Untuk bilangan besar atau cetakan rumit, kami akan beritahu anggaran tepat semasa sebut harga.</p>
+      </details>
+      <details style="background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:1rem 1.1rem">
+        <summary style="cursor:pointer;font-weight:600">Boleh hantar ke seluruh Malaysia?</summary>
+        <p style="margin-top:.6rem;color:var(--ink-2)">Boleh. Kos penghantaran bergantung pada berat dan lokasi — kami nyatakan dalam sebut harga.</p>
+      </details>
+    </div>
+
+    <div style="text-align:center;margin-top:3rem">
+      <a class="btn btn-primary" href={pautan('/katalog')}>Mula pilih produk</a>
+    </div>
+  </div>
+</Base>

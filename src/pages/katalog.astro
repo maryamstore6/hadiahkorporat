@@ -1,0 +1,165 @@
+---
+import Base from '../layouts/Base.astro';
+import { SITE, produkSemua, kategoriSemua, pautan, duit } from '../lib/site.js';
+
+const kategori = kategoriSemua();
+
+// Data ringan untuk penapisan di pihak pelanggan
+const ringan = produkSemua.map((p) => ({
+  s: p.slug,
+  n: p.nama,
+  k: p.kategori,
+  h: p.harga,
+  c: p.sku || '',
+}));
+---
+<Base tajuk="Katalog" huraian={`Cari ${produkSemua.length} produk hadiah korporat mengikut kategori dan bajet. Harga seunit, MOQ ${SITE.moq} pcs.`}>
+  <div class="wrap">
+    <nav class="crumb" aria-label="Laluan"><a href={pautan('/')}>Utama</a> / Katalog</nav>
+    <div class="section-head" style="margin-top:1.2rem">
+      <div>
+        <p class="eyebrow">Katalog</p>
+        <h1 style="font-size:clamp(1.9rem,4vw,2.8rem)">{produkSemua.length} produk hadiah korporat</h1>
+        <p>Semua harga seunit. MOQ {SITE.moq} pcs setiap reka bentuk. Cetakan logo dikira berasingan.</p>
+      </div>
+    </div>
+
+    <div class="filters">
+      <div class="filter-row">
+        <label class="sr" for="cari">Cari</label>
+        <input class="input" id="cari" type="search" placeholder="Cari nama produk atau kod…" style="flex:1;min-width:220px" />
+        <label class="sr" for="urut">Susun</label>
+        <select class="input" id="urut">
+          <option value="relevan">Paling relevan</option>
+          <option value="murah">Harga: rendah ke tinggi</option>
+          <option value="mahal">Harga: tinggi ke rendah</option>
+          <option value="az">Nama: A–Z</option>
+        </select>
+      </div>
+      <div class="filter-row">
+        <span class="count-line" style="min-width:7.5rem">Bajet seunit:</span>
+        <input class="input" id="min" type="number" min="0" placeholder="Min RM" style="width:110px" />
+        <span class="count-line">—</span>
+        <input class="input" id="maks" type="number" min="0" placeholder="Maks RM" style="width:110px" />
+        <button class="card-btn" id="reset" type="button" style="margin-left:.3rem">Set semula</button>
+      </div>
+      <div class="chips" id="chips">
+        <button type="button" data-kat="" aria-pressed="true">Semua kategori</button>
+        {kategori.map((k, i) => (
+          <button type="button" data-kat={k.nama} aria-pressed="false" data-awal={i < 12 ? '1' : '0'} hidden={i >= 12}>
+            {k.nama}<span class="chip-n">{k.bilangan}</span>
+          </button>
+        ))}
+        <button type="button" id="lagi-kat" class="chip-more">Lagi {kategori.length - 12} kategori ↓</button>
+      </div>
+      <div class="count-line" id="kiraan">Memuatkan…</div>
+    </div>
+
+    <div class="grid-prod" id="grid"></div>
+    <div style="text-align:center;padding:2.5rem 0 4rem">
+      <button class="btn btn-ghost" id="lagi" type="button">Tunjuk lagi</button>
+    </div>
+  </div>
+
+  <script is:inline type="application/json" id="data-produk" set:html={JSON.stringify(ringan)}></script>
+  <script is:inline define:vars={{ BASE: import.meta.env.BASE_URL.replace(/\/$/, ''), MOQ: SITE.moq }}>
+    const SEMUA = JSON.parse(document.getElementById('data-produk').textContent);
+    const PALET = [['#0B5D4F','#0E7A66'],['#1F3A5F','#2C5282'],['#6B3F2A','#8A5638'],['#3D2B56','#54397A'],['#7A2E3B','#9C3C4C'],['#1E4D4A','#2A6B66'],['#4A4A22','#6B6B31'],['#2E3A2E','#455445'],['#553322','#6E442D'],['#243B4A','#315160'],['#5A2D5A','#773C77'],['#3A3A3A','#525252']];
+
+    const el = (id) => document.getElementById(id);
+    const negeri = { q: '', kat: '', min: null, maks: null, urut: 'relevan', tunjuk: 48 };
+
+    function warna(s) { let h = 0; for (let i = 0; i < s.length; i++) h = (h * 31 + s.charCodeAt(i)) >>> 0; return PALET[h % PALET.length]; }
+    function inisial(n) {
+      const b = n.replace(/\(.*?\)/g, ' ').replace(/^(the|dan|and|with|for|fully|in|1|2|3)\s+/i, '').trim();
+      const w = b.split(/[\s\-–—/]+/).filter((x) => /[a-zA-Z]/.test(x));
+      return (w.slice(0, 2).map((x) => x[0].toUpperCase()).join('') || 'HK');
+    }
+    function duit(n) { return 'RM' + Number(n).toLocaleString('ms-MY', { minimumFractionDigits: 2, maximumFractionDigits: 2 }); }
+
+    function tapis() {
+      const q = negeri.q.trim().toLowerCase();
+      let senarai = SEMUA.filter((p) => {
+        if (negeri.kat && p.k !== negeri.kat) return false;
+        if (negeri.min !== null && !(p.h > 0 && p.h >= negeri.min)) return false;
+        if (negeri.maks !== null && !(p.h > 0 && p.h <= negeri.maks)) return false;
+        if (q && !(p.n.toLowerCase().includes(q) || p.c.toLowerCase().includes(q))) return false;
+        return true;
+      });
+      if (negeri.urut === 'murah') senarai.sort((a, b) => (a.h || 1e9) - (b.h || 1e9));
+      else if (negeri.urut === 'mahal') senarai.sort((a, b) => b.h - a.h);
+      else if (negeri.urut === 'az') senarai.sort((a, b) => a.n.localeCompare(b.n));
+      return senarai;
+    }
+
+    function kad(p) {
+      const [c1, c2] = warna(p.k);
+      const harga = p.h > 0 ? duit(p.h) : 'Sebut harga';
+      return `<article class="card">
+        <a class="card-media" href="${BASE}/produk/${p.s}/" style="background:linear-gradient(135deg,${c1},${c2})" aria-label="${p.n}">
+          <span class="tag">${p.k.length > 20 ? p.k.slice(0, 19) + '…' : p.k}</span>
+          <span class="ph">${inisial(p.n)}</span>
+        </a>
+        <div class="card-body">
+          <h3 class="card-name"><a href="${BASE}/produk/${p.s}/">${p.n}</a></h3>
+          <div class="card-meta">${p.c ? 'Kod: ' + p.c : ''}</div>
+          <div class="card-foot">
+            <div class="card-price">${harga}<small>seunit · MOQ ${MOQ}</small></div>
+            <button class="card-btn" type="button" data-tambah="${p.s}" data-nama="${p.n.replace(/"/g, '&quot;')}" data-harga="${harga}" data-sku="${p.c}">Tambah ke senarai</button>
+          </div>
+        </div>
+      </article>`;
+    }
+
+    function lukis() {
+      const senarai = tapis();
+      const potong = senarai.slice(0, negeri.tunjuk);
+      el('grid').innerHTML = potong.length ? potong.map(kad).join('') : '<div class="empty" style="grid-column:1/-1"><h3>Tiada produk sepadan</h3><p>Cuba luaskan julat bajet atau buang penapis.</p></div>';
+      el('kiraan').textContent = senarai.length
+        ? `Menunjuk ${potong.length} daripada ${senarai.length} produk`
+        : 'Tiada produk sepadan';
+      el('lagi').style.display = senarai.length > negeri.tunjuk ? '' : 'none';
+      if (window.__selepasLukis) window.__selepasLukis();
+    }
+
+    // Muat keadaan dari URL
+    const sp = new URLSearchParams(location.search);
+    if (sp.get('q')) { negeri.q = sp.get('q'); el('cari').value = sp.get('q'); }
+    if (sp.get('kategori')) negeri.kat = sp.get('kategori');
+    if (sp.get('maks')) { negeri.maks = Number(sp.get('maks')); el('maks').value = sp.get('maks'); }
+    if (sp.get('min')) { negeri.min = Number(sp.get('min')); el('min').value = sp.get('min'); }
+    document.querySelectorAll('#chips button').forEach((b) => b.setAttribute('aria-pressed', b.dataset.kat === negeri.kat ? 'true' : 'false'));
+
+    el('cari').addEventListener('input', (e) => { negeri.q = e.target.value; negeri.tunjuk = 48; lukis(); });
+    el('urut').addEventListener('change', (e) => { negeri.urut = e.target.value; lukis(); });
+    el('min').addEventListener('input', (e) => { negeri.min = e.target.value === '' ? null : Number(e.target.value); negeri.tunjuk = 48; lukis(); });
+    el('maks').addEventListener('input', (e) => { negeri.maks = e.target.value === '' ? null : Number(e.target.value); negeri.tunjuk = 48; lukis(); });
+    el('lagi-kat')?.addEventListener('click', (e) => {
+      const butang = e.currentTarget;
+      const buka = butang.dataset.buka !== '1';
+      butang.dataset.buka = buka ? '1' : '0';
+      document.querySelectorAll('#chips button[data-awal="0"]').forEach((x) => { x.hidden = !buka; });
+      butang.textContent = buka ? 'Tunjuk kurang ↑' : `Lagi ${document.querySelectorAll('#chips button[data-awal="0"]').length} kategori ↓`;
+    });
+
+    el('chips').addEventListener('click', (e) => {
+      const b = e.target.closest('button[data-kat]'); if (!b) return;
+      if (b.hidden) b.hidden = false;
+      negeri.kat = b.dataset.kat; negeri.tunjuk = 48;
+      document.querySelectorAll('#chips button').forEach((x) => x.setAttribute('aria-pressed', x === b ? 'true' : 'false'));
+      lukis();
+    });
+    el('reset').addEventListener('click', () => {
+      negeri.q = ''; negeri.kat = ''; negeri.min = null; negeri.maks = null; negeri.urut = 'relevan'; negeri.tunjuk = 48;
+      el('cari').value = ''; el('min').value = ''; el('maks').value = ''; el('urut').value = 'relevan';
+      document.querySelectorAll('#chips button').forEach((x) => x.setAttribute('aria-pressed', x.dataset.kat === '' ? 'true' : 'false'));
+      lukis();
+    });
+    el('lagi').addEventListener('click', () => { negeri.tunjuk += 48; lukis(); });
+
+    // Butang "dalam senarai" perlu disegerakkan setiap kali grid dilukis semula
+    const asalLukis = window.lukisSelepas;
+    window.__selepasLukis = () => { if (window.__segerakSebut) window.__segerakSebut(); };
+    lukis();
+  </script>
+</Base>

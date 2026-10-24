@@ -1,0 +1,195 @@
+---
+import { SITE, pautan } from '../lib/site.js';
+import '../styles/global.css';
+
+const { tajuk, huraian } = Astro.props;
+const penuh = tajuk ? `${tajuk} · ${SITE.nama}` : `${SITE.nama} — ${SITE.tagline}`;
+const desc = huraian || SITE.tagline;
+const kat = [
+  { nama: 'Katalog', href: '/katalog' },
+  { nama: 'Kategori', href: '/kategori' },
+  { nama: 'Cara Pesan', href: '/cara-pesan' },
+  { nama: 'Hubungi', href: '/hubungi' },
+];
+---
+<!doctype html>
+<html lang="ms">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{penuh}</title>
+    <meta name="description" content={desc} />
+    <link rel="canonical" href={new URL(Astro.url.pathname, Astro.site)} />
+    <meta name="theme-color" content="#FBFAF7" />
+    <meta property="og:title" content={penuh} />
+    <meta property="og:description" content={desc} />
+    <meta property="og:type" content="website" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="icon" href={`data:image/svg+xml,${encodeURIComponent('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" rx="8" fill="#0B5D4F"/><text x="16" y="22" font-family="Georgia,serif" font-size="16" font-weight="700" fill="#fff" text-anchor="middle">H</text></svg>')}`} />
+  </head>
+  <body>
+    <a class="sr" href="#utama">Lompat ke kandungan</a>
+
+    <header class="site-head">
+      <div class="wrap head-row">
+        <a class="brand" href={pautan('/')}>{SITE.nama.replace(/([A-Z])/g, (m, c, i) => (i ? m : m))}<span>.</span></a>
+        <nav class="head-nav" aria-label="Navigasi utama">
+          {kat.map((k) => (
+            <a href={pautan(k.href)}>{k.nama}</a>
+          ))}
+        </nav>
+        <div class="head-actions">
+          <form class="head-search" role="search" action={pautan('/katalog')} method="get">
+            <label class="sr" for="q">Cari produk</label>
+            <input id="q" type="search" name="q" placeholder="Cari produk…" autocomplete="off" />
+            <button type="submit">Cari</button>
+          </form>
+          <button class="btn btn-ghost btn-sm" id="buka-sebut" type="button" aria-controls="panel-sebut">
+            Senarai <span class="quote-count" id="kira-sebut" hidden>0</span>
+          </button>
+        </div>
+      </div>
+    </header>
+
+    <main id="utama">
+      <slot />
+    </main>
+
+    <footer class="site-foot">
+      <div class="wrap">
+        <div class="foot-grid">
+          <div>
+            <div class="brand" style="margin-bottom:.6rem">{SITE.nama}<span>.</span></div>
+            <p style="color:var(--muted);font-size:.9rem;max-width:34ch">{SITE.tagline}</p>
+            <p style="font-size:.88rem;margin-top:.8rem">
+              <a href={`https://wa.me/${SITE.whatsapp}`} style="font-weight:600;color:var(--accent)">WhatsApp kami →</a>
+            </p>
+          </div>
+          <div>
+            <h4>Katalog</h4>
+            <ul>
+              <li><a href={pautan('/katalog')}>Semua produk</a></li>
+              <li><a href={pautan('/kategori')}>Ikut kategori</a></li>
+              <li><a href={pautan('/sebut-harga')}>Minta sebut harga</a></li>
+            </ul>
+          </div>
+          <div>
+            <h4>Bantuan</h4>
+            <ul>
+              <li><a href={pautan('/cara-pesan')}>Cara pesan</a></li>
+              <li><a href={pautan('/hubungi')}>Hubungi kami</a></li>
+              <li><a href={pautan('/hubungi')}>Soalan lazim</a></li>
+            </ul>
+          </div>
+          <div>
+            <h4>Hubungi</h4>
+            <ul>
+              <li><a href={`https://wa.me/${SITE.whatsapp}`}>WhatsApp</a></li>
+              <li><a href={`mailto:${SITE.emel}`}>{SITE.emel}</a></li>
+              <li>{SITE.negeri}</li>
+            </ul>
+          </div>
+        </div>
+        <div class="foot-base">
+          <span>© {new Date().getFullYear()} {SITE.nama}. Semua hak terpelihara.</span>
+          <span>Harga seunit belum termasuk kos penghantaran &amp; caj cetakan.</span>
+        </div>
+      </div>
+    </footer>
+
+    <!-- Panel senarai sebut harga -->
+    <button class="quote-fab" id="fab-sebut" type="button" aria-controls="panel-sebut">
+      Senarai Sebut Harga <span class="quote-count" id="kira-fab" hidden>0</span>
+    </button>
+    <aside class="quote-panel" id="panel-sebut" aria-label="Senarai sebut harga">
+      <header>
+        <h3>Senarai Sebut Harga</h3>
+        <button class="card-btn" id="tutup-sebut" type="button">Tutup</button>
+      </header>
+      <div id="sebut-kandungan">
+        <p class="quote-empty">Belum ada produk. Tambah produk dari katalog, kemudian hantar senarai ini kepada kami untuk sebut harga.</p>
+      </div>
+      <footer>
+        <a class="btn btn-primary" id="hantar-sebut" href={`https://wa.me/${SITE.whatsapp}`} target="_blank" rel="noopener" style="justify-content:center">
+          Hantar senarai via WhatsApp
+        </a>
+        <button class="btn btn-ghost btn-sm" id="kosong-sebut" type="button" style="justify-content:center">Kosongkan senarai</button>
+      </footer>
+    </aside>
+
+    <script is:inline define:vars={{ wa: SITE.whatsapp, namaSyarikat: SITE.nama }}>
+      // ---------- Senarai sebut harga (localStorage) ----------
+      const KUNCI = 'hk_sebut_v1';
+      const baca = () => { try { return JSON.parse(localStorage.getItem(KUNCI)) || []; } catch { return []; } };
+      const simpan = (l) => localStorage.setItem(KUNCI, JSON.stringify(l));
+
+      function lukis() {
+        const senarai = baca();
+        const kira = senarai.length;
+        document.querySelectorAll('#kira-sebut, #kira-fab').forEach((el) => {
+          el.textContent = kira;
+          el.hidden = kira === 0;
+        });
+        document.querySelectorAll('[data-tambah]').forEach((b) => {
+          const ada = senarai.some((x) => x.slug === b.dataset.tambah);
+          b.setAttribute('aria-pressed', ada ? 'true' : 'false');
+          b.textContent = ada ? '✓ Dalam senarai' : 'Tambah ke senarai';
+        });
+
+        const kotak = document.getElementById('sebut-kandungan');
+        if (!kotak) return;
+        if (!kira) {
+          kotak.innerHTML = '<p class="quote-empty">Belum ada produk. Tambah produk dari katalog, kemudian hantar senarai ini kepada kami untuk sebut harga.</p>';
+          return;
+        }
+        kotak.innerHTML =
+          '<ul class="quote-list">' +
+          senarai.map((x) => `<li><span>${x.nama}<br><small style="color:var(--muted)">${x.harga}</small></span><button type="button" data-buang="${x.slug}" aria-label="Buang ${x.nama}">×</button></li>`).join('') +
+          '</ul>';
+
+        const baris = senarai.map((x, i) => `${i + 1}. ${x.nama}${x.sku ? ' (' + x.sku + ')' : ''} — ${x.harga}/unit`).join('%0A');
+        const teks = `Salam ${namaSyarikat},%0A%0ASaya ingin minta sebut harga untuk:%0A%0A${baris}%0A%0ABilangan setiap item: %0A%0ATerima kasih.`;
+        const butang = document.getElementById('hantar-sebut');
+        if (butang) butang.href = `https://wa.me/${wa}?text=${teks}`;
+      }
+
+      function tambah(slug, nama, harga, sku) {
+        const senarai = baca();
+        const i = senarai.findIndex((x) => x.slug === slug);
+        if (i >= 0) senarai.splice(i, 1); else senarai.push({ slug, nama, harga, sku });
+        simpan(senarai); lukis();
+      }
+
+      document.addEventListener('click', (e) => {
+        const t = e.target.closest('[data-tambah]');
+        if (t) { e.preventDefault(); tambah(t.dataset.tambah, t.dataset.nama, t.dataset.harga, t.dataset.sku || ''); return; }
+
+        const b = e.target.closest('[data-buang]');
+        if (b) {
+          const senarai = baca().filter((x) => x.slug !== b.dataset.buang);
+          simpan(senarai); lukis(); return;
+        }
+
+        if (e.target.closest('#buka-sebut') || e.target.closest('#fab-sebut')) {
+          document.getElementById('panel-sebut')?.classList.add('open');
+          document.getElementById('fab-sebut')?.classList.add('hide'); return;
+        }
+        if (e.target.closest('#tutup-sebut')) {
+          document.getElementById('panel-sebut')?.classList.remove('open');
+          document.getElementById('fab-sebut')?.classList.remove('hide'); return;
+        }
+        if (e.target.closest('#kosong-sebut')) { simpan([]); lukis(); return; }
+      });
+
+      document.addEventListener('keydown', (e) => { if (e.key === 'Escape') document.getElementById('panel-sebut')?.classList.remove('open'); });
+      // Didedahkan supaya grid katalog boleh segerak butang selepas dilukis semula
+      window.__segerakSebut = lukis;
+      lukis();
+    </script>
+  </body>
+</html>

@@ -1,0 +1,39 @@
+---
+import Base from '../layouts/Base.astro';
+import { SITE, pautan } from '../lib/site.js';
+---
+<Base tajuk="Hubungi" huraian={`Hubungi ${SITE.nama} untuk sebut harga hadiah korporat. Balasan dalam 1 hari kerja.`}>
+  <div class="wrap narrow" style="padding-bottom:4rem">
+    <nav class="crumb"><a href={pautan('/')}>Utama</a> / Hubungi</nav>
+    <p class="eyebrow" style="margin-top:1.5rem">Hubungi</p>
+    <h1>Cakap terus dengan kami</h1>
+    <p style="color:var(--ink-2);font-size:1.05rem">
+      Paling cepat: WhatsApp. Hantar senarai produk dan bilangan, kami balas dengan sebut harga.
+    </p>
+
+    <div style="display:grid;gap:.8rem;margin-top:2rem">
+      <a class="btn btn-primary" href={`https://wa.me/${SITE.whatsapp}`} target="_blank" rel="noopener" style="justify-content:center">
+        WhatsApp kami
+      </a>
+      <a class="btn btn-ghost" href={`mailto:${SITE.emel}`} style="justify-content:center">E-mel {SITE.emel}</a>
+    </div>
+
+    <ul class="prod-specs" style="margin-top:2.5rem">
+      <li><span>WhatsApp</span><b><a href={`https://wa.me/${SITE.whatsapp}`}>+{SITE.whatsapp}</a></b></li>
+      <li><span>E-mel</span><b><a href={`mailto:${SITE.emel}`}>{SITE.emel}</a></b></li>
+      <li><span>Lokasi</span><b>{SITE.negeri}</b></li>
+      <li><span>Waktu balasan</span><b>Isnin–Jumaat, 9:00 pagi – 5:30 petang</b></li>
+    </ul>
+
+    <div class="note-box" style="margin-top:2rem">
+      <b>Untuk sebut harga lebih pantas:</b> beritahu kami (1) produk atau kod, (2) bilangan setiap item,
+      (3) tarikh anda perlukan, dan (4) lokasi penghantaran.
+    </div>
+
+    <h2 style="margin-top:3rem">Belum pilih produk?</h2>
+    <p style="color:var(--ink-2)">
+      Terokai {`katalog kami`} — {` `}<a href={pautan('/katalog')} style="color:var(--accent);font-weight:600">semua produk di sini</a>,
+      atau <a href={pautan('/kategori')} style="color:var(--accent);font-weight:600">mula dari kategori</a>.
+    </p>
+  </div>
+</Base>
