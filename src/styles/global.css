@@ -277,7 +277,10 @@ body.nav-open .mobile-nav { display: block; }
   border-color: var(--forest); transform: translateY(-2px); box-shadow: var(--shadow-2);
 }
 .cat-card .cat-img {
-  width: 100%; aspect-ratio: 1 / 1; object-fit: cover;
+  width: 100%;
+  height: auto;          /* WAJIB: tanpa ini atribut height="400" menang atas aspect-ratio */
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
   background: var(--white); border-bottom: 1px solid var(--line-2); display: block;
 }
 .cat-teks {
@@ -298,7 +301,7 @@ body.nav-open .mobile-nav { display: block; }
   margin: 1.2rem 0 2.2rem;
 }
 .kat-hero-img {
-  width: 100%; aspect-ratio: 4 / 3; object-fit: cover;
+  width: 100%; height: auto; aspect-ratio: 4 / 3; object-fit: cover;
   border-radius: var(--r-lg); border: 1px solid var(--line);
   background: var(--white);
 }
