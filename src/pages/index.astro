@@ -18,17 +18,18 @@ const adaHarga = produkSemua.filter((p) => p.harga > 0);
   <section class="hero">
     <div class="wrap hero-grid">
       <div>
-        <p class="eyebrow">Harga seunit jelas · Tiada caj tersembunyi</p>
+        <p class="eyebrow">{produkSemua.length} produk · {kategori.length} kategori · harga terpampang</p>
         <h1>
-          Hadiah korporat bercetak logo.
-          <em>969 pilihan, harga seunit jelas.</em>
+          Hadiah korporat, terus dari katalog.
+          <em>Harga, MOQ dan gambar — semua terang.</em>
         </h1>
         <p class="hero-lead">
-          {produkSemua.length} produk bercetak logo — dari pen RM1.96 hingga trofi kristal RM528.
-          Harga seunit jelas, tiada caj tersembunyi. MOQ {SITE.moq} pcs setiap reka bentuk.
+          Jalan dalam katalog dulu. Setiap produk ada harga seunit dan MOQ sendiri,
+          tanpa perlu tanya sesiapa. Bila dah jumpa yang sesuai, minta sebut harga —
+          siap dalam 1 hari kerja.
         </p>
         <div class="hero-cta">
-          <a class="btn btn-lime" href={pautan('/katalog')}>Lihat katalog penuh</a>
+          <a class="btn btn-lime" href={pautan('/katalog')}>Masuk katalog</a>
           <a class="btn btn-ghost" href={pautan('/sebut-harga')}>Minta sebut harga</a>
         </div>
         <div class="hero-stats">
