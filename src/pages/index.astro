@@ -117,13 +117,13 @@ const adaHarga = produkSemua.filter((p) => p.harga > 0);
       </div>
       <div class="calc-form">
         <label for="k-bil" style="font-weight:600;font-size:.9rem">Bilangan (pcs)</label>
-        <input class="input" id="k-bil" type="number" min="1" value="100" />
+        <input class="input" id="k-bil" type="number" min="1" value="50" />
         <label for="k-bajet" style="font-weight:600;font-size:.9rem">Bajet seunit (RM)</label>
         <input class="input" id="k-bajet" type="number" min="1" value="30" step="0.5" />
         <div class="calc-out" style="margin-top:.6rem">
           <div class="lbl">Anggaran jumlah</div>
-          <div class="val" id="k-jumlah">RM3,000.00</div>
-          <p id="k-nota">Untuk 100 pcs pada RM30 seunit. Cetakan &amp; penghantaran dikira berasingan.</p>
+          <div class="val" id="k-jumlah">RM1,500.00</div>
+          <p id="k-nota">Untuk 50 pcs pada RM30 seunit. Cetakan &amp; penghantaran dikira berasingan.</p>
           <a class="btn btn-lime" id="k-cari" href={pautan('/katalog')} style="margin-top:1rem;justify-content:center;width:100%">
             Tunjuk produk dalam bajet ini
           </a>
