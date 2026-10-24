@@ -1,7 +1,7 @@
 ---
 import Base from '../../layouts/Base.astro';
 import ProductCard from '../../components/ProductCard.astro';
-import { SITE, produkSemua, warnaProduk, inisial, duit, pautan, slugify } from '../../lib/site.js';
+import { SITE, produkSemua, warnaProduk, inisial, duit, pautan, srcset, SAIZ_HERO, slugify } from '../../lib/site.js';
 
 export function getStaticPaths() {
   return produkSemua.map((p) => ({ params: { slug: p.slug }, props: { p } }));
@@ -29,7 +29,16 @@ const hargaTeks = p.harga > 0 ? duit(p.harga) : 'Sebut harga';
       <div>
         <div class="prod-hero-media" style={p.gambar ? undefined : `background:linear-gradient(${sudut}deg,${c1},${c2})`}>
           {p.gambar
-            ? <img src={pautan(p.gambar)} alt={p.nama} width="900" height="900" fetchpriority="high" decoding="async" />
+            ? <img
+                src={pautan(p.gambar)}
+                srcset={srcset(p.gambar)}
+                sizes={SAIZ_HERO}
+                alt={p.nama}
+                width="900"
+                height="900"
+                fetchpriority="high"
+                decoding="async"
+              />
             : <span class="ph">{inisial(p.nama)}</span>}
         </div>
         {!p.gambar && (

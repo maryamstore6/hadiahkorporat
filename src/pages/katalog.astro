@@ -97,7 +97,11 @@ const ringan = produkSemua.map((p) => ({
       const [c1, c2] = warna(p.k);
       const harga = p.h > 0 ? duit(p.h) : 'Sebut harga';
       const isiMedia = p.g
-        ? `<img src="${BASE}${p.g}" alt="${p.n.replace(/"/g, '&quot;')}" loading="lazy" decoding="async" width="440" height="330">`
+        ? (() => {
+            const b = p.g.replace(/\.webp$/, '');
+            const set = `${BASE}${b}-300.webp 300w, ${BASE}${b}-600.webp 600w, ${BASE}${p.g} 900w`;
+            return `<img src="${BASE}${p.g}" srcset="${set}" sizes="(max-width: 640px) 45vw, (max-width: 1100px) 30vw, 240px" alt="${p.n.replace(/"/g, '&quot;')}" loading="lazy" decoding="async" width="440" height="330">`;
+          })()
         : `<span class="ph">${inisial(p.n)}</span>`;
       return `<article class="card">
         <a class="card-media" href="${BASE}/produk/${p.s}/" ${p.g ? '' : `style="background:linear-gradient(135deg,${c1},${c2})"`} aria-label="${p.n}">

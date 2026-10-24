@@ -1,5 +1,5 @@
 ---
-import { warnaProduk, inisial, duit, slugify, pautan, SITE } from '../lib/site.js';
+import { warnaProduk, inisial, duit, slugify, pautan, srcset, SAIZ_KAD, SITE } from '../lib/site.js';
 
 const { p, ringkas = false } = Astro.props;
 const { c1, c2, sudut, lapis } = warnaProduk(p.nama, p.kategori);
@@ -14,7 +14,16 @@ const hargaTeks = p.harga > 0 ? duit(p.harga) : 'Sebut harga';
   >
     <span class="tag">{p.kategori.length > 20 ? p.kategori.slice(0, 19) + '…' : p.kategori}</span>
     {p.gambar
-      ? <img src={pautan(p.gambar)} alt={p.nama} loading="lazy" decoding="async" width="440" height="330" />
+      ? <img
+          src={pautan(p.gambar)}
+          srcset={srcset(p.gambar)}
+          sizes={SAIZ_KAD}
+          alt={p.nama}
+          loading="lazy"
+          decoding="async"
+          width="440"
+          height="330"
+        />
       : <span class="ph">{inisial(p.nama)}</span>}
   </a>
   <div class="card-body">

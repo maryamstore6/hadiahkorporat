@@ -80,6 +80,20 @@ export function duit(n) {
   return 'RM' + Number(n).toLocaleString('ms-MY', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
 }
 
+/* Varian saiz gambar: <slug>-300.webp / <slug>-600.webp / <slug>.webp */
+export function srcset(gambar) {
+  const b = gambar.replace(/\.webp$/, '');
+  return [
+    `${pautan(b + '-300.webp')} 300w`,
+    `${pautan(b + '-600.webp')} 600w`,
+    `${pautan(gambar)} 900w`,
+  ].join(', ');
+}
+
+/* Saiz paparan kad produk — telefon 2 lajur, desktop ~240px */
+export const SAIZ_KAD = '(max-width: 640px) 45vw, (max-width: 1100px) 30vw, 240px';
+export const SAIZ_HERO = '(max-width: 900px) 92vw, 45vw';
+
 export function pautan(p) {
   const base = import.meta.env.BASE_URL.replace(/\/$/, '');
   return `${base}${p}`;
