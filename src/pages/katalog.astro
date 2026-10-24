@@ -78,14 +78,39 @@ const ringan = produkSemua.map((p) => ({
       return (w.slice(0, 2).map((x) => x[0].toUpperCase()).join('') || 'HK');
     }
     function duit(n) { return 'RM' + Number(n).toLocaleString('ms-MY', { minimumFractionDigits: 2, maximumFractionDigits: 2 }); }
+    /* Slug kategori — sama logik dengan slugify() di site.js. */
+    function slugKat(s) {
+      return (s || '').toLowerCase().replace(/&/g, 'and')
+        .replace(/[^a-z0-9]+/g, '-').replace(/-+/g, '-').replace(/^-|-$/g, '');
+    }
+    /* Potong pada sempang perkataan, bukan tengah perkataan. */
+    function pendek(s) {
+      if (s.length <= 20) return s;
+      const potong = s.slice(0, 20);
+      const spasi = potong.lastIndexOf(' ');
+      return (spasi > 8 ? potong.slice(0, spasi) : potong).trim() + '…';
+    }
 
     function tapis() {
-      const q = negeri.q.trim().toLowerCase();
+      // Normalisasi carian:
+      //  - ruang berlebihan dalaman ("aluminium  plaque" -> "aluminium plaque")
+      //  - sengkang: data guna en-dash (–) pada 31 nama, jadi taip '-' pun kena jumpa
+      function teks(s) {
+        return (s || '').toLowerCase().replace(/[\u2013\u2014]/g, '-').replace(/\s+/g, ' ');
+      }
+      // Kata kunci mesti dinormalisasi dengan fungsi SAMA seperti nama produk,
+      // jika tidak '–' dalam carian tidak akan jumpa '-' dalam data (dan sebaliknya).
+      const q = teks(negeri.q.trim());
       let senarai = SEMUA.filter((p) => {
         if (negeri.kat && p.k !== negeri.kat) return false;
-        if (negeri.min !== null && !(p.h > 0 && p.h >= negeri.min)) return false;
-        if (negeri.maks !== null && !(p.h > 0 && p.h <= negeri.maks)) return false;
-        if (q && !(p.n.toLowerCase().includes(q) || p.c.toLowerCase().includes(q))) return false;
+        // Produk berjulat (h hingga hm) mesti dibandingkan dengan SELURUH julat,
+        // bukan minimum sahaja. Jika tidak, 'min=100' membuang produk yang ada
+        // varian RM100+, dan 'maks=60' menyertakan produk yang variannya RM96.
+        const lo = p.h;
+        const hi = p.hm > p.h ? p.hm : p.h;
+        if (negeri.min !== null && !(hi > 0 && hi >= negeri.min)) return false;
+        if (negeri.maks !== null && !(lo > 0 && lo <= negeri.maks)) return false;
+        if (q && !(teks(p.n).includes(q) || teks(p.c).includes(q))) return false;
         return true;
       });
       if (negeri.urut === 'murah') senarai.sort((a, b) => (a.h || 1e9) - (b.h || 1e9));
@@ -96,7 +121,13 @@ const ringan = produkSemua.map((p) => ({
 
     function kad(p) {
       const [c1, c2] = warna(p.k);
-      const harga = p.h > 0 ? duit(p.h) : 'Sebut harga';
+      // Julat harga: kad mesti tunjuk had atas, bukan minimum sahaja.
+      // Halaman produk dan ProductCard.astro sudah tunjuk julat — katalog
+      // adalah satu-satunya tempat yang kehilangannya (42 produk berjulat,
+      // sebahagian bawah nyata sehingga RM42).
+      const harga = p.h > 0
+        ? (p.hm > p.h ? `${duit(p.h)} – ${duit(p.hm)}` : duit(p.h))
+        : 'Sebut harga';
       const isiMedia = p.g
         ? (() => {
             const b = p.g.replace(/\.webp$/, '');
@@ -106,7 +137,7 @@ const ringan = produkSemua.map((p) => ({
         : `<span class="ph">${inisial(p.n)}</span>`;
       return `<article class="card">
         <a class="card-media" href="${BASE}/produk/${p.s}/" ${p.g ? '' : `style="background:linear-gradient(135deg,${c1},${c2})"`} aria-label="${p.n}">
-          <span class="tag">${p.k.length > 20 ? p.k.slice(0, 19) + '…' : p.k}</span>
+          <span class="tag">${pendek(p.k)}</span>
           ${isiMedia}
         </a>
         <div class="card-body">
@@ -134,12 +165,30 @@ const ringan = produkSemua.map((p) => ({
     // Muat keadaan dari URL
     const sp = new URLSearchParams(location.search);
     if (sp.get('q')) { negeri.q = sp.get('q'); el('cari').value = sp.get('q'); }
-    if (sp.get('kategori')) negeri.kat = sp.get('kategori');
-    if (sp.get('maks')) { negeri.maks = Number(sp.get('maks')); el('maks').value = sp.get('maks'); }
-    if (sp.get('min')) { negeri.min = Number(sp.get('min')); el('min').value = sp.get('min'); }
+    if (sp.get('kategori')) {
+      // Terima nama penuh ('Eco Bag') DAN bentuk slug ('eco-bag') — semua
+      // pautan lain di laman ini guna slug, jadi param ini pun mesti tahan.
+      const diminta = sp.get('kategori');
+      const nama = [...new Set(SEMUA.map((p) => p.k))];
+      negeri.kat = nama.includes(diminta)
+        ? diminta
+        : (nama.find((n) => slugKat(n) === slugKat(diminta)) || '');
+    }
+    const nombor = (v) => { const n = Number(v); return Number.isFinite(n) && n >= 0 ? n : null; };
+    if (nombor(sp.get('maks')) !== null) { negeri.maks = nombor(sp.get('maks')); el('maks').value = negeri.maks; }
+    if (nombor(sp.get('min')) !== null) { negeri.min = nombor(sp.get('min')); el('min').value = negeri.min; }
     document.querySelectorAll('#chips button').forEach((b) => b.setAttribute('aria-pressed', b.dataset.kat === negeri.kat ? 'true' : 'false'));
 
-    el('cari').addEventListener('input', (e) => { negeri.q = e.target.value; negeri.tunjuk = 48; lukis(); });
+    // Debounce 160ms: setiap ketukan dulu membina semula 48 kad DAN menulis
+    // semula 1,296 butang 'Tambah ke senarai' (Base.astro). Taip 'aluminium'
+    // = 9 bina-semula penuh.
+    let pemasaCari = null;
+    el('cari').addEventListener('input', (e) => {
+      negeri.q = e.target.value;
+      negeri.tunjuk = 48;
+      clearTimeout(pemasaCari);
+      pemasaCari = setTimeout(lukis, 160);
+    });
     el('urut').addEventListener('change', (e) => { negeri.urut = e.target.value; lukis(); });
     el('min').addEventListener('input', (e) => { negeri.min = e.target.value === '' ? null : Number(e.target.value); negeri.tunjuk = 48; lukis(); });
     el('maks').addEventListener('input', (e) => { negeri.maks = e.target.value === '' ? null : Number(e.target.value); negeri.tunjuk = 48; lukis(); });
