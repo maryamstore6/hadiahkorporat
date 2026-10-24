@@ -51,6 +51,8 @@ const adaHarga = produkSemua.filter((p) => p.harga > 0);
           />
           <img
             src={pautan('/hero/hero-960.webp')}
+            srcset={`${pautan('/hero/hero-480.webp')} 480w, ${pautan('/hero/hero-720.webp')} 720w, ${pautan('/hero/hero-960.webp')} 960w`}
+            sizes="(max-width: 900px) 92vw, 480px"
             alt="Set hadiah korporat: beg, tumbler dan set buku nota bercetak logo, sedia untuk dihantar kepada klien"
             width="960"
             height="960"
