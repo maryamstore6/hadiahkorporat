@@ -37,20 +37,28 @@ const adaHarga = produkSemua.filter((p) => p.harga > 0);
           <div class="hero-stat"><b>{SITE.moq}</b><span>MOQ (pcs)</span></div>
         </div>
       </div>
-      <div class="hero-card">
-        <h3>Tak pasti nak mula dari mana?</h3>
-        <p class="hint">Beritahu bilangan dan bajet seunit — kami susun katalog mengikutnya.</p>
-        <form style="display:grid;gap:.7rem;margin-top:1.1rem" onsubmit="return laksanaKalkulator(event)">
-          <label for="bil" style="font-weight:600;font-size:.88rem">Bilangan (pcs)</label>
-          <input class="input" id="bil" type="number" min="1" value="100" placeholder="Contoh: 100" />
-          <label for="bajet" style="font-weight:600;font-size:.88rem">Bajet seunit (RM)</label>
-          <input class="input" id="bajet" type="number" min="1" value="30" placeholder="Contoh: 30" />
-          <button class="btn btn-primary" type="submit" style="justify-content:center">Tunjuk pilihan saya</button>
-        </form>
-        <p style="font-size:.8rem;color:var(--muted);margin-top:.7rem">
-          Kami susun katalog ikut bajet anda — tiada e-mel diperlukan.
-        </p>
-      </div>
+      <figure class="hero-gambar">
+        <picture>
+          <source
+            type="image/avif"
+            srcset={`${pautan('/hero/hero-480.avif')} 480w, ${pautan('/hero/hero-720.avif')} 720w, ${pautan('/hero/hero-960.avif')} 960w`}
+            sizes="(max-width: 900px) 92vw, 480px"
+          />
+          <source
+            type="image/webp"
+            srcset={`${pautan('/hero/hero-480.webp')} 480w, ${pautan('/hero/hero-720.webp')} 720w, ${pautan('/hero/hero-960.webp')} 960w`}
+            sizes="(max-width: 900px) 92vw, 480px"
+          />
+          <img
+            src={pautan('/hero/hero-960.webp')}
+            alt="Set hadiah korporat: beg, tumbler dan set buku nota bercetak logo, sedia untuk dihantar kepada klien"
+            width="960"
+            height="960"
+            fetchpriority="high"
+            decoding="async"
+          />
+        </picture>
+      </figure>
     </div>
   </section>
 
@@ -123,6 +131,9 @@ const adaHarga = produkSemua.filter((p) => p.harga > 0);
           <div class="lbl">Anggaran jumlah</div>
           <div class="val" id="k-jumlah">RM3,000.00</div>
           <p id="k-nota">Untuk 100 pcs pada RM30 seunit. Cetakan &amp; penghantaran dikira berasingan.</p>
+          <a class="btn btn-lime" id="k-cari" href={pautan('/katalog')} style="margin-top:1rem;justify-content:center;width:100%">
+            Tunjuk produk dalam bajet ini
+          </a>
         </div>
       </div>
     </div>
@@ -213,23 +224,19 @@ const adaHarga = produkSemua.filter((p) => p.harga > 0);
     const bajet = document.getElementById('k-bajet');
     const jumlah = document.getElementById('k-jumlah');
     const nota = document.getElementById('k-nota');
+    const cari = document.getElementById('k-cari');
+    const asasCari = cari ? cari.getAttribute('href').split('?')[0] : '';
+
     function kira() {
       const b = Math.max(1, Number(bil.value) || 0);
       const h = Math.max(0, Number(bajet.value) || 0);
       jumlah.textContent = 'RM' + (b * h).toLocaleString('ms-MY', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
       nota.textContent = `Untuk ${b.toLocaleString('ms-MY')} pcs pada RM${h.toFixed(2)} seunit. Cetakan & penghantaran dikira berasingan.`;
+      if (cari && h > 0) cari.setAttribute('href', `${asasCari}?maks=${h}`);
     }
     bil?.addEventListener('input', kira);
     bajet?.addEventListener('input', kira);
     kira();
 
-    // Hero: susun katalog ikut bajet
-    function laksanaKalkulator(e) {
-      e.preventDefault();
-      const b = document.getElementById('bil').value || 100;
-      const h = document.getElementById('bajet').value || 30;
-      location.href = 'katalog?maks=' + encodeURIComponent(h) + '&bil=' + encodeURIComponent(b);
-      return false;
-    }
   </script>
 </Base>
