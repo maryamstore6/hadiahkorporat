@@ -1,0 +1,174 @@
+---
+import { SITE, produkSemua, kategoriSemua, pautan } from '../lib/site.js';
+
+const kategori = kategoriSemua();   /* kategoriSemua ialah fungsi — bukan array */
+
+/* Halaman perbandingan copy hero — untuk Pak Kamal pilih versi.
+   Bukan sebahagian daripada navigasi; boleh dibuang selepas pilih. */
+
+const versi = [
+  {
+    no: 1,
+    nama: 'Ketelusan harga',
+    sasaran: 'Pembeli yang pernah kena caj tersembunyi',
+    eyebrow: 'Harga seunit, bukan harga "dari"',
+    h1: 'Kami tak sembunyi harga.',
+    em: 'Setiap produk, harga seunit terpampang.',
+    lead: `969 produk bercetak logo — dari pen RM1.96 hingga trofi kristal RM528. Harga yang anda nampak itu harga sebenar. MOQ ${SITE.moq} pcs, mock-up percuma sebelum cetak.`,
+    cta1: 'Lihat harga dalam katalog',
+    cta2: 'Minta sebut harga',
+  },
+  {
+    no: 2,
+    nama: 'MOQ rendah',
+    sasaran: 'Syarikat kecil, jabatan, penganjur acara kecil',
+    eyebrow: `MOQ ${SITE.moq} pcs — bukan 100`,
+    h1: `Pesan ${SITE.moq} pun boleh.`,
+    em: 'Tak perlu tunggu cukup seratus.',
+    lead: `Mesyuarat kecil, sukan tahunan, hadiah untuk klien utama — semua boleh. ${produkSemua.length} produk bercetak logo, MOQ ${SITE.moq} pcs setiap reka bentuk.`,
+    cta1: 'Cari hadiah dalam bajet saya',
+    cta2: 'Minta sebut harga',
+  },
+  {
+    no: 3,
+    nama: 'Mock-up percuma',
+    sasaran: 'Yang takut logo nampak buruk pada produk',
+    eyebrow: 'Mock-up percuma sebelum cetak',
+    h1: 'Tengok dulu. Baru bayar.',
+    em: 'Anda tengok logo pada produk sebenar sebelum apa-apa dicetak.',
+    lead: `Hantar logo, kami siapkan mock-up pada produk pilihan anda. Tak suka, tukar reka bentuk — tiada caj. ${produkSemua.length} produk, MOQ ${SITE.moq} pcs.`,
+    cta1: 'Pilih produk, minta mock-up',
+    cta2: 'Minta sebut harga',
+  },
+  {
+    no: 4,
+    nama: 'Tarikh majlis',
+    sasaran: 'Penganjur acara yang ada tarikh muktamad',
+    eyebrow: 'Untuk majlis yang ada tarikh muktamad',
+    h1: 'Sampai sebelum majlis.',
+    em: 'Beri kami tarikh, kami susun masa cetakan.',
+    lead: `${produkSemua.length} produk bercetak logo, MOQ ${SITE.moq} pcs. Beritahu tarikh majlis dan jumlah pax — kami balas dengan masa siap yang realistik, bukan janji kosong.`,
+    cta1: 'Semak apa yang boleh siap',
+    cta2: 'Beritahu tarikh majlis',
+  },
+  {
+    no: 5,
+    nama: 'Katalog dulu',
+    sasaran: 'Yang mahu survey harga sendiri tanpa telefon',
+    eyebrow: `${produkSemua.length} produk · ${kategori.length} kategori · harga terpampang`,
+    h1: 'Hadiah korporat, terus dari katalog.',
+    em: 'Harga, MOQ dan gambar — semua terang.',
+    lead: `Jalan dalam katalog dulu. Setiap produk ada harga seunit dan MOQ sendiri, tanpa perlu tanya sesiapa. Bila dah jumpa yang sesuai, minta sebut harga — siap dalam 1 hari kerja.`,
+    cta1: 'Masuk katalog',
+    cta2: 'Minta sebut harga',
+  },
+  {
+    no: 6,
+    nama: 'Keyakinan jenama',
+    sasaran: 'Pengurus yang hadiahnya mewakili nama syarikat',
+    eyebrow: 'Hadiah korporat yang mewakili nama syarikat',
+    h1: 'Hadiah yang naikkan nama syarikat anda.',
+    em: 'Kualiti dipilih, harga boleh dipertanggungjawabkan.',
+    lead: `${produkSemua.length} produk untuk klien, pekerja dan majlis rasmi — pen, beg, trofi kristal hingga set hadiah premium. Harga seunit jelas, MOQ ${SITE.moq} pcs, mock-up percuma.`,
+    cta1: 'Lihat pilihan',
+    cta2: 'Minta sebut harga',
+  },
+];
+---
+
+<!doctype html>
+<html lang="ms">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Perbandingan copy hero — HadiahKorporat</title>
+  <meta name="robots" content="noindex, nofollow" />
+</head>
+<body>
+  <div class="wrap uji-head">
+    <p class="eyebrow">Untuk semakan dalaman</p>
+    <h1>6 versi copy hero</h1>
+    <p class="hero-lead">
+      Setiap versi di bawah dipaparkan dengan <b>gaya hero sebenar</b> supaya anda nampak
+      macam mana ia akan muncul pada laman. Pilih satu — atau campur bahagian daripada
+      beberapa versi.
+    </p>
+  </div>
+
+  {versi.map((v) => (
+    <section class="uji-blok">
+      <div class="wrap">
+        <div class="uji-label">
+          <span class="uji-no">Versi {v.no}</span>
+          <b>{v.nama}</b>
+          <span class="uji-sasaran">{v.sasaran}</span>
+        </div>
+
+        <div class="hero-grid uji-grid">
+          <div>
+            <p class="eyebrow">{v.eyebrow}</p>
+            <h1>{v.h1}<em>{v.em}</em></h1>
+            <p class="hero-lead">{v.lead}</p>
+            <div class="hero-cta">
+              <a class="btn btn-lime" href="#">{v.cta1}</a>
+              <a class="btn btn-ghost" href="#">{v.cta2}</a>
+            </div>
+            <div class="hero-stats">
+              <div class="hero-stat"><b>{produkSemua.length}</b><span>Produk tersedia</span></div>
+              <div class="hero-stat"><b>{kategori.length}</b><span>Kategori</span></div>
+              <div class="hero-stat"><b>1 hari</b><span>Masa sebut harga</span></div>
+              <div class="hero-stat"><b>{SITE.moq}</b><span>MOQ (pcs)</span></div>
+            </div>
+          </div>
+          <figure class="hero-gambar uji-gambar">
+            <picture>
+              <source type="image/avif" srcset={`${pautan('/hero/hero-480.avif')} 480w`} sizes="(max-width: 900px) 92vw, 420px" />
+              <source type="image/webp" srcset={`${pautan('/hero/hero-480.webp')} 480w`} sizes="(max-width: 900px) 92vw, 420px" />
+              <img src={pautan('/hero/hero-480.webp')} alt="" width="480" height="480" loading="lazy" decoding="async" />
+            </picture>
+          </figure>
+        </div>
+
+        <p class="uji-cta">CTA: <code>{v.cta1}</code> + <code>{v.cta2}</code></p>
+      </div>
+    </section>
+  ))}
+
+  <div class="wrap uji-kaki">
+    <p class="eyebrow">Catatan</p>
+    <p>
+      Versi 1 paling dekat dengan copy sekarang (ketelusan harga) — cuma ia buang
+      pengulangan "harga seunit jelas" yang muncul 3 kali.
+      Versi 2 dan 3 paling kuat untuk pembeza sebenar anda: <b>MOQ {SITE.moq} pcs</b>
+      dan <b>mock-up percuma</b>.
+    </p>
+  </div>
+</body>
+</html>
+
+<style is:global>
+  .uji-head { padding: 2.5rem 0 1rem; }
+  .uji-head h1 { font-family: var(--disp); font-size: clamp(1.9rem, 4vw, 2.6rem); margin: .3rem 0 .7rem; }
+  .uji-head .hero-lead { max-width: 62ch; }
+
+  .uji-blok { border-top: 1px solid var(--line); padding: 1.6rem 0 2.2rem; }
+  .uji-blok:nth-of-type(even) { background: var(--stone); }
+
+  .uji-label {
+    display: flex; align-items: baseline; gap: .7rem; flex-wrap: wrap;
+    margin-bottom: 1.1rem; padding-bottom: .7rem; border-bottom: 1px dashed var(--line);
+  }
+  .uji-no {
+    font-size: .62rem; letter-spacing: .16em; text-transform: uppercase;
+    background: var(--ink); color: var(--white); padding: .22rem .5rem; border-radius: 3px;
+  }
+  .uji-label b { font-family: var(--disp); font-size: 1.15rem; }
+  .uji-sasaran { font-size: .7rem; letter-spacing: .1em; text-transform: uppercase; color: var(--muted); }
+
+  .uji-grid { align-items: center; }
+  .uji-gambar img { border-radius: var(--r-lg); }
+  .uji-cta { font-size: .68rem; color: var(--muted); margin-top: .9rem; }
+  .uji-cta code { background: var(--stone); border: 1px solid var(--line); padding: .1rem .35rem; border-radius: 3px; font-size: .95em; }
+  .uji-kaki { border-top: 1px solid var(--line); padding: 2rem 0 4rem; }
+  .uji-kaki p:last-child { max-width: 68ch; color: var(--muted); font-size: .88rem; line-height: 1.6; }
+</style>
