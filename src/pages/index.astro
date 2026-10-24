@@ -18,13 +18,16 @@ const adaHarga = produkSemua.filter((p) => p.harga > 0);
     <div class="wrap hero-grid">
       <div>
         <p class="eyebrow">Harga seunit jelas · Tiada caj tersembunyi</p>
-        <h1>Hadiah yang orang <em>simpan</em>, bukan buang.</h1>
+        <h1>
+          Hadiah korporat bercetak logo.
+          <em>969 pilihan, harga seunit jelas.</em>
+        </h1>
         <p class="hero-lead">
           {produkSemua.length} produk bercetak logo — dari pen RM1.96 hingga trofi kristal RM528.
           Harga seunit jelas, tiada caj tersembunyi. MOQ {SITE.moq} pcs setiap reka bentuk.
         </p>
         <div class="hero-cta">
-          <a class="btn btn-primary" href={pautan('/katalog')}>Lihat katalog penuh</a>
+          <a class="btn btn-lime" href={pautan('/katalog')}>Lihat katalog penuh</a>
           <a class="btn btn-ghost" href={pautan('/sebut-harga')}>Minta sebut harga</a>
         </div>
         <div class="hero-stats">
@@ -84,16 +87,16 @@ const adaHarga = produkSemua.filter((p) => p.harga > 0);
   </section>
 
   <!-- KALKULATOR -->
-  <section class="section" style="background:var(--surface);border-block:1px solid var(--line)">
+  <section class="section section-dark">
     <div class="wrap calc">
       <div>
         <p class="eyebrow">Kalkulator bajet</p>
         <h2>Berapa sebenarnya kosnya?</h2>
-        <p style="color:var(--ink-2)">
+        <p>
           Masukkan bilangan dan bajet seunit. Kami kira jumlah keseluruhan serta-merta —
           supaya anda tahu sebelum minta sebut harga.
         </p>
-        <div class="note-box" style="margin-top:1.2rem">
+        <div class="note-box" style="margin-top:1.4rem">
           <b>Nota:</b> harga seunit biasanya turun bila bilangan naik. Minta sebut harga untuk
           harga sebenar pada bilangan anda.
         </div>
@@ -146,7 +149,7 @@ const adaHarga = produkSemua.filter((p) => p.harga > 0);
   </section>
 
   <!-- CARA PESAN -->
-  <section class="section" style="background:var(--surface);border-block:1px solid var(--line)">
+  <section class="section section-stone">
     <div class="wrap">
       <div class="section-head">
         <div>
@@ -177,16 +180,16 @@ const adaHarga = produkSemua.filter((p) => p.harga > 0);
   </section>
 
   <!-- CTA AKHIR -->
-  <section class="section">
+  <section class="section section-dark">
     <div class="wrap narrow" style="text-align:center">
       <p class="eyebrow">Sedia mula?</p>
       <h2>Hantar senarai anda hari ini</h2>
-      <p style="color:var(--ink-2);max-width:52ch;margin-inline:auto">
+      <p style="max-width:52ch;margin-inline:auto">
         Sebut harga dalam 1 hari kerja. Tiada bayaran pendahuluan sehingga anda luluskan mock-up.
       </p>
       <div style="display:flex;gap:.7rem;justify-content:center;flex-wrap:wrap;margin-top:1.5rem">
-        <a class="btn btn-primary" href={pautan('/katalog')}>Terokai {produkSemua.length} produk</a>
-        <a class="btn btn-ghost" href={`https://wa.me/${SITE.whatsapp}`} target="_blank" rel="noopener">WhatsApp terus</a>
+        <a class="btn btn-lime" href={pautan('/katalog')}>Terokai {produkSemua.length} produk</a>
+        <a class="btn btn-ghost-dark" href={`https://wa.me/${SITE.whatsapp}`} target="_blank" rel="noopener">WhatsApp terus</a>
       </div>
     </div>
   </section>
