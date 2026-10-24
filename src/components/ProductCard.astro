@@ -1,5 +1,5 @@
 ---
-import { warnaProduk, inisial, duit, slugify, pautan, srcset, SAIZ_KAD, SITE } from '../lib/site.js';
+import { warnaProduk, inisial, duit, hargaCoret, slugify, pautan, srcset, SAIZ_KAD, SITE } from '../lib/site.js';
 
 const { p, ringkas = false } = Astro.props;
 const { c1, c2, sudut, lapis } = warnaProduk(p.nama, p.kategori);
@@ -31,7 +31,15 @@ const hargaTeks = p.harga > 0 ? duit(p.harga) : 'Sebut harga';
     {!ringkas && p.sku && <div class="card-meta">Kod: {p.sku}</div>}
     <div class="card-foot">
       <div class="card-price">
-        {p.harga > 0 ? <>{duit(p.harga)}<small>seunit · MOQ {SITE.moq}</small></> : <>{hargaTeks}<small>hubungi kami</small></>}
+        {p.harga > 0 ? (
+          <>
+            <s class="coret">{duit(hargaCoret(p.harga))}</s>
+            {duit(p.harga)}
+            <small>seunit · MOQ {SITE.moq}</small>
+          </>
+        ) : (
+          <>{hargaTeks}<small>hubungi kami</small></>
+        )}
       </div>
       <button
         class="card-btn"

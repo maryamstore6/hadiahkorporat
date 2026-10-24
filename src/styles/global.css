@@ -400,6 +400,18 @@ body.nav-open .mobile-nav { display: block; }
 .card-meta { font-size: .62rem; letter-spacing: .13em; text-transform: uppercase; color: var(--muted); }
 .card-foot { margin-top: auto; display: flex; flex-direction: column; gap: .6rem; padding-top: .5rem; }
 .card-price { font-family: var(--disp); font-size: 1.35rem; line-height: 1.1; }
+/* Harga coret: harga "dulu" sebelum diskaun */
+.coret {
+  font-family: var(--sans);
+  font-size: .74em;
+  font-weight: 400;
+  color: var(--muted);
+  text-decoration: line-through;
+  text-decoration-thickness: 1px;
+  margin-right: .35rem;
+  white-space: nowrap;
+}
+.price-box .coret { font-size: .55em; display: block; margin: 0 0 .1rem; }
 .card-price small {
   display: block; font-family: var(--sans); font-size: .6rem;
   letter-spacing: .13em; text-transform: uppercase; color: var(--muted); margin-top: .2rem;
@@ -524,6 +536,27 @@ textarea.input { border-radius: var(--r); resize: vertical; }
 }
 .step h3 { font-family: var(--sans); font-size: .94rem; font-weight: 600; margin-bottom: .35rem; }
 .step p { font-size: .84rem; color: var(--ink-2); }
+
+/* ---------- Ulasan pelanggan ---------- */
+.ulasan-grid {
+  display: grid; grid-template-columns: repeat(auto-fit, minmax(270px, 1fr)); gap: .9rem;
+}
+.ulasan {
+  margin: 0; background: var(--white); border: 1px solid var(--line);
+  border-radius: var(--r); padding: 1.4rem 1.5rem;
+  display: flex; flex-direction: column; gap: .9rem;
+}
+.ulasan-bintang { color: var(--gold, #a8842a); font-size: .95rem; letter-spacing: .1em; }
+.ulasan-bintang .kosong { color: var(--line); }
+.ulasan blockquote {
+  margin: 0; font-family: var(--disp); font-size: 1.12rem; line-height: 1.42;
+  color: var(--ink); flex: 1;
+}
+.ulasan figcaption { display: flex; flex-direction: column; gap: .15rem; border-top: 1px solid var(--line-2); padding-top: .8rem; }
+.ulasan figcaption b { font-size: .88rem; font-weight: 600; }
+.ulasan figcaption span {
+  font-size: .6rem; letter-spacing: .14em; text-transform: uppercase; color: var(--muted);
+}
 
 /* ---------- Kalkulator ---------- */
 .calc { display: grid; grid-template-columns: 1fr 1fr; gap: clamp(1.6rem, 4vw, 3.5rem); align-items: center; }
@@ -708,6 +741,8 @@ textarea.input { border-radius: var(--r); resize: vertical; }
   .stack-mobile .btn { width: 100%; }
 
   .steps { grid-template-columns: 1fr; }
+  .ulasan { padding: 1.15rem 1.2rem; }
+  .ulasan blockquote { font-size: 1.02rem; }
 
   /* Kaki */
   .foot-grid { grid-template-columns: 1fr; gap: 1.6rem; }

@@ -12,7 +12,7 @@ export const SITE = {
   whatsapp: '60196359232',
   emel: 'hello@hadiahkorporat.my',
   negeri: 'Melaka, Malaysia',
-  moq: 100,
+  moq: 10,
 };
 
 export const produkSemua = produk;
@@ -79,6 +79,14 @@ export function slugify(s) {
 /* Gambar wakil kategori: /kategori/<slug>-400.webp dan -800.webp */
 export function gambarKategori(nama, saiz = 400) {
   return `/kategori/${slugify(nama)}-${saiz}.webp`;
+}
+
+/* Harga coret (harga "dulu") = harga semasa x ganda ini.
+   Ubah di sini sahaja kalau mahu nisbah lain. */
+export const GANDA_CORET = 1.5;
+
+export function hargaCoret(n) {
+  return Math.round(n * GANDA_CORET * 100) / 100;
 }
 
 export function duit(n) {

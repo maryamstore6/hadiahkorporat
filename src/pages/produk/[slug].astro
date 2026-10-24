@@ -1,7 +1,7 @@
 ---
 import Base from '../../layouts/Base.astro';
 import ProductCard from '../../components/ProductCard.astro';
-import { SITE, produkSemua, warnaProduk, inisial, duit, pautan, srcset, SAIZ_HERO, slugify } from '../../lib/site.js';
+import { SITE, produkSemua, warnaProduk, inisial, duit, hargaCoret, pautan, srcset, SAIZ_HERO, slugify } from '../../lib/site.js';
 
 export function getStaticPaths() {
   return produkSemua.map((p) => ({ params: { slug: p.slug }, props: { p } }));
@@ -84,7 +84,10 @@ const hargaTeks = p.harga > 0 ? duit(p.harga) : 'Sebut harga';
         <h1 style="font-size:clamp(1.7rem,3.6vw,2.5rem)">{p.nama}</h1>
 
         <div class="price-box">
-          <div class="big">{hargaTeks}</div>
+          <div class="big">
+            {p.harga > 0 && <s class="coret">{duit(hargaCoret(p.harga))}</s>}
+            {hargaTeks}
+          </div>
           <div class="note">
             {p.harga > 0
               ? `Harga seunit untuk MOQ ${SITE.moq} pcs. Cetakan logo & penghantaran dikira berasingan.`
@@ -103,7 +106,7 @@ const hargaTeks = p.harga > 0 ? duit(p.harga) : 'Sebut harga';
         >Tambah ke senarai sebut harga</button>
 
         <div style="display:flex;gap:.6rem;margin-top:.6rem">
-          <a class="btn btn-ghost btn-sm" href={`https://wa.me/${SITE.whatsapp}?text=${encodeURIComponent(`Salam, saya berminat dengan ${p.nama}${p.sku ? ' (' + p.sku + ')' : ''}. Boleh dapatkan sebut harga untuk 100 pcs?`)}`} target="_blank" rel="noopener">Tanya terus di WhatsApp</a>
+          <a class="btn btn-ghost btn-sm" href={`https://wa.me/${SITE.whatsapp}?text=${encodeURIComponent(`Salam, saya berminat dengan ${p.nama}${p.sku ? ' (' + p.sku + ')' : ''}. Boleh dapatkan sebut harga untuk ${SITE.moq} pcs?`)}`} target="_blank" rel="noopener">Tanya terus di WhatsApp</a>
           <a class="btn btn-ghost btn-sm" href={pautan('/sebut-harga')}>Cara sebut harga</a>
         </div>
 

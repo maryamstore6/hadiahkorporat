@@ -2,6 +2,7 @@
 import Base from '../layouts/Base.astro';
 import ProductCard from '../components/ProductCard.astro';
 import { SITE, produkSemua, kategoriSemua, gambarKategori, pautan, duit } from '../lib/site.js';
+import ulasan from '../data/ulasan.json';
 
 const kategori = kategoriSemua();
 const teratas = kategori.slice(0, 10);
@@ -212,6 +213,35 @@ const adaHarga = produkSemua.filter((p) => p.harga > 0);
       </div>
     </div>
   </section>
+
+  <!-- ULASAN PELANGGAN -->
+  {ulasan.length > 0 && (
+    <section class="section section-stone" id="ulasan">
+      <div class="wrap">
+        <div class="section-head">
+          <div>
+            <p class="eyebrow">Ulasan pelanggan</p>
+            <h2>Apa kata mereka</h2>
+            <p>Pengalaman sebenar syarikat yang pesan hadiah korporat dengan kami.</p>
+          </div>
+        </div>
+        <div class="ulasan-grid">
+          {ulasan.map((u) => (
+            <figure class="ulasan">
+              <div class="ulasan-bintang" aria-label={`${u.bintang} daripada 5 bintang`}>
+                {'★'.repeat(u.bintang)}<span class="kosong">{'★'.repeat(5 - u.bintang)}</span>
+              </div>
+              <blockquote>{u.teks}</blockquote>
+              <figcaption>
+                <b>{u.nama}</b>
+                <span>{u.jawatan}{u.syarikat ? ` · ${u.syarikat}` : ''}</span>
+              </figcaption>
+            </figure>
+          ))}
+        </div>
+      </div>
+    </section>
+  )}
 
   <!-- CTA AKHIR -->
   <section class="section section-dark">

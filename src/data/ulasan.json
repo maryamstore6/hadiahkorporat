@@ -1,0 +1,23 @@
+[
+ {
+  "nama": "Nama Pelanggan 1",
+  "jawatan": "Pengurus HR",
+  "syarikat": "Syarikat Contoh Sdn Bhd",
+  "bintang": 5,
+  "teks": "GANTI DENGAN ULASAN SEBENAR. Contoh: Proses mudah, mock-up siap dalam sehari dan kualiti cetakan kemas."
+ },
+ {
+  "nama": "Nama Pelanggan 2",
+  "jawatan": "Eksekutif Pemasaran",
+  "syarikat": "Syarikat Contoh 2",
+  "bintang": 5,
+  "teks": "GANTI DENGAN ULASAN SEBENAR. Contoh: Harga seunit jelas dari awal, tiada caj tersembunyi pada bil akhir."
+ },
+ {
+  "nama": "Nama Pelanggan 3",
+  "jawatan": "Penganjur Acara",
+  "syarikat": "Syarikat Contoh 3",
+  "bintang": 5,
+  "teks": "GANTI DENGAN ULASAN SEBENAR. Contoh: Hantar tepat pada tarikh majlis, semua trophy tiada yang pecah."
+ }
+]
