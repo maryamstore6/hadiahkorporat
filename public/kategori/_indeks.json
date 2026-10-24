@@ -1,202 +1,262 @@
 {
  "Aluminium Plaque": {
   "slug": "aluminium-plaque",
-  "dari": "Aluminium Plaque (WP60)"
+  "dari": "Aluminium Plaque (WP60)",
+  "skor": 0.96
  },
  "Anti Theft Back Pack": {
   "slug": "anti-theft-back-pack",
-  "dari": "3 in 1 Anti Theft Laptop Back Pack ( Fully Padded Bag ) (LT4931)"
+  "dari": "3 in 1 Anti Theft Laptop Back Pack ( Fully Padded Bag ) (LT4931)",
+  "skor": 0.92
  },
  "Apron & Jacket": {
   "slug": "apron-and-jacket",
-  "dari": "Apron (APRON-12)"
+  "dari": "Apron (APRON-12)",
+  "skor": 0.9
  },
  "Back Pack": {
   "slug": "back-pack",
-  "dari": "Back Pack (BP3725)"
+  "dari": "Back Pack (BP5039-2)",
+  "skor": 0.87
  },
  "Bag Series": {
   "slug": "bag-series",
-  "dari": "Canvas Drawstring Bag (Color) (CDSB5590 COL)"
+  "dari": "Toiletries @ Cosmetic Bag (COS1090)",
+  "skor": 0.95
  },
  "Bath Towel": {
   "slug": "bath-towel",
-  "dari": "Bath Towel (BT21)"
+  "dari": "Bath Towel (BT270)",
+  "skor": 0.91
  },
  "Black Stone Series": {
   "slug": "black-stone-series",
-  "dari": "Black Crystal Plaque (CP3815)"
+  "dari": "Black Crystal Plaque (CP3854)",
+  "skor": 1.0
  },
  "Bottle": {
   "slug": "bottle",
-  "dari": "Aluminium Sport Bottle (ASB102(c/wbox))"
+  "dari": "Sport Bottle (SB1211)",
+  "skor": 0.98
  },
  "Cap": {
   "slug": "cap",
-  "dari": "2 Way Fisherman Cap (CAP1025)"
+  "dari": "Cap (CAP5551)",
+  "skor": 0.91
  },
  "Casing": {
   "slug": "casing",
-  "dari": "Drawstring Bag (DSB3006)"
+  "dari": "Transparent Box (PB32(boxonly))",
+  "skor": 0.99
  },
  "Certificate Holder": {
   "slug": "certificate-holder",
-  "dari": "Art Card Certificate Holder (CH225)"
+  "dari": "Craft Certificate Holder (CH232)",
+  "skor": 0.98
  },
  "Clock": {
   "slug": "clock",
-  "dari": "Round Wall Clock (CLK3015(c/wbox))"
+  "dari": "Round Wall Clock (CLK3015(c/wbox))",
+  "skor": 0.99
  },
  "Crystal Hanging Medal": {
   "slug": "crystal-hanging-medal",
-  "dari": "Crystal Hanging Medal (CHM133)"
+  "dari": "Crystal Hanging Medal (CHM136)",
+  "skor": 0.82
  },
  "Crystal Series": {
   "slug": "crystal-series",
-  "dari": "Crystal (CP3935)"
+  "dari": "Crystal (CP3936)",
+  "skor": 1.0
  },
  "Crystal Trophies & Awards": {
   "slug": "crystal-trophies-and-awards",
-  "dari": "Acrylic + Aluminium Plaque (WP55)"
+  "dari": "Crystal Hanging Medal (CHM122)",
+  "skor": 1.0
  },
  "Cutlery Set": {
   "slug": "cutlery-set",
-  "dari": "Cutlery Set (FS1260)"
+  "dari": "Cutlery Set (FS129)",
+  "skor": 0.76
  },
  "ECO - Jute & Canvas Bag": {
   "slug": "eco-jute-and-canvas-bag",
-  "dari": "Canvas Bag (CAN302(10oz))"
+  "dari": "Foldable Canvas Bag 12oz (CAN344-1)",
+  "skor": 1.0
  },
  "ECO Memo Pad": {
   "slug": "eco-memo-pad",
-  "dari": "Certificate Frame (A4 size) (CF310)"
+  "dari": "Eco Memopad with Pen Holder (EME23)",
+  "skor": 0.93
  },
  "ECO Notebook & Memo Pad": {
   "slug": "eco-notebook-and-memo-pad",
-  "dari": "ECO Notebook with Pen (ENB1255)"
+  "dari": "Eco Notebook with Pen (ENB3388)",
+  "skor": 0.96
  },
  "Eco Bag": {
   "slug": "eco-bag",
-  "dari": "Laminated PP Woven Bag"
+  "dari": "Laundry Bags / Carrier Bag (LWB560)",
+  "skor": 1.0
  },
  "Electronic Gadget": {
   "slug": "electronic-gadget",
-  "dari": "Portable Ice-cooling USB Rechargeable Handheld Fan (FAN023)"
+  "dari": "Portable USB Rechargeable Handheld Fan (FAN013)",
+  "skor": 0.73
  },
  "Empty": {
   "slug": "empty",
-  "dari": "Wooden Box (WB01)"
+  "dari": "Wooden Box (WB01)",
+  "skor": 0.9
  },
  "Face Towel & Hand Towel": {
   "slug": "face-towel-and-hand-towel",
-  "dari": "Face Towel (FT03)"
+  "dari": "Face Towel (FT14A)",
+  "skor": 0.68
  },
  "Fridge Magnet": {
   "slug": "fridge-magnet",
-  "dari": "Acrylic Fridge Magnet (FM58)"
+  "dari": "Wooden Fridge Magnet (FM61)",
+  "skor": 0.83
  },
  "Gadget": {
   "slug": "gadget",
-  "dari": "3 In 1 USB Cable (CABLE3100)"
+  "dari": "Worldwide Travel Adapter (UA931(C/WBOX))",
+  "skor": 0.98
  },
  "Gift Box": {
   "slug": "gift-box",
-  "dari": "2 in 1 Gift Box (BOX206-1)"
+  "dari": "2 in 1 Gift Box (BOX206-1)",
+  "skor": 0.97
  },
  "Gift Set": {
   "slug": "gift-set",
-  "dari": "Ceramic Mug & Electric Warmer Gift Set (CM173)"
+  "dari": "Diary Box (BOX17)",
+  "skor": 0.95
  },
  "Gift Sets & OEM Gifts": {
   "slug": "gift-sets-and-oem-gifts",
-  "dari": "BOX 09 (BOX09)"
+  "dari": "Gift Box (BOX203)",
+  "skor": 0.99
  },
  "Glass Bottle": {
   "slug": "glass-bottle",
-  "dari": "Mini Glass Bottle with Phone Stand (GB4500)"
+  "dari": "Mini Glass Bottle with Phone Stand (GB4500)",
+  "skor": 0.95
  },
  "Highlighter Pen": {
   "slug": "highlighter-pen",
-  "dari": "Coral Highlighter (HP04)"
+  "dari": "Coral Highlighter (HP04)",
+  "skor": 0.97
  },
  "Household Series": {
   "slug": "household-series",
-  "dari": "11oz Inner Colour Coating Mug (CM04(c/wbox))"
+  "dari": "Food Container (LB8147)",
+  "skor": 1.0
  },
  "IT Series": {
   "slug": "it-series",
-  "dari": "Fast Charges Power Bank (10,000mAh) (BANK6201)"
+  "dari": "Thumb Drive 16GB (UST016-1)",
+  "skor": 0.94
  },
  "Keychain": {
   "slug": "keychain",
-  "dari": "A5 Keychain Holder (KCH9292(c/wBox))"
+  "dari": "Keychain (KC15)",
+  "skor": 0.89
  },
  "Lanyard": {
   "slug": "lanyard",
-  "dari": "D Ring (LA04)"
+  "dari": "Nylon Lanyard 20mm (LYB23)",
+  "skor": 0.98
  },
  "Manicure Series": {
   "slug": "manicure-series",
-  "dari": "Manicure Set (6 in 1) (MED972)"
+  "dari": "Manicure Set (6 in 1) (MED972)",
+  "skor": 0.94
  },
  "Metal & Aluminium Pen": {
   "slug": "metal-and-aluminium-pen",
-  "dari": "Aluminium Gel Ink Pen (AP4353G)"
+  "dari": "Aluminium Gel Ink Pen (AP4353G)",
+  "skor": 0.82
  },
  "Miscellaneous": {
   "slug": "miscellaneous",
-  "dari": "3in1 Travel Set (TRS703)"
+  "dari": "Wristband (W07)",
+  "skor": 0.99
  },
  "Mug": {
   "slug": "mug",
-  "dari": "11oz Colour Coating Mug (CM77(c/wbox))"
+  "dari": "11oz Colour Coating Mug (CM77(c/wbox))",
+  "skor": 0.54
  },
  "Name Card & ID Card Holder": {
   "slug": "name-card-and-id-card-holder",
-  "dari": "ID Card Holder (ID-D)"
+  "dari": "ID Card Holder (ID-K)",
+  "skor": 0.83
  },
  "New Arrival": {
   "slug": "new-arrival",
-  "dari": "Face Towel (FT271)"
+  "dari": "Face Towel (FT271)",
+  "skor": 0.88
  },
  "Notebook": {
   "slug": "notebook",
-  "dari": "Notebook (NB5201)"
+  "dari": "Pocket Notebook (NB5077)",
+  "skor": 0.99
  },
  "OEM 2in1": {
   "slug": "oem-2in1",
-  "dari": "OEM Set – 2 in 1 (BOX1125)"
+  "dari": "OEM Set – 2 in 1 (BOX1128)",
+  "skor": 0.29
  },
  "OEM 4in1 & 3in1": {
   "slug": "oem-4in1-and-3in1",
-  "dari": "OEM Set – 4 in 1 (BOX0910)"
+  "dari": "OEM Set – 4 in 1 (BOX1007)",
+  "skor": 0.47
  },
  "PU Organizer": {
   "slug": "pu-organizer",
-  "dari": "PU Organizer (NB500-1)"
+  "dari": "PU Organizer with Calendar (NB412)",
+  "skor": 0.81
  },
  "Pen Box": {
   "slug": "pen-box",
-  "dari": "Executive Metal Pen Case (EB102)"
+  "dari": "Pen Box (Solely Buy Box Only) (PT05(Solelybuyboxonly))",
+  "skor": 0.95
  },
  "Pen Holder": {
   "slug": "pen-holder",
-  "dari": "Wooden Pen Holder (Round) (WPH1232)"
+  "dari": "Wooden Pen Holder (Round) (WPH1233)",
+  "skor": 0.44
  },
  "Pen Series": {
   "slug": "pen-series",
-  "dari": "12 pcs Eco Colour Pencil with Sharpener (Small) (ECP5566)"
+  "dari": "Hand Highlighter (HP07)",
+  "skor": 0.97
+ },
+ "Pencil Case": {
+  "slug": "pencil-case",
+  "dari": "Pencil Case (CPC669)",
+  "skor": 0.59
+ },
+ "Seminar Folder": {
+  "slug": "seminar-folder",
+  "dari": "PP Document File (A4 Size) (CPC701(A4SIZE))",
+  "skor": 0.77
  },
  "Thumb Drive": {
   "slug": "thumb-drive",
-  "dari": "Pendrive Box (If Purchase IG Pendrive) (PB9335(withIGproduct))"
+  "dari": "Pendrive Box (If Purchase IG Pendrive) (PB9335(withIGproduct))",
+  "skor": 0.78
  },
  "Towel Series": {
   "slug": "towel-series",
-  "dari": "Bath Towel (BT20-M)"
+  "dari": "Bath Towel (BT267)",
+  "skor": 1.0
  },
  "Umbrella Series": {
   "slug": "umbrella-series",
-  "dari": "( 1 set ) Front Mirror Sun Shade (SSF10)"
+  "dari": "Umbrella (SC306)",
+  "skor": 0.98
  }
 }

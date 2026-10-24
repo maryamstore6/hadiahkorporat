@@ -1,6 +1,6 @@
 # HadiahKorporat
 
-Katalog hadiah korporat bercetak logo — **969 produk**, 50 kategori.
+Katalog hadiah korporat bercetak logo — **1,296 produk**, 52 kategori.
 Dibina dengan **Astro 5** (statik, tiada runtime JS selain penapis katalog).
 
 **Laman live:** https://maryamstore6.github.io/hadiahkorporat/
@@ -34,7 +34,7 @@ Dibina dengan **Astro 5** (statik, tiada runtime JS selain penapis katalog).
 
 ```
 src/
-  data/produk.json        ← 969 produk (nama, slug, sku, harga, kategori, jenama)
+  data/produk.json        ← 1,296 produk (nama, slug, sku, harga, kategori, jenama)
   lib/site.js             ← tetapan laman + pembantu (warna, slug, format harga)
   layouts/Base.astro      ← kepala, kaki, panel senarai sebut harga
   components/ProductCard.astro

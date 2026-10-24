@@ -14806,5 +14806,5235 @@
    "/gambar/wooden-umbrella-auto-wds126-g2.webp",
    "/gambar/wooden-umbrella-auto-wds126-g3.webp"
   ]
+ },
+ {
+  "id": 10174,
+  "slug": "crystal-plaque-cp3618",
+  "nama": "Crystal Plaque (CP3618)",
+  "sku": "CP3618",
+  "harga": 84.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/crystal-plaque-cp3618.webp",
+  "galeri": [
+   "/gambar/crystal-plaque-cp3618-g2.webp",
+   "/gambar/crystal-plaque-cp3618-g3.webp"
+  ]
+ },
+ {
+  "id": 10168,
+  "slug": "crystal-cp3614",
+  "nama": "Crystal (CP3614)",
+  "sku": "CP3614",
+  "harga": 63.8,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/crystal-cp3614.webp",
+  "galeri": [
+   "/gambar/crystal-cp3614-g2.webp",
+   "/gambar/crystal-cp3614-g3.webp",
+   "/gambar/crystal-cp3614-g4.webp"
+  ]
+ },
+ {
+  "id": 10162,
+  "slug": "crystal-cp3613",
+  "nama": "Crystal (CP3613)",
+  "sku": "CP3613(c/wbox)",
+  "harga": 63.8,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/crystal-cp3613.webp",
+  "galeri": [
+   "/gambar/crystal-cp3613-g2.webp",
+   "/gambar/crystal-cp3613-g3.webp"
+  ]
+ },
+ {
+  "id": 10156,
+  "slug": "crystal-plaque-cp3612",
+  "nama": "Crystal Plaque (CP3612)",
+  "sku": "CP3612",
+  "harga": 63.8,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/crystal-plaque-cp3612.webp",
+  "galeri": [
+   "/gambar/crystal-plaque-cp3612-g2.webp",
+   "/gambar/crystal-plaque-cp3612-g3.webp",
+   "/gambar/crystal-plaque-cp3612-g4.webp"
+  ]
+ },
+ {
+  "id": 10150,
+  "slug": "crystal-plaque-cp3611",
+  "nama": "Crystal Plaque (CP3611)",
+  "sku": "CP3611",
+  "harga": 63.8,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/crystal-plaque-cp3611.webp",
+  "galeri": [
+   "/gambar/crystal-plaque-cp3611-g2.webp",
+   "/gambar/crystal-plaque-cp3611-g3.webp",
+   "/gambar/crystal-plaque-cp3611-g4.webp"
+  ]
+ },
+ {
+  "id": 8931,
+  "slug": "eco-restick-memopad-eme3008",
+  "nama": "Eco Restick Memopad (EME3008)",
+  "sku": "EME3008",
+  "harga": 2.6,
+  "kategori": "ECO Memo Pad",
+  "kategori_lain": [],
+  "jenama": null,
+  "gambar": "/gambar/eco-restick-memopad-eme3008.webp",
+  "galeri": [
+   "/gambar/eco-restick-memopad-eme3008-g2.webp",
+   "/gambar/eco-restick-memopad-eme3008-g3.webp"
+  ]
+ },
+ {
+  "id": 8924,
+  "slug": "eco-restick-memopad-eme3003",
+  "nama": "Eco Restick Memopad (EME3003)",
+  "sku": "EME3003",
+  "harga": 2.8,
+  "kategori": "ECO Memo Pad",
+  "kategori_lain": [],
+  "jenama": null,
+  "gambar": "/gambar/eco-restick-memopad-eme3003.webp",
+  "galeri": [
+   "/gambar/eco-restick-memopad-eme3003-g2.webp",
+   "/gambar/eco-restick-memopad-eme3003-g3.webp"
+  ]
+ },
+ {
+  "id": 8917,
+  "slug": "eco-restick-memopad-eme3225",
+  "nama": "Eco Restick Memopad (EME3225)",
+  "sku": "EME3225",
+  "harga": 4.0,
+  "kategori": "ECO Memo Pad",
+  "kategori_lain": [],
+  "jenama": null,
+  "gambar": "/gambar/eco-restick-memopad-eme3225.webp",
+  "galeri": [
+   "/gambar/eco-restick-memopad-eme3225-g2.webp",
+   "/gambar/eco-restick-memopad-eme3225-g3.webp",
+   "/gambar/eco-restick-memopad-eme3225-g4.webp",
+   "/gambar/eco-restick-memopad-eme3225-g5.webp"
+  ]
+ },
+ {
+  "id": 8909,
+  "slug": "eco-restick-memopad-eme772",
+  "nama": "Eco Restick Memopad (EME772)",
+  "sku": "EME772",
+  "harga": 7.5,
+  "kategori": "ECO Memo Pad",
+  "kategori_lain": [],
+  "jenama": null,
+  "gambar": "/gambar/eco-restick-memopad-eme772.webp"
+ },
+ {
+  "id": 8900,
+  "slug": "eco-notebook-with-pen-enb1210",
+  "nama": "Eco Notebook with Pen (ENB1210)",
+  "sku": "ENB1210",
+  "harga": 5.2,
+  "kategori": "ECO Notebook & Memo Pad",
+  "kategori_lain": [],
+  "jenama": null,
+  "gambar": "/gambar/eco-notebook-with-pen-enb1210.webp",
+  "galeri": [
+   "/gambar/eco-notebook-with-pen-enb1210-g2.webp",
+   "/gambar/eco-notebook-with-pen-enb1210-g3.webp",
+   "/gambar/eco-notebook-with-pen-enb1210-g4.webp"
+  ]
+ },
+ {
+  "id": 8894,
+  "slug": "eco-notebook-with-pen-enb4440",
+  "nama": "Eco Notebook with Pen (ENB4440)",
+  "sku": "ENB4440",
+  "harga": 5.4,
+  "kategori": "ECO Notebook & Memo Pad",
+  "kategori_lain": [],
+  "jenama": null,
+  "gambar": "/gambar/eco-notebook-with-pen-enb4440.webp",
+  "galeri": [
+   "/gambar/eco-notebook-with-pen-enb4440-g2.webp",
+   "/gambar/eco-notebook-with-pen-enb4440-g3.webp",
+   "/gambar/eco-notebook-with-pen-enb4440-g4.webp"
+  ]
+ },
+ {
+  "id": 8891,
+  "slug": "eco-notebook-with-pen-enb8020",
+  "nama": "Eco Notebook with Pen (ENB8020)",
+  "sku": "ENB8020",
+  "harga": 9.6,
+  "kategori": "ECO Notebook & Memo Pad",
+  "kategori_lain": [],
+  "jenama": null,
+  "gambar": "/gambar/eco-notebook-with-pen-enb8020.webp"
+ },
+ {
+  "id": 8887,
+  "slug": "eco-notebook-with-pen-enb3302",
+  "nama": "Eco Notebook with Pen (ENB3302)",
+  "sku": "ENB3302",
+  "harga": 5.0,
+  "kategori": "ECO Notebook & Memo Pad",
+  "kategori_lain": [],
+  "jenama": null,
+  "gambar": "/gambar/eco-notebook-with-pen-enb3302.webp",
+  "galeri": [
+   "/gambar/eco-notebook-with-pen-enb3302-g2.webp"
+  ]
+ },
+ {
+  "id": 8878,
+  "slug": "eco-notebook-with-pen-enb7185b",
+  "nama": "Eco Notebook with Pen (ENB7185B)",
+  "sku": "ENB7185B",
+  "harga": 12.6,
+  "kategori": "ECO Notebook & Memo Pad",
+  "kategori_lain": [],
+  "jenama": null,
+  "gambar": "/gambar/eco-notebook-with-pen-enb7185b.webp",
+  "galeri": [
+   "/gambar/eco-notebook-with-pen-enb7185b-g2.webp",
+   "/gambar/eco-notebook-with-pen-enb7185b-g3.webp",
+   "/gambar/eco-notebook-with-pen-enb7185b-g4.webp",
+   "/gambar/eco-notebook-with-pen-enb7185b-g5.webp"
+  ]
+ },
+ {
+  "id": 8864,
+  "slug": "eco-notebook-with-pen-enb3388",
+  "nama": "Eco Notebook with Pen (ENB3388)",
+  "sku": "ENB3388",
+  "harga": 9.4,
+  "kategori": "ECO Notebook & Memo Pad",
+  "kategori_lain": [],
+  "jenama": null,
+  "gambar": "/gambar/eco-notebook-with-pen-enb3388.webp",
+  "galeri": [
+   "/gambar/eco-notebook-with-pen-enb3388-g2.webp",
+   "/gambar/eco-notebook-with-pen-enb3388-g3.webp",
+   "/gambar/eco-notebook-with-pen-enb3388-g4.webp",
+   "/gambar/eco-notebook-with-pen-enb3388-g5.webp",
+   "/gambar/eco-notebook-with-pen-enb3388-g6.webp"
+  ]
+ },
+ {
+  "id": 8858,
+  "slug": "eco-notebook-with-pen-enb1105",
+  "nama": "Eco Notebook with Pen (ENB1105)",
+  "sku": "ENB1105",
+  "harga": 5.0,
+  "kategori": "ECO Notebook & Memo Pad",
+  "kategori_lain": [],
+  "jenama": null,
+  "gambar": "/gambar/eco-notebook-with-pen-enb1105.webp",
+  "galeri": [
+   "/gambar/eco-notebook-with-pen-enb1105-g2.webp",
+   "/gambar/eco-notebook-with-pen-enb1105-g3.webp",
+   "/gambar/eco-notebook-with-pen-enb1105-g4.webp"
+  ]
+ },
+ {
+  "id": 8851,
+  "slug": "eco-notebook-with-pen-enb1255-5",
+  "nama": "ECO Notebook with Pen (ENB1255)",
+  "sku": "ENB1255",
+  "harga": 7.8,
+  "kategori": "ECO Notebook & Memo Pad",
+  "kategori_lain": [],
+  "jenama": null,
+  "gambar": "/gambar/eco-notebook-with-pen-enb1255-5.webp",
+  "galeri": [
+   "/gambar/eco-notebook-with-pen-enb1255-5-g2.webp",
+   "/gambar/eco-notebook-with-pen-enb1255-5-g3.webp",
+   "/gambar/eco-notebook-with-pen-enb1255-5-g4.webp",
+   "/gambar/eco-notebook-with-pen-enb1255-5-g5.webp"
+  ]
+ },
+ {
+  "id": 8845,
+  "slug": "eco-notebook-with-pen-enb1258",
+  "nama": "Eco Notebook with Pen (ENB1258)",
+  "sku": "ENB1258",
+  "harga": 5.8,
+  "kategori": "ECO Notebook & Memo Pad",
+  "kategori_lain": [],
+  "jenama": null,
+  "gambar": "/gambar/eco-notebook-with-pen-enb1258.webp",
+  "galeri": [
+   "/gambar/eco-notebook-with-pen-enb1258-g2.webp",
+   "/gambar/eco-notebook-with-pen-enb1258-g3.webp",
+   "/gambar/eco-notebook-with-pen-enb1258-g4.webp"
+  ]
+ },
+ {
+  "id": 8842,
+  "slug": "eco-notebook-with-pen-enb7130",
+  "nama": "Eco Notebook with Pen (ENB7130)",
+  "sku": "ENB7130",
+  "harga": 9.8,
+  "kategori": "ECO Notebook & Memo Pad",
+  "kategori_lain": [],
+  "jenama": null,
+  "gambar": "/gambar/eco-notebook-with-pen-enb7130.webp"
+ },
+ {
+  "id": 8833,
+  "slug": "eco-notebook-with-pen-enb1250",
+  "nama": "ECO Notebook with Pen (ENB1250)",
+  "sku": "ENB1250",
+  "harga": 8.2,
+  "kategori": "ECO Notebook & Memo Pad",
+  "kategori_lain": [],
+  "jenama": null,
+  "gambar": "/gambar/eco-notebook-with-pen-enb1250.webp"
+ },
+ {
+  "id": 8827,
+  "slug": "eco-notebook-with-pen-enb3130",
+  "nama": "ECO Notebook with Pen (ENB3130)",
+  "sku": "ENB3130",
+  "harga": 5.4,
+  "kategori": "ECO Notebook & Memo Pad",
+  "kategori_lain": [],
+  "jenama": null,
+  "gambar": "/gambar/eco-notebook-with-pen-enb3130.webp",
+  "galeri": [
+   "/gambar/eco-notebook-with-pen-enb3130-g2.webp",
+   "/gambar/eco-notebook-with-pen-enb3130-g3.webp",
+   "/gambar/eco-notebook-with-pen-enb3130-g4.webp"
+  ]
+ },
+ {
+  "id": 8822,
+  "slug": "eco-notebook-with-pen-enb1203",
+  "nama": "Eco Notebook with Pen (ENB1203)",
+  "sku": "ENB1203",
+  "harga": 7.8,
+  "kategori": "ECO Notebook & Memo Pad",
+  "kategori_lain": [],
+  "jenama": null,
+  "gambar": "/gambar/eco-notebook-with-pen-enb1203.webp",
+  "galeri": [
+   "/gambar/eco-notebook-with-pen-enb1203-g2.webp",
+   "/gambar/eco-notebook-with-pen-enb1203-g3.webp"
+  ]
+ },
+ {
+  "id": 8808,
+  "slug": "notebook-with-restick-memo-pad-and-pen-nb1781",
+  "nama": "Notebook with Restick Memo Pad and Pen (NB1781)",
+  "sku": "NB1781",
+  "harga": 10.4,
+  "kategori": "Notebook",
+  "kategori_lain": [
+   "PU Organizer"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/notebook-with-restick-memo-pad-and-pen-nb1781.webp",
+  "galeri": [
+   "/gambar/notebook-with-restick-memo-pad-and-pen-nb1781-g2.webp",
+   "/gambar/notebook-with-restick-memo-pad-and-pen-nb1781-g3.webp",
+   "/gambar/notebook-with-restick-memo-pad-and-pen-nb1781-g4.webp"
+  ]
+ },
+ {
+  "id": 8802,
+  "slug": "pocket-notebook-pocket-size-nb1088",
+  "nama": "Pocket Notebook (Pocket size) (NB1088)",
+  "sku": "NB1088",
+  "harga": 3.2,
+  "kategori": "Notebook",
+  "kategori_lain": [],
+  "jenama": null,
+  "gambar": "/gambar/pocket-notebook-pocket-size-nb1088.webp",
+  "galeri": [
+   "/gambar/pocket-notebook-pocket-size-nb1088-g2.webp",
+   "/gambar/pocket-notebook-pocket-size-nb1088-g3.webp",
+   "/gambar/pocket-notebook-pocket-size-nb1088-g4.webp"
+  ]
+ },
+ {
+  "id": 8794,
+  "slug": "pocket-notebook-pocket-size-nb105",
+  "nama": "Pocket Notebook (Pocket size) (NB105)",
+  "sku": "NB105",
+  "harga": 1.7,
+  "kategori": "Notebook",
+  "kategori_lain": [
+   "PU Organizer"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/pocket-notebook-pocket-size-nb105.webp",
+  "galeri": [
+   "/gambar/pocket-notebook-pocket-size-nb105-g2.webp",
+   "/gambar/pocket-notebook-pocket-size-nb105-g3.webp",
+   "/gambar/pocket-notebook-pocket-size-nb105-g4.webp",
+   "/gambar/pocket-notebook-pocket-size-nb105-g5.webp",
+   "/gambar/pocket-notebook-pocket-size-nb105-g6.webp"
+  ]
+ },
+ {
+  "id": 8791,
+  "slug": "notebook-with-pen-nb1292",
+  "nama": "Notebook with Pen (NB1292)",
+  "sku": "NB1292",
+  "harga": 8.2,
+  "kategori": "Notebook",
+  "kategori_lain": [],
+  "jenama": null,
+  "gambar": "/gambar/notebook-with-pen-nb1292.webp"
+ },
+ {
+  "id": 8785,
+  "slug": "notebook-with-pen-nb1092",
+  "nama": "Notebook with Pen (NB1092)",
+  "sku": "NB1092",
+  "harga": 4.6,
+  "kategori": "Notebook",
+  "kategori_lain": [],
+  "jenama": null,
+  "gambar": "/gambar/notebook-with-pen-nb1092.webp",
+  "galeri": [
+   "/gambar/notebook-with-pen-nb1092-g2.webp",
+   "/gambar/notebook-with-pen-nb1092-g3.webp",
+   "/gambar/notebook-with-pen-nb1092-g4.webp"
+  ]
+ },
+ {
+  "id": 8779,
+  "slug": "notebook-nb1061",
+  "nama": "Notebook (NB1061)",
+  "sku": "NB1061",
+  "harga": 3.3,
+  "kategori": "Notebook",
+  "kategori_lain": [],
+  "jenama": null,
+  "gambar": "/gambar/notebook-nb1061.webp",
+  "galeri": [
+   "/gambar/notebook-nb1061-g2.webp",
+   "/gambar/notebook-nb1061-g3.webp",
+   "/gambar/notebook-nb1061-g4.webp"
+  ]
+ },
+ {
+  "id": 8769,
+  "slug": "notebook-with-pen-nb1207",
+  "nama": "Notebook with Pen (NB1207)",
+  "sku": "NB1207",
+  "harga": 7.8,
+  "kategori": "Notebook",
+  "kategori_lain": [],
+  "jenama": null,
+  "gambar": "/gambar/notebook-with-pen-nb1207.webp"
+ },
+ {
+  "id": 8762,
+  "slug": "notebook-nb106",
+  "nama": "Notebook (NB106)",
+  "sku": "NB106",
+  "harga": 3.0,
+  "kategori": "Notebook",
+  "kategori_lain": [
+   "PU Organizer"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/notebook-nb106.webp",
+  "galeri": [
+   "/gambar/notebook-nb106-g2.webp",
+   "/gambar/notebook-nb106-g3.webp",
+   "/gambar/notebook-nb106-g4.webp",
+   "/gambar/notebook-nb106-g5.webp"
+  ]
+ },
+ {
+  "id": 8755,
+  "slug": "notebook-with-pen-nb180",
+  "nama": "Notebook with Pen (NB180)",
+  "sku": "NB180",
+  "harga": 4.7,
+  "kategori": "Notebook",
+  "kategori_lain": [],
+  "jenama": null,
+  "gambar": "/gambar/notebook-with-pen-nb180.webp",
+  "galeri": [
+   "/gambar/notebook-with-pen-nb180-g2.webp",
+   "/gambar/notebook-with-pen-nb180-g3.webp",
+   "/gambar/notebook-with-pen-nb180-g4.webp",
+   "/gambar/notebook-with-pen-nb180-g5.webp"
+  ]
+ },
+ {
+  "id": 8748,
+  "slug": "notebook-with-pen-pocket-size-nb101",
+  "nama": "Notebook with Pen (Pocket size) (NB101)",
+  "sku": "NB101",
+  "harga": 4.7,
+  "kategori": "Notebook",
+  "kategori_lain": [],
+  "jenama": null,
+  "gambar": "/gambar/notebook-with-pen-pocket-size-nb101.webp",
+  "galeri": [
+   "/gambar/notebook-with-pen-pocket-size-nb101-g2.webp",
+   "/gambar/notebook-with-pen-pocket-size-nb101-g3.webp",
+   "/gambar/notebook-with-pen-pocket-size-nb101-g4.webp",
+   "/gambar/notebook-with-pen-pocket-size-nb101-g5.webp"
+  ]
+ },
+ {
+  "id": 8740,
+  "slug": "notebook-with-pen-pocket-size-nb104",
+  "nama": "Notebook with Pen (Pocket size) (NB104)",
+  "sku": "NB104",
+  "harga": 3.6,
+  "kategori": "Notebook",
+  "kategori_lain": [],
+  "jenama": null,
+  "gambar": "/gambar/notebook-with-pen-pocket-size-nb104.webp",
+  "galeri": [
+   "/gambar/notebook-with-pen-pocket-size-nb104-g2.webp",
+   "/gambar/notebook-with-pen-pocket-size-nb104-g3.webp",
+   "/gambar/notebook-with-pen-pocket-size-nb104-g4.webp",
+   "/gambar/notebook-with-pen-pocket-size-nb104-g5.webp",
+   "/gambar/notebook-with-pen-pocket-size-nb104-g6.webp"
+  ]
+ },
+ {
+  "id": 8734,
+  "slug": "notebook-with-pen-nb1271",
+  "nama": "Notebook with Pen (NB1271)",
+  "sku": "NB1271",
+  "harga": 7.8,
+  "kategori": "Notebook",
+  "kategori_lain": [],
+  "jenama": null,
+  "gambar": "/gambar/notebook-with-pen-nb1271.webp",
+  "galeri": [
+   "/gambar/notebook-with-pen-nb1271-g2.webp",
+   "/gambar/notebook-with-pen-nb1271-g3.webp",
+   "/gambar/notebook-with-pen-nb1271-g4.webp"
+  ]
+ },
+ {
+  "id": 8721,
+  "slug": "pocket-notebook-nb5077",
+  "nama": "Pocket Notebook (NB5077)",
+  "sku": "NB5077",
+  "harga": 7.8,
+  "kategori": "Notebook",
+  "kategori_lain": [
+   "PU Organizer"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/pocket-notebook-nb5077.webp",
+  "galeri": [
+   "/gambar/pocket-notebook-nb5077-g2.webp",
+   "/gambar/pocket-notebook-nb5077-g3.webp",
+   "/gambar/pocket-notebook-nb5077-g4.webp",
+   "/gambar/pocket-notebook-nb5077-g5.webp"
+  ]
+ },
+ {
+  "id": 8707,
+  "slug": "organizer-nb505",
+  "nama": "Organizer (NB505)",
+  "sku": "NB505",
+  "harga": 13.0,
+  "kategori": "Notebook",
+  "kategori_lain": [
+   "PU Organizer"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/organizer-nb505.webp",
+  "galeri": [
+   "/gambar/organizer-nb505-g2.webp",
+   "/gambar/organizer-nb505-g3.webp",
+   "/gambar/organizer-nb505-g4.webp",
+   "/gambar/organizer-nb505-g5.webp",
+   "/gambar/organizer-nb505-g6.webp"
+  ]
+ },
+ {
+  "id": 8698,
+  "slug": "pu-organizer-nb509",
+  "nama": "PU Organizer (NB509)",
+  "sku": "NB509",
+  "harga": 18.0,
+  "kategori": "Notebook",
+  "kategori_lain": [
+   "PU Organizer"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/pu-organizer-nb509.webp",
+  "galeri": [
+   "/gambar/pu-organizer-nb509-g2.webp",
+   "/gambar/pu-organizer-nb509-g3.webp",
+   "/gambar/pu-organizer-nb509-g4.webp",
+   "/gambar/pu-organizer-nb509-g5.webp",
+   "/gambar/pu-organizer-nb509-g6.webp"
+  ]
+ },
+ {
+  "id": 8676,
+  "slug": "pu-organizer-nb503",
+  "nama": "PU Organizer (NB503)",
+  "sku": "NB503",
+  "harga": 39.0,
+  "kategori": "PU Organizer",
+  "kategori_lain": [],
+  "jenama": null,
+  "gambar": "/gambar/pu-organizer-nb503.webp",
+  "galeri": [
+   "/gambar/pu-organizer-nb503-g2.webp",
+   "/gambar/pu-organizer-nb503-g3.webp"
+  ]
+ },
+ {
+  "id": 8673,
+  "slug": "pu-organizer-nb252",
+  "nama": "PU Organizer (NB252)",
+  "sku": "NB252",
+  "harga": 42.0,
+  "kategori": "PU Organizer",
+  "kategori_lain": [],
+  "jenama": null,
+  "gambar": "/gambar/pu-organizer-nb252.webp"
+ },
+ {
+  "id": 8670,
+  "slug": "pu-organizer-nb702",
+  "nama": "PU Organizer (NB702)",
+  "sku": "NB702",
+  "harga": 42.0,
+  "kategori": "PU Organizer",
+  "kategori_lain": [],
+  "jenama": null,
+  "gambar": "/gambar/pu-organizer-nb702.webp"
+ },
+ {
+  "id": 8667,
+  "slug": "pu-organizer-nb255",
+  "nama": "PU Organizer (NB255)",
+  "sku": "NB255",
+  "harga": 31.8,
+  "kategori": "PU Organizer",
+  "kategori_lain": [],
+  "jenama": null,
+  "gambar": "/gambar/pu-organizer-nb255.webp"
+ },
+ {
+  "id": 8661,
+  "slug": "pu-organizer-nb411",
+  "nama": "PU Organizer (NB411)",
+  "sku": "NB411",
+  "harga": 43.0,
+  "kategori": "Notebook",
+  "kategori_lain": [
+   "PU Organizer"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/pu-organizer-nb411.webp",
+  "galeri": [
+   "/gambar/pu-organizer-nb411-g2.webp",
+   "/gambar/pu-organizer-nb411-g3.webp",
+   "/gambar/pu-organizer-nb411-g4.webp"
+  ]
+ },
+ {
+  "id": 8658,
+  "slug": "pu-organizer-nb257",
+  "nama": "PU Organizer (NB257)",
+  "sku": "NB257",
+  "harga": 21.8,
+  "kategori": "PU Organizer",
+  "kategori_lain": [],
+  "jenama": null,
+  "gambar": "/gambar/pu-organizer-nb257.webp"
+ },
+ {
+  "id": 8655,
+  "slug": "pu-organizer-nb256",
+  "nama": "PU Organizer (NB256)",
+  "sku": "NB256",
+  "harga": 23.0,
+  "kategori": "Notebook",
+  "kategori_lain": [
+   "PU Organizer"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/pu-organizer-nb256.webp"
+ },
+ {
+  "id": 8650,
+  "slug": "pu-organizer-nb6088",
+  "nama": "PU Organizer (NB6088)",
+  "sku": "NB6088",
+  "harga": 47.0,
+  "kategori": "Notebook",
+  "kategori_lain": [
+   "PU Organizer"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/pu-organizer-nb6088.webp",
+  "galeri": [
+   "/gambar/pu-organizer-nb6088-g2.webp",
+   "/gambar/pu-organizer-nb6088-g3.webp"
+  ]
+ },
+ {
+  "id": 8643,
+  "slug": "pu-organizer-nb280",
+  "nama": "PU Organizer (NB280)",
+  "sku": "NB280",
+  "harga": 36.0,
+  "kategori": "PU Organizer",
+  "kategori_lain": [],
+  "jenama": null,
+  "gambar": "/gambar/pu-organizer-nb280.webp",
+  "galeri": [
+   "/gambar/pu-organizer-nb280-g2.webp",
+   "/gambar/pu-organizer-nb280-g3.webp",
+   "/gambar/pu-organizer-nb280-g4.webp",
+   "/gambar/pu-organizer-nb280-g5.webp"
+  ]
+ },
+ {
+  "id": 8636,
+  "slug": "pu-organizer-nb701",
+  "nama": "PU Organizer (NB701)",
+  "sku": "NB701",
+  "harga": 43.0,
+  "kategori": "Notebook",
+  "kategori_lain": [
+   "PU Organizer"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/pu-organizer-nb701.webp",
+  "galeri": [
+   "/gambar/pu-organizer-nb701-g2.webp",
+   "/gambar/pu-organizer-nb701-g3.webp"
+  ]
+ },
+ {
+  "id": 8629,
+  "slug": "pu-organizer-nb410",
+  "nama": "PU Organizer (NB410)",
+  "sku": "NB410",
+  "harga": 44.0,
+  "kategori": "PU Organizer",
+  "kategori_lain": [],
+  "jenama": null,
+  "gambar": "/gambar/pu-organizer-nb410.webp",
+  "galeri": [
+   "/gambar/pu-organizer-nb410-g2.webp",
+   "/gambar/pu-organizer-nb410-g3.webp",
+   "/gambar/pu-organizer-nb410-g4.webp",
+   "/gambar/pu-organizer-nb410-g5.webp"
+  ]
+ },
+ {
+  "id": 8623,
+  "slug": "pu-organizer-nb258",
+  "nama": "PU Organizer (NB258)",
+  "sku": "NB258",
+  "harga": 43.8,
+  "kategori": "PU Organizer",
+  "kategori_lain": [],
+  "jenama": null,
+  "gambar": "/gambar/pu-organizer-nb258.webp",
+  "galeri": [
+   "/gambar/pu-organizer-nb258-g2.webp",
+   "/gambar/pu-organizer-nb258-g3.webp",
+   "/gambar/pu-organizer-nb258-g4.webp"
+  ]
+ },
+ {
+  "id": 8594,
+  "slug": "pp-document-file-file105",
+  "nama": "PP Document File (FILE105)",
+  "sku": "FILE105",
+  "harga": 1.8,
+  "kategori": "Miscellaneous",
+  "kategori_lain": [],
+  "jenama": null,
+  "gambar": "/gambar/pp-document-file-file105.webp",
+  "galeri": [
+   "/gambar/pp-document-file-file105-g2.webp",
+   "/gambar/pp-document-file-file105-g3.webp",
+   "/gambar/pp-document-file-file105-g4.webp",
+   "/gambar/pp-document-file-file105-g5.webp"
+  ]
+ },
+ {
+  "id": 8583,
+  "slug": "pp-document-file-a4-size-cpc701-a4size",
+  "nama": "PP Document File (A4 Size) (CPC701(A4SIZE))",
+  "sku": "CPC701(A4SIZE)",
+  "harga": 4.0,
+  "kategori": "Seminar Folder",
+  "kategori_lain": [],
+  "jenama": null,
+  "gambar": "/gambar/pp-document-file-a4-size-cpc701-a4size.webp",
+  "galeri": [
+   "/gambar/pp-document-file-a4-size-cpc701-a4size-g2.webp",
+   "/gambar/pp-document-file-a4-size-cpc701-a4size-g3.webp",
+   "/gambar/pp-document-file-a4-size-cpc701-a4size-g4.webp",
+   "/gambar/pp-document-file-a4-size-cpc701-a4size-g5.webp",
+   "/gambar/pp-document-file-a4-size-cpc701-a4size-g6.webp"
+  ]
+ },
+ {
+  "id": 8577,
+  "slug": "pencil-case-cpc667",
+  "nama": "Pencil Case (CPC667)",
+  "sku": "CPC667",
+  "harga": 2.6,
+  "kategori": "Pencil Case",
+  "kategori_lain": [],
+  "jenama": null,
+  "gambar": "/gambar/pencil-case-cpc667.webp",
+  "galeri": [
+   "/gambar/pencil-case-cpc667-g2.webp",
+   "/gambar/pencil-case-cpc667-g3.webp",
+   "/gambar/pencil-case-cpc667-g4.webp"
+  ]
+ },
+ {
+  "id": 8571,
+  "slug": "pencil-case-cpc670",
+  "nama": "Pencil Case (CPC670)",
+  "sku": "CPC670",
+  "harga": 2.7,
+  "kategori": "Pencil Case",
+  "kategori_lain": [],
+  "jenama": null,
+  "gambar": "/gambar/pencil-case-cpc670.webp",
+  "galeri": [
+   "/gambar/pencil-case-cpc670-g2.webp",
+   "/gambar/pencil-case-cpc670-g3.webp"
+  ]
+ },
+ {
+  "id": 8566,
+  "slug": "pencil-case-cpc669",
+  "nama": "Pencil Case (CPC669)",
+  "sku": "CPC669",
+  "harga": 5.0,
+  "kategori": "Pencil Case",
+  "kategori_lain": [],
+  "jenama": null,
+  "gambar": "/gambar/pencil-case-cpc669.webp",
+  "galeri": [
+   "/gambar/pencil-case-cpc669-g2.webp",
+   "/gambar/pencil-case-cpc669-g3.webp"
+  ]
+ },
+ {
+  "id": 8541,
+  "slug": "pen-box-pt04",
+  "nama": "Pen Box (PT04)",
+  "sku": "PT04",
+  "harga": 0.6,
+  "kategori": "Pen Box",
+  "kategori_lain": [
+   "Pen Series"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/pen-box-pt04.webp",
+  "galeri": [
+   "/gambar/pen-box-pt04-g2.webp",
+   "/gambar/pen-box-pt04-g3.webp",
+   "/gambar/pen-box-pt04-g4.webp",
+   "/gambar/pen-box-pt04-g5.webp",
+   "/gambar/pen-box-pt04-g6.webp"
+  ]
+ },
+ {
+  "id": 8535,
+  "slug": "wooden-box-wb03",
+  "nama": "Wooden Box (WB03)",
+  "sku": "WB03",
+  "harga": 3.0,
+  "kategori": "Pen Box",
+  "kategori_lain": [
+   "Pen Series"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/wooden-box-wb03.webp",
+  "galeri": [
+   "/gambar/wooden-box-wb03-g2.webp"
+  ]
+ },
+ {
+  "id": 8526,
+  "slug": "12-pcs-eco-colour-pencil-with-sharpener-small-ecp5566-3",
+  "nama": "12 pcs Eco Colour Pencil with Sharpener (Small) (ECP5566)",
+  "sku": "ECP5566",
+  "harga": 4.6,
+  "kategori": "Pen Series",
+  "kategori_lain": [
+   "Plastic Pen"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/12-pcs-eco-colour-pencil-with-sharpener-small-ecp5566-3.webp",
+  "galeri": [
+   "/gambar/12-pcs-eco-colour-pencil-with-sharpener-small-ecp5566-3-g2.webp",
+   "/gambar/12-pcs-eco-colour-pencil-with-sharpener-small-ecp5566-3-g3.webp",
+   "/gambar/12-pcs-eco-colour-pencil-with-sharpener-small-ecp5566-3-g4.webp",
+   "/gambar/12-pcs-eco-colour-pencil-with-sharpener-small-ecp5566-3-g5.webp"
+  ]
+ },
+ {
+  "id": 8520,
+  "slug": "eco-pen-epp38",
+  "nama": "ECO Pen (EPP38)",
+  "sku": "EPP38",
+  "harga": 1.0,
+  "kategori": "Pen Series",
+  "kategori_lain": [
+   "Plastic Pen"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/eco-pen-epp38.webp",
+  "galeri": [
+   "/gambar/eco-pen-epp38-g2.webp",
+   "/gambar/eco-pen-epp38-g3.webp",
+   "/gambar/eco-pen-epp38-g4.webp"
+  ]
+ },
+ {
+  "id": 8505,
+  "slug": "3-in-1-styler-pen-pps8202",
+  "nama": "3 in 1 Styler Pen (PPS8202)",
+  "sku": "PPS8202",
+  "harga": 2.3,
+  "kategori": "Pen Series",
+  "kategori_lain": [
+   "Plastic Pen"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/3-in-1-styler-pen-pps8202.webp",
+  "galeri": [
+   "/gambar/3-in-1-styler-pen-pps8202-g2.webp",
+   "/gambar/3-in-1-styler-pen-pps8202-g3.webp",
+   "/gambar/3-in-1-styler-pen-pps8202-g4.webp"
+  ]
+ },
+ {
+  "id": 8496,
+  "slug": "styler-pen-pps5918",
+  "nama": "Styler Pen (PPS5918)",
+  "sku": "PPS5918",
+  "harga": 2.4,
+  "kategori": "Pen Series",
+  "kategori_lain": [
+   "Plastic Pen"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/styler-pen-pps5918.webp",
+  "galeri": [
+   "/gambar/styler-pen-pps5918-g2.webp",
+   "/gambar/styler-pen-pps5918-g3.webp",
+   "/gambar/styler-pen-pps5918-g4.webp",
+   "/gambar/styler-pen-pps5918-g5.webp"
+  ]
+ },
+ {
+  "id": 8491,
+  "slug": "plastic-pen-pp8529",
+  "nama": "Plastic Pen (PP8529)",
+  "sku": "PP8529",
+  "harga": 2.0,
+  "kategori": "Pen Series",
+  "kategori_lain": [
+   "Plastic Pen"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/plastic-pen-pp8529.webp"
+ },
+ {
+  "id": 8483,
+  "slug": "styler-pen-pp2023",
+  "nama": "Styler Pen (PP2023)",
+  "sku": "PP2023",
+  "harga": 1.5,
+  "kategori": "Pen Series",
+  "kategori_lain": [
+   "Plastic Pen"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/styler-pen-pp2023.webp",
+  "galeri": [
+   "/gambar/styler-pen-pp2023-g2.webp",
+   "/gambar/styler-pen-pp2023-g3.webp",
+   "/gambar/styler-pen-pp2023-g4.webp"
+  ]
+ },
+ {
+  "id": 8476,
+  "slug": "plastic-pen-pp3050",
+  "nama": "Plastic Pen (PP3050)",
+  "sku": "PP3050",
+  "harga": 0.96,
+  "kategori": "Pen Series",
+  "kategori_lain": [
+   "Plastic Pen"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/plastic-pen-pp3050.webp",
+  "galeri": [
+   "/gambar/plastic-pen-pp3050-g2.webp",
+   "/gambar/plastic-pen-pp3050-g3.webp",
+   "/gambar/plastic-pen-pp3050-g4.webp",
+   "/gambar/plastic-pen-pp3050-g5.webp"
+  ]
+ },
+ {
+  "id": 8466,
+  "slug": "plastic-pen-pp5027",
+  "nama": "Plastic Pen (PP5027)",
+  "sku": "PP5027",
+  "harga": 1.5,
+  "kategori": "Pen Series",
+  "kategori_lain": [
+   "Plastic Pen"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/plastic-pen-pp5027.webp"
+ },
+ {
+  "id": 8457,
+  "slug": "plastic-pen-pp797",
+  "nama": "Plastic Pen (PP797)",
+  "sku": "PP797",
+  "harga": 0.9,
+  "kategori": "Pen Series",
+  "kategori_lain": [
+   "Plastic Pen"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/plastic-pen-pp797.webp",
+  "galeri": [
+   "/gambar/plastic-pen-pp797-g2.webp",
+   "/gambar/plastic-pen-pp797-g3.webp",
+   "/gambar/plastic-pen-pp797-g4.webp"
+  ]
+ },
+ {
+  "id": 8450,
+  "slug": "plastic-pen-pp025",
+  "nama": "Plastic Pen (PP025)",
+  "sku": "PP025",
+  "harga": 0.8,
+  "kategori": "Pen Series",
+  "kategori_lain": [
+   "Plastic Pen"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/plastic-pen-pp025.webp",
+  "galeri": [
+   "/gambar/plastic-pen-pp025-g2.webp",
+   "/gambar/plastic-pen-pp025-g3.webp",
+   "/gambar/plastic-pen-pp025-g4.webp",
+   "/gambar/plastic-pen-pp025-g5.webp"
+  ]
+ },
+ {
+  "id": 8443,
+  "slug": "plastic-pen-pp3026",
+  "nama": "Plastic Pen (PP3026)",
+  "sku": "PP3026",
+  "harga": 0.8,
+  "kategori": "Pen Series",
+  "kategori_lain": [
+   "Plastic Pen"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/plastic-pen-pp3026.webp",
+  "galeri": [
+   "/gambar/plastic-pen-pp3026-g2.webp",
+   "/gambar/plastic-pen-pp3026-g3.webp",
+   "/gambar/plastic-pen-pp3026-g4.webp",
+   "/gambar/plastic-pen-pp3026-g5.webp"
+  ]
+ },
+ {
+  "id": 8437,
+  "slug": "plastic-pen-pp5010",
+  "nama": "Plastic Pen (PP5010)",
+  "sku": "PP5010",
+  "harga": 0.8,
+  "kategori": "Pen Series",
+  "kategori_lain": [
+   "Plastic Pen"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/plastic-pen-pp5010.webp",
+  "galeri": [
+   "/gambar/plastic-pen-pp5010-g2.webp",
+   "/gambar/plastic-pen-pp5010-g3.webp",
+   "/gambar/plastic-pen-pp5010-g4.webp"
+  ]
+ },
+ {
+  "id": 8430,
+  "slug": "plastic-pen-pp1052",
+  "nama": "Plastic Pen (PP1052)",
+  "sku": "PP1052",
+  "harga": 1.1,
+  "kategori": "Pen Series",
+  "kategori_lain": [
+   "Plastic Pen"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/plastic-pen-pp1052.webp",
+  "galeri": [
+   "/gambar/plastic-pen-pp1052-g2.webp",
+   "/gambar/plastic-pen-pp1052-g3.webp",
+   "/gambar/plastic-pen-pp1052-g4.webp",
+   "/gambar/plastic-pen-pp1052-g5.webp"
+  ]
+ },
+ {
+  "id": 8417,
+  "slug": "plastic-pen-pp865",
+  "nama": "Plastic Pen (PP865)",
+  "sku": "PP865",
+  "harga": 1.1,
+  "kategori": "Pen Series",
+  "kategori_lain": [
+   "Plastic Pen"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/plastic-pen-pp865.webp",
+  "galeri": [
+   "/gambar/plastic-pen-pp865-g2.webp",
+   "/gambar/plastic-pen-pp865-g3.webp",
+   "/gambar/plastic-pen-pp865-g4.webp"
+  ]
+ },
+ {
+  "id": 8410,
+  "slug": "plastic-pen-pp3046",
+  "nama": "Plastic Pen (PP3046)",
+  "sku": "PP3046",
+  "harga": 1.2,
+  "kategori": "Pen Series",
+  "kategori_lain": [
+   "Plastic Pen"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/plastic-pen-pp3046.webp",
+  "galeri": [
+   "/gambar/plastic-pen-pp3046-g2.webp",
+   "/gambar/plastic-pen-pp3046-g3.webp",
+   "/gambar/plastic-pen-pp3046-g4.webp",
+   "/gambar/plastic-pen-pp3046-g5.webp"
+  ]
+ },
+ {
+  "id": 8404,
+  "slug": "plastic-pen-pp3986",
+  "nama": "Plastic Pen (PP3986)",
+  "sku": "PP3986",
+  "harga": 1.2,
+  "kategori": "Pen Series",
+  "kategori_lain": [
+   "Plastic Pen"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/plastic-pen-pp3986.webp",
+  "galeri": [
+   "/gambar/plastic-pen-pp3986-g2.webp",
+   "/gambar/plastic-pen-pp3986-g3.webp",
+   "/gambar/plastic-pen-pp3986-g4.webp"
+  ]
+ },
+ {
+  "id": 8399,
+  "slug": "plastic-pen-pp8080",
+  "nama": "Plastic Pen (PP8080)",
+  "sku": "PP8080",
+  "harga": 1.5,
+  "kategori": "Pen Series",
+  "kategori_lain": [
+   "Plastic Pen"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/plastic-pen-pp8080.webp",
+  "galeri": [
+   "/gambar/plastic-pen-pp8080-g2.webp",
+   "/gambar/plastic-pen-pp8080-g3.webp"
+  ]
+ },
+ {
+  "id": 8393,
+  "slug": "plastic-pen-pp5025",
+  "nama": "Plastic Pen (PP5025)",
+  "sku": "PP5025",
+  "harga": 1.8,
+  "kategori": "Pen Series",
+  "kategori_lain": [
+   "Plastic Pen"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/plastic-pen-pp5025.webp",
+  "galeri": [
+   "/gambar/plastic-pen-pp5025-g2.webp",
+   "/gambar/plastic-pen-pp5025-g3.webp",
+   "/gambar/plastic-pen-pp5025-g4.webp"
+  ]
+ },
+ {
+  "id": 8388,
+  "slug": "plastic-pen-pp2611",
+  "nama": "Plastic Pen (PP2611)",
+  "sku": "PP2611",
+  "harga": 1.2,
+  "kategori": "Pen Series",
+  "kategori_lain": [
+   "Plastic Pen"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/plastic-pen-pp2611.webp",
+  "galeri": [
+   "/gambar/plastic-pen-pp2611-g2.webp",
+   "/gambar/plastic-pen-pp2611-g3.webp"
+  ]
+ },
+ {
+  "id": 8382,
+  "slug": "plastic-pen-pp1301",
+  "nama": "Plastic Pen (PP1301)",
+  "sku": "PP1301",
+  "harga": 1.1,
+  "kategori": "Pen Series",
+  "kategori_lain": [
+   "Plastic Pen"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/plastic-pen-pp1301.webp",
+  "galeri": [
+   "/gambar/plastic-pen-pp1301-g2.webp",
+   "/gambar/plastic-pen-pp1301-g3.webp",
+   "/gambar/plastic-pen-pp1301-g4.webp"
+  ]
+ },
+ {
+  "id": 8376,
+  "slug": "gel-ink-pen-gip613-gelink-4",
+  "nama": "Gel Ink Pen (GIP613(GELINK))",
+  "sku": "GIP613(GELINK)",
+  "harga": 1.6,
+  "kategori": "Pen Series",
+  "kategori_lain": [
+   "Plastic Pen"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/gel-ink-pen-gip613-gelink-4.webp",
+  "galeri": [
+   "/gambar/gel-ink-pen-gip613-gelink-4-g2.webp",
+   "/gambar/gel-ink-pen-gip613-gelink-4-g3.webp",
+   "/gambar/gel-ink-pen-gip613-gelink-4-g4.webp"
+  ]
+ },
+ {
+  "id": 8367,
+  "slug": "ball-pen-pp5571-ball",
+  "nama": "Ball Pen (PP5571(BALL))",
+  "sku": "PP5571(BALL)",
+  "harga": 1.7,
+  "kategori": "Pen Series",
+  "kategori_lain": [
+   "Plastic Pen"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/ball-pen-pp5571-ball.webp",
+  "galeri": [
+   "/gambar/ball-pen-pp5571-ball-g2.webp",
+   "/gambar/ball-pen-pp5571-ball-g3.webp",
+   "/gambar/ball-pen-pp5571-ball-g4.webp",
+   "/gambar/ball-pen-pp5571-ball-g5.webp",
+   "/gambar/ball-pen-pp5571-ball-g6.webp"
+  ]
+ },
+ {
+  "id": 8362,
+  "slug": "gel-ink-pen-with-highlighter-pp2820-gelink-2",
+  "nama": "Gel Ink Pen with highlighter (PP2820(GELINK))",
+  "sku": "PP2820(GELINK)",
+  "harga": 2.3,
+  "kategori": "Pen Series",
+  "kategori_lain": [
+   "Plastic Pen"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/gel-ink-pen-with-highlighter-pp2820-gelink-2.webp",
+  "galeri": [
+   "/gambar/gel-ink-pen-with-highlighter-pp2820-gelink-2-g2.webp",
+   "/gambar/gel-ink-pen-with-highlighter-pp2820-gelink-2-g3.webp"
+  ]
+ },
+ {
+  "id": 8357,
+  "slug": "plastic-pen-pp827",
+  "nama": "Plastic Pen (PP827)",
+  "sku": "PP827",
+  "harga": 1.4,
+  "kategori": "Pen Series",
+  "kategori_lain": [
+   "Plastic Pen"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/plastic-pen-pp827.webp",
+  "galeri": [
+   "/gambar/plastic-pen-pp827-g2.webp",
+   "/gambar/plastic-pen-pp827-g3.webp"
+  ]
+ },
+ {
+  "id": 8351,
+  "slug": "plastic-pen-pp8693-4",
+  "nama": "Plastic Pen (PP8693)",
+  "sku": "PP8693",
+  "harga": 1.5,
+  "kategori": "Pen Series",
+  "kategori_lain": [
+   "Plastic Pen"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/plastic-pen-pp8693-4.webp",
+  "galeri": [
+   "/gambar/plastic-pen-pp8693-4-g2.webp",
+   "/gambar/plastic-pen-pp8693-4-g3.webp",
+   "/gambar/plastic-pen-pp8693-4-g4.webp"
+  ]
+ },
+ {
+  "id": 8345,
+  "slug": "plastic-pen-pp2025",
+  "nama": "Plastic Pen (PP2025)",
+  "sku": "PP2025",
+  "harga": 1.2,
+  "kategori": "Pen Series",
+  "kategori_lain": [
+   "Plastic Pen"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/plastic-pen-pp2025.webp",
+  "galeri": [
+   "/gambar/plastic-pen-pp2025-g2.webp",
+   "/gambar/plastic-pen-pp2025-g3.webp",
+   "/gambar/plastic-pen-pp2025-g4.webp"
+  ]
+ },
+ {
+  "id": 8338,
+  "slug": "plastic-pen-pp3040",
+  "nama": "Plastic Pen (PP3040)",
+  "sku": "PP3040",
+  "harga": 1.4,
+  "kategori": "Pen Series",
+  "kategori_lain": [
+   "Plastic Pen"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/plastic-pen-pp3040.webp",
+  "galeri": [
+   "/gambar/plastic-pen-pp3040-g2.webp",
+   "/gambar/plastic-pen-pp3040-g3.webp",
+   "/gambar/plastic-pen-pp3040-g4.webp",
+   "/gambar/plastic-pen-pp3040-g5.webp"
+  ]
+ },
+ {
+  "id": 8331,
+  "slug": "plastic-pen-pp1598",
+  "nama": "Plastic Pen (PP1598)",
+  "sku": "PP1598",
+  "harga": 1.1,
+  "kategori": "Pen Series",
+  "kategori_lain": [
+   "Plastic Pen"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/plastic-pen-pp1598.webp",
+  "galeri": [
+   "/gambar/plastic-pen-pp1598-g2.webp",
+   "/gambar/plastic-pen-pp1598-g3.webp",
+   "/gambar/plastic-pen-pp1598-g4.webp",
+   "/gambar/plastic-pen-pp1598-g5.webp"
+  ]
+ },
+ {
+  "id": 8323,
+  "slug": "plastic-pen-pp1931",
+  "nama": "Plastic Pen (PP1931)",
+  "sku": "PP1931",
+  "harga": 1.1,
+  "kategori": "Pen Series",
+  "kategori_lain": [
+   "Plastic Pen"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/plastic-pen-pp1931.webp",
+  "galeri": [
+   "/gambar/plastic-pen-pp1931-g2.webp",
+   "/gambar/plastic-pen-pp1931-g3.webp",
+   "/gambar/plastic-pen-pp1931-g4.webp",
+   "/gambar/plastic-pen-pp1931-g5.webp",
+   "/gambar/plastic-pen-pp1931-g6.webp"
+  ]
+ },
+ {
+  "id": 8317,
+  "slug": "plastic-pen-pp1988",
+  "nama": "Plastic Pen (PP1988)",
+  "sku": "PP1988",
+  "harga": 2.0,
+  "kategori": "Pen Series",
+  "kategori_lain": [
+   "Plastic Pen"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/plastic-pen-pp1988.webp",
+  "galeri": [
+   "/gambar/plastic-pen-pp1988-g2.webp",
+   "/gambar/plastic-pen-pp1988-g3.webp",
+   "/gambar/plastic-pen-pp1988-g4.webp"
+  ]
+ },
+ {
+  "id": 8311,
+  "slug": "plastic-pen-pp1208",
+  "nama": "Plastic Pen (PP1208)",
+  "sku": "PP1208",
+  "harga": 1.3,
+  "kategori": "Pen Series",
+  "kategori_lain": [
+   "Plastic Pen"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/plastic-pen-pp1208.webp",
+  "galeri": [
+   "/gambar/plastic-pen-pp1208-g2.webp",
+   "/gambar/plastic-pen-pp1208-g3.webp",
+   "/gambar/plastic-pen-pp1208-g4.webp"
+  ]
+ },
+ {
+  "id": 8308,
+  "slug": "plastic-pen-pp1803",
+  "nama": "Plastic Pen (PP1803)",
+  "sku": "PP1803",
+  "harga": 1.3,
+  "kategori": "Pen Series",
+  "kategori_lain": [
+   "Plastic Pen"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/plastic-pen-pp1803.webp"
+ },
+ {
+  "id": 8301,
+  "slug": "plastic-pen-pp8808",
+  "nama": "Plastic Pen (PP8808)",
+  "sku": "PP8808",
+  "harga": 1.2,
+  "kategori": "Pen Series",
+  "kategori_lain": [
+   "Plastic Pen"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/plastic-pen-pp8808.webp",
+  "galeri": [
+   "/gambar/plastic-pen-pp8808-g2.webp",
+   "/gambar/plastic-pen-pp8808-g3.webp",
+   "/gambar/plastic-pen-pp8808-g4.webp",
+   "/gambar/plastic-pen-pp8808-g5.webp",
+   "/gambar/plastic-pen-pp8808-g6.webp"
+  ]
+ },
+ {
+  "id": 8298,
+  "slug": "3-in-1-styler-laser-pointer-pen-lsp315",
+  "nama": "3 in 1 Styler Laser Pointer Pen (LSP315)",
+  "sku": "LSP315",
+  "harga": 14.4,
+  "kategori": "Pen Series",
+  "kategori_lain": [
+   "Plastic Pen"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/3-in-1-styler-laser-pointer-pen-lsp315.webp"
+ },
+ {
+  "id": 8295,
+  "slug": "aluminium-pen-ball-ap28-ball",
+  "nama": "Aluminium Pen (Ball) (AP28(BALL))",
+  "sku": "AP28(BALL)",
+  "harga": 3.2,
+  "kategori": "Pen Series",
+  "kategori_lain": [
+   "Plastic Pen"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/aluminium-pen-ball-ap28-ball.webp"
+ },
+ {
+  "id": 8290,
+  "slug": "ball-pen-mp325b",
+  "nama": "Ball Pen (MP325B)",
+  "sku": "MP325B",
+  "harga": 4.6,
+  "kategori": "Metal & Aluminium Pen",
+  "kategori_lain": [
+   "Pen Series"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/ball-pen-mp325b.webp",
+  "galeri": [
+   "/gambar/ball-pen-mp325b-g2.webp",
+   "/gambar/ball-pen-mp325b-g3.webp"
+  ]
+ },
+ {
+  "id": 8285,
+  "slug": "ball-pen-mp10356b",
+  "nama": "Ball Pen (MP10356B)",
+  "sku": "MP10356B",
+  "harga": 5.6,
+  "kategori": "Metal & Aluminium Pen",
+  "kategori_lain": [
+   "Pen Series"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/ball-pen-mp10356b.webp",
+  "galeri": [
+   "/gambar/ball-pen-mp10356b-g2.webp",
+   "/gambar/ball-pen-mp10356b-g3.webp"
+  ]
+ },
+ {
+  "id": 8250,
+  "slug": "metal-ball-pen-mp10355b",
+  "nama": "Metal Ball Pen (MP10355B)",
+  "sku": "MP10355B",
+  "harga": 12.0,
+  "kategori": "Metal & Aluminium Pen",
+  "kategori_lain": [
+   "Pen Series"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/metal-ball-pen-mp10355b.webp",
+  "galeri": [
+   "/gambar/metal-ball-pen-mp10355b-g2.webp",
+   "/gambar/metal-ball-pen-mp10355b-g3.webp"
+  ]
+ },
+ {
+  "id": 8229,
+  "slug": "non-woven-bag-nwb424",
+  "nama": "Non-woven Bag (NWB424)",
+  "sku": "NWB424",
+  "harga": 4.0,
+  "kategori": "Eco Bag",
+  "kategori_lain": [
+   "Non Woven Bag"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/non-woven-bag-nwb424.webp",
+  "galeri": [
+   "/gambar/non-woven-bag-nwb424-g2.webp",
+   "/gambar/non-woven-bag-nwb424-g3.webp",
+   "/gambar/non-woven-bag-nwb424-g4.webp"
+  ]
+ },
+ {
+  "id": 8225,
+  "slug": "non-woven-bag-nwb205",
+  "nama": "Non-woven Bag (NWB205)",
+  "sku": "NWB205",
+  "harga": 4.5,
+  "kategori": "Eco Bag",
+  "kategori_lain": [
+   "Non Woven Bag"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/non-woven-bag-nwb205.webp",
+  "galeri": [
+   "/gambar/non-woven-bag-nwb205-g2.webp"
+  ]
+ },
+ {
+  "id": 8213,
+  "slug": "non-woven-drawstring-bag-nwb0683",
+  "nama": "Non-woven Drawstring Bag (NWB0683)",
+  "sku": "NWB0683",
+  "harga": 4.0,
+  "kategori": "Eco Bag",
+  "kategori_lain": [
+   "Non Woven Bag"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/non-woven-drawstring-bag-nwb0683.webp",
+  "galeri": [
+   "/gambar/non-woven-drawstring-bag-nwb0683-g2.webp",
+   "/gambar/non-woven-drawstring-bag-nwb0683-g3.webp",
+   "/gambar/non-woven-drawstring-bag-nwb0683-g4.webp"
+  ]
+ },
+ {
+  "id": 8208,
+  "slug": "foldable-non-woven-bag-nwb22",
+  "nama": "Foldable Non-woven Bag (NWB22)",
+  "sku": "NWB22",
+  "harga": 4.8,
+  "kategori": "Eco Bag",
+  "kategori_lain": [
+   "Non Woven Bag"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/foldable-non-woven-bag-nwb22.webp",
+  "galeri": [
+   "/gambar/foldable-non-woven-bag-nwb22-g2.webp",
+   "/gambar/foldable-non-woven-bag-nwb22-g3.webp"
+  ]
+ },
+ {
+  "id": 8202,
+  "slug": "non-woven-bag-nwb103",
+  "nama": "Non-woven Bag (NWB103)",
+  "sku": "NWB103",
+  "harga": 5.2,
+  "kategori": "Eco Bag",
+  "kategori_lain": [
+   "Non Woven Bag"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/non-woven-bag-nwb103.webp",
+  "galeri": [
+   "/gambar/non-woven-bag-nwb103-g2.webp",
+   "/gambar/non-woven-bag-nwb103-g3.webp",
+   "/gambar/non-woven-bag-nwb103-g4.webp"
+  ]
+ },
+ {
+  "id": 8197,
+  "slug": "non-woven-bag-nwb417-2",
+  "nama": "Non-woven Bag (NWB417)",
+  "sku": "NWB417",
+  "harga": 5.4,
+  "kategori": "Eco Bag",
+  "kategori_lain": [
+   "Non Woven Bag"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/non-woven-bag-nwb417-2.webp",
+  "galeri": [
+   "/gambar/non-woven-bag-nwb417-2-g2.webp",
+   "/gambar/non-woven-bag-nwb417-2-g3.webp"
+  ]
+ },
+ {
+  "id": 8190,
+  "slug": "non-woven-bag-a4-size-nwb03-2",
+  "nama": "Non-woven Bag (A4 Size) (NWB03-2)",
+  "sku": "NWB03-2",
+  "harga": 2.4,
+  "kategori": "Eco Bag",
+  "kategori_lain": [
+   "Non Woven Bag"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/non-woven-bag-a4-size-nwb03-2.webp",
+  "galeri": [
+   "/gambar/non-woven-bag-a4-size-nwb03-2-g2.webp",
+   "/gambar/non-woven-bag-a4-size-nwb03-2-g3.webp",
+   "/gambar/non-woven-bag-a4-size-nwb03-2-g4.webp",
+   "/gambar/non-woven-bag-a4-size-nwb03-2-g5.webp"
+  ]
+ },
+ {
+  "id": 8182,
+  "slug": "non-woven-bag-a4-size-nwb039",
+  "nama": "Non-woven Bag (A4 Size) (NWB039)",
+  "sku": "NWB039",
+  "harga": 3.4,
+  "kategori": "Eco Bag",
+  "kategori_lain": [
+   "Non Woven Bag"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/non-woven-bag-a4-size-nwb039.webp",
+  "galeri": [
+   "/gambar/non-woven-bag-a4-size-nwb039-g2.webp",
+   "/gambar/non-woven-bag-a4-size-nwb039-g3.webp",
+   "/gambar/non-woven-bag-a4-size-nwb039-g4.webp",
+   "/gambar/non-woven-bag-a4-size-nwb039-g5.webp",
+   "/gambar/non-woven-bag-a4-size-nwb039-g6.webp"
+  ]
+ },
+ {
+  "id": 8172,
+  "slug": "non-woven-bag-a3-size-nwb0037",
+  "nama": "Non-woven Bag (A3 Size) (NWB0037)",
+  "sku": "NWB0037",
+  "harga": 3.2,
+  "kategori": "Eco Bag",
+  "kategori_lain": [
+   "Non Woven Bag"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/non-woven-bag-a3-size-nwb0037.webp",
+  "galeri": [
+   "/gambar/non-woven-bag-a3-size-nwb0037-g2.webp",
+   "/gambar/non-woven-bag-a3-size-nwb0037-g3.webp",
+   "/gambar/non-woven-bag-a3-size-nwb0037-g4.webp",
+   "/gambar/non-woven-bag-a3-size-nwb0037-g5.webp",
+   "/gambar/non-woven-bag-a3-size-nwb0037-g6.webp"
+  ]
+ },
+ {
+  "id": 8160,
+  "slug": "non-woven-bag-a3-size-nwb468",
+  "nama": "Non-woven Bag (A3 Size) (NWB468)",
+  "sku": "NWB468",
+  "harga": 4.0,
+  "kategori": "Eco Bag",
+  "kategori_lain": [
+   "Non Woven Bag"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/non-woven-bag-a3-size-nwb468.webp",
+  "galeri": [
+   "/gambar/non-woven-bag-a3-size-nwb468-g2.webp",
+   "/gambar/non-woven-bag-a3-size-nwb468-g3.webp",
+   "/gambar/non-woven-bag-a3-size-nwb468-g4.webp",
+   "/gambar/non-woven-bag-a3-size-nwb468-g5.webp",
+   "/gambar/non-woven-bag-a3-size-nwb468-g6.webp"
+  ]
+ },
+ {
+  "id": 8148,
+  "slug": "non-woven-bag-ultrasonic-nwb310-u",
+  "nama": "Non-woven Bag (Ultrasonic) (NWB310-U)",
+  "sku": "NWB310-U",
+  "harga": 1.3,
+  "kategori": "Eco Bag",
+  "kategori_lain": [
+   "Ultrasonic Bag"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/non-woven-bag-ultrasonic-nwb310-u.webp"
+ },
+ {
+  "id": 8132,
+  "slug": "non-woven-bag-ultrasonic-a3-size-nwb09-u",
+  "nama": "Non-woven Bag Ultrasonic (A3 Size) (NWB09-U)",
+  "sku": "NWB09-U",
+  "harga": 2.3,
+  "kategori": "Eco Bag",
+  "kategori_lain": [
+   "Non Woven Bag"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/non-woven-bag-ultrasonic-a3-size-nwb09-u.webp",
+  "galeri": [
+   "/gambar/non-woven-bag-ultrasonic-a3-size-nwb09-u-g2.webp",
+   "/gambar/non-woven-bag-ultrasonic-a3-size-nwb09-u-g3.webp",
+   "/gambar/non-woven-bag-ultrasonic-a3-size-nwb09-u-g4.webp",
+   "/gambar/non-woven-bag-ultrasonic-a3-size-nwb09-u-g5.webp",
+   "/gambar/non-woven-bag-ultrasonic-a3-size-nwb09-u-g6.webp"
+  ]
+ },
+ {
+  "id": 8124,
+  "slug": "non-woven-bag-ultrasonic-a4-size-nwb012-u",
+  "nama": "Non-woven Bag Ultrasonic (A4 Size) (NWB012-U)",
+  "sku": "NWB012-U",
+  "harga": 1.9,
+  "kategori": "Eco Bag",
+  "kategori_lain": [
+   "Ultrasonic Bag"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/non-woven-bag-ultrasonic-a4-size-nwb012-u.webp",
+  "galeri": [
+   "/gambar/non-woven-bag-ultrasonic-a4-size-nwb012-u-g2.webp",
+   "/gambar/non-woven-bag-ultrasonic-a4-size-nwb012-u-g3.webp",
+   "/gambar/non-woven-bag-ultrasonic-a4-size-nwb012-u-g4.webp",
+   "/gambar/non-woven-bag-ultrasonic-a4-size-nwb012-u-g5.webp",
+   "/gambar/non-woven-bag-ultrasonic-a4-size-nwb012-u-g6.webp"
+  ]
+ },
+ {
+  "id": 8106,
+  "slug": "non-woven-bag-ultrasonic-a4-size-nwb01-u",
+  "nama": "Non-woven Bag Ultrasonic (A4 Size) (NWB01-U)",
+  "sku": "NWB01-U",
+  "harga": 1.58,
+  "kategori": "Eco Bag",
+  "kategori_lain": [
+   "Non Woven Bag"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/non-woven-bag-ultrasonic-a4-size-nwb01-u.webp",
+  "galeri": [
+   "/gambar/non-woven-bag-ultrasonic-a4-size-nwb01-u-g2.webp",
+   "/gambar/non-woven-bag-ultrasonic-a4-size-nwb01-u-g3.webp",
+   "/gambar/non-woven-bag-ultrasonic-a4-size-nwb01-u-g4.webp",
+   "/gambar/non-woven-bag-ultrasonic-a4-size-nwb01-u-g5.webp",
+   "/gambar/non-woven-bag-ultrasonic-a4-size-nwb01-u-g6.webp"
+  ]
+ },
+ {
+  "id": 8088,
+  "slug": "2-tone-cotton-bag-can309-2-8oz",
+  "nama": "2 Tone Cotton Bag (CAN309-2(8oz))",
+  "sku": "CAN309-2(8oz)",
+  "harga": 14.7,
+  "kategori": "ECO - Jute & Canvas Bag",
+  "kategori_lain": [
+   "Eco Bag"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/2-tone-cotton-bag-can309-2-8oz.webp",
+  "galeri": [
+   "/gambar/2-tone-cotton-bag-can309-2-8oz-g2.webp",
+   "/gambar/2-tone-cotton-bag-can309-2-8oz-g3.webp",
+   "/gambar/2-tone-cotton-bag-can309-2-8oz-g4.webp",
+   "/gambar/2-tone-cotton-bag-can309-2-8oz-g5.webp"
+  ]
+ },
+ {
+  "id": 8080,
+  "slug": "foldable-canvas-bag-can355-8oz",
+  "nama": "Foldable Canvas Bag (CAN355(8oz))",
+  "sku": "CAN355(8oz)",
+  "harga": 14.4,
+  "kategori": "ECO - Jute & Canvas Bag",
+  "kategori_lain": [
+   "Eco Bag"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/foldable-canvas-bag-can355-8oz.webp",
+  "galeri": [
+   "/gambar/foldable-canvas-bag-can355-8oz-g2.webp",
+   "/gambar/foldable-canvas-bag-can355-8oz-g3.webp",
+   "/gambar/foldable-canvas-bag-can355-8oz-g4.webp",
+   "/gambar/foldable-canvas-bag-can355-8oz-g5.webp",
+   "/gambar/foldable-canvas-bag-can355-8oz-g6.webp"
+  ]
+ },
+ {
+  "id": 8065,
+  "slug": "jute-bag-jute235",
+  "nama": "Jute Bag (JUTE235)",
+  "sku": "JUTE235",
+  "harga": 11.9,
+  "kategori": "ECO - Jute & Canvas Bag",
+  "kategori_lain": [
+   "Eco Bag"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/jute-bag-jute235.webp",
+  "galeri": [
+   "/gambar/jute-bag-jute235-g2.webp",
+   "/gambar/jute-bag-jute235-g3.webp",
+   "/gambar/jute-bag-jute235-g4.webp",
+   "/gambar/jute-bag-jute235-g5.webp"
+  ]
+ },
+ {
+  "id": 8042,
+  "slug": "jute-bag-jute246",
+  "nama": "Jute Bag (JUTE246)",
+  "sku": "JUTE246",
+  "harga": 8.7,
+  "kategori": "ECO - Jute & Canvas Bag",
+  "kategori_lain": [
+   "Eco Bag"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/jute-bag-jute246.webp",
+  "harga_max": 11.2,
+  "galeri": [
+   "/gambar/jute-bag-jute246-g2.webp",
+   "/gambar/jute-bag-jute246-g3.webp",
+   "/gambar/jute-bag-jute246-g4.webp",
+   "/gambar/jute-bag-jute246-g5.webp",
+   "/gambar/jute-bag-jute246-g6.webp"
+  ]
+ },
+ {
+  "id": 8035,
+  "slug": "jute-bag-horizontal-jute214",
+  "nama": "Jute Bag Horizontal (JUTE214)",
+  "sku": "JUTE214",
+  "harga": 15.4,
+  "kategori": "ECO - Jute & Canvas Bag",
+  "kategori_lain": [
+   "Eco Bag"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/jute-bag-horizontal-jute214.webp",
+  "galeri": [
+   "/gambar/jute-bag-horizontal-jute214-g2.webp",
+   "/gambar/jute-bag-horizontal-jute214-g3.webp",
+   "/gambar/jute-bag-horizontal-jute214-g4.webp",
+   "/gambar/jute-bag-horizontal-jute214-g5.webp"
+  ]
+ },
+ {
+  "id": 8026,
+  "slug": "jute-bag-jute212-1",
+  "nama": "Jute Bag (JUTE212-1)",
+  "sku": "JUTE212-1",
+  "harga": 15.4,
+  "kategori": "ECO - Jute & Canvas Bag",
+  "kategori_lain": [
+   "Eco Bag"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/jute-bag-jute212-1.webp",
+  "galeri": [
+   "/gambar/jute-bag-jute212-1-g2.webp",
+   "/gambar/jute-bag-jute212-1-g3.webp",
+   "/gambar/jute-bag-jute212-1-g4.webp",
+   "/gambar/jute-bag-jute212-1-g5.webp",
+   "/gambar/jute-bag-jute212-1-g6.webp"
+  ]
+ },
+ {
+  "id": 7762,
+  "slug": "jute-bag-with-canvas-compartment-jute239",
+  "nama": "Jute Bag with Canvas Compartment (JUTE239)",
+  "sku": "JUTE239",
+  "harga": 14.6,
+  "kategori": "Empty",
+  "kategori_lain": [],
+  "jenama": null,
+  "gambar": "/gambar/jute-bag-with-canvas-compartment-jute239.webp",
+  "galeri": [
+   "/gambar/jute-bag-with-canvas-compartment-jute239-g2.webp",
+   "/gambar/jute-bag-with-canvas-compartment-jute239-g3.webp",
+   "/gambar/jute-bag-with-canvas-compartment-jute239-g4.webp",
+   "/gambar/jute-bag-with-canvas-compartment-jute239-g5.webp",
+   "/gambar/jute-bag-with-canvas-compartment-jute239-g6.webp"
+  ]
+ },
+ {
+  "id": 7751,
+  "slug": "jute-bag-with-canvas-compartment-jute238",
+  "nama": "Jute Bag with Canvas Compartment (JUTE238)",
+  "sku": "JUTE238",
+  "harga": 12.4,
+  "kategori": "ECO - Jute & Canvas Bag",
+  "kategori_lain": [
+   "Eco Bag"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/jute-bag-with-canvas-compartment-jute238.webp",
+  "galeri": [
+   "/gambar/jute-bag-with-canvas-compartment-jute238-g2.webp",
+   "/gambar/jute-bag-with-canvas-compartment-jute238-g3.webp",
+   "/gambar/jute-bag-with-canvas-compartment-jute238-g4.webp",
+   "/gambar/jute-bag-with-canvas-compartment-jute238-g5.webp",
+   "/gambar/jute-bag-with-canvas-compartment-jute238-g6.webp"
+  ]
+ },
+ {
+  "id": 7744,
+  "slug": "jute-bag-with-canvas-compartment-jute240",
+  "nama": "Jute Bag with Canvas Compartment (JUTE240)",
+  "sku": "JUTE240",
+  "harga": 24.2,
+  "kategori": "ECO - Jute & Canvas Bag",
+  "kategori_lain": [
+   "Eco Bag"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/jute-bag-with-canvas-compartment-jute240.webp",
+  "galeri": [
+   "/gambar/jute-bag-with-canvas-compartment-jute240-g2.webp",
+   "/gambar/jute-bag-with-canvas-compartment-jute240-g3.webp",
+   "/gambar/jute-bag-with-canvas-compartment-jute240-g4.webp",
+   "/gambar/jute-bag-with-canvas-compartment-jute240-g5.webp"
+  ]
+ },
+ {
+  "id": 7738,
+  "slug": "carry-bag-with-zipper-cab203",
+  "nama": "Carry Bag with Zipper (CAB203)",
+  "sku": "CAB203",
+  "harga": 16.0,
+  "kategori": "Bag Series",
+  "kategori_lain": [
+   "Other Bags",
+   "Seminar Folder"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/carry-bag-with-zipper-cab203.webp",
+  "galeri": [
+   "/gambar/carry-bag-with-zipper-cab203-g2.webp",
+   "/gambar/carry-bag-with-zipper-cab203-g3.webp",
+   "/gambar/carry-bag-with-zipper-cab203-g4.webp",
+   "/gambar/carry-bag-with-zipper-cab203-g5.webp",
+   "/gambar/carry-bag-with-zipper-cab203-g6.webp"
+  ]
+ },
+ {
+  "id": 7724,
+  "slug": "drawstring-bag-dsb420",
+  "nama": "Drawstring Bag (DSB420)",
+  "sku": "DSB420",
+  "harga": 5.0,
+  "kategori": "Bag Series",
+  "kategori_lain": [
+   "Other Bags"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/drawstring-bag-dsb420.webp",
+  "galeri": [
+   "/gambar/drawstring-bag-dsb420-g2.webp",
+   "/gambar/drawstring-bag-dsb420-g3.webp",
+   "/gambar/drawstring-bag-dsb420-g4.webp",
+   "/gambar/drawstring-bag-dsb420-g5.webp",
+   "/gambar/drawstring-bag-dsb420-g6.webp"
+  ]
+ },
+ {
+  "id": 7713,
+  "slug": "foldable-shopping-bag-fsb7371",
+  "nama": "Foldable Shopping Bag (FSB7371)",
+  "sku": "FSB7371",
+  "harga": 6.3,
+  "kategori": "Bag Series",
+  "kategori_lain": [
+   "Other Bags"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/foldable-shopping-bag-fsb7371.webp",
+  "galeri": [
+   "/gambar/foldable-shopping-bag-fsb7371-g2.webp",
+   "/gambar/foldable-shopping-bag-fsb7371-g3.webp",
+   "/gambar/foldable-shopping-bag-fsb7371-g4.webp",
+   "/gambar/foldable-shopping-bag-fsb7371-g5.webp",
+   "/gambar/foldable-shopping-bag-fsb7371-g6.webp"
+  ]
+ },
+ {
+  "id": 7705,
+  "slug": "cooler-and-warmer-bag-ntp110",
+  "nama": "Cooler & Warmer Bag (NTP110)",
+  "sku": "NTP110",
+  "harga": 19.8,
+  "kategori": "Bag Series",
+  "kategori_lain": [
+   "Cooler & Warmer Bag"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/cooler-and-warmer-bag-ntp110.webp",
+  "galeri": [
+   "/gambar/cooler-and-warmer-bag-ntp110-g2.webp",
+   "/gambar/cooler-and-warmer-bag-ntp110-g3.webp",
+   "/gambar/cooler-and-warmer-bag-ntp110-g4.webp",
+   "/gambar/cooler-and-warmer-bag-ntp110-g5.webp",
+   "/gambar/cooler-and-warmer-bag-ntp110-g6.webp"
+  ]
+ },
+ {
+  "id": 7678,
+  "slug": "cooler-and-warmer-bag-cob418",
+  "nama": "Cooler & Warmer Bag (COB418)",
+  "sku": "COB418",
+  "harga": 25.8,
+  "kategori": "Bag Series",
+  "kategori_lain": [
+   "Cooler & Warmer Bag"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/cooler-and-warmer-bag-cob418.webp",
+  "galeri": [
+   "/gambar/cooler-and-warmer-bag-cob418-g2.webp",
+   "/gambar/cooler-and-warmer-bag-cob418-g3.webp",
+   "/gambar/cooler-and-warmer-bag-cob418-g4.webp",
+   "/gambar/cooler-and-warmer-bag-cob418-g5.webp",
+   "/gambar/cooler-and-warmer-bag-cob418-g6.webp"
+  ]
+ },
+ {
+  "id": 7664,
+  "slug": "cooler-and-warmer-bag-cob414",
+  "nama": "Cooler & Warmer Bag (COB414)",
+  "sku": "COB414",
+  "harga": 21.0,
+  "kategori": "Bag Series",
+  "kategori_lain": [
+   "Cooler & Warmer Bag"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/cooler-and-warmer-bag-cob414.webp",
+  "galeri": [
+   "/gambar/cooler-and-warmer-bag-cob414-g2.webp",
+   "/gambar/cooler-and-warmer-bag-cob414-g3.webp"
+  ]
+ },
+ {
+  "id": 7634,
+  "slug": "waterproof-back-pack-15l-wbp315-15l",
+  "nama": "Waterproof Back Pack-15L (WBP315-15L)",
+  "sku": "WBP315(15L)",
+  "harga": 46.0,
+  "kategori": "Bag Series",
+  "kategori_lain": [
+   "Waterproof Bag Series"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/waterproof-back-pack-15l-wbp315-15l.webp",
+  "galeri": [
+   "/gambar/waterproof-back-pack-15l-wbp315-15l-g2.webp",
+   "/gambar/waterproof-back-pack-15l-wbp315-15l-g3.webp",
+   "/gambar/waterproof-back-pack-15l-wbp315-15l-g4.webp",
+   "/gambar/waterproof-back-pack-15l-wbp315-15l-g5.webp"
+  ]
+ },
+ {
+  "id": 7629,
+  "slug": "waterproof-back-pack-20l-wbp320-20l",
+  "nama": "Waterproof Back Pack (20L) (WBP320(20L))",
+  "sku": "WBP320(20L)",
+  "harga": 51.0,
+  "kategori": "Bag Series",
+  "kategori_lain": [
+   "Waterproof Bag Series"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/waterproof-back-pack-20l-wbp320-20l.webp",
+  "galeri": [
+   "/gambar/waterproof-back-pack-20l-wbp320-20l-g2.webp",
+   "/gambar/waterproof-back-pack-20l-wbp320-20l-g3.webp"
+  ]
+ },
+ {
+  "id": 7617,
+  "slug": "travelling-bag-sport-bag-tb6900",
+  "nama": "Travelling Bag @ Sport Bag (TB6900)",
+  "sku": "TB6900",
+  "harga": 41.0,
+  "kategori": "Bag Series",
+  "kategori_lain": [
+   "Luggage Bag & Travelling Bag"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/travelling-bag-sport-bag-tb6900.webp",
+  "galeri": [
+   "/gambar/travelling-bag-sport-bag-tb6900-g2.webp",
+   "/gambar/travelling-bag-sport-bag-tb6900-g3.webp",
+   "/gambar/travelling-bag-sport-bag-tb6900-g4.webp"
+  ]
+ },
+ {
+  "id": 7607,
+  "slug": "travelling-bag-tb3325",
+  "nama": "Travelling Bag (TB3325)",
+  "sku": "TB3325",
+  "harga": 36.0,
+  "kategori": "Bag Series",
+  "kategori_lain": [
+   "Luggage Bag & Travelling Bag"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/travelling-bag-tb3325.webp",
+  "galeri": [
+   "/gambar/travelling-bag-tb3325-g2.webp",
+   "/gambar/travelling-bag-tb3325-g3.webp",
+   "/gambar/travelling-bag-tb3325-g4.webp"
+  ]
+ },
+ {
+  "id": 7580,
+  "slug": "seminar-folder-smf102",
+  "nama": "Seminar Folder (SMF102)",
+  "sku": "SMF102",
+  "harga": 9.6,
+  "kategori": "Bag Series",
+  "kategori_lain": [
+   "Seminar Folder"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/seminar-folder-smf102.webp",
+  "galeri": [
+   "/gambar/seminar-folder-smf102-g2.webp",
+   "/gambar/seminar-folder-smf102-g3.webp"
+  ]
+ },
+ {
+  "id": 7574,
+  "slug": "seminar-folder-smf101",
+  "nama": "Seminar Folder (SMF101)",
+  "sku": "SMF101",
+  "harga": 10.6,
+  "kategori": "Bag Series",
+  "kategori_lain": [
+   "Seminar Folder"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/seminar-folder-smf101.webp",
+  "galeri": [
+   "/gambar/seminar-folder-smf101-g2.webp",
+   "/gambar/seminar-folder-smf101-g3.webp",
+   "/gambar/seminar-folder-smf101-g4.webp"
+  ]
+ },
+ {
+  "id": 7565,
+  "slug": "seminar-folder-smf103",
+  "nama": "Seminar Folder (SMF103)",
+  "sku": "SMF103",
+  "harga": 13.6,
+  "kategori": "Bag Series",
+  "kategori_lain": [
+   "Seminar Folder"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/seminar-folder-smf103.webp",
+  "galeri": [
+   "/gambar/seminar-folder-smf103-g2.webp",
+   "/gambar/seminar-folder-smf103-g3.webp",
+   "/gambar/seminar-folder-smf103-g4.webp",
+   "/gambar/seminar-folder-smf103-g5.webp"
+  ]
+ },
+ {
+  "id": 7558,
+  "slug": "document-bag-db7220",
+  "nama": "Document Bag (DB7220)",
+  "sku": "DB7220",
+  "harga": 23.8,
+  "kategori": "Bag Series",
+  "kategori_lain": [
+   "Felt & Document Bag"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/document-bag-db7220.webp",
+  "galeri": [
+   "/gambar/document-bag-db7220-g2.webp",
+   "/gambar/document-bag-db7220-g3.webp",
+   "/gambar/document-bag-db7220-g4.webp",
+   "/gambar/document-bag-db7220-g5.webp"
+  ]
+ },
+ {
+  "id": 7531,
+  "slug": "multi-purpose-bag-cosmetic-bag-mpb7546",
+  "nama": "Multi Purpose Bag @ Cosmetic Bag (MPB7546)",
+  "sku": "MPB7546",
+  "harga": 14.4,
+  "kategori": "Bag Series",
+  "kategori_lain": [
+   "Multi Purpose Bag"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/multi-purpose-bag-cosmetic-bag-mpb7546.webp",
+  "galeri": [
+   "/gambar/multi-purpose-bag-cosmetic-bag-mpb7546-g2.webp",
+   "/gambar/multi-purpose-bag-cosmetic-bag-mpb7546-g3.webp",
+   "/gambar/multi-purpose-bag-cosmetic-bag-mpb7546-g4.webp",
+   "/gambar/multi-purpose-bag-cosmetic-bag-mpb7546-g5.webp",
+   "/gambar/multi-purpose-bag-cosmetic-bag-mpb7546-g6.webp"
+  ]
+ },
+ {
+  "id": 7517,
+  "slug": "multi-purpose-bag-toiletries-bag-tol1552",
+  "nama": "Multi Purpose Bag @ Toiletries Bag (TOL1552)",
+  "sku": "TOL1552",
+  "harga": 11.8,
+  "kategori": "Bag Series",
+  "kategori_lain": [
+   "Multi Purpose Bag",
+   "Toiletries Bag"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/multi-purpose-bag-toiletries-bag-tol1552.webp",
+  "galeri": [
+   "/gambar/multi-purpose-bag-toiletries-bag-tol1552-g2.webp",
+   "/gambar/multi-purpose-bag-toiletries-bag-tol1552-g3.webp",
+   "/gambar/multi-purpose-bag-toiletries-bag-tol1552-g4.webp",
+   "/gambar/multi-purpose-bag-toiletries-bag-tol1552-g5.webp"
+  ]
+ },
+ {
+  "id": 7508,
+  "slug": "multi-purpose-bag-toiletries-bag-tol1570",
+  "nama": "Multi Purpose Bag @ Toiletries Bag (TOL1570)",
+  "sku": "TOL1570",
+  "harga": 8.8,
+  "kategori": "Bag Series",
+  "kategori_lain": [
+   "Multi Purpose Bag",
+   "Toiletries Bag"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/multi-purpose-bag-toiletries-bag-tol1570.webp",
+  "galeri": [
+   "/gambar/multi-purpose-bag-toiletries-bag-tol1570-g2.webp",
+   "/gambar/multi-purpose-bag-toiletries-bag-tol1570-g3.webp",
+   "/gambar/multi-purpose-bag-toiletries-bag-tol1570-g4.webp",
+   "/gambar/multi-purpose-bag-toiletries-bag-tol1570-g5.webp",
+   "/gambar/multi-purpose-bag-toiletries-bag-tol1570-g6.webp"
+  ]
+ },
+ {
+  "id": 7484,
+  "slug": "toiletries-cosmetic-bag-cos7237",
+  "nama": "Toiletries @ Cosmetic Bag (COS7237)",
+  "sku": "COS7237",
+  "harga": 7.8,
+  "kategori": "Bag Series",
+  "kategori_lain": [
+   "Multi Purpose Bag",
+   "Toiletries Bag"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/toiletries-cosmetic-bag-cos7237.webp",
+  "galeri": [
+   "/gambar/toiletries-cosmetic-bag-cos7237-g2.webp",
+   "/gambar/toiletries-cosmetic-bag-cos7237-g3.webp",
+   "/gambar/toiletries-cosmetic-bag-cos7237-g4.webp",
+   "/gambar/toiletries-cosmetic-bag-cos7237-g5.webp",
+   "/gambar/toiletries-cosmetic-bag-cos7237-g6.webp"
+  ]
+ },
+ {
+  "id": 7472,
+  "slug": "multi-purpose-bag-toiletries-bag-cos1088",
+  "nama": "Multi Purpose Bag @ Toiletries Bag (COS1088)",
+  "sku": "COS1088",
+  "harga": 18.0,
+  "kategori": "Bag Series",
+  "kategori_lain": [
+   "Multi Purpose Bag",
+   "Toiletries Bag"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/multi-purpose-bag-toiletries-bag-cos1088.webp",
+  "galeri": [
+   "/gambar/multi-purpose-bag-toiletries-bag-cos1088-g2.webp",
+   "/gambar/multi-purpose-bag-toiletries-bag-cos1088-g3.webp",
+   "/gambar/multi-purpose-bag-toiletries-bag-cos1088-g4.webp",
+   "/gambar/multi-purpose-bag-toiletries-bag-cos1088-g5.webp"
+  ]
+ },
+ {
+  "id": 7467,
+  "slug": "toiletries-cosmetic-bag-cos1090",
+  "nama": "Toiletries @ Cosmetic Bag (COS1090)",
+  "sku": "COS1090",
+  "harga": 25.8,
+  "kategori": "Bag Series",
+  "kategori_lain": [
+   "Multi Purpose Bag",
+   "Toiletries Bag"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/toiletries-cosmetic-bag-cos1090.webp",
+  "galeri": [
+   "/gambar/toiletries-cosmetic-bag-cos1090-g2.webp",
+   "/gambar/toiletries-cosmetic-bag-cos1090-g3.webp",
+   "/gambar/toiletries-cosmetic-bag-cos1090-g4.webp"
+  ]
+ },
+ {
+  "id": 7454,
+  "slug": "toiletries-cosmetic-bag-cos1093",
+  "nama": "Toiletries @ Cosmetic Bag (COS1093)",
+  "sku": "COS1093",
+  "harga": 17.8,
+  "kategori": "Bag Series",
+  "kategori_lain": [
+   "Multi Purpose Bag",
+   "Toiletries Bag"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/toiletries-cosmetic-bag-cos1093.webp",
+  "galeri": [
+   "/gambar/toiletries-cosmetic-bag-cos1093-g2.webp",
+   "/gambar/toiletries-cosmetic-bag-cos1093-g3.webp",
+   "/gambar/toiletries-cosmetic-bag-cos1093-g4.webp",
+   "/gambar/toiletries-cosmetic-bag-cos1093-g5.webp"
+  ]
+ },
+ {
+  "id": 7448,
+  "slug": "toiletries-cosmetic-bag-cos1094",
+  "nama": "Toiletries @ Cosmetic Bag (COS1094)",
+  "sku": "COS1094",
+  "harga": 19.8,
+  "kategori": "Bag Series",
+  "kategori_lain": [
+   "Multi Purpose Bag",
+   "Toiletries Bag"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/toiletries-cosmetic-bag-cos1094.webp",
+  "galeri": [
+   "/gambar/toiletries-cosmetic-bag-cos1094-g2.webp",
+   "/gambar/toiletries-cosmetic-bag-cos1094-g3.webp",
+   "/gambar/toiletries-cosmetic-bag-cos1094-g4.webp",
+   "/gambar/toiletries-cosmetic-bag-cos1094-g5.webp"
+  ]
+ },
+ {
+  "id": 7423,
+  "slug": "multi-purpose-bag-shoes-bag-sh440",
+  "nama": "Multi Purpose Bag @ Shoes Bag (SH440)",
+  "sku": "SH440",
+  "harga": 13.4,
+  "kategori": "Bag Series",
+  "kategori_lain": [
+   "Multi Purpose Bag",
+   "Shoes Bag"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/multi-purpose-bag-shoes-bag-sh440.webp",
+  "galeri": [
+   "/gambar/multi-purpose-bag-shoes-bag-sh440-g2.webp",
+   "/gambar/multi-purpose-bag-shoes-bag-sh440-g3.webp",
+   "/gambar/multi-purpose-bag-shoes-bag-sh440-g4.webp",
+   "/gambar/multi-purpose-bag-shoes-bag-sh440-g5.webp"
+  ]
+ },
+ {
+  "id": 7418,
+  "slug": "multi-purpose-bag-shoes-bag-sh4863",
+  "nama": "Multi Purpose Bag @ Shoes Bag (SH4863)",
+  "sku": "SH4863",
+  "harga": 15.8,
+  "kategori": "Bag Series",
+  "kategori_lain": [
+   "Multi Purpose Bag",
+   "Shoes Bag"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/multi-purpose-bag-shoes-bag-sh4863.webp",
+  "galeri": [
+   "/gambar/multi-purpose-bag-shoes-bag-sh4863-g2.webp",
+   "/gambar/multi-purpose-bag-shoes-bag-sh4863-g3.webp",
+   "/gambar/multi-purpose-bag-shoes-bag-sh4863-g4.webp"
+  ]
+ },
+ {
+  "id": 7405,
+  "slug": "multi-purpose-bag-shoes-bag-sh130",
+  "nama": "Multi Purpose Bag @ Shoes Bag (SH130)",
+  "sku": "SH130",
+  "harga": 14.4,
+  "kategori": "Bag Series",
+  "kategori_lain": [
+   "Multi Purpose Bag",
+   "Shoes Bag",
+   "Toiletries Bag"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/multi-purpose-bag-shoes-bag-sh130.webp",
+  "galeri": [
+   "/gambar/multi-purpose-bag-shoes-bag-sh130-g2.webp",
+   "/gambar/multi-purpose-bag-shoes-bag-sh130-g3.webp",
+   "/gambar/multi-purpose-bag-shoes-bag-sh130-g4.webp",
+   "/gambar/multi-purpose-bag-shoes-bag-sh130-g5.webp"
+  ]
+ },
+ {
+  "id": 7398,
+  "slug": "multi-purpose-bag-shoes-bag-sh4865",
+  "nama": "Multi Purpose Bag @ Shoes Bag (SH4865)",
+  "sku": "SH4865",
+  "harga": 17.6,
+  "kategori": "Bag Series",
+  "kategori_lain": [
+   "Multi Purpose Bag",
+   "Shoes Bag",
+   "Toiletries Bag"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/multi-purpose-bag-shoes-bag-sh4865.webp",
+  "galeri": [
+   "/gambar/multi-purpose-bag-shoes-bag-sh4865-g2.webp",
+   "/gambar/multi-purpose-bag-shoes-bag-sh4865-g3.webp",
+   "/gambar/multi-purpose-bag-shoes-bag-sh4865-g4.webp",
+   "/gambar/multi-purpose-bag-shoes-bag-sh4865-g5.webp"
+  ]
+ },
+ {
+  "id": 7392,
+  "slug": "multi-purpose-bag-shoes-bag-sh8167",
+  "nama": "Multi Purpose Bag @ Shoes Bag (SH8167)",
+  "sku": "SH8167",
+  "harga": 17.6,
+  "kategori": "Bag Series",
+  "kategori_lain": [
+   "Multi Purpose Bag",
+   "Shoes Bag"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/multi-purpose-bag-shoes-bag-sh8167.webp",
+  "galeri": [
+   "/gambar/multi-purpose-bag-shoes-bag-sh8167-g2.webp",
+   "/gambar/multi-purpose-bag-shoes-bag-sh8167-g3.webp",
+   "/gambar/multi-purpose-bag-shoes-bag-sh8167-g4.webp",
+   "/gambar/multi-purpose-bag-shoes-bag-sh8167-g5.webp"
+  ]
+ },
+ {
+  "id": 7381,
+  "slug": "multi-purpose-bag-shoes-bag-mpb5300",
+  "nama": "Multi Purpose Bag @ Shoes Bag (MPB5300)",
+  "sku": "MPB5300-2",
+  "harga": 19.0,
+  "kategori": "Bag Series",
+  "kategori_lain": [
+   "Multi Purpose Bag",
+   "Shoes Bag"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/multi-purpose-bag-shoes-bag-mpb5300.webp",
+  "galeri": [
+   "/gambar/multi-purpose-bag-shoes-bag-mpb5300-g2.webp",
+   "/gambar/multi-purpose-bag-shoes-bag-mpb5300-g3.webp",
+   "/gambar/multi-purpose-bag-shoes-bag-mpb5300-g4.webp"
+  ]
+ },
+ {
+  "id": 7375,
+  "slug": "multi-purpose-bag-mpb7580",
+  "nama": "Multi Purpose Bag (MPB7580)",
+  "sku": "MPB7580-2",
+  "harga": 16.8,
+  "kategori": "Bag Series",
+  "kategori_lain": [
+   "Multi Purpose Bag"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/multi-purpose-bag-mpb7580.webp",
+  "galeri": [
+   "/gambar/multi-purpose-bag-mpb7580-g2.webp",
+   "/gambar/multi-purpose-bag-mpb7580-g3.webp",
+   "/gambar/multi-purpose-bag-mpb7580-g4.webp"
+  ]
+ },
+ {
+  "id": 7370,
+  "slug": "multi-purpose-bag-mpb8165",
+  "nama": "Multi Purpose Bag (MPB8165)",
+  "sku": "MPB8165-2",
+  "harga": 18.8,
+  "kategori": "Bag Series",
+  "kategori_lain": [
+   "Multi Purpose Bag",
+   "Toiletries Bag"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/multi-purpose-bag-mpb8165.webp",
+  "galeri": [
+   "/gambar/multi-purpose-bag-mpb8165-g2.webp",
+   "/gambar/multi-purpose-bag-mpb8165-g3.webp",
+   "/gambar/multi-purpose-bag-mpb8165-g4.webp"
+  ]
+ },
+ {
+  "id": 7363,
+  "slug": "multi-purpose-sling-bag-mpb1033",
+  "nama": "Multi Purpose Sling Bag (MPB1033)",
+  "sku": "MPB1033-2",
+  "harga": 27.2,
+  "kategori": "Bag Series",
+  "kategori_lain": [
+   "Multi Purpose Bag",
+   "Traveling & Sling Bag"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/multi-purpose-sling-bag-mpb1033.webp",
+  "galeri": [
+   "/gambar/multi-purpose-sling-bag-mpb1033-g2.webp",
+   "/gambar/multi-purpose-sling-bag-mpb1033-g3.webp",
+   "/gambar/multi-purpose-sling-bag-mpb1033-g4.webp",
+   "/gambar/multi-purpose-sling-bag-mpb1033-g5.webp",
+   "/gambar/multi-purpose-sling-bag-mpb1033-g6.webp"
+  ]
+ },
+ {
+  "id": 7358,
+  "slug": "multi-purpose-bag-mpb8224",
+  "nama": "Multi Purpose Bag (MPB8224)",
+  "sku": "MPB8224-2",
+  "harga": 23.8,
+  "kategori": "Bag Series",
+  "kategori_lain": [
+   "Multi Purpose Bag"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/multi-purpose-bag-mpb8224.webp",
+  "galeri": [
+   "/gambar/multi-purpose-bag-mpb8224-g2.webp",
+   "/gambar/multi-purpose-bag-mpb8224-g3.webp"
+  ]
+ },
+ {
+  "id": 7352,
+  "slug": "multi-purpose-sling-bag-mpb1018",
+  "nama": "Multi Purpose Sling Bag (MPB1018)",
+  "sku": "MPB1018-1-1",
+  "harga": 27.8,
+  "kategori": "Bag Series",
+  "kategori_lain": [
+   "Multi Purpose Bag",
+   "Traveling & Sling Bag"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/multi-purpose-sling-bag-mpb1018.webp",
+  "galeri": [
+   "/gambar/multi-purpose-sling-bag-mpb1018-g2.webp",
+   "/gambar/multi-purpose-sling-bag-mpb1018-g3.webp",
+   "/gambar/multi-purpose-sling-bag-mpb1018-g4.webp",
+   "/gambar/multi-purpose-sling-bag-mpb1018-g5.webp"
+  ]
+ },
+ {
+  "id": 7346,
+  "slug": "multi-purpose-bag-shoes-bag-mpb1315",
+  "nama": "Multi Purpose Bag @Shoes Bag (MPB1315)",
+  "sku": "MPB1315-2",
+  "harga": 35.6,
+  "kategori": "Bag Series",
+  "kategori_lain": [
+   "Multi Purpose Bag",
+   "Shoes Bag",
+   "Toiletries Bag"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/multi-purpose-bag-shoes-bag-mpb1315.webp",
+  "galeri": [
+   "/gambar/multi-purpose-bag-shoes-bag-mpb1315-g2.webp",
+   "/gambar/multi-purpose-bag-shoes-bag-mpb1315-g3.webp",
+   "/gambar/multi-purpose-bag-shoes-bag-mpb1315-g4.webp",
+   "/gambar/multi-purpose-bag-shoes-bag-mpb1315-g5.webp"
+  ]
+ },
+ {
+  "id": 7340,
+  "slug": "2-in-1-sling-cum-pouch-bag-spb1623-c",
+  "nama": "2 in 1 Sling Cum Pouch Bag (SPB1623-C)",
+  "sku": "SPB1623-C-",
+  "harga": 33.6,
+  "kategori": "Bag Series",
+  "kategori_lain": [
+   "Traveling & Sling Bag"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/2-in-1-sling-cum-pouch-bag-spb1623-c.webp",
+  "galeri": [
+   "/gambar/2-in-1-sling-cum-pouch-bag-spb1623-c-g2.webp",
+   "/gambar/2-in-1-sling-cum-pouch-bag-spb1623-c-g3.webp",
+   "/gambar/2-in-1-sling-cum-pouch-bag-spb1623-c-g4.webp"
+  ]
+ },
+ {
+  "id": 7324,
+  "slug": "sport-sling-bag-sb2068",
+  "nama": "Sport Sling Bag (SB2068)",
+  "sku": "SB2068-2",
+  "harga": 21.0,
+  "kategori": "Bag Series",
+  "kategori_lain": [
+   "Traveling & Sling Bag"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/sport-sling-bag-sb2068.webp",
+  "galeri": [
+   "/gambar/sport-sling-bag-sb2068-g2.webp",
+   "/gambar/sport-sling-bag-sb2068-g3.webp",
+   "/gambar/sport-sling-bag-sb2068-g4.webp",
+   "/gambar/sport-sling-bag-sb2068-g5.webp"
+  ]
+ },
+ {
+  "id": 7318,
+  "slug": "sling-bag-fully-padded-sb1918",
+  "nama": "Sling Bag (Fully Padded) (SB1918)",
+  "sku": "SB1918-2",
+  "harga": 31.6,
+  "kategori": "Bag Series",
+  "kategori_lain": [
+   "Traveling & Sling Bag"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/sling-bag-fully-padded-sb1918.webp",
+  "galeri": [
+   "/gambar/sling-bag-fully-padded-sb1918-g2.webp",
+   "/gambar/sling-bag-fully-padded-sb1918-g3.webp",
+   "/gambar/sling-bag-fully-padded-sb1918-g4.webp",
+   "/gambar/sling-bag-fully-padded-sb1918-g5.webp"
+  ]
+ },
+ {
+  "id": 7313,
+  "slug": "sling-bag-sb1920",
+  "nama": "Sling Bag (SB1920)",
+  "sku": "SB1920-2",
+  "harga": 25.8,
+  "kategori": "Bag Series",
+  "kategori_lain": [
+   "Traveling & Sling Bag"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/sling-bag-sb1920.webp",
+  "galeri": [
+   "/gambar/sling-bag-sb1920-g2.webp",
+   "/gambar/sling-bag-sb1920-g3.webp",
+   "/gambar/sling-bag-sb1920-g4.webp"
+  ]
+ },
+ {
+  "id": 7303,
+  "slug": "chest-bag-pb4338",
+  "nama": "Chest Bag (PB4338)",
+  "sku": "PB4338-2",
+  "harga": 32.8,
+  "kategori": "Bag Series",
+  "kategori_lain": [
+   "Other Bags",
+   "Traveling & Sling Bag"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/chest-bag-pb4338.webp",
+  "galeri": [
+   "/gambar/chest-bag-pb4338-g2.webp",
+   "/gambar/chest-bag-pb4338-g3.webp",
+   "/gambar/chest-bag-pb4338-g4.webp"
+  ]
+ },
+ {
+  "id": 7258,
+  "slug": "back-pack-bp4240",
+  "nama": "Back Pack (BP4240)",
+  "sku": "BP4240-2",
+  "harga": 45.8,
+  "kategori": "Back Pack",
+  "kategori_lain": [
+   "Bag Series"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/back-pack-bp4240.webp",
+  "galeri": [
+   "/gambar/back-pack-bp4240-g2.webp",
+   "/gambar/back-pack-bp4240-g3.webp",
+   "/gambar/back-pack-bp4240-g4.webp",
+   "/gambar/back-pack-bp4240-g5.webp"
+  ]
+ },
+ {
+  "id": 7218,
+  "slug": "back-pack-bp3720",
+  "nama": "Back Pack (BP3720)",
+  "sku": "BP3720",
+  "harga": 21.0,
+  "kategori": "Back Pack",
+  "kategori_lain": [
+   "Bag Series",
+   "Laptop Back Pack"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/back-pack-bp3720.webp",
+  "galeri": [
+   "/gambar/back-pack-bp3720-g2.webp",
+   "/gambar/back-pack-bp3720-g3.webp",
+   "/gambar/back-pack-bp3720-g4.webp",
+   "/gambar/back-pack-bp3720-g5.webp",
+   "/gambar/back-pack-bp3720-g6.webp"
+  ]
+ },
+ {
+  "id": 7197,
+  "slug": "back-pack-bp5192",
+  "nama": "Back Pack (BP5192)",
+  "sku": "BP5192",
+  "harga": 43.0,
+  "kategori": "Back Pack",
+  "kategori_lain": [
+   "Bag Series",
+   "Laptop Back Pack"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/back-pack-bp5192.webp",
+  "galeri": [
+   "/gambar/back-pack-bp5192-g2.webp",
+   "/gambar/back-pack-bp5192-g3.webp",
+   "/gambar/back-pack-bp5192-g4.webp",
+   "/gambar/back-pack-bp5192-g5.webp",
+   "/gambar/back-pack-bp5192-g6.webp"
+  ]
+ },
+ {
+  "id": 7190,
+  "slug": "back-pack-bp5388",
+  "nama": "Back Pack (BP5388)",
+  "sku": "BP5388",
+  "harga": 49.0,
+  "kategori": "Back Pack",
+  "kategori_lain": [
+   "Bag Series"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/back-pack-bp5388.webp",
+  "galeri": [
+   "/gambar/back-pack-bp5388-g2.webp",
+   "/gambar/back-pack-bp5388-g3.webp",
+   "/gambar/back-pack-bp5388-g4.webp",
+   "/gambar/back-pack-bp5388-g5.webp"
+  ]
+ },
+ {
+  "id": 7183,
+  "slug": "laptop-back-pack-lt388",
+  "nama": "Laptop Back Pack (LT388)",
+  "sku": "LT388",
+  "harga": 58.0,
+  "kategori": "Bag Series",
+  "kategori_lain": [
+   "Laptop Back Pack"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/laptop-back-pack-lt388.webp",
+  "galeri": [
+   "/gambar/laptop-back-pack-lt388-g2.webp",
+   "/gambar/laptop-back-pack-lt388-g3.webp",
+   "/gambar/laptop-back-pack-lt388-g4.webp",
+   "/gambar/laptop-back-pack-lt388-g5.webp",
+   "/gambar/laptop-back-pack-lt388-g6.webp"
+  ]
+ },
+ {
+  "id": 7177,
+  "slug": "laptop-back-pack-lt9092-2",
+  "nama": "Laptop Back Pack (LT9092)",
+  "sku": "LT9092",
+  "harga": 57.6,
+  "kategori": "Bag Series",
+  "kategori_lain": [
+   "Laptop Back Pack"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/laptop-back-pack-lt9092-2.webp",
+  "galeri": [
+   "/gambar/laptop-back-pack-lt9092-2-g2.webp",
+   "/gambar/laptop-back-pack-lt9092-2-g3.webp",
+   "/gambar/laptop-back-pack-lt9092-2-g4.webp"
+  ]
+ },
+ {
+  "id": 7167,
+  "slug": "laptop-back-pack-lt7802",
+  "nama": "Laptop Back Pack (LT7802)",
+  "sku": "LT7802",
+  "harga": 52.0,
+  "kategori": "Bag Series",
+  "kategori_lain": [
+   "Laptop Back Pack"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/laptop-back-pack-lt7802.webp",
+  "galeri": [
+   "/gambar/laptop-back-pack-lt7802-g2.webp",
+   "/gambar/laptop-back-pack-lt7802-g3.webp",
+   "/gambar/laptop-back-pack-lt7802-g4.webp",
+   "/gambar/laptop-back-pack-lt7802-g5.webp"
+  ]
+ },
+ {
+  "id": 7155,
+  "slug": "laptop-back-pack-lt0988",
+  "nama": "Laptop Back Pack (LT0988)",
+  "sku": "LT0988",
+  "harga": 45.0,
+  "kategori": "Bag Series",
+  "kategori_lain": [
+   "Laptop Back Pack"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/laptop-back-pack-lt0988.webp",
+  "galeri": [
+   "/gambar/laptop-back-pack-lt0988-g2.webp",
+   "/gambar/laptop-back-pack-lt0988-g3.webp",
+   "/gambar/laptop-back-pack-lt0988-g4.webp",
+   "/gambar/laptop-back-pack-lt0988-g5.webp",
+   "/gambar/laptop-back-pack-lt0988-g6.webp"
+  ]
+ },
+ {
+  "id": 7143,
+  "slug": "laptop-back-pack-fully-padded-bag-lt1822",
+  "nama": "Laptop Back Pack (Fully Padded Bag) (LT1822)",
+  "sku": "LT1822",
+  "harga": 72.0,
+  "kategori": "Bag Series",
+  "kategori_lain": [
+   "Laptop Back Pack"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/laptop-back-pack-fully-padded-bag-lt1822.webp",
+  "galeri": [
+   "/gambar/laptop-back-pack-fully-padded-bag-lt1822-g2.webp",
+   "/gambar/laptop-back-pack-fully-padded-bag-lt1822-g3.webp",
+   "/gambar/laptop-back-pack-fully-padded-bag-lt1822-g4.webp",
+   "/gambar/laptop-back-pack-fully-padded-bag-lt1822-g5.webp",
+   "/gambar/laptop-back-pack-fully-padded-bag-lt1822-g6.webp"
+  ]
+ },
+ {
+  "id": 7137,
+  "slug": "laptop-back-pack-fully-padded-bag-lt7827",
+  "nama": "Laptop Back Pack (Fully Padded Bag) (LT7827)",
+  "sku": "LT7827",
+  "harga": 90.0,
+  "kategori": "Bag Series",
+  "kategori_lain": [
+   "Laptop Back Pack"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/laptop-back-pack-fully-padded-bag-lt7827.webp",
+  "galeri": [
+   "/gambar/laptop-back-pack-fully-padded-bag-lt7827-g2.webp",
+   "/gambar/laptop-back-pack-fully-padded-bag-lt7827-g3.webp",
+   "/gambar/laptop-back-pack-fully-padded-bag-lt7827-g4.webp",
+   "/gambar/laptop-back-pack-fully-padded-bag-lt7827-g5.webp"
+  ]
+ },
+ {
+  "id": 7106,
+  "slug": "laptop-back-pack-lt5138",
+  "nama": "Laptop Back Pack (LT5138)",
+  "sku": "LT5138",
+  "harga": 42.0,
+  "kategori": "Bag Series",
+  "kategori_lain": [
+   "Laptop Back Pack"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/laptop-back-pack-lt5138.webp",
+  "galeri": [
+   "/gambar/laptop-back-pack-lt5138-g2.webp",
+   "/gambar/laptop-back-pack-lt5138-g3.webp",
+   "/gambar/laptop-back-pack-lt5138-g4.webp",
+   "/gambar/laptop-back-pack-lt5138-g5.webp",
+   "/gambar/laptop-back-pack-lt5138-g6.webp"
+  ]
+ },
+ {
+  "id": 7095,
+  "slug": "laptop-back-pack-lt7007",
+  "nama": "Laptop Back Pack (LT7007)",
+  "sku": "LT7007",
+  "harga": 46.0,
+  "kategori": "Bag Series",
+  "kategori_lain": [
+   "Laptop Back Pack"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/laptop-back-pack-lt7007.webp",
+  "galeri": [
+   "/gambar/laptop-back-pack-lt7007-g2.webp",
+   "/gambar/laptop-back-pack-lt7007-g3.webp",
+   "/gambar/laptop-back-pack-lt7007-g4.webp",
+   "/gambar/laptop-back-pack-lt7007-g5.webp"
+  ]
+ },
+ {
+  "id": 7075,
+  "slug": "laptop-back-pack-fully-padded-bag-lt1001",
+  "nama": "Laptop Back Pack(Fully Padded Bag) (LT1001)",
+  "sku": "LT1001",
+  "harga": 68.0,
+  "kategori": "Bag Series",
+  "kategori_lain": [
+   "Laptop Back Pack"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/laptop-back-pack-fully-padded-bag-lt1001.webp",
+  "galeri": [
+   "/gambar/laptop-back-pack-fully-padded-bag-lt1001-g2.webp",
+   "/gambar/laptop-back-pack-fully-padded-bag-lt1001-g3.webp",
+   "/gambar/laptop-back-pack-fully-padded-bag-lt1001-g4.webp",
+   "/gambar/laptop-back-pack-fully-padded-bag-lt1001-g5.webp",
+   "/gambar/laptop-back-pack-fully-padded-bag-lt1001-g6.webp"
+  ]
+ },
+ {
+  "id": 7068,
+  "slug": "laptop-back-pack-fully-padded-bag-lt3088",
+  "nama": "Laptop Back Pack(Fully Padded Bag) (LT3088)",
+  "sku": "LT3088",
+  "harga": 36.0,
+  "kategori": "Bag Series",
+  "kategori_lain": [
+   "Laptop Back Pack"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/laptop-back-pack-fully-padded-bag-lt3088.webp",
+  "galeri": [
+   "/gambar/laptop-back-pack-fully-padded-bag-lt3088-g2.webp",
+   "/gambar/laptop-back-pack-fully-padded-bag-lt3088-g3.webp",
+   "/gambar/laptop-back-pack-fully-padded-bag-lt3088-g4.webp",
+   "/gambar/laptop-back-pack-fully-padded-bag-lt3088-g5.webp",
+   "/gambar/laptop-back-pack-fully-padded-bag-lt3088-g6.webp"
+  ]
+ },
+ {
+  "id": 7062,
+  "slug": "laptop-back-pack-fully-padded-bag-lt3548",
+  "nama": "Laptop Back Pack(Fully Padded Bag) (LT3548)",
+  "sku": "LT3548",
+  "harga": 96.0,
+  "kategori": "Bag Series",
+  "kategori_lain": [
+   "Laptop Back Pack"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/laptop-back-pack-fully-padded-bag-lt3548.webp",
+  "galeri": [
+   "/gambar/laptop-back-pack-fully-padded-bag-lt3548-g2.webp",
+   "/gambar/laptop-back-pack-fully-padded-bag-lt3548-g3.webp",
+   "/gambar/laptop-back-pack-fully-padded-bag-lt3548-g4.webp"
+  ]
+ },
+ {
+  "id": 7056,
+  "slug": "laptop-back-pack-fully-padded-bag-lt3355",
+  "nama": "Laptop Back Pack (Fully Padded Bag) (LT3355)",
+  "sku": "LT3355",
+  "harga": 72.0,
+  "kategori": "Bag Series",
+  "kategori_lain": [
+   "Laptop Back Pack"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/laptop-back-pack-fully-padded-bag-lt3355.webp",
+  "galeri": [
+   "/gambar/laptop-back-pack-fully-padded-bag-lt3355-g2.webp",
+   "/gambar/laptop-back-pack-fully-padded-bag-lt3355-g3.webp",
+   "/gambar/laptop-back-pack-fully-padded-bag-lt3355-g4.webp",
+   "/gambar/laptop-back-pack-fully-padded-bag-lt3355-g5.webp"
+  ]
+ },
+ {
+  "id": 7050,
+  "slug": "laptop-back-pack-fully-padded-bag-lt2075",
+  "nama": "Laptop Back Pack (Fully Padded Bag) (LT2075)",
+  "sku": "LT2075",
+  "harga": 60.0,
+  "kategori": "Bag Series",
+  "kategori_lain": [
+   "Laptop Back Pack"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/laptop-back-pack-fully-padded-bag-lt2075.webp",
+  "galeri": [
+   "/gambar/laptop-back-pack-fully-padded-bag-lt2075-g2.webp",
+   "/gambar/laptop-back-pack-fully-padded-bag-lt2075-g3.webp",
+   "/gambar/laptop-back-pack-fully-padded-bag-lt2075-g4.webp",
+   "/gambar/laptop-back-pack-fully-padded-bag-lt2075-g5.webp",
+   "/gambar/laptop-back-pack-fully-padded-bag-lt2075-g6.webp"
+  ]
+ },
+ {
+  "id": 7044,
+  "slug": "laptop-back-pack-fully-padded-bag-lt3549",
+  "nama": "Laptop Back Pack(Fully Padded Bag) (LT3549)",
+  "sku": "LT3549",
+  "harga": 76.0,
+  "kategori": "Bag Series",
+  "kategori_lain": [
+   "Laptop Back Pack"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/laptop-back-pack-fully-padded-bag-lt3549.webp",
+  "galeri": [
+   "/gambar/laptop-back-pack-fully-padded-bag-lt3549-g2.webp",
+   "/gambar/laptop-back-pack-fully-padded-bag-lt3549-g3.webp",
+   "/gambar/laptop-back-pack-fully-padded-bag-lt3549-g4.webp",
+   "/gambar/laptop-back-pack-fully-padded-bag-lt3549-g5.webp"
+  ]
+ },
+ {
+  "id": 7031,
+  "slug": "anti-theft-laptop-back-pack-fully-padded-bag-lt3366",
+  "nama": "Anti Theft Laptop Back Pack  (Fully Padded Bag) (LT3366)",
+  "sku": "LT3366",
+  "harga": 90.0,
+  "kategori": "Bag Series",
+  "kategori_lain": [
+   "Laptop Back Pack"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/anti-theft-laptop-back-pack-fully-padded-bag-lt3366.webp",
+  "galeri": [
+   "/gambar/anti-theft-laptop-back-pack-fully-padded-bag-lt3366-g2.webp",
+   "/gambar/anti-theft-laptop-back-pack-fully-padded-bag-lt3366-g3.webp",
+   "/gambar/anti-theft-laptop-back-pack-fully-padded-bag-lt3366-g4.webp",
+   "/gambar/anti-theft-laptop-back-pack-fully-padded-bag-lt3366-g5.webp",
+   "/gambar/anti-theft-laptop-back-pack-fully-padded-bag-lt3366-g6.webp"
+  ]
+ },
+ {
+  "id": 7022,
+  "slug": "laptop-back-pack-fully-padded-bag-lt5321",
+  "nama": "Laptop Back Pack (Fully Padded Bag) (LT5321)",
+  "sku": "LT5321",
+  "harga": 66.0,
+  "kategori": "Bag Series",
+  "kategori_lain": [
+   "Laptop Back Pack"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/laptop-back-pack-fully-padded-bag-lt5321.webp",
+  "galeri": [
+   "/gambar/laptop-back-pack-fully-padded-bag-lt5321-g2.webp",
+   "/gambar/laptop-back-pack-fully-padded-bag-lt5321-g3.webp",
+   "/gambar/laptop-back-pack-fully-padded-bag-lt5321-g4.webp",
+   "/gambar/laptop-back-pack-fully-padded-bag-lt5321-g5.webp",
+   "/gambar/laptop-back-pack-fully-padded-bag-lt5321-g6.webp"
+  ]
+ },
+ {
+  "id": 7013,
+  "slug": "laptop-back-pack-fully-padded-bag-lt5323",
+  "nama": "Laptop Back Pack (Fully Padded Bag) (LT5323)",
+  "sku": "LT5323",
+  "harga": 66.0,
+  "kategori": "Bag Series",
+  "kategori_lain": [
+   "Laptop Back Pack"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/laptop-back-pack-fully-padded-bag-lt5323.webp",
+  "galeri": [
+   "/gambar/laptop-back-pack-fully-padded-bag-lt5323-g2.webp",
+   "/gambar/laptop-back-pack-fully-padded-bag-lt5323-g3.webp",
+   "/gambar/laptop-back-pack-fully-padded-bag-lt5323-g4.webp",
+   "/gambar/laptop-back-pack-fully-padded-bag-lt5323-g5.webp",
+   "/gambar/laptop-back-pack-fully-padded-bag-lt5323-g6.webp"
+  ]
+ },
+ {
+  "id": 7001,
+  "slug": "laptop-back-pack-fully-padded-bag-lt1811",
+  "nama": "Laptop Back Pack (Fully Padded Bag) (LT1811)",
+  "sku": "LT1811",
+  "harga": 76.0,
+  "kategori": "Bag Series",
+  "kategori_lain": [
+   "Laptop Back Pack"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/laptop-back-pack-fully-padded-bag-lt1811.webp",
+  "galeri": [
+   "/gambar/laptop-back-pack-fully-padded-bag-lt1811-g2.webp",
+   "/gambar/laptop-back-pack-fully-padded-bag-lt1811-g3.webp",
+   "/gambar/laptop-back-pack-fully-padded-bag-lt1811-g4.webp",
+   "/gambar/laptop-back-pack-fully-padded-bag-lt1811-g5.webp",
+   "/gambar/laptop-back-pack-fully-padded-bag-lt1811-g6.webp"
+  ]
+ },
+ {
+  "id": 6993,
+  "slug": "anti-theft-laptop-back-pack-fully-padded-bag-lt1903",
+  "nama": "Anti Theft Laptop Back Pack (Fully Padded Bag) (LT1903)",
+  "sku": "LT1903",
+  "harga": 152.0,
+  "kategori": "Anti Theft Back Pack",
+  "kategori_lain": [
+   "Bag Series"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/anti-theft-laptop-back-pack-fully-padded-bag-lt1903.webp",
+  "galeri": [
+   "/gambar/anti-theft-laptop-back-pack-fully-padded-bag-lt1903-g2.webp",
+   "/gambar/anti-theft-laptop-back-pack-fully-padded-bag-lt1903-g3.webp",
+   "/gambar/anti-theft-laptop-back-pack-fully-padded-bag-lt1903-g4.webp",
+   "/gambar/anti-theft-laptop-back-pack-fully-padded-bag-lt1903-g5.webp",
+   "/gambar/anti-theft-laptop-back-pack-fully-padded-bag-lt1903-g6.webp"
+  ]
+ },
+ {
+  "id": 6985,
+  "slug": "anti-theft-laptop-back-pack-fully-padded-bag-lt3048",
+  "nama": "Anti Theft Laptop Back Pack ( Fully Padded Bag ) (LT3048)",
+  "sku": "LT3048",
+  "harga": 104.0,
+  "kategori": "Anti Theft Back Pack",
+  "kategori_lain": [
+   "Bag Series"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/anti-theft-laptop-back-pack-fully-padded-bag-lt3048.webp",
+  "galeri": [
+   "/gambar/anti-theft-laptop-back-pack-fully-padded-bag-lt3048-g2.webp",
+   "/gambar/anti-theft-laptop-back-pack-fully-padded-bag-lt3048-g3.webp",
+   "/gambar/anti-theft-laptop-back-pack-fully-padded-bag-lt3048-g4.webp",
+   "/gambar/anti-theft-laptop-back-pack-fully-padded-bag-lt3048-g5.webp",
+   "/gambar/anti-theft-laptop-back-pack-fully-padded-bag-lt3048-g6.webp"
+  ]
+ },
+ {
+  "id": 14577,
+  "slug": "stationery-set-ss500",
+  "nama": "Stationery Set (SS500)",
+  "sku": "SS500",
+  "harga": 10.8,
+  "kategori": "Miscellaneous",
+  "kategori_lain": [],
+  "jenama": null,
+  "gambar": "/gambar/stationery-set-ss500.webp"
+ },
+ {
+  "id": 14500,
+  "slug": "metal-ball-pen-mp04b",
+  "nama": "Metal Ball Pen (MP04B)",
+  "sku": "MP04B",
+  "harga": 9.6,
+  "kategori": "Metal & Aluminium Pen",
+  "kategori_lain": [
+   "Pen Series"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/metal-ball-pen-mp04b.webp"
+ },
+ {
+  "id": 14483,
+  "slug": "metal-roller-pen-mp123r",
+  "nama": "Metal Roller Pen (MP123R)",
+  "sku": "MP123R",
+  "harga": 18.0,
+  "kategori": "Metal & Aluminium Pen",
+  "kategori_lain": [
+   "Pen Series"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/metal-roller-pen-mp123r.webp"
+ },
+ {
+  "id": 14479,
+  "slug": "metal-ball-pen-mp123b",
+  "nama": "Metal Ball Pen (MP123B)",
+  "sku": "MP123B",
+  "harga": 14.0,
+  "kategori": "Metal & Aluminium Pen",
+  "kategori_lain": [
+   "Pen Series"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/metal-ball-pen-mp123b.webp",
+  "galeri": [
+   "/gambar/metal-ball-pen-mp123b-g2.webp"
+  ]
+ },
+ {
+  "id": 9404,
+  "slug": "stainless-steel-thermo-mug-tm680-c-wbox",
+  "nama": "Stainless Steel Thermo Mug (TM680(c/wbox))",
+  "sku": "TM680(c/wbox)",
+  "harga": 76.0,
+  "kategori": "Household Series",
+  "kategori_lain": [
+   "New Arrival",
+   "Thermo Mug"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/stainless-steel-thermo-mug-tm680-c-wbox.webp"
+ },
+ {
+  "id": 9398,
+  "slug": "thermo-mug-tm667-c-wbox",
+  "nama": "Thermo Mug (TM667(c/wbox))",
+  "sku": "TM667(c/wbox)",
+  "harga": 21.6,
+  "kategori": "Household Series",
+  "kategori_lain": [
+   "Mug",
+   "New Arrival"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/thermo-mug-tm667-c-wbox.webp",
+  "galeri": [
+   "/gambar/thermo-mug-tm667-c-wbox-g2.webp",
+   "/gambar/thermo-mug-tm667-c-wbox-g3.webp",
+   "/gambar/thermo-mug-tm667-c-wbox-g4.webp"
+  ]
+ },
+ {
+  "id": 9316,
+  "slug": "transparent-box-if-purchase-ig-pendrive-pb32-withigproduct",
+  "nama": "Transparent Box (If Purchase IG Pendrive) (PB32(withIGproduct))",
+  "sku": "PB32(withIGproduct)",
+  "harga": 2.0,
+  "kategori": "Casing",
+  "kategori_lain": [
+   "IT Series"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/transparent-box-if-purchase-ig-pendrive-pb32-withigproduct.webp",
+  "galeri": [
+   "/gambar/transparent-box-if-purchase-ig-pendrive-pb32-withigproduct-g2.webp"
+  ]
+ },
+ {
+  "id": 8559,
+  "slug": "pencil-case-cpc6789",
+  "nama": "Pencil Case (CPC6789)",
+  "sku": "CPC6789",
+  "harga": 5.2,
+  "kategori": "Pencil Case",
+  "kategori_lain": [],
+  "jenama": null,
+  "gambar": "/gambar/pencil-case-cpc6789.webp",
+  "galeri": [
+   "/gambar/pencil-case-cpc6789-g2.webp",
+   "/gambar/pencil-case-cpc6789-g3.webp",
+   "/gambar/pencil-case-cpc6789-g4.webp",
+   "/gambar/pencil-case-cpc6789-g5.webp"
+  ]
+ },
+ {
+  "id": 8278,
+  "slug": "metal-styler-pen-mp323b",
+  "nama": "Metal Styler Pen (MP323B)",
+  "sku": "MP323B",
+  "harga": 3.1,
+  "kategori": "Metal & Aluminium Pen",
+  "kategori_lain": [
+   "Pen Series"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/metal-styler-pen-mp323b.webp",
+  "galeri": [
+   "/gambar/metal-styler-pen-mp323b-g2.webp",
+   "/gambar/metal-styler-pen-mp323b-g3.webp",
+   "/gambar/metal-styler-pen-mp323b-g4.webp",
+   "/gambar/metal-styler-pen-mp323b-g5.webp"
+  ]
+ },
+ {
+  "id": 8268,
+  "slug": "metal-roller-pen-mp329r",
+  "nama": "Metal Roller Pen (MP329R)",
+  "sku": "MP329R",
+  "harga": 13.0,
+  "kategori": "Metal & Aluminium Pen",
+  "kategori_lain": [
+   "Pen Series"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/metal-roller-pen-mp329r.webp"
+ },
+ {
+  "id": 8264,
+  "slug": "metal-ball-pen-mp38b-2",
+  "nama": "Metal Ball Pen (MP38B)",
+  "sku": "MP38B",
+  "harga": 12.0,
+  "kategori": "Metal & Aluminium Pen",
+  "kategori_lain": [
+   "Pen Series"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/metal-ball-pen-mp38b-2.webp",
+  "galeri": [
+   "/gambar/metal-ball-pen-mp38b-2-g2.webp"
+  ]
+ },
+ {
+  "id": 8260,
+  "slug": "metal-ball-pen-mp10357b",
+  "nama": "Metal Ball Pen (MP10357B)",
+  "sku": "MP10357B",
+  "harga": 5.8,
+  "kategori": "Metal & Aluminium Pen",
+  "kategori_lain": [
+   "Pen Series"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/metal-ball-pen-mp10357b.webp",
+  "galeri": [
+   "/gambar/metal-ball-pen-mp10357b-g2.webp"
+  ]
+ },
+ {
+  "id": 8255,
+  "slug": "metal-ball-pen-mp10359b-2",
+  "nama": "Metal Ball Pen (MP10359B)",
+  "sku": "MP10359B",
+  "harga": 17.0,
+  "kategori": "Metal & Aluminium Pen",
+  "kategori_lain": [
+   "Pen Series"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/metal-ball-pen-mp10359b-2.webp",
+  "galeri": [
+   "/gambar/metal-ball-pen-mp10359b-2-g2.webp",
+   "/gambar/metal-ball-pen-mp10359b-2-g3.webp"
+  ]
+ },
+ {
+  "id": 8154,
+  "slug": "non-woven-bag-jumbo-size-nwb104",
+  "nama": "Non-woven Bag (JUMBO Size) (NWB104)",
+  "sku": "NWB104",
+  "harga": 6.0,
+  "kategori": "Eco Bag",
+  "kategori_lain": [
+   "New Arrival",
+   "Non Woven Bag"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/non-woven-bag-jumbo-size-nwb104.webp",
+  "galeri": [
+   "/gambar/non-woven-bag-jumbo-size-nwb104-g2.webp",
+   "/gambar/non-woven-bag-jumbo-size-nwb104-g3.webp",
+   "/gambar/non-woven-bag-jumbo-size-nwb104-g4.webp"
+  ]
+ },
+ {
+  "id": 8145,
+  "slug": "non-woven-bag-ultrasonic-nwb14-u",
+  "nama": "Non-woven Bag (Ultrasonic) (NWB14-U)",
+  "sku": "NWB14-U",
+  "harga": 1.96,
+  "kategori": "Eco Bag",
+  "kategori_lain": [
+   "New Arrival",
+   "Ultrasonic Bag"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/non-woven-bag-ultrasonic-nwb14-u.webp"
+ },
+ {
+  "id": 8099,
+  "slug": "canvas-bag-6oz-can3061nat-6oz",
+  "nama": "Canvas Bag  (6oz) (CAN3061NAT(6oz))",
+  "sku": "CAN3061NAT(6oz)",
+  "harga": 8.5,
+  "kategori": "ECO - Jute & Canvas Bag",
+  "kategori_lain": [
+   "Eco Bag"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/canvas-bag-6oz-can3061nat-6oz.webp",
+  "galeri": [
+   "/gambar/canvas-bag-6oz-can3061nat-6oz-g2.webp",
+   "/gambar/canvas-bag-6oz-can3061nat-6oz-g3.webp",
+   "/gambar/canvas-bag-6oz-can3061nat-6oz-g4.webp",
+   "/gambar/canvas-bag-6oz-can3061nat-6oz-g5.webp"
+  ]
+ },
+ {
+  "id": 7691,
+  "slug": "cooler-and-warmer-bag-cob213",
+  "nama": "Cooler & Warmer Bag (COB213)",
+  "sku": "COB213",
+  "harga": 19.0,
+  "kategori": "Bag Series",
+  "kategori_lain": [
+   "Cooler & Warmer Bag",
+   "New Arrival"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/cooler-and-warmer-bag-cob213.webp",
+  "galeri": [
+   "/gambar/cooler-and-warmer-bag-cob213-g2.webp",
+   "/gambar/cooler-and-warmer-bag-cob213-g3.webp",
+   "/gambar/cooler-and-warmer-bag-cob213-g4.webp"
+  ]
+ },
+ {
+  "id": 7657,
+  "slug": "cooler-and-warmer-bag-cob419",
+  "nama": "Cooler & Warmer Bag (COB419)",
+  "sku": "COB419",
+  "harga": 12.4,
+  "kategori": "Bag Series",
+  "kategori_lain": [
+   "Cooler & Warmer Bag",
+   "New Arrival"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/cooler-and-warmer-bag-cob419.webp",
+  "galeri": [
+   "/gambar/cooler-and-warmer-bag-cob419-g2.webp",
+   "/gambar/cooler-and-warmer-bag-cob419-g3.webp",
+   "/gambar/cooler-and-warmer-bag-cob419-g4.webp",
+   "/gambar/cooler-and-warmer-bag-cob419-g5.webp"
+  ]
+ },
+ {
+  "id": 7081,
+  "slug": "laptop-back-pack-fully-padded-bag-lt3168",
+  "nama": "Laptop Back Pack(Fully Padded Bag) (LT3168)",
+  "sku": "LT3168",
+  "harga": 40.0,
+  "kategori": "Bag Series",
+  "kategori_lain": [
+   "Laptop Back Pack",
+   "New Arrival"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/laptop-back-pack-fully-padded-bag-lt3168.webp",
+  "galeri": [
+   "/gambar/laptop-back-pack-fully-padded-bag-lt3168-g2.webp",
+   "/gambar/laptop-back-pack-fully-padded-bag-lt3168-g3.webp",
+   "/gambar/laptop-back-pack-fully-padded-bag-lt3168-g4.webp",
+   "/gambar/laptop-back-pack-fully-padded-bag-lt3168-g5.webp"
+  ]
+ },
+ {
+  "id": 30507,
+  "slug": "wooden-crystal-cw9392",
+  "nama": "Wooden Crystal (CW9392)",
+  "sku": "CW9392",
+  "harga": 122.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/wooden-crystal-cw9392.webp"
+ },
+ {
+  "id": 30503,
+  "slug": "wooden-crystal-cw9390",
+  "nama": "Wooden Crystal (CW9390)",
+  "sku": "CW9390",
+  "harga": 120.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/wooden-crystal-cw9390.webp"
+ },
+ {
+  "id": 30499,
+  "slug": "wooden-crystal-cw9387",
+  "nama": "Wooden Crystal (CW9387)",
+  "sku": "CW9387",
+  "harga": 108.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/wooden-crystal-cw9387.webp"
+ },
+ {
+  "id": 30493,
+  "slug": "wooden-crystal-cw9383",
+  "nama": "Wooden Crystal (CW9383)",
+  "sku": "CW9383",
+  "harga": 92.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/wooden-crystal-cw9383.webp"
+ },
+ {
+  "id": 30487,
+  "slug": "wooden-crystal-cw9386",
+  "nama": "Wooden Crystal (CW9386)",
+  "sku": "CW9386",
+  "harga": 104.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/wooden-crystal-cw9386.webp"
+ },
+ {
+  "id": 30483,
+  "slug": "wooden-crystal-cw9399",
+  "nama": "Wooden Crystal (CW9399)",
+  "sku": "CW9399",
+  "harga": 90.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/wooden-crystal-cw9399.webp"
+ },
+ {
+  "id": 30477,
+  "slug": "wooden-crystal-cw9401",
+  "nama": "Wooden Crystal (CW9401)",
+  "sku": "CW9401",
+  "harga": 138.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/wooden-crystal-cw9401.webp"
+ },
+ {
+  "id": 30473,
+  "slug": "wooden-crystal-cw9388",
+  "nama": "Wooden Crystal (CW9388)",
+  "sku": "CW9388",
+  "harga": 110.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/wooden-crystal-cw9388.webp"
+ },
+ {
+  "id": 30457,
+  "slug": "wooden-crystal-cw9395",
+  "nama": "Wooden Crystal (CW9395)",
+  "sku": "CW9395",
+  "harga": 98.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/wooden-crystal-cw9395.webp"
+ },
+ {
+  "id": 30395,
+  "slug": "wooden-crystal-cw9406",
+  "nama": "Wooden Crystal (CW9406)",
+  "sku": "CW9406",
+  "harga": 92.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/wooden-crystal-cw9406.webp"
+ },
+ {
+  "id": 30391,
+  "slug": "wooden-crystal-cw9396",
+  "nama": "Wooden Crystal (CW9396)",
+  "sku": "CW9396",
+  "harga": 98.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/wooden-crystal-cw9396.webp"
+ },
+ {
+  "id": 16576,
+  "slug": "crystal-plaque-cp3749",
+  "nama": "Crystal Plaque (CP3749)",
+  "sku": "CP3749",
+  "harga": 116.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/crystal-plaque-cp3749.webp"
+ },
+ {
+  "id": 16542,
+  "slug": "wooden-crystal-cw9381",
+  "nama": "Wooden Crystal (CW9381)",
+  "sku": "CW9381 (c/w box)",
+  "harga": 118.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/wooden-crystal-cw9381.webp"
+ },
+ {
+  "id": 16538,
+  "slug": "wooden-crystal-cw9378",
+  "nama": "Wooden Crystal (CW9378)",
+  "sku": "CW9378",
+  "harga": 144.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/wooden-crystal-cw9378.webp"
+ },
+ {
+  "id": 16534,
+  "slug": "wooden-crystal-cw9376",
+  "nama": "Wooden Crystal (CW9376)",
+  "sku": "CW9376",
+  "harga": 104.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/wooden-crystal-cw9376.webp"
+ },
+ {
+  "id": 16530,
+  "slug": "wooden-crystal-cw9374",
+  "nama": "Wooden Crystal (CW9374)",
+  "sku": "CW9374",
+  "harga": 144.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/wooden-crystal-cw9374.webp"
+ },
+ {
+  "id": 16526,
+  "slug": "wooden-crystal-cw9370",
+  "nama": "Wooden Crystal (CW9370)",
+  "sku": "CW9370 (c/w box)",
+  "harga": 88.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/wooden-crystal-cw9370.webp"
+ },
+ {
+  "id": 16522,
+  "slug": "wooden-crystal-cw9366",
+  "nama": "Wooden Crystal (CW9366)",
+  "sku": "CW9366",
+  "harga": 116.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/wooden-crystal-cw9366.webp"
+ },
+ {
+  "id": 16518,
+  "slug": "wooden-crystal-cw9365",
+  "nama": "Wooden Crystal (CW9365)",
+  "sku": "CW9365",
+  "harga": 90.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/wooden-crystal-cw9365.webp"
+ },
+ {
+  "id": 16508,
+  "slug": "wooden-crystal-cw9363",
+  "nama": "Wooden Crystal (CW9363)",
+  "sku": "CW9363",
+  "harga": 198.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/wooden-crystal-cw9363.webp"
+ },
+ {
+  "id": 16504,
+  "slug": "wooden-crystal-cw9360",
+  "nama": "Wooden Crystal (CW9360)",
+  "sku": "CW9360 (c/w box)",
+  "harga": 138.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/wooden-crystal-cw9360.webp"
+ },
+ {
+  "id": 16500,
+  "slug": "wooden-crystal-cw9358",
+  "nama": "Wooden Crystal (CW9358)",
+  "sku": "CW9358 (c/w box)",
+  "harga": 136.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/wooden-crystal-cw9358.webp"
+ },
+ {
+  "id": 16496,
+  "slug": "wooden-crystal-cw9356",
+  "nama": "Wooden Crystal (CW9356)",
+  "sku": "CW9356 (c/w box)",
+  "harga": 118.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/wooden-crystal-cw9356.webp"
+ },
+ {
+  "id": 16492,
+  "slug": "wooden-crystal-cw9354",
+  "nama": "Wooden Crystal (CW9354)",
+  "sku": "CW9354",
+  "harga": 116.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/wooden-crystal-cw9354.webp"
+ },
+ {
+  "id": 16488,
+  "slug": "wooden-crystal-cw9352",
+  "nama": "Wooden Crystal (CW9352)",
+  "sku": "CW9352",
+  "harga": 112.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/wooden-crystal-cw9352.webp"
+ },
+ {
+  "id": 16484,
+  "slug": "wooden-crystal-cw9350",
+  "nama": "Wooden Crystal (CW9350)",
+  "sku": "CW9350",
+  "harga": 108.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/wooden-crystal-cw9350.webp"
+ },
+ {
+  "id": 16480,
+  "slug": "wooden-crystal-cw9347",
+  "nama": "Wooden Crystal (CW9347)",
+  "sku": "CW9347",
+  "harga": 96.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/wooden-crystal-cw9347.webp"
+ },
+ {
+  "id": 16476,
+  "slug": "wooden-crystal-cw9345",
+  "nama": "Wooden Crystal (CW9345)",
+  "sku": "CW9345",
+  "harga": 98.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/wooden-crystal-cw9345.webp"
+ },
+ {
+  "id": 16472,
+  "slug": "wooden-crystal-cw9343",
+  "nama": "Wooden Crystal (CW9343)",
+  "sku": "CW9343",
+  "harga": 96.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/wooden-crystal-cw9343.webp"
+ },
+ {
+  "id": 16468,
+  "slug": "wooden-crystal-cw9341",
+  "nama": "Wooden Crystal (CW9341)",
+  "sku": "CW9341",
+  "harga": 84.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/wooden-crystal-cw9341.webp"
+ },
+ {
+  "id": 16464,
+  "slug": "wooden-crystal-cw9151",
+  "nama": "Wooden Crystal (CW9151)",
+  "sku": "CW9151",
+  "harga": 98.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/wooden-crystal-cw9151.webp"
+ },
+ {
+  "id": 16461,
+  "slug": "wooden-crystal-cw9141",
+  "nama": "Wooden Crystal (CW9141)",
+  "sku": "CW9141",
+  "harga": 114.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/wooden-crystal-cw9141.webp"
+ },
+ {
+  "id": 16458,
+  "slug": "wooden-crystal-cw9131",
+  "nama": "Wooden Crystal (CW9131)",
+  "sku": "CW9131",
+  "harga": 110.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/wooden-crystal-cw9131.webp"
+ },
+ {
+  "id": 16455,
+  "slug": "wooden-crystal-cw9121",
+  "nama": "Wooden Crystal (CW9121)",
+  "sku": "CW9121",
+  "harga": 106.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/wooden-crystal-cw9121.webp"
+ },
+ {
+  "id": 16452,
+  "slug": "wooden-crystal-cw9111",
+  "nama": "Wooden Crystal (CW9111)",
+  "sku": "CW9111",
+  "harga": 110.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/wooden-crystal-cw9111.webp"
+ },
+ {
+  "id": 16449,
+  "slug": "wooden-crystal-cw933",
+  "nama": "Wooden Crystal (CW933)",
+  "sku": "CW933 (c/w box)",
+  "harga": 112.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/wooden-crystal-cw933.webp"
+ },
+ {
+  "id": 16445,
+  "slug": "wooden-crystal-cw9364",
+  "nama": "Wooden Crystal (CW9364)",
+  "sku": "CW9364",
+  "harga": 130.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/wooden-crystal-cw9364.webp"
+ },
+ {
+  "id": 16442,
+  "slug": "wooden-crystal-cw932",
+  "nama": "Wooden Crystal (CW932)",
+  "sku": "CW932",
+  "harga": 84.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/wooden-crystal-cw932.webp"
+ },
+ {
+  "id": 16439,
+  "slug": "wooden-crystal-cw931",
+  "nama": "Wooden Crystal (CW931)",
+  "sku": "CW931",
+  "harga": 92.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/wooden-crystal-cw931.webp"
+ },
+ {
+  "id": 16435,
+  "slug": "crystal-cp3824",
+  "nama": "Crystal (CP3824)",
+  "sku": "CP3824",
+  "harga": 84.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/crystal-cp3824.webp"
+ },
+ {
+  "id": 16431,
+  "slug": "crystal-plaque-cp3823",
+  "nama": "Crystal Plaque (CP3823)",
+  "sku": "CP3823",
+  "harga": 104.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/crystal-plaque-cp3823.webp"
+ },
+ {
+  "id": 16427,
+  "slug": "crystal-plaque-cp3819",
+  "nama": "Crystal Plaque (CP3819)",
+  "sku": "CP3819",
+  "harga": 138.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/crystal-plaque-cp3819.webp"
+ },
+ {
+  "id": 16419,
+  "slug": "crystal-plaque-cp3756",
+  "nama": "Crystal Plaque (CP3756)",
+  "sku": "CP3756",
+  "harga": 192.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/crystal-plaque-cp3756.webp"
+ },
+ {
+  "id": 16415,
+  "slug": "crystal-plaque-cp3754",
+  "nama": "Crystal Plaque (CP3754)",
+  "sku": "CP3754",
+  "harga": 110.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/crystal-plaque-cp3754.webp"
+ },
+ {
+  "id": 16411,
+  "slug": "crystal-plaque-cp3751",
+  "nama": "Crystal Plaque (CP3751)",
+  "sku": "CP3751",
+  "harga": 156.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/crystal-plaque-cp3751.webp"
+ },
+ {
+  "id": 16407,
+  "slug": "crystal-plaque-cp3747",
+  "nama": "Crystal Plaque (CP3747)",
+  "sku": "CP3747",
+  "harga": 156.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/crystal-plaque-cp3747.webp"
+ },
+ {
+  "id": 16403,
+  "slug": "crystal-plaque-cp3745",
+  "nama": "Crystal Plaque (CP3745)",
+  "sku": "CP3745",
+  "harga": 56.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/crystal-plaque-cp3745.webp"
+ },
+ {
+  "id": 16399,
+  "slug": "crystal-plaque-cp3743",
+  "nama": "Crystal Plaque (CP3743)",
+  "sku": "CP3743",
+  "harga": 56.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/crystal-plaque-cp3743.webp"
+ },
+ {
+  "id": 16395,
+  "slug": "crystal-plaque-cp3741",
+  "nama": "Crystal Plaque (CP3741)",
+  "sku": "CP3741",
+  "harga": 116.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/crystal-plaque-cp3741.webp"
+ },
+ {
+  "id": 16391,
+  "slug": "crystal-plaque-cp3739",
+  "nama": "Crystal Plaque (CP3739)",
+  "sku": "CP3739 (c/w box)",
+  "harga": 108.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/crystal-plaque-cp3739.webp",
+  "galeri": [
+   "/gambar/crystal-plaque-cp3739-g2.webp",
+   "/gambar/crystal-plaque-cp3739-g3.webp"
+  ]
+ },
+ {
+  "id": 16379,
+  "slug": "crystal-plaque-cp3737",
+  "nama": "Crystal Plaque (CP3737)",
+  "sku": "CP3737",
+  "harga": 138.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/crystal-plaque-cp3737.webp",
+  "galeri": [
+   "/gambar/crystal-plaque-cp3737-g2.webp",
+   "/gambar/crystal-plaque-cp3737-g3.webp",
+   "/gambar/crystal-plaque-cp3737-g4.webp"
+  ]
+ },
+ {
+  "id": 16375,
+  "slug": "crystal-plaque-cp3735",
+  "nama": "Crystal Plaque (CP3735)",
+  "sku": "CP3735",
+  "harga": 114.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/crystal-plaque-cp3735.webp"
+ },
+ {
+  "id": 16363,
+  "slug": "crystal-plaque-cp3733",
+  "nama": "Crystal Plaque (CP3733)",
+  "sku": "CP3733",
+  "harga": 170.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/crystal-plaque-cp3733.webp",
+  "galeri": [
+   "/gambar/crystal-plaque-cp3733-g2.webp",
+   "/gambar/crystal-plaque-cp3733-g3.webp",
+   "/gambar/crystal-plaque-cp3733-g4.webp"
+  ]
+ },
+ {
+  "id": 16351,
+  "slug": "crystal-plaque-cp3730",
+  "nama": "Crystal Plaque (CP3730)",
+  "sku": "CP3730 (c/w box)",
+  "harga": 148.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/crystal-plaque-cp3730.webp",
+  "galeri": [
+   "/gambar/crystal-plaque-cp3730-g2.webp",
+   "/gambar/crystal-plaque-cp3730-g3.webp",
+   "/gambar/crystal-plaque-cp3730-g4.webp"
+  ]
+ },
+ {
+  "id": 16347,
+  "slug": "crystal-plaque-cp3728",
+  "nama": "Crystal Plaque (CP3728)",
+  "sku": "CP3728",
+  "harga": 104.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/crystal-plaque-cp3728.webp"
+ },
+ {
+  "id": 16343,
+  "slug": "crystal-plaque-cp3723",
+  "nama": "Crystal Plaque (CP3723)",
+  "sku": "CP3723",
+  "harga": 102.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/crystal-plaque-cp3723.webp"
+ },
+ {
+  "id": 16338,
+  "slug": "crystal-plaque-cp3721",
+  "nama": "Crystal Plaque (CP3721)",
+  "sku": "CP3721",
+  "harga": 100.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/crystal-plaque-cp3721.webp"
+ },
+ {
+  "id": 16335,
+  "slug": "crystal-plaque-cp3718",
+  "nama": "Crystal Plaque (CP3718)",
+  "sku": "CP3718",
+  "harga": 100.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/crystal-plaque-cp3718.webp"
+ },
+ {
+  "id": 16331,
+  "slug": "crystal-plaque-cp3716",
+  "nama": "Crystal Plaque (CP3716)",
+  "sku": "CP3716",
+  "harga": 94.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/crystal-plaque-cp3716.webp"
+ },
+ {
+  "id": 16327,
+  "slug": "crystal-plaque-cp3714",
+  "nama": "Crystal Plaque (CP3714)",
+  "sku": "CP3714",
+  "harga": 84.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/crystal-plaque-cp3714.webp"
+ },
+ {
+  "id": 16323,
+  "slug": "crystal-plaque-cp3712",
+  "nama": "Crystal Plaque (CP3712)",
+  "sku": "CP3712",
+  "harga": 98.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/crystal-plaque-cp3712.webp"
+ },
+ {
+  "id": 16315,
+  "slug": "crystal-plaque-cp3711",
+  "nama": "Crystal Plaque (CP3711)",
+  "sku": "CP3711",
+  "harga": 110.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/crystal-plaque-cp3711.webp",
+  "galeri": [
+   "/gambar/crystal-plaque-cp3711-g2.webp",
+   "/gambar/crystal-plaque-cp3711-g3.webp"
+  ]
+ },
+ {
+  "id": 16311,
+  "slug": "crystal-plaque-cp3710",
+  "nama": "Crystal Plaque (CP3710)",
+  "sku": "CP3710",
+  "harga": 84.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/crystal-plaque-cp3710.webp"
+ },
+ {
+  "id": 16308,
+  "slug": "crystal-plaque-cp1166",
+  "nama": "Crystal Plaque(CP1166)",
+  "sku": "CP1166",
+  "harga": 136.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/crystal-plaque-cp1166.webp"
+ },
+ {
+  "id": 15393,
+  "slug": "crystal-paper-weight-pw217",
+  "nama": "Crystal Paper Weight (PW217)",
+  "sku": "PW217",
+  "harga": 56.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/crystal-paper-weight-pw217.webp"
+ },
+ {
+  "id": 15390,
+  "slug": "crystal-paper-weight-pw216",
+  "nama": "Crystal Paper Weight (PW216)",
+  "sku": "PW216",
+  "harga": 30.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/crystal-paper-weight-pw216.webp"
+ },
+ {
+  "id": 15387,
+  "slug": "crystal-plaque-cp3516",
+  "nama": "Crystal Plaque (CP3516)",
+  "sku": "CP3516",
+  "harga": 16.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/crystal-plaque-cp3516.webp"
+ },
+ {
+  "id": 15384,
+  "slug": "crystal-plaque-cp3515",
+  "nama": "Crystal Plaque (CP3515)",
+  "sku": "CP3515",
+  "harga": 16.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/crystal-plaque-cp3515.webp"
+ },
+ {
+  "id": 15381,
+  "slug": "crystal-plaque-cp16",
+  "nama": "Crystal Plaque (CP16)",
+  "sku": "CP16",
+  "harga": 39.8,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/crystal-plaque-cp16.webp"
+ },
+ {
+  "id": 15378,
+  "slug": "crystal-plaque-cp18",
+  "nama": "Crystal Plaque (CP18)",
+  "sku": "CP18",
+  "harga": 39.8,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/crystal-plaque-cp18.webp"
+ },
+ {
+  "id": 15375,
+  "slug": "crystal-plaque-cp17",
+  "nama": "Crystal Plaque (CP17)",
+  "sku": "CP17",
+  "harga": 39.8,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/crystal-plaque-cp17.webp"
+ },
+ {
+  "id": 15372,
+  "slug": "crystal-plaque-cp751",
+  "nama": "Crystal Plaque (CP751)",
+  "sku": "CP751",
+  "harga": 39.8,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/crystal-plaque-cp751.webp"
+ },
+ {
+  "id": 15369,
+  "slug": "crystal-plaque-cp752",
+  "nama": "Crystal Plaque (CP752)",
+  "sku": "CP752",
+  "harga": 39.8,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/crystal-plaque-cp752.webp"
+ },
+ {
+  "id": 15366,
+  "slug": "crystal-plaque-cp753",
+  "nama": "Crystal Plaque (CP753)",
+  "sku": "CP753",
+  "harga": 44.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/crystal-plaque-cp753.webp"
+ },
+ {
+  "id": 15363,
+  "slug": "crystal-plaque-cp754",
+  "nama": "Crystal Plaque (CP754)",
+  "sku": "CP754",
+  "harga": 39.8,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/crystal-plaque-cp754.webp"
+ },
+ {
+  "id": 15360,
+  "slug": "crystal-plaque-cp19",
+  "nama": "Crystal Plaque (CP19)",
+  "sku": "CP19",
+  "harga": 38.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/crystal-plaque-cp19.webp"
+ },
+ {
+  "id": 15357,
+  "slug": "crystal-plaque-cp381",
+  "nama": "Crystal Plaque (CP381)",
+  "sku": "CP381",
+  "harga": 46.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/crystal-plaque-cp381.webp"
+ },
+ {
+  "id": 15354,
+  "slug": "crystal-plaque-cp382",
+  "nama": "Crystal Plaque (CP382)",
+  "sku": "CP382",
+  "harga": 44.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/crystal-plaque-cp382.webp"
+ },
+ {
+  "id": 15351,
+  "slug": "crystal-plaque-cp383",
+  "nama": "Crystal Plaque (CP383)",
+  "sku": "CP383",
+  "harga": 46.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/crystal-plaque-cp383.webp"
+ },
+ {
+  "id": 15348,
+  "slug": "crystal-plaque-cp376",
+  "nama": "Crystal Plaque (CP376)",
+  "sku": "CP376",
+  "harga": 96.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/crystal-plaque-cp376.webp"
+ },
+ {
+  "id": 15345,
+  "slug": "crystal-plaque-cp1155",
+  "nama": "Crystal Plaque (CP1155)",
+  "sku": "CP1155",
+  "harga": 116.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/crystal-plaque-cp1155.webp"
+ },
+ {
+  "id": 15342,
+  "slug": "crystal-plaque-cp2205",
+  "nama": "Crystal Plaque (CP2205)",
+  "sku": "CP2205",
+  "harga": 52.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/crystal-plaque-cp2205.webp"
+ },
+ {
+  "id": 15335,
+  "slug": "crystal-plaque-cp140",
+  "nama": "Crystal Plaque (CP140)",
+  "sku": "CP140",
+  "harga": 140.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/crystal-plaque-cp140.webp"
+ },
+ {
+  "id": 15332,
+  "slug": "crystal-plaque-cp13",
+  "nama": "Crystal Plaque (CP13)",
+  "sku": "CP13",
+  "harga": 64.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/crystal-plaque-cp13.webp"
+ },
+ {
+  "id": 15326,
+  "slug": "crystal-plaque-cp2833",
+  "nama": "Crystal Plaque (CP2833)",
+  "sku": "CP2833",
+  "harga": 96.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/crystal-plaque-cp2833.webp"
+ },
+ {
+  "id": 15321,
+  "slug": "crystal-plaque-cp2811",
+  "nama": "Crystal Plaque (CP2811)",
+  "sku": "CP2811",
+  "harga": 112.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/crystal-plaque-cp2811.webp"
+ },
+ {
+  "id": 15318,
+  "slug": "crystal-plaque-cp102",
+  "nama": "Crystal Plaque (CP102)",
+  "sku": "CP102",
+  "harga": 60.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/crystal-plaque-cp102.webp"
+ },
+ {
+  "id": 15315,
+  "slug": "crystal-plaque-cp1144",
+  "nama": "Crystal Plaque (CP1144)",
+  "sku": "CP1144",
+  "harga": 76.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/crystal-plaque-cp1144.webp",
+  "harga_max": 88.0
+ },
+ {
+  "id": 15312,
+  "slug": "crystal-plaque-cp131",
+  "nama": "Crystal Plaque (CP131)",
+  "sku": "CP131",
+  "harga": 70.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/crystal-plaque-cp131.webp"
+ },
+ {
+  "id": 15309,
+  "slug": "crystal-plaque-cp145",
+  "nama": "Crystal Plaque (CP145)",
+  "sku": "CP145",
+  "harga": 76.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/crystal-plaque-cp145.webp"
+ },
+ {
+  "id": 15306,
+  "slug": "crystal-plaque-cp2281",
+  "nama": "Crystal Plaque (CP2281)",
+  "sku": "CP2281",
+  "harga": 90.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/crystal-plaque-cp2281.webp"
+ },
+ {
+  "id": 15299,
+  "slug": "crystal-plaque-cp711",
+  "nama": "Crystal Plaque (CP711)",
+  "sku": "CP711",
+  "harga": 78.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/crystal-plaque-cp711.webp",
+  "harga_max": 90.0
+ },
+ {
+  "id": 15295,
+  "slug": "crystal-plaque-cp137",
+  "nama": "Crystal Plaque (CP137)",
+  "sku": "CP137",
+  "harga": 52.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/crystal-plaque-cp137.webp",
+  "harga_max": 74.0,
+  "galeri": [
+   "/gambar/crystal-plaque-cp137-g2.webp",
+   "/gambar/crystal-plaque-cp137-g3.webp",
+   "/gambar/crystal-plaque-cp137-g4.webp"
+  ]
+ },
+ {
+  "id": 15288,
+  "slug": "crystal-plaque-cp2839",
+  "nama": "Crystal Plaque (CP2839)",
+  "sku": "CP2839",
+  "harga": 138.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/crystal-plaque-cp2839.webp"
+ },
+ {
+  "id": 15285,
+  "slug": "crystal-plaque-cp115",
+  "nama": "Crystal Plaque (CP115)",
+  "sku": "CP115",
+  "harga": 94.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/crystal-plaque-cp115.webp"
+ },
+ {
+  "id": 15280,
+  "slug": "crystal-trophy-c33",
+  "nama": "Crystal Trophy (C33)",
+  "sku": "C33",
+  "harga": 24.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/crystal-trophy-c33.webp"
+ },
+ {
+  "id": 15275,
+  "slug": "crystal-trophy-c28",
+  "nama": "Crystal Trophy (C28)",
+  "sku": "C28-M(c/wBox)",
+  "harga": 156.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/crystal-trophy-c28.webp",
+  "harga_max": 184.0
+ },
+ {
+  "id": 15255,
+  "slug": "crystal-plaque-cp552",
+  "nama": "Crystal Plaque (CP552)",
+  "sku": "CP552",
+  "harga": 76.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/crystal-plaque-cp552.webp"
+ },
+ {
+  "id": 15252,
+  "slug": "crystal-plaque-cp3620",
+  "nama": "Crystal Plaque (CP3620)",
+  "sku": "CP3620",
+  "harga": 70.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/crystal-plaque-cp3620.webp"
+ },
+ {
+  "id": 15249,
+  "slug": "crystal-plaque-cp3619",
+  "nama": "Crystal Plaque (CP3619)",
+  "sku": "CP3619",
+  "harga": 58.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/crystal-plaque-cp3619.webp"
+ },
+ {
+  "id": 15246,
+  "slug": "crystal-plaque-cp3617",
+  "nama": "Crystal Plaque (CP3617)",
+  "sku": "CP3617",
+  "harga": 56.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/crystal-plaque-cp3617.webp"
+ },
+ {
+  "id": 15243,
+  "slug": "crystal-plaque-cp3616",
+  "nama": "Crystal Plaque (CP3616)",
+  "sku": "CP3616",
+  "harga": 58.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/crystal-plaque-cp3616.webp"
+ },
+ {
+  "id": 15240,
+  "slug": "crystal-plaque-cp3615",
+  "nama": "Crystal Plaque (CP3615)",
+  "sku": "CP3615",
+  "harga": 112.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/crystal-plaque-cp3615.webp"
+ },
+ {
+  "id": 15237,
+  "slug": "crystal-plaque-cp3704",
+  "nama": "Crystal Plaque (CP3704)",
+  "sku": "CP3704",
+  "harga": 54.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/crystal-plaque-cp3704.webp"
+ },
+ {
+  "id": 15234,
+  "slug": "crystal-plaque-cp3703",
+  "nama": "Crystal Plaque (CP3703)",
+  "sku": "CP3703",
+  "harga": 52.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/crystal-plaque-cp3703.webp"
+ },
+ {
+  "id": 15231,
+  "slug": "crystal-plaque-cp3701",
+  "nama": "Crystal Plaque (CP3701)",
+  "sku": "CP3701",
+  "harga": 70.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/crystal-plaque-cp3701.webp"
+ },
+ {
+  "id": 15228,
+  "slug": "crystal-plaque-cp384",
+  "nama": "Crystal Plaque (CP384)",
+  "sku": "CP384",
+  "harga": 46.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/crystal-plaque-cp384.webp"
+ },
+ {
+  "id": 15224,
+  "slug": "crystal-plaque-cp375",
+  "nama": "Crystal Plaque (CP375)",
+  "sku": "CP375",
+  "harga": 46.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/crystal-plaque-cp375.webp"
+ },
+ {
+  "id": 15221,
+  "slug": "crystal-plaque-cp377",
+  "nama": "Crystal Plaque (CP377)",
+  "sku": "CP377",
+  "harga": 54.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/crystal-plaque-cp377.webp"
+ },
+ {
+  "id": 15216,
+  "slug": "crystal-plaque-cp3806",
+  "nama": "Crystal Plaque (CP3806)",
+  "sku": "CP3806S",
+  "harga": 54.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/crystal-plaque-cp3806.webp",
+  "harga_max": 60.0,
+  "galeri": [
+   "/gambar/crystal-plaque-cp3806-g2.webp",
+   "/gambar/crystal-plaque-cp3806-g3.webp"
+  ]
+ },
+ {
+  "id": 15213,
+  "slug": "crystal-plaque-cp3805",
+  "nama": "Crystal Plaque (CP3805)",
+  "sku": "CP3805",
+  "harga": 116.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/crystal-plaque-cp3805.webp"
+ },
+ {
+  "id": 15210,
+  "slug": "crystal-plaque-cp3804",
+  "nama": "Crystal Plaque (CP3804)",
+  "sku": "CP3804",
+  "harga": 196.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/crystal-plaque-cp3804.webp"
+ },
+ {
+  "id": 15207,
+  "slug": "crystal-plaque-cp3803",
+  "nama": "Crystal Plaque (CP3803)",
+  "sku": "CP3803",
+  "harga": 110.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/crystal-plaque-cp3803.webp"
+ },
+ {
+  "id": 15204,
+  "slug": "crystal-plaque-cp3802",
+  "nama": "Crystal Plaque (CP3802)",
+  "sku": "CP3802",
+  "harga": 116.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/crystal-plaque-cp3802.webp"
+ },
+ {
+  "id": 15201,
+  "slug": "crystal-plaque-cp3801",
+  "nama": "Crystal Plaque (CP3801)",
+  "sku": "CP3801",
+  "harga": 112.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/crystal-plaque-cp3801.webp"
+ },
+ {
+  "id": 15198,
+  "slug": "crystal-plaque-cp3709",
+  "nama": "Crystal Plaque (CP3709)",
+  "sku": "CP3709",
+  "harga": 90.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/crystal-plaque-cp3709.webp"
+ },
+ {
+  "id": 15195,
+  "slug": "crystal-plaque-cp3708",
+  "nama": "Crystal Plaque (CP3708)",
+  "sku": "CP3708",
+  "harga": 196.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/crystal-plaque-cp3708.webp"
+ },
+ {
+  "id": 15192,
+  "slug": "crystal-plaque-cp3707",
+  "nama": "Crystal Plaque(CP3707)",
+  "sku": "CP3707",
+  "harga": 104.0,
+  "kategori": "Crystal Series",
+  "kategori_lain": [
+   "Crystal Trophies & Awards"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/crystal-plaque-cp3707.webp"
+ },
+ {
+  "id": 14596,
+  "slug": "ruler-ss21",
+  "nama": "Ruler (SS21)",
+  "sku": "SS21",
+  "harga": 0.7,
+  "kategori": "Miscellaneous",
+  "kategori_lain": [],
+  "jenama": null,
+  "gambar": "/gambar/ruler-ss21.webp"
+ },
+ {
+  "id": 14594,
+  "slug": "sharpener-ss16",
+  "nama": "Sharpener (SS16)",
+  "sku": "SS16",
+  "harga": 1.1,
+  "kategori": "Miscellaneous",
+  "kategori_lain": [],
+  "jenama": null,
+  "gambar": "/gambar/sharpener-ss16.webp"
+ },
+ {
+  "id": 14592,
+  "slug": "eraser-ss15",
+  "nama": "Eraser (SS15)",
+  "sku": "SS15",
+  "harga": 0.8,
+  "kategori": "Miscellaneous",
+  "kategori_lain": [],
+  "jenama": null,
+  "gambar": "/gambar/eraser-ss15.webp"
+ },
+ {
+  "id": 14590,
+  "slug": "2b-pencil-ss13",
+  "nama": "2B Pencil (SS13)",
+  "sku": "SS13",
+  "harga": 0.9,
+  "kategori": "Miscellaneous",
+  "kategori_lain": [],
+  "jenama": null,
+  "gambar": "/gambar/2b-pencil-ss13.webp"
+ },
+ {
+  "id": 14582,
+  "slug": "scissor-ss11",
+  "nama": "Scissor (SS11)",
+  "sku": "SS11",
+  "harga": 1.2,
+  "kategori": "Miscellaneous",
+  "kategori_lain": [],
+  "jenama": null,
+  "gambar": "/gambar/scissor-ss11.webp",
+  "galeri": [
+   "/gambar/scissor-ss11-g2.webp",
+   "/gambar/scissor-ss11-g3.webp",
+   "/gambar/scissor-ss11-g4.webp",
+   "/gambar/scissor-ss11-g5.webp",
+   "/gambar/scissor-ss11-g6.webp"
+  ]
+ },
+ {
+  "id": 14580,
+  "slug": "stationery-set-ss100",
+  "nama": "Stationery Set (SS100)",
+  "sku": "SS100",
+  "harga": 7.5,
+  "kategori": "Miscellaneous",
+  "kategori_lain": [],
+  "jenama": null,
+  "gambar": "/gambar/stationery-set-ss100.webp"
+ },
+ {
+  "id": 14575,
+  "slug": "stationery-set-ss300",
+  "nama": "Stationery Set (SS300)",
+  "sku": "SS300",
+  "harga": 9.0,
+  "kategori": "Miscellaneous",
+  "kategori_lain": [],
+  "jenama": null,
+  "gambar": "/gambar/stationery-set-ss300.webp"
+ },
+ {
+  "id": 14569,
+  "slug": "stationery-set-ss400",
+  "nama": "Stationery Set (SS400)",
+  "sku": "SS400",
+  "harga": 9.0,
+  "kategori": "Miscellaneous",
+  "kategori_lain": [],
+  "jenama": null,
+  "gambar": "/gambar/stationery-set-ss400.webp",
+  "galeri": [
+   "/gambar/stationery-set-ss400-g2.webp",
+   "/gambar/stationery-set-ss400-g3.webp",
+   "/gambar/stationery-set-ss400-g4.webp"
+  ]
+ },
+ {
+  "id": 7502,
+  "slug": "multi-purpose-bag-toiletries-bag-tol1562",
+  "nama": "Multi Purpose Bag @ Toiletries Bag (TOL1562)",
+  "sku": "TOL1562",
+  "harga": 17.0,
+  "kategori": "Bag Series",
+  "kategori_lain": [
+   "Multi Purpose Bag",
+   "Toiletries Bag"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/multi-purpose-bag-toiletries-bag-tol1562.webp",
+  "galeri": [
+   "/gambar/multi-purpose-bag-toiletries-bag-tol1562-g2.webp",
+   "/gambar/multi-purpose-bag-toiletries-bag-tol1562-g3.webp",
+   "/gambar/multi-purpose-bag-toiletries-bag-tol1562-g4.webp",
+   "/gambar/multi-purpose-bag-toiletries-bag-tol1562-g5.webp",
+   "/gambar/multi-purpose-bag-toiletries-bag-tol1562-g6.webp"
+  ]
+ },
+ {
+  "id": 7131,
+  "slug": "laptop-back-pack-fully-padded-bag-lt9063",
+  "nama": "Laptop Back Pack (Fully Padded Bag) (LT9063)",
+  "sku": "LT9063",
+  "harga": 98.0,
+  "kategori": "Bag Series",
+  "kategori_lain": [
+   "Laptop Back Pack"
+  ],
+  "jenama": null,
+  "gambar": "/gambar/laptop-back-pack-fully-padded-bag-lt9063.webp",
+  "galeri": [
+   "/gambar/laptop-back-pack-fully-padded-bag-lt9063-g2.webp",
+   "/gambar/laptop-back-pack-fully-padded-bag-lt9063-g3.webp",
+   "/gambar/laptop-back-pack-fully-padded-bag-lt9063-g4.webp",
+   "/gambar/laptop-back-pack-fully-padded-bag-lt9063-g5.webp",
+   "/gambar/laptop-back-pack-fully-padded-bag-lt9063-g6.webp"
+  ]
  }
 ]
