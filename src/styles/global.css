@@ -386,7 +386,14 @@ body.nav-open .mobile-nav { display: block; }
 .card:hover { border-color: var(--forest); box-shadow: var(--shadow-2); transform: translateY(-2px); }
 
 .card-media {
-  aspect-ratio: 1 / 1; position: relative; overflow: hidden;
+  /* Bingkai 4:5 (potret), bukan 1:1.
+     Produk dalam katalog ini lebih banyak menegak (pen, lanyard, tuala,
+     buku nota) daripada mendatar. Dalam bingkai 1:1, objek 1:13 seperti pen
+     hanya boleh isi 7.7% luas secara matematik — sebab itu kad nampak kosong.
+     Bingkai 4:5 beri produk menegak 25% lebih saiz tanpa memotong apa-apa.
+     Produk lebar (beg, straw) tidak terjejas kerana ia sudah terhad oleh
+     lebar, bukan tinggi. */
+  aspect-ratio: 4 / 5; position: relative; overflow: hidden;
   background: var(--white); border-bottom: 1px solid var(--line-2);
 }
 /* img MESTI position:absolute. Dengan display:grid + height:100%, tinggi img
