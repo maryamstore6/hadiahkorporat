@@ -216,15 +216,19 @@ p:last-child { margin-bottom: 0; }
 .card-name { font-size: .93rem; font-weight: 600; line-height: 1.35; }
 .card-name a:hover { color: var(--accent); }
 .card-meta { font-size: .78rem; color: var(--ink-2); }
-.card-foot { margin-top: auto; display: flex; align-items: center; justify-content: space-between; gap: .5rem; padding-top: .35rem; }
-.card-price { font-weight: 700; font-size: .95rem; }
+.card-foot {
+  margin-top: auto; display: flex; flex-direction: column;
+  align-items: stretch; gap: .55rem; padding-top: .5rem;
+}
+.card-price { font-weight: 700; font-size: 1rem; line-height: 1.25; }
 .card-price small { display: block; font-weight: 500; font-size: .72rem; color: var(--muted); }
 
 .card-btn {
   border: 1.5px solid var(--line); background: var(--surface);
-  border-radius: 100px; padding: .42rem .8rem;
-  font-size: .8rem; font-weight: 600; color: var(--ink);
-  white-space: nowrap; transition: all .15s ease;
+  border-radius: 100px; padding: .5rem .8rem;
+  font-size: .82rem; font-weight: 600; color: var(--ink);
+  white-space: nowrap; text-align: center; width: 100%;
+  transition: all .15s ease;
 }
 .card-btn:hover { border-color: var(--accent); background: var(--accent); color: #fff; }
 .card-btn[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); color: #fff; }
