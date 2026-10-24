@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://maryamstore6.github.io/hadiahkorporat/sitemap.xml
