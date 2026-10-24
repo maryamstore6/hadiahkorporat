@@ -83,37 +83,18 @@ const adaHarga = produkSemua.filter((p) => p.harga > 0);
     </div>
   </div>
 
-  <!-- KATEGORI -->
-  <section class="section" id="kategori">
+  <!-- PRODUK PREMIUM -->
+  <section class="section">
     <div class="wrap">
       <div class="section-head">
         <div>
-          <p class="eyebrow">Kategori</p>
-          <h2>Mula dari jenis hadiah</h2>
-          <p>{kategori.length} kategori — pen, beg, trofi, mug, teknologi dan banyak lagi.</p>
+          <p class="eyebrow">Untuk majlis besar</p>
+          <h2>Hadiah premium &amp; anugerah</h2>
+          <p>Trofi kristal, plak, dan hadiah khas untuk menghargai klien utama.</p>
         </div>
-        <a class="btn btn-ghost btn-sm" href={pautan('/kategori')} style="border-color:var(--accent);color:var(--accent)">Semua kategori →</a>
       </div>
-      <div class="cat-grid">
-        {teratas.map((k) => (
-          <a class="cat-card" href={pautan(`/kategori/${k.slug}`)}>
-            <img
-              class="cat-img"
-              src={pautan(gambarKategori(k.nama, 400))}
-              srcset={`${pautan(gambarKategori(k.nama, 400))} 400w, ${pautan(gambarKategori(k.nama, 800))} 800w`}
-              sizes="(max-width: 640px) 45vw, (max-width: 1100px) 30vw, 240px"
-              alt=""
-              width="400"
-                          height="400"
-              loading="lazy"
-              decoding="async"
-            />
-            <div class="cat-teks">
-              <b>{k.nama}</b>
-              <small>{k.bilangan} produk</small>
-            </div>
-          </a>
-        ))}
+      <div class="grid-prod">
+        {berharga.map((p) => <ProductCard p={p} ringkas />)}
       </div>
     </div>
   </section>
@@ -167,18 +148,37 @@ const adaHarga = produkSemua.filter((p) => p.harga > 0);
     </div>
   </section>
 
-  <!-- PRODUK PREMIUM -->
-  <section class="section" style="padding-top:0">
+  <!-- KATEGORI -->
+  <section class="section" id="kategori" style="padding-top:0">
     <div class="wrap">
       <div class="section-head">
         <div>
-          <p class="eyebrow">Untuk majlis besar</p>
-          <h2>Hadiah premium &amp; anugerah</h2>
-          <p>Trofi kristal, plak, dan hadiah khas untuk menghargai klien utama.</p>
+          <p class="eyebrow">Kategori</p>
+          <h2>Mula dari jenis hadiah</h2>
+          <p>{kategori.length} kategori — pen, beg, trofi, mug, teknologi dan banyak lagi.</p>
         </div>
+        <a class="btn btn-ghost btn-sm" href={pautan('/kategori')} style="border-color:var(--accent);color:var(--accent)">Semua kategori →</a>
       </div>
-      <div class="grid-prod">
-        {berharga.map((p) => <ProductCard p={p} ringkas />)}
+      <div class="cat-grid">
+        {teratas.map((k) => (
+          <a class="cat-card" href={pautan(`/kategori/${k.slug}`)}>
+            <img
+              class="cat-img"
+              src={pautan(gambarKategori(k.nama, 400))}
+              srcset={`${pautan(gambarKategori(k.nama, 400))} 400w, ${pautan(gambarKategori(k.nama, 800))} 800w`}
+              sizes="(max-width: 640px) 45vw, (max-width: 1100px) 30vw, 240px"
+              alt=""
+              width="400"
+                          height="400"
+              loading="lazy"
+              decoding="async"
+            />
+            <div class="cat-teks">
+              <b>{k.nama}</b>
+              <small>{k.bilangan} produk</small>
+            </div>
+          </a>
+        ))}
       </div>
     </div>
   </section>
