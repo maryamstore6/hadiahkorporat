@@ -234,7 +234,9 @@ const adaHarga = produkSemua.filter((p) => p.harga > 0);
               <blockquote>{u.teks}</blockquote>
               <figcaption>
                 <b>{u.nama}</b>
-                <span>{u.jawatan}{u.syarikat ? ` · ${u.syarikat}` : ''}</span>
+                {(u.jawatan || u.syarikat) && (
+                  <span>{[u.jawatan, u.syarikat].filter(Boolean).join(' · ')}</span>
+                )}
               </figcaption>
             </figure>
           ))}

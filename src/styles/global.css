@@ -539,8 +539,10 @@ textarea.input { border-radius: var(--r); resize: vertical; }
 
 /* ---------- Ulasan pelanggan ---------- */
 .ulasan-grid {
-  display: grid; grid-template-columns: repeat(auto-fit, minmax(270px, 1fr)); gap: .9rem;
+  display: grid; grid-template-columns: repeat(3, 1fr); gap: .9rem;
 }
+@media (max-width: 1000px) { .ulasan-grid { grid-template-columns: repeat(2, 1fr); } }
+@media (max-width: 640px)  { .ulasan-grid { grid-template-columns: 1fr; } }
 .ulasan {
   margin: 0; background: var(--white); border: 1px solid var(--line);
   border-radius: var(--r); padding: 1.4rem 1.5rem;

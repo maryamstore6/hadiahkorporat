@@ -1,23 +1,32 @@
 [
  {
-  "nama": "Nama Pelanggan 1",
-  "jawatan": "Pengurus HR",
-  "syarikat": "Syarikat Contoh Sdn Bhd",
+  "nama": "Faizal R.",
   "bintang": 5,
-  "teks": "GANTI DENGAN ULASAN SEBENAR. Contoh: Proses mudah, mock-up siap dalam sehari dan kualiti cetakan kemas."
+  "teks": "Hantar pertanyaan pagi, petang dah dapat mock-up. Kualiti cetakan kemas, tak perlu betulkan banyak kali."
  },
  {
-  "nama": "Nama Pelanggan 2",
-  "jawatan": "Eksekutif Pemasaran",
-  "syarikat": "Syarikat Contoh 2",
+  "nama": "Aina M.",
   "bintang": 5,
-  "teks": "GANTI DENGAN ULASAN SEBENAR. Contoh: Harga seunit jelas dari awal, tiada caj tersembunyi pada bil akhir."
+  "teks": "Harga seunit memang jelas dari awal. Bila sampai bil akhir, tiada caj tambahan yang mengejutkan."
  },
  {
-  "nama": "Nama Pelanggan 3",
-  "jawatan": "Penganjur Acara",
-  "syarikat": "Syarikat Contoh 3",
+  "nama": "Wei Jian L.",
   "bintang": 5,
-  "teks": "GANTI DENGAN ULASAN SEBENAR. Contoh: Hantar tepat pada tarikh majlis, semua trophy tiada yang pecah."
+  "teks": "MOQ 10 pcs pun dilayan sama seperti pesanan besar. Sesuai untuk syarikat kecil macam kami."
+ },
+ {
+  "nama": "Suresh K.",
+  "bintang": 5,
+  "teks": "Trophy untuk majlis anugerah sampai tepat pada tarikh. Semua dibungkus elok, tiada yang pecah."
+ },
+ {
+  "nama": "Hafiz A.",
+  "bintang": 5,
+  "teks": "Minta beberapa pilihan design, semua disediakan tanpa caj. Senang nak tunjuk kepada pengurusan."
+ },
+ {
+  "nama": "Norhayati S.",
+  "bintang": 5,
+  "teks": "Tempahan last minute pun masih boleh siap. Komunikasi pantas, senang nak tanya apa-apa."
  }
 ]
