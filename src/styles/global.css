@@ -161,10 +161,13 @@ p:last-child { margin-bottom: 0; }
 }
 .head-row { display: flex; align-items: center; gap: 1rem; min-height: 64px; }
 .brand {
+  display: inline-flex; align-items: center; gap: .5rem;
   font-family: var(--disp); font-size: 1.35rem; line-height: 1;
   white-space: nowrap; flex: none;
 }
-.brand span { color: var(--accent); }
+.brand-ikon { width: 40px; height: 40px; flex: none; object-fit: contain; display: block; }
+.brand-teks { white-space: nowrap; }
+.brand-titik { color: var(--accent); }
 .head-nav { display: flex; gap: 1.5rem; margin: 0 auto; }
 .head-nav a {
   font-size: .82rem; font-weight: 500; color: var(--ink-2);
@@ -466,7 +469,7 @@ textarea.input { border-radius: var(--r); resize: vertical; }
   padding: clamp(2.5rem, 6vw, 4rem) 0 5.5rem;
 }
 .site-foot .brand { color: var(--cream); margin-bottom: .7rem; }
-.site-foot .brand span { color: var(--lime); }
+.site-foot .brand-titik { color: var(--lime); }
 .foot-grid { display: grid; grid-template-columns: 1.5fr 1fr 1fr 1fr; gap: 2rem; }
 .foot-grid h4 {
   font-family: var(--sans); font-size: .62rem; font-weight: 600;
@@ -507,7 +510,8 @@ textarea.input { border-radius: var(--r); resize: vertical; }
 
   /* Kepala */
   .head-row { min-height: 58px; gap: .5rem; }
-  .brand { font-size: 1.2rem; }
+  .brand { font-size: 1.18rem; gap: .4rem; }
+  .brand-ikon { width: 34px; height: 34px; }
   .head-actions { gap: .4rem; }
   .head-actions .btn { padding: .6rem 1rem; min-height: 44px; font-size: .78rem; }
 
