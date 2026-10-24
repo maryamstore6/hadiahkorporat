@@ -12,7 +12,12 @@
 "Plaque"
 ],
 "jenama": null,
-"gambar": "/gambar/aluminium-plaque-wp60.webp"
+"gambar": "/gambar/aluminium-plaque-wp60.webp",
+"galeri": [
+"/gambar/aluminium-plaque-wp60-g2.webp",
+"/gambar/aluminium-plaque-wp60-g3.webp",
+"/gambar/aluminium-plaque-wp60-g4.webp"
+]
 },
 {
 "id": 28598,
@@ -27,7 +32,12 @@
 "Plaque"
 ],
 "jenama": null,
-"gambar": "/gambar/aluminium-plaque-wp61.webp"
+"gambar": "/gambar/aluminium-plaque-wp61.webp",
+"galeri": [
+"/gambar/aluminium-plaque-wp61-g2.webp",
+"/gambar/aluminium-plaque-wp61-g3.webp",
+"/gambar/aluminium-plaque-wp61-g4.webp"
+]
 },
 {
 "id": 14312,
@@ -40,7 +50,12 @@
 "Bag Series"
 ],
 "jenama": null,
-"gambar": "/gambar/3-in-1-anti-theft-laptop-back-pack-fully-padded-bag-lt4931.webp"
+"gambar": "/gambar/3-in-1-anti-theft-laptop-back-pack-fully-padded-bag-lt4931.webp",
+"galeri": [
+"/gambar/3-in-1-anti-theft-laptop-back-pack-fully-padded-bag-lt4931-g2.webp",
+"/gambar/3-in-1-anti-theft-laptop-back-pack-fully-padded-bag-lt4931-g3.webp",
+"/gambar/3-in-1-anti-theft-laptop-back-pack-fully-padded-bag-lt4931-g4.webp"
+]
 },
 {
 "id": 29265,
@@ -51,7 +66,12 @@
 "kategori": "Apron & Jacket",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/apron-apron-12.webp"
+"gambar": "/gambar/apron-apron-12.webp",
+"galeri": [
+"/gambar/apron-apron-12-g2.webp",
+"/gambar/apron-apron-12-g3.webp",
+"/gambar/apron-apron-12-g4.webp"
+]
 },
 {
 "id": 9920,
@@ -62,7 +82,12 @@
 "kategori": "Apron & Jacket",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/apron-apron10.webp"
+"gambar": "/gambar/apron-apron10.webp",
+"galeri": [
+"/gambar/apron-apron10-g2.webp",
+"/gambar/apron-apron10-g3.webp",
+"/gambar/apron-apron10-g4.webp"
+]
 },
 {
 "id": 15087,
@@ -84,7 +109,12 @@
 "kategori": "Apron & Jacket",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/non-woven-apron-apr7158.webp"
+"gambar": "/gambar/non-woven-apron-apr7158.webp",
+"galeri": [
+"/gambar/non-woven-apron-apr7158-g2.webp",
+"/gambar/non-woven-apron-apr7158-g3.webp",
+"/gambar/non-woven-apron-apr7158-g4.webp"
+]
 },
 {
 "id": 15090,
@@ -130,7 +160,12 @@
 "Bag Series"
 ],
 "jenama": null,
-"gambar": "/gambar/back-pack-bp3725.webp"
+"gambar": "/gambar/back-pack-bp3725.webp",
+"galeri": [
+"/gambar/back-pack-bp3725-g2.webp",
+"/gambar/back-pack-bp3725-g3.webp",
+"/gambar/back-pack-bp3725-g4.webp"
+]
 },
 {
 "id": 29123,
@@ -144,7 +179,12 @@
 "Laptop Back Pack"
 ],
 "jenama": null,
-"gambar": "/gambar/back-pack-bp3727.webp"
+"gambar": "/gambar/back-pack-bp3727.webp",
+"galeri": [
+"/gambar/back-pack-bp3727-g2.webp",
+"/gambar/back-pack-bp3727-g3.webp",
+"/gambar/back-pack-bp3727-g4.webp"
+]
 },
 {
 "id": 29109,
@@ -157,7 +197,12 @@
 "Bag Series"
 ],
 "jenama": null,
-"gambar": "/gambar/back-pack-bp3729.webp"
+"gambar": "/gambar/back-pack-bp3729.webp",
+"galeri": [
+"/gambar/back-pack-bp3729-g2.webp",
+"/gambar/back-pack-bp3729-g3.webp",
+"/gambar/back-pack-bp3729-g4.webp"
+]
 },
 {
 "id": 15886,
@@ -171,7 +216,12 @@
 "Laptop Back Pack"
 ],
 "jenama": null,
-"gambar": "/gambar/back-pack-bp4233.webp"
+"gambar": "/gambar/back-pack-bp4233.webp",
+"galeri": [
+"/gambar/back-pack-bp4233-g2.webp",
+"/gambar/back-pack-bp4233-g3.webp",
+"/gambar/back-pack-bp4233-g4.webp"
+]
 },
 {
 "id": 2123,
@@ -184,7 +234,12 @@
 "Bag Series"
 ],
 "jenama": null,
-"gambar": "/gambar/back-pack-bp4238.webp"
+"gambar": "/gambar/back-pack-bp4238.webp",
+"galeri": [
+"/gambar/back-pack-bp4238-g2.webp",
+"/gambar/back-pack-bp4238-g3.webp",
+"/gambar/back-pack-bp4238-g4.webp"
+]
 },
 {
 "id": 15911,
@@ -197,7 +252,12 @@
 "Bag Series"
 ],
 "jenama": null,
-"gambar": "/gambar/back-pack-bp4325.webp"
+"gambar": "/gambar/back-pack-bp4325.webp",
+"galeri": [
+"/gambar/back-pack-bp4325-g2.webp",
+"/gambar/back-pack-bp4325-g3.webp",
+"/gambar/back-pack-bp4325-g4.webp"
+]
 },
 {
 "id": 2156,
@@ -210,7 +270,12 @@
 "Bag Series"
 ],
 "jenama": null,
-"gambar": "/gambar/back-pack-bp4715.webp"
+"gambar": "/gambar/back-pack-bp4715.webp",
+"galeri": [
+"/gambar/back-pack-bp4715-g2.webp",
+"/gambar/back-pack-bp4715-g3.webp",
+"/gambar/back-pack-bp4715-g4.webp"
+]
 },
 {
 "id": 2139,
@@ -223,7 +288,12 @@
 "Bag Series"
 ],
 "jenama": null,
-"gambar": "/gambar/back-pack-bp5039-2.webp"
+"gambar": "/gambar/back-pack-bp5039-2.webp",
+"galeri": [
+"/gambar/back-pack-bp5039-2-g2.webp",
+"/gambar/back-pack-bp5039-2-g3.webp",
+"/gambar/back-pack-bp5039-2-g4.webp"
+]
 },
 {
 "id": 15935,
@@ -237,7 +307,12 @@
 "Laptop Back Pack"
 ],
 "jenama": null,
-"gambar": "/gambar/back-pack-bp5195.webp"
+"gambar": "/gambar/back-pack-bp5195.webp",
+"galeri": [
+"/gambar/back-pack-bp5195-g2.webp",
+"/gambar/back-pack-bp5195-g3.webp",
+"/gambar/back-pack-bp5195-g4.webp"
+]
 },
 {
 "id": 2114,
@@ -250,7 +325,12 @@
 "Bag Series"
 ],
 "jenama": null,
-"gambar": "/gambar/back-pack-bp7272.webp"
+"gambar": "/gambar/back-pack-bp7272.webp",
+"galeri": [
+"/gambar/back-pack-bp7272-g2.webp",
+"/gambar/back-pack-bp7272-g3.webp",
+"/gambar/back-pack-bp7272-g4.webp"
+]
 },
 {
 "id": 2155,
@@ -265,7 +345,12 @@
 "New Arrival"
 ],
 "jenama": null,
-"gambar": "/gambar/back-pack-bp7993-1.webp"
+"gambar": "/gambar/back-pack-bp7993-1.webp",
+"galeri": [
+"/gambar/back-pack-bp7993-1-g2.webp",
+"/gambar/back-pack-bp7993-1-g3.webp",
+"/gambar/back-pack-bp7993-1-g4.webp"
+]
 },
 {
 "id": 14349,
@@ -278,7 +363,10 @@
 "Bag Series"
 ],
 "jenama": null,
-"gambar": "/gambar/back-pack-bpz8199.webp"
+"gambar": "/gambar/back-pack-bpz8199.webp",
+"galeri": [
+"/gambar/back-pack-bpz8199-g2.webp"
+]
 },
 {
 "id": 16019,
@@ -292,7 +380,12 @@
 "Laptop Back Pack"
 ],
 "jenama": null,
-"gambar": "/gambar/laptop-back-pack-fully-padded-bag-lt31690.webp"
+"gambar": "/gambar/laptop-back-pack-fully-padded-bag-lt31690.webp",
+"galeri": [
+"/gambar/laptop-back-pack-fully-padded-bag-lt31690-g2.webp",
+"/gambar/laptop-back-pack-fully-padded-bag-lt31690-g3.webp",
+"/gambar/laptop-back-pack-fully-padded-bag-lt31690-g4.webp"
+]
 },
 {
 "id": 28529,
@@ -307,7 +400,12 @@
 "Waterproof Bag Series"
 ],
 "jenama": null,
-"gambar": "/gambar/waterproof-back-pack-wbp3320.webp"
+"gambar": "/gambar/waterproof-back-pack-wbp3320.webp",
+"galeri": [
+"/gambar/waterproof-back-pack-wbp3320-g2.webp",
+"/gambar/waterproof-back-pack-wbp3320-g3.webp",
+"/gambar/waterproof-back-pack-wbp3320-g4.webp"
+]
 },
 {
 "id": 16249,
@@ -321,7 +419,12 @@
 "Waterproof Bag Series"
 ],
 "jenama": null,
-"gambar": "/gambar/waterproof-back-pack-wbp660.webp"
+"gambar": "/gambar/waterproof-back-pack-wbp660.webp",
+"galeri": [
+"/gambar/waterproof-back-pack-wbp660-g2.webp",
+"/gambar/waterproof-back-pack-wbp660-g3.webp",
+"/gambar/waterproof-back-pack-wbp660-g4.webp"
+]
 },
 {
 "id": 18306,
@@ -334,7 +437,10 @@
 "Other Bags"
 ],
 "jenama": null,
-"gambar": "/gambar/canvas-drawstring-bag-color-cdsb5590-col.webp"
+"gambar": "/gambar/canvas-drawstring-bag-color-cdsb5590-col.webp",
+"galeri": [
+"/gambar/canvas-drawstring-bag-color-cdsb5590-col-g2.webp"
+]
 },
 {
 "id": 16056,
@@ -360,7 +466,12 @@
 "Other Bags"
 ],
 "jenama": null,
-"gambar": "/gambar/carry-bag-cab205.webp"
+"gambar": "/gambar/carry-bag-cab205.webp",
+"galeri": [
+"/gambar/carry-bag-cab205-g2.webp",
+"/gambar/carry-bag-cab205-g3.webp",
+"/gambar/carry-bag-cab205-g4.webp"
+]
 },
 {
 "id": 15947,
@@ -374,7 +485,12 @@
 "New Arrival"
 ],
 "jenama": null,
-"gambar": "/gambar/cooler-warmer-bag-cob499.webp"
+"gambar": "/gambar/cooler-warmer-bag-cob499.webp",
+"galeri": [
+"/gambar/cooler-warmer-bag-cob499-g2.webp",
+"/gambar/cooler-warmer-bag-cob499-g3.webp",
+"/gambar/cooler-warmer-bag-cob499-g4.webp"
+]
 },
 {
 "id": 30248,
@@ -387,7 +503,12 @@
 "Cooler & Warmer Bag"
 ],
 "jenama": null,
-"gambar": "/gambar/cooler-warmer-bag-cob500.webp"
+"gambar": "/gambar/cooler-warmer-bag-cob500.webp",
+"galeri": [
+"/gambar/cooler-warmer-bag-cob500-g2.webp",
+"/gambar/cooler-warmer-bag-cob500-g3.webp",
+"/gambar/cooler-warmer-bag-cob500-g4.webp"
+]
 },
 {
 "id": 30262,
@@ -400,7 +521,12 @@
 "Cooler & Warmer Bag"
 ],
 "jenama": null,
-"gambar": "/gambar/cooler-warmer-bag-cob501.webp"
+"gambar": "/gambar/cooler-warmer-bag-cob501.webp",
+"galeri": [
+"/gambar/cooler-warmer-bag-cob501-g2.webp",
+"/gambar/cooler-warmer-bag-cob501-g3.webp",
+"/gambar/cooler-warmer-bag-cob501-g4.webp"
+]
 },
 {
 "id": 16061,
@@ -413,7 +539,12 @@
 "Other Bags"
 ],
 "jenama": null,
-"gambar": "/gambar/drawstring-bag-dsb4008.webp"
+"gambar": "/gambar/drawstring-bag-dsb4008.webp",
+"galeri": [
+"/gambar/drawstring-bag-dsb4008-g2.webp",
+"/gambar/drawstring-bag-dsb4008-g3.webp",
+"/gambar/drawstring-bag-dsb4008-g4.webp"
+]
 },
 {
 "id": 30288,
@@ -426,7 +557,12 @@
 "Other Bags"
 ],
 "jenama": null,
-"gambar": "/gambar/foldable-shopping-bag-fsb7385-jumbo-size.webp"
+"gambar": "/gambar/foldable-shopping-bag-fsb7385-jumbo-size.webp",
+"galeri": [
+"/gambar/foldable-shopping-bag-fsb7385-jumbo-size-g2.webp",
+"/gambar/foldable-shopping-bag-fsb7385-jumbo-size-g3.webp",
+"/gambar/foldable-shopping-bag-fsb7385-jumbo-size-g4.webp"
+]
 },
 {
 "id": 28497,
@@ -439,7 +575,12 @@
 "Other Bags"
 ],
 "jenama": null,
-"gambar": "/gambar/foldable-shopping-bag-with-pouch-fsb6669.webp"
+"gambar": "/gambar/foldable-shopping-bag-with-pouch-fsb6669.webp",
+"galeri": [
+"/gambar/foldable-shopping-bag-with-pouch-fsb6669-g2.webp",
+"/gambar/foldable-shopping-bag-with-pouch-fsb6669-g3.webp",
+"/gambar/foldable-shopping-bag-with-pouch-fsb6669-g4.webp"
+]
 },
 {
 "id": 16091,
@@ -452,7 +593,12 @@
 "Other Bags"
 ],
 "jenama": null,
-"gambar": "/gambar/foldable-shopping-bag-zippered-fsb7373.webp"
+"gambar": "/gambar/foldable-shopping-bag-zippered-fsb7373.webp",
+"galeri": [
+"/gambar/foldable-shopping-bag-zippered-fsb7373-g2.webp",
+"/gambar/foldable-shopping-bag-zippered-fsb7373-g3.webp",
+"/gambar/foldable-shopping-bag-zippered-fsb7373-g4.webp"
+]
 },
 {
 "id": 15986,
@@ -465,7 +611,12 @@
 "Laptop Back Pack"
 ],
 "jenama": null,
-"gambar": "/gambar/laptop-back-pack-fully-padded-bag-lt3049.webp"
+"gambar": "/gambar/laptop-back-pack-fully-padded-bag-lt3049.webp",
+"galeri": [
+"/gambar/laptop-back-pack-fully-padded-bag-lt3049-g2.webp",
+"/gambar/laptop-back-pack-fully-padded-bag-lt3049-g3.webp",
+"/gambar/laptop-back-pack-fully-padded-bag-lt3049-g4.webp"
+]
 },
 {
 "id": 15997,
@@ -478,7 +629,12 @@
 "Laptop Back Pack"
 ],
 "jenama": null,
-"gambar": "/gambar/laptop-back-pack-fully-padded-bag-lt3051.webp"
+"gambar": "/gambar/laptop-back-pack-fully-padded-bag-lt3051.webp",
+"galeri": [
+"/gambar/laptop-back-pack-fully-padded-bag-lt3051-g2.webp",
+"/gambar/laptop-back-pack-fully-padded-bag-lt3051-g3.webp",
+"/gambar/laptop-back-pack-fully-padded-bag-lt3051-g4.webp"
+]
 },
 {
 "id": 29080,
@@ -491,7 +647,12 @@
 "Laptop Back Pack"
 ],
 "jenama": null,
-"gambar": "/gambar/laptop-back-pack-fully-padded-bag-lt3200.webp"
+"gambar": "/gambar/laptop-back-pack-fully-padded-bag-lt3200.webp",
+"galeri": [
+"/gambar/laptop-back-pack-fully-padded-bag-lt3200-g2.webp",
+"/gambar/laptop-back-pack-fully-padded-bag-lt3200-g3.webp",
+"/gambar/laptop-back-pack-fully-padded-bag-lt3200-g4.webp"
+]
 },
 {
 "id": 29099,
@@ -504,7 +665,11 @@
 "Laptop Back Pack"
 ],
 "jenama": null,
-"gambar": "/gambar/laptop-back-pack-fully-padded-bag-lt3201.webp"
+"gambar": "/gambar/laptop-back-pack-fully-padded-bag-lt3201.webp",
+"galeri": [
+"/gambar/laptop-back-pack-fully-padded-bag-lt3201-g2.webp",
+"/gambar/laptop-back-pack-fully-padded-bag-lt3201-g3.webp"
+]
 },
 {
 "id": 29088,
@@ -517,7 +682,12 @@
 "Laptop Back Pack"
 ],
 "jenama": null,
-"gambar": "/gambar/laptop-back-pack-fully-padded-bag-lt3202.webp"
+"gambar": "/gambar/laptop-back-pack-fully-padded-bag-lt3202.webp",
+"galeri": [
+"/gambar/laptop-back-pack-fully-padded-bag-lt3202-g2.webp",
+"/gambar/laptop-back-pack-fully-padded-bag-lt3202-g3.webp",
+"/gambar/laptop-back-pack-fully-padded-bag-lt3202-g4.webp"
+]
 },
 {
 "id": 27278,
@@ -530,7 +700,12 @@
 "Laptop Back Pack"
 ],
 "jenama": null,
-"gambar": "/gambar/laptop-back-pack-fully-padded-bag-lt5330.webp"
+"gambar": "/gambar/laptop-back-pack-fully-padded-bag-lt5330.webp",
+"galeri": [
+"/gambar/laptop-back-pack-fully-padded-bag-lt5330-g2.webp",
+"/gambar/laptop-back-pack-fully-padded-bag-lt5330-g3.webp",
+"/gambar/laptop-back-pack-fully-padded-bag-lt5330-g4.webp"
+]
 },
 {
 "id": 10475,
@@ -556,7 +731,12 @@
 "Laptop Back Pack"
 ],
 "jenama": null,
-"gambar": "/gambar/laptop-back-pack-fully-padded-bag-lt1833.webp"
+"gambar": "/gambar/laptop-back-pack-fully-padded-bag-lt1833.webp",
+"galeri": [
+"/gambar/laptop-back-pack-fully-padded-bag-lt1833-g2.webp",
+"/gambar/laptop-back-pack-fully-padded-bag-lt1833-g3.webp",
+"/gambar/laptop-back-pack-fully-padded-bag-lt1833-g4.webp"
+]
 },
 {
 "id": 16011,
@@ -569,7 +749,12 @@
 "Laptop Back Pack"
 ],
 "jenama": null,
-"gambar": "/gambar/laptop-back-pack-fully-padded-bag-lt4035.webp"
+"gambar": "/gambar/laptop-back-pack-fully-padded-bag-lt4035.webp",
+"galeri": [
+"/gambar/laptop-back-pack-fully-padded-bag-lt4035-g2.webp",
+"/gambar/laptop-back-pack-fully-padded-bag-lt4035-g3.webp",
+"/gambar/laptop-back-pack-fully-padded-bag-lt4035-g4.webp"
+]
 },
 {
 "id": 29132,
@@ -583,7 +768,12 @@
 "Luggage Bag & Travelling Bag"
 ],
 "jenama": null,
-"gambar": "/gambar/laptop-document-bag-db8235.webp"
+"gambar": "/gambar/laptop-document-bag-db8235.webp",
+"galeri": [
+"/gambar/laptop-document-bag-db8235-g2.webp",
+"/gambar/laptop-document-bag-db8235-g3.webp",
+"/gambar/laptop-document-bag-db8235-g4.webp"
+]
 },
 {
 "id": 28359,
@@ -596,7 +786,11 @@
 "Felt & Document Bag"
 ],
 "jenama": null,
-"gambar": "/gambar/laptop-sleeve-bag-fully-padded-bag-lsb7225.webp"
+"gambar": "/gambar/laptop-sleeve-bag-fully-padded-bag-lsb7225.webp",
+"galeri": [
+"/gambar/laptop-sleeve-bag-fully-padded-bag-lsb7225-g2.webp",
+"/gambar/laptop-sleeve-bag-fully-padded-bag-lsb7225-g3.webp"
+]
 },
 {
 "id": 16044,
@@ -611,7 +805,12 @@
 "Toiletries Bag"
 ],
 "jenama": null,
-"gambar": "/gambar/multi-purpose-bag-shoes-bag-sh4820.webp"
+"gambar": "/gambar/multi-purpose-bag-shoes-bag-sh4820.webp",
+"galeri": [
+"/gambar/multi-purpose-bag-shoes-bag-sh4820-g2.webp",
+"/gambar/multi-purpose-bag-shoes-bag-sh4820-g3.webp",
+"/gambar/multi-purpose-bag-shoes-bag-sh4820-g4.webp"
+]
 },
 {
 "id": 30184,
@@ -624,7 +823,12 @@
 "Multi Purpose Bag"
 ],
 "jenama": null,
-"gambar": "/gambar/multi-purpose-bag-toiletries-bag-tol098.webp"
+"gambar": "/gambar/multi-purpose-bag-toiletries-bag-tol098.webp",
+"galeri": [
+"/gambar/multi-purpose-bag-toiletries-bag-tol098-g2.webp",
+"/gambar/multi-purpose-bag-toiletries-bag-tol098-g3.webp",
+"/gambar/multi-purpose-bag-toiletries-bag-tol098-g4.webp"
+]
 },
 {
 "id": 16145,
@@ -638,7 +842,12 @@
 "Toiletries Bag"
 ],
 "jenama": null,
-"gambar": "/gambar/multi-purpose-bag-toiletries-bag-tol1573.webp"
+"gambar": "/gambar/multi-purpose-bag-toiletries-bag-tol1573.webp",
+"galeri": [
+"/gambar/multi-purpose-bag-toiletries-bag-tol1573-g2.webp",
+"/gambar/multi-purpose-bag-toiletries-bag-tol1573-g3.webp",
+"/gambar/multi-purpose-bag-toiletries-bag-tol1573-g4.webp"
+]
 },
 {
 "id": 16158,
@@ -652,7 +861,12 @@
 "Toiletries Bag"
 ],
 "jenama": null,
-"gambar": "/gambar/multi-purpose-bag-toiletries-bag-tol1575.webp"
+"gambar": "/gambar/multi-purpose-bag-toiletries-bag-tol1575.webp",
+"galeri": [
+"/gambar/multi-purpose-bag-toiletries-bag-tol1575-g2.webp",
+"/gambar/multi-purpose-bag-toiletries-bag-tol1575-g3.webp",
+"/gambar/multi-purpose-bag-toiletries-bag-tol1575-g4.webp"
+]
 },
 {
 "id": 16173,
@@ -665,7 +879,12 @@
 "Multi Purpose Bag"
 ],
 "jenama": null,
-"gambar": "/gambar/multi-purpose-bag-toiletries-bag-tol1582.webp"
+"gambar": "/gambar/multi-purpose-bag-toiletries-bag-tol1582.webp",
+"galeri": [
+"/gambar/multi-purpose-bag-toiletries-bag-tol1582-g2.webp",
+"/gambar/multi-purpose-bag-toiletries-bag-tol1582-g3.webp",
+"/gambar/multi-purpose-bag-toiletries-bag-tol1582-g4.webp"
+]
 },
 {
 "id": 30238,
@@ -678,7 +897,12 @@
 "Multi Purpose Bag"
 ],
 "jenama": null,
-"gambar": "/gambar/multi-purpose-bag-toiletries-bag-tol1585.webp"
+"gambar": "/gambar/multi-purpose-bag-toiletries-bag-tol1585.webp",
+"galeri": [
+"/gambar/multi-purpose-bag-toiletries-bag-tol1585-g2.webp",
+"/gambar/multi-purpose-bag-toiletries-bag-tol1585-g3.webp",
+"/gambar/multi-purpose-bag-toiletries-bag-tol1585-g4.webp"
+]
 },
 {
 "id": 30222,
@@ -691,7 +915,12 @@
 "Multi Purpose Bag"
 ],
 "jenama": null,
-"gambar": "/gambar/multi-purpose-bag-toiletries-bag-tol1587.webp"
+"gambar": "/gambar/multi-purpose-bag-toiletries-bag-tol1587.webp",
+"galeri": [
+"/gambar/multi-purpose-bag-toiletries-bag-tol1587-g2.webp",
+"/gambar/multi-purpose-bag-toiletries-bag-tol1587-g3.webp",
+"/gambar/multi-purpose-bag-toiletries-bag-tol1587-g4.webp"
+]
 },
 {
 "id": 10855,
@@ -705,7 +934,12 @@
 "Toiletries Bag"
 ],
 "jenama": null,
-"gambar": "/gambar/multi-purpose-bag-toiletries-bag-tol1900.webp"
+"gambar": "/gambar/multi-purpose-bag-toiletries-bag-tol1900.webp",
+"galeri": [
+"/gambar/multi-purpose-bag-toiletries-bag-tol1900-g2.webp",
+"/gambar/multi-purpose-bag-toiletries-bag-tol1900-g3.webp",
+"/gambar/multi-purpose-bag-toiletries-bag-tol1900-g4.webp"
+]
 },
 {
 "id": 16203,
@@ -719,7 +953,12 @@
 "Toiletries Bag"
 ],
 "jenama": null,
-"gambar": "/gambar/multi-purpose-bag-toiletries-bag-tol1902.webp"
+"gambar": "/gambar/multi-purpose-bag-toiletries-bag-tol1902.webp",
+"galeri": [
+"/gambar/multi-purpose-bag-toiletries-bag-tol1902-g2.webp",
+"/gambar/multi-purpose-bag-toiletries-bag-tol1902-g3.webp",
+"/gambar/multi-purpose-bag-toiletries-bag-tol1902-g4.webp"
+]
 },
 {
 "id": 16214,
@@ -733,7 +972,12 @@
 "Toiletries Bag"
 ],
 "jenama": null,
-"gambar": "/gambar/multi-purpose-bag-toiletries-bag-tol1980.webp"
+"gambar": "/gambar/multi-purpose-bag-toiletries-bag-tol1980.webp",
+"galeri": [
+"/gambar/multi-purpose-bag-toiletries-bag-tol1980-g2.webp",
+"/gambar/multi-purpose-bag-toiletries-bag-tol1980-g3.webp",
+"/gambar/multi-purpose-bag-toiletries-bag-tol1980-g4.webp"
+]
 },
 {
 "id": 16109,
@@ -746,7 +990,12 @@
 "Other Bags"
 ],
 "jenama": null,
-"gambar": "/gambar/pouch-bag-pb2150.webp"
+"gambar": "/gambar/pouch-bag-pb2150.webp",
+"galeri": [
+"/gambar/pouch-bag-pb2150-g2.webp",
+"/gambar/pouch-bag-pb2150-g3.webp",
+"/gambar/pouch-bag-pb2150-g4.webp"
+]
 },
 {
 "id": 16117,
@@ -759,7 +1008,12 @@
 "Seminar Folder"
 ],
 "jenama": null,
-"gambar": "/gambar/seminar-folder-smf104.webp"
+"gambar": "/gambar/seminar-folder-smf104.webp",
+"galeri": [
+"/gambar/seminar-folder-smf104-g2.webp",
+"/gambar/seminar-folder-smf104-g3.webp",
+"/gambar/seminar-folder-smf104-g4.webp"
+]
 },
 {
 "id": 18308,
@@ -772,7 +1026,12 @@
 "Traveling & Sling Bag"
 ],
 "jenama": null,
-"gambar": "/gambar/sling-bag-sb1922.webp"
+"gambar": "/gambar/sling-bag-sb1922.webp",
+"galeri": [
+"/gambar/sling-bag-sb1922-g2.webp",
+"/gambar/sling-bag-sb1922-g3.webp",
+"/gambar/sling-bag-sb1922-g4.webp"
+]
 },
 {
 "id": 30171,
@@ -786,7 +1045,12 @@
 "Toiletries Bag"
 ],
 "jenama": null,
-"gambar": "/gambar/toiletries-cosmetic-bag-cos1100.webp"
+"gambar": "/gambar/toiletries-cosmetic-bag-cos1100.webp",
+"galeri": [
+"/gambar/toiletries-cosmetic-bag-cos1100-g2.webp",
+"/gambar/toiletries-cosmetic-bag-cos1100-g3.webp",
+"/gambar/toiletries-cosmetic-bag-cos1100-g4.webp"
+]
 },
 {
 "id": 16133,
@@ -800,7 +1064,12 @@
 "Toiletries Bag"
 ],
 "jenama": null,
-"gambar": "/gambar/toiletries-bag-cosmetic-bag-cos1085.webp"
+"gambar": "/gambar/toiletries-bag-cosmetic-bag-cos1085.webp",
+"galeri": [
+"/gambar/toiletries-bag-cosmetic-bag-cos1085-g2.webp",
+"/gambar/toiletries-bag-cosmetic-bag-cos1085-g3.webp",
+"/gambar/toiletries-bag-cosmetic-bag-cos1085-g4.webp"
+]
 },
 {
 "id": 30195,
@@ -813,7 +1082,12 @@
 "Multi Purpose Bag"
 ],
 "jenama": null,
-"gambar": "/gambar/travel-digital-pouch-bag-tp357.webp"
+"gambar": "/gambar/travel-digital-pouch-bag-tp357.webp",
+"galeri": [
+"/gambar/travel-digital-pouch-bag-tp357-g2.webp",
+"/gambar/travel-digital-pouch-bag-tp357-g3.webp",
+"/gambar/travel-digital-pouch-bag-tp357-g4.webp"
+]
 },
 {
 "id": 18313,
@@ -826,7 +1100,12 @@
 "Multi Purpose Bag"
 ],
 "jenama": null,
-"gambar": "/gambar/travel-digital-pouch-bag-tp359.webp"
+"gambar": "/gambar/travel-digital-pouch-bag-tp359.webp",
+"galeri": [
+"/gambar/travel-digital-pouch-bag-tp359-g2.webp",
+"/gambar/travel-digital-pouch-bag-tp359-g3.webp",
+"/gambar/travel-digital-pouch-bag-tp359-g4.webp"
+]
 },
 {
 "id": 8966,
@@ -839,7 +1118,12 @@
 "Multi Purpose Bag"
 ],
 "jenama": null,
-"gambar": "/gambar/travel-pouch-tp345.webp"
+"gambar": "/gambar/travel-pouch-tp345.webp",
+"galeri": [
+"/gambar/travel-pouch-tp345-g2.webp",
+"/gambar/travel-pouch-tp345-g3.webp",
+"/gambar/travel-pouch-tp345-g4.webp"
+]
 },
 {
 "id": 16226,
@@ -852,7 +1136,12 @@
 "Luggage Bag & Travelling Bag"
 ],
 "jenama": null,
-"gambar": "/gambar/travelling-bag-tb6911.webp"
+"gambar": "/gambar/travelling-bag-tb6911.webp",
+"galeri": [
+"/gambar/travelling-bag-tb6911-g2.webp",
+"/gambar/travelling-bag-tb6911-g3.webp",
+"/gambar/travelling-bag-tb6911-g4.webp"
+]
 },
 {
 "id": 10985,
@@ -865,7 +1154,12 @@
 "Waterproof Bag Series"
 ],
 "jenama": null,
-"gambar": "/gambar/waterproof-back-pack-10l-wbp3310-10l.webp"
+"gambar": "/gambar/waterproof-back-pack-10l-wbp3310-10l.webp",
+"galeri": [
+"/gambar/waterproof-back-pack-10l-wbp3310-10l-g2.webp",
+"/gambar/waterproof-back-pack-10l-wbp3310-10l-g3.webp",
+"/gambar/waterproof-back-pack-10l-wbp3310-10l-g4.webp"
+]
 },
 {
 "id": 14362,
@@ -878,7 +1172,10 @@
 "Waterproof Bag Series"
 ],
 "jenama": null,
-"gambar": "/gambar/waterproof-back-pack-wbp620.webp"
+"gambar": "/gambar/waterproof-back-pack-wbp620.webp",
+"galeri": [
+"/gambar/waterproof-back-pack-wbp620-g2.webp"
+]
 },
 {
 "id": 11001,
@@ -891,7 +1188,12 @@
 "Waterproof Bag Series"
 ],
 "jenama": null,
-"gambar": "/gambar/waterproof-bag-4l-wbp303-4l.webp"
+"gambar": "/gambar/waterproof-bag-4l-wbp303-4l.webp",
+"galeri": [
+"/gambar/waterproof-bag-4l-wbp303-4l-g2.webp",
+"/gambar/waterproof-bag-4l-wbp303-4l-g3.webp",
+"/gambar/waterproof-bag-4l-wbp303-4l-g4.webp"
+]
 },
 {
 "id": 10993,
@@ -904,7 +1206,12 @@
 "Waterproof Bag Series"
 ],
 "jenama": null,
-"gambar": "/gambar/waterproof-bag-5l-wbp305-5l.webp"
+"gambar": "/gambar/waterproof-bag-5l-wbp305-5l.webp",
+"galeri": [
+"/gambar/waterproof-bag-5l-wbp305-5l-g2.webp",
+"/gambar/waterproof-bag-5l-wbp305-5l-g3.webp",
+"/gambar/waterproof-bag-5l-wbp305-5l-g4.webp"
+]
 },
 {
 "id": 18317,
@@ -918,7 +1225,12 @@
 "Waterproof Bag Series"
 ],
 "jenama": null,
-"gambar": "/gambar/waterproof-pouch-bag-wpb1320.webp"
+"gambar": "/gambar/waterproof-pouch-bag-wpb1320.webp",
+"galeri": [
+"/gambar/waterproof-pouch-bag-wpb1320-g2.webp",
+"/gambar/waterproof-pouch-bag-wpb1320-g3.webp",
+"/gambar/waterproof-pouch-bag-wpb1320-g4.webp"
+]
 },
 {
 "id": 9883,
@@ -1024,7 +1336,10 @@
 "Crystal Trophies & Awards"
 ],
 "jenama": null,
-"gambar": "/gambar/black-crystal-plaque-cp3854.webp"
+"gambar": "/gambar/black-crystal-plaque-cp3854.webp",
+"galeri": [
+"/gambar/black-crystal-plaque-cp3854-g2.webp"
+]
 },
 {
 "id": 30660,
@@ -1094,7 +1409,12 @@
 "Household Series"
 ],
 "jenama": null,
-"gambar": "/gambar/aluminium-sport-bottle-asb102-c-wbox.webp"
+"gambar": "/gambar/aluminium-sport-bottle-asb102-c-wbox.webp",
+"galeri": [
+"/gambar/aluminium-sport-bottle-asb102-c-wbox-g2.webp",
+"/gambar/aluminium-sport-bottle-asb102-c-wbox-g3.webp",
+"/gambar/aluminium-sport-bottle-asb102-c-wbox-g4.webp"
+]
 },
 {
 "id": 9468,
@@ -1107,7 +1427,11 @@
 "Household Series"
 ],
 "jenama": null,
-"gambar": "/gambar/aluminium-sport-bottle-asb1021-c-wbox.webp"
+"gambar": "/gambar/aluminium-sport-bottle-asb1021-c-wbox.webp",
+"galeri": [
+"/gambar/aluminium-sport-bottle-asb1021-c-wbox-g2.webp",
+"/gambar/aluminium-sport-bottle-asb1021-c-wbox-g3.webp"
+]
 },
 {
 "id": 9454,
@@ -1120,7 +1444,12 @@
 "Household Series"
 ],
 "jenama": null,
-"gambar": "/gambar/aluminium-sport-bottle-asb2018-c-wbox.webp"
+"gambar": "/gambar/aluminium-sport-bottle-asb2018-c-wbox.webp",
+"galeri": [
+"/gambar/aluminium-sport-bottle-asb2018-c-wbox-g2.webp",
+"/gambar/aluminium-sport-bottle-asb2018-c-wbox-g3.webp",
+"/gambar/aluminium-sport-bottle-asb2018-c-wbox-g4.webp"
+]
 },
 {
 "id": 16667,
@@ -1133,7 +1462,12 @@
 "Household Series"
 ],
 "jenama": null,
-"gambar": "/gambar/aluminium-sport-bottle-asb2019.webp"
+"gambar": "/gambar/aluminium-sport-bottle-asb2019.webp",
+"galeri": [
+"/gambar/aluminium-sport-bottle-asb2019-g2.webp",
+"/gambar/aluminium-sport-bottle-asb2019-g3.webp",
+"/gambar/aluminium-sport-bottle-asb2019-g4.webp"
+]
 },
 {
 "id": 18703,
@@ -1146,7 +1480,11 @@
 "Household Series"
 ],
 "jenama": null,
-"gambar": "/gambar/auto-magnetic-stirring-mug-double-wall-stm2202.webp"
+"gambar": "/gambar/auto-magnetic-stirring-mug-double-wall-stm2202.webp",
+"galeri": [
+"/gambar/auto-magnetic-stirring-mug-double-wall-stm2202-g2.webp",
+"/gambar/auto-magnetic-stirring-mug-double-wall-stm2202-g3.webp"
+]
 },
 {
 "id": 16807,
@@ -1227,7 +1565,11 @@
 "Household Series"
 ],
 "jenama": null,
-"gambar": "/gambar/glass-bottle-sb5169-c-wbox.webp"
+"gambar": "/gambar/glass-bottle-sb5169-c-wbox.webp",
+"galeri": [
+"/gambar/glass-bottle-sb5169-c-wbox-g2.webp",
+"/gambar/glass-bottle-sb5169-c-wbox-g3.webp"
+]
 },
 {
 "id": 16720,
@@ -1253,7 +1595,12 @@
 "Household Series"
 ],
 "jenama": null,
-"gambar": "/gambar/glass-bottle-sb724-c-wbox.webp"
+"gambar": "/gambar/glass-bottle-sb724-c-wbox.webp",
+"galeri": [
+"/gambar/glass-bottle-sb724-c-wbox-g2.webp",
+"/gambar/glass-bottle-sb724-c-wbox-g3.webp",
+"/gambar/glass-bottle-sb724-c-wbox-g4.webp"
+]
 },
 {
 "id": 16681,
@@ -1266,7 +1613,12 @@
 "Household Series"
 ],
 "jenama": null,
-"gambar": "/gambar/glass-bottle-with-straw-gb4477-1.webp"
+"gambar": "/gambar/glass-bottle-with-straw-gb4477-1.webp",
+"galeri": [
+"/gambar/glass-bottle-with-straw-gb4477-1-g2.webp",
+"/gambar/glass-bottle-with-straw-gb4477-1-g3.webp",
+"/gambar/glass-bottle-with-straw-gb4477-1-g4.webp"
+]
 },
 {
 "id": 16693,
@@ -1279,7 +1631,12 @@
 "Household Series"
 ],
 "jenama": null,
-"gambar": "/gambar/glass-bottle-with-straw-gb4488.webp"
+"gambar": "/gambar/glass-bottle-with-straw-gb4488.webp",
+"galeri": [
+"/gambar/glass-bottle-with-straw-gb4488-g2.webp",
+"/gambar/glass-bottle-with-straw-gb4488-g3.webp",
+"/gambar/glass-bottle-with-straw-gb4488-g4.webp"
+]
 },
 {
 "id": 16708,
@@ -1292,7 +1649,12 @@
 "Household Series"
 ],
 "jenama": null,
-"gambar": "/gambar/glass-bottle-with-straw-gb4499.webp"
+"gambar": "/gambar/glass-bottle-with-straw-gb4499.webp",
+"galeri": [
+"/gambar/glass-bottle-with-straw-gb4499-g2.webp",
+"/gambar/glass-bottle-with-straw-gb4499-g3.webp",
+"/gambar/glass-bottle-with-straw-gb4499-g4.webp"
+]
 },
 {
 "id": 9371,
@@ -1305,7 +1667,12 @@
 "Household Series"
 ],
 "jenama": null,
-"gambar": "/gambar/organic-wheat-fiber-mug-opm76-c-wbox.webp"
+"gambar": "/gambar/organic-wheat-fiber-mug-opm76-c-wbox.webp",
+"galeri": [
+"/gambar/organic-wheat-fiber-mug-opm76-c-wbox-g2.webp",
+"/gambar/organic-wheat-fiber-mug-opm76-c-wbox-g3.webp",
+"/gambar/organic-wheat-fiber-mug-opm76-c-wbox-g4.webp"
+]
 },
 {
 "id": 9363,
@@ -1318,7 +1685,12 @@
 "Household Series"
 ],
 "jenama": null,
-"gambar": "/gambar/organic-wheat-fiber-mug-opm77-c-wbox.webp"
+"gambar": "/gambar/organic-wheat-fiber-mug-opm77-c-wbox.webp",
+"galeri": [
+"/gambar/organic-wheat-fiber-mug-opm77-c-wbox-g2.webp",
+"/gambar/organic-wheat-fiber-mug-opm77-c-wbox-g3.webp",
+"/gambar/organic-wheat-fiber-mug-opm77-c-wbox-g4.webp"
+]
 },
 {
 "id": 16751,
@@ -1331,7 +1703,12 @@
 "Household Series"
 ],
 "jenama": null,
-"gambar": "/gambar/organic-wheat-fiber-mug-opm78.webp"
+"gambar": "/gambar/organic-wheat-fiber-mug-opm78.webp",
+"galeri": [
+"/gambar/organic-wheat-fiber-mug-opm78-g2.webp",
+"/gambar/organic-wheat-fiber-mug-opm78-g3.webp",
+"/gambar/organic-wheat-fiber-mug-opm78-g4.webp"
+]
 },
 {
 "id": 16778,
@@ -1344,7 +1721,12 @@
 "Household Series"
 ],
 "jenama": null,
-"gambar": "/gambar/organic-wheat-fiber-mug-opm79.webp"
+"gambar": "/gambar/organic-wheat-fiber-mug-opm79.webp",
+"galeri": [
+"/gambar/organic-wheat-fiber-mug-opm79-g2.webp",
+"/gambar/organic-wheat-fiber-mug-opm79-g3.webp",
+"/gambar/organic-wheat-fiber-mug-opm79-g4.webp"
+]
 },
 {
 "id": 16766,
@@ -1357,7 +1739,12 @@
 "Household Series"
 ],
 "jenama": null,
-"gambar": "/gambar/organic-wheat-fiber-mug-opm80.webp"
+"gambar": "/gambar/organic-wheat-fiber-mug-opm80.webp",
+"galeri": [
+"/gambar/organic-wheat-fiber-mug-opm80-g2.webp",
+"/gambar/organic-wheat-fiber-mug-opm80-g3.webp",
+"/gambar/organic-wheat-fiber-mug-opm80-g4.webp"
+]
 },
 {
 "id": 16793,
@@ -1370,7 +1757,12 @@
 "Household Series"
 ],
 "jenama": null,
-"gambar": "/gambar/organic-wheat-fiber-mug-with-straw-opm9349.webp"
+"gambar": "/gambar/organic-wheat-fiber-mug-with-straw-opm9349.webp",
+"galeri": [
+"/gambar/organic-wheat-fiber-mug-with-straw-opm9349-g2.webp",
+"/gambar/organic-wheat-fiber-mug-with-straw-opm9349-g3.webp",
+"/gambar/organic-wheat-fiber-mug-with-straw-opm9349-g4.webp"
+]
 },
 {
 "id": 9353,
@@ -1383,7 +1775,12 @@
 "Household Series"
 ],
 "jenama": null,
-"gambar": "/gambar/plastic-mug-pm071-c-wbox.webp"
+"gambar": "/gambar/plastic-mug-pm071-c-wbox.webp",
+"galeri": [
+"/gambar/plastic-mug-pm071-c-wbox-g2.webp",
+"/gambar/plastic-mug-pm071-c-wbox-g3.webp",
+"/gambar/plastic-mug-pm071-c-wbox-g4.webp"
+]
 },
 {
 "id": 9597,
@@ -1396,7 +1793,10 @@
 "Household Series"
 ],
 "jenama": null,
-"gambar": "/gambar/shaker-sha400.webp"
+"gambar": "/gambar/shaker-sha400.webp",
+"galeri": [
+"/gambar/shaker-sha400-g2.webp"
+]
 },
 {
 "id": 9612,
@@ -1409,7 +1809,12 @@
 "Household Series"
 ],
 "jenama": null,
-"gambar": "/gambar/shaker-sha5408.webp"
+"gambar": "/gambar/shaker-sha5408.webp",
+"galeri": [
+"/gambar/shaker-sha5408-g2.webp",
+"/gambar/shaker-sha5408-g3.webp",
+"/gambar/shaker-sha5408-g4.webp"
+]
 },
 {
 "id": 9601,
@@ -1422,7 +1827,12 @@
 "Household Series"
 ],
 "jenama": null,
-"gambar": "/gambar/space-bottle-pc5389-c-wbox.webp"
+"gambar": "/gambar/space-bottle-pc5389-c-wbox.webp",
+"galeri": [
+"/gambar/space-bottle-pc5389-c-wbox-g2.webp",
+"/gambar/space-bottle-pc5389-c-wbox-g3.webp",
+"/gambar/space-bottle-pc5389-c-wbox-g4.webp"
+]
 },
 {
 "id": 9501,
@@ -1435,7 +1845,11 @@
 "Household Series"
 ],
 "jenama": null,
-"gambar": "/gambar/sport-bottle-bpa-free-sb3878.webp"
+"gambar": "/gambar/sport-bottle-bpa-free-sb3878.webp",
+"galeri": [
+"/gambar/sport-bottle-bpa-free-sb3878-g2.webp",
+"/gambar/sport-bottle-bpa-free-sb3878-g3.webp"
+]
 },
 {
 "id": 9506,
@@ -1448,7 +1862,12 @@
 "Household Series"
 ],
 "jenama": null,
-"gambar": "/gambar/sport-bottle-bpa-free-sb3888.webp"
+"gambar": "/gambar/sport-bottle-bpa-free-sb3888.webp",
+"galeri": [
+"/gambar/sport-bottle-bpa-free-sb3888-g2.webp",
+"/gambar/sport-bottle-bpa-free-sb3888-g3.webp",
+"/gambar/sport-bottle-bpa-free-sb3888-g4.webp"
+]
 },
 {
 "id": 9588,
@@ -1461,7 +1880,12 @@
 "Household Series"
 ],
 "jenama": null,
-"gambar": "/gambar/sport-bottle-psb1101-2-750ml.webp"
+"gambar": "/gambar/sport-bottle-psb1101-2-750ml.webp",
+"galeri": [
+"/gambar/sport-bottle-psb1101-2-750ml-g2.webp",
+"/gambar/sport-bottle-psb1101-2-750ml-g3.webp",
+"/gambar/sport-bottle-psb1101-2-750ml-g4.webp"
+]
 },
 {
 "id": 9582,
@@ -1474,7 +1898,12 @@
 "Household Series"
 ],
 "jenama": null,
-"gambar": "/gambar/sport-bottle-sb1205-c-wbox.webp"
+"gambar": "/gambar/sport-bottle-sb1205-c-wbox.webp",
+"galeri": [
+"/gambar/sport-bottle-sb1205-c-wbox-g2.webp",
+"/gambar/sport-bottle-sb1205-c-wbox-g3.webp",
+"/gambar/sport-bottle-sb1205-c-wbox-g4.webp"
+]
 },
 {
 "id": 16810,
@@ -1487,7 +1916,12 @@
 "Household Series"
 ],
 "jenama": null,
-"gambar": "/gambar/sport-bottle-sb1206.webp"
+"gambar": "/gambar/sport-bottle-sb1206.webp",
+"galeri": [
+"/gambar/sport-bottle-sb1206-g2.webp",
+"/gambar/sport-bottle-sb1206-g3.webp",
+"/gambar/sport-bottle-sb1206-g4.webp"
+]
 },
 {
 "id": 31643,
@@ -1500,7 +1934,12 @@
 "Household Series"
 ],
 "jenama": null,
-"gambar": "/gambar/sport-bottle-sb1211.webp"
+"gambar": "/gambar/sport-bottle-sb1211.webp",
+"galeri": [
+"/gambar/sport-bottle-sb1211-g2.webp",
+"/gambar/sport-bottle-sb1211-g3.webp",
+"/gambar/sport-bottle-sb1211-g4.webp"
+]
 },
 {
 "id": 31633,
@@ -1513,7 +1952,12 @@
 "Household Series"
 ],
 "jenama": null,
-"gambar": "/gambar/sport-bottle-sb1212.webp"
+"gambar": "/gambar/sport-bottle-sb1212.webp",
+"galeri": [
+"/gambar/sport-bottle-sb1212-g2.webp",
+"/gambar/sport-bottle-sb1212-g3.webp",
+"/gambar/sport-bottle-sb1212-g4.webp"
+]
 },
 {
 "id": 31623,
@@ -1526,7 +1970,12 @@
 "Household Series"
 ],
 "jenama": null,
-"gambar": "/gambar/sport-bottle-sb1213.webp"
+"gambar": "/gambar/sport-bottle-sb1213.webp",
+"galeri": [
+"/gambar/sport-bottle-sb1213-g2.webp",
+"/gambar/sport-bottle-sb1213-g3.webp",
+"/gambar/sport-bottle-sb1213-g4.webp"
+]
 },
 {
 "id": 9532,
@@ -1539,7 +1988,11 @@
 "Household Series"
 ],
 "jenama": null,
-"gambar": "/gambar/sport-bottle-sb303-c-wbox.webp"
+"gambar": "/gambar/sport-bottle-sb303-c-wbox.webp",
+"galeri": [
+"/gambar/sport-bottle-sb303-c-wbox-g2.webp",
+"/gambar/sport-bottle-sb303-c-wbox-g3.webp"
+]
 },
 {
 "id": 9537,
@@ -1552,7 +2005,11 @@
 "Household Series"
 ],
 "jenama": null,
-"gambar": "/gambar/sport-bottle-sb305.webp"
+"gambar": "/gambar/sport-bottle-sb305.webp",
+"galeri": [
+"/gambar/sport-bottle-sb305-g2.webp",
+"/gambar/sport-bottle-sb305-g3.webp"
+]
 },
 {
 "id": 9526,
@@ -1565,7 +2022,12 @@
 "Household Series"
 ],
 "jenama": null,
-"gambar": "/gambar/sport-bottle-sb321.webp"
+"gambar": "/gambar/sport-bottle-sb321.webp",
+"galeri": [
+"/gambar/sport-bottle-sb321-g2.webp",
+"/gambar/sport-bottle-sb321-g3.webp",
+"/gambar/sport-bottle-sb321-g4.webp"
+]
 },
 {
 "id": 16838,
@@ -1578,7 +2040,12 @@
 "Household Series"
 ],
 "jenama": null,
-"gambar": "/gambar/sport-bottle-sb3892.webp"
+"gambar": "/gambar/sport-bottle-sb3892.webp",
+"galeri": [
+"/gambar/sport-bottle-sb3892-g2.webp",
+"/gambar/sport-bottle-sb3892-g3.webp",
+"/gambar/sport-bottle-sb3892-g4.webp"
+]
 },
 {
 "id": 9563,
@@ -1591,7 +2058,12 @@
 "Household Series"
 ],
 "jenama": null,
-"gambar": "/gambar/sport-bottle-shaker-sb777.webp"
+"gambar": "/gambar/sport-bottle-shaker-sb777.webp",
+"galeri": [
+"/gambar/sport-bottle-shaker-sb777-g2.webp",
+"/gambar/sport-bottle-shaker-sb777-g3.webp",
+"/gambar/sport-bottle-shaker-sb777-g4.webp"
+]
 },
 {
 "id": 30966,
@@ -1604,7 +2076,12 @@
 "Household Series"
 ],
 "jenama": null,
-"gambar": "/gambar/stainless-steel-insulated-vacuum-flask-double-wall-st3121.webp"
+"gambar": "/gambar/stainless-steel-insulated-vacuum-flask-double-wall-st3121.webp",
+"galeri": [
+"/gambar/stainless-steel-insulated-vacuum-flask-double-wall-st3121-g2.webp",
+"/gambar/stainless-steel-insulated-vacuum-flask-double-wall-st3121-g3.webp",
+"/gambar/stainless-steel-insulated-vacuum-flask-double-wall-st3121-g4.webp"
+]
 },
 {
 "id": 30954,
@@ -1617,7 +2094,12 @@
 "Household Series"
 ],
 "jenama": null,
-"gambar": "/gambar/stainless-steel-insulated-vacuum-flask-double-wall-st3123.webp"
+"gambar": "/gambar/stainless-steel-insulated-vacuum-flask-double-wall-st3123.webp",
+"galeri": [
+"/gambar/stainless-steel-insulated-vacuum-flask-double-wall-st3123-g2.webp",
+"/gambar/stainless-steel-insulated-vacuum-flask-double-wall-st3123-g3.webp",
+"/gambar/stainless-steel-insulated-vacuum-flask-double-wall-st3123-g4.webp"
+]
 },
 {
 "id": 30894,
@@ -1630,7 +2112,12 @@
 "Household Series"
 ],
 "jenama": null,
-"gambar": "/gambar/stainless-steel-insulated-vacuum-flask-double-wall-st3125.webp"
+"gambar": "/gambar/stainless-steel-insulated-vacuum-flask-double-wall-st3125.webp",
+"galeri": [
+"/gambar/stainless-steel-insulated-vacuum-flask-double-wall-st3125-g2.webp",
+"/gambar/stainless-steel-insulated-vacuum-flask-double-wall-st3125-g3.webp",
+"/gambar/stainless-steel-insulated-vacuum-flask-double-wall-st3125-g4.webp"
+]
 },
 {
 "id": 30887,
@@ -1643,7 +2130,10 @@
 "Household Series"
 ],
 "jenama": null,
-"gambar": "/gambar/stainless-steel-insulated-vacuum-flask-double-wall-st3127.webp"
+"gambar": "/gambar/stainless-steel-insulated-vacuum-flask-double-wall-st3127.webp",
+"galeri": [
+"/gambar/stainless-steel-insulated-vacuum-flask-double-wall-st3127-g2.webp"
+]
 },
 {
 "id": 30875,
@@ -1656,7 +2146,12 @@
 "Household Series"
 ],
 "jenama": null,
-"gambar": "/gambar/stainless-steel-insulated-vacuum-flask-double-wall-st5580.webp"
+"gambar": "/gambar/stainless-steel-insulated-vacuum-flask-double-wall-st5580.webp",
+"galeri": [
+"/gambar/stainless-steel-insulated-vacuum-flask-double-wall-st5580-g2.webp",
+"/gambar/stainless-steel-insulated-vacuum-flask-double-wall-st5580-g3.webp",
+"/gambar/stainless-steel-insulated-vacuum-flask-double-wall-st5580-g4.webp"
+]
 },
 {
 "id": 16920,
@@ -1669,7 +2164,12 @@
 "Household Series"
 ],
 "jenama": null,
-"gambar": "/gambar/stainless-steel-insulated-vacuum-flask-double-wall-st7248.webp"
+"gambar": "/gambar/stainless-steel-insulated-vacuum-flask-double-wall-st7248.webp",
+"galeri": [
+"/gambar/stainless-steel-insulated-vacuum-flask-double-wall-st7248-g2.webp",
+"/gambar/stainless-steel-insulated-vacuum-flask-double-wall-st7248-g3.webp",
+"/gambar/stainless-steel-insulated-vacuum-flask-double-wall-st7248-g4.webp"
+]
 },
 {
 "id": 16904,
@@ -1682,7 +2182,12 @@
 "Household Series"
 ],
 "jenama": null,
-"gambar": "/gambar/stainless-steel-insulated-vacuum-flask-double-wall-st7250.webp"
+"gambar": "/gambar/stainless-steel-insulated-vacuum-flask-double-wall-st7250.webp",
+"galeri": [
+"/gambar/stainless-steel-insulated-vacuum-flask-double-wall-st7250-g2.webp",
+"/gambar/stainless-steel-insulated-vacuum-flask-double-wall-st7250-g3.webp",
+"/gambar/stainless-steel-insulated-vacuum-flask-double-wall-st7250-g4.webp"
+]
 },
 {
 "id": 16934,
@@ -1695,7 +2200,12 @@
 "Household Series"
 ],
 "jenama": null,
-"gambar": "/gambar/stainless-steel-insulated-vacuum-flask-double-wall-st7253.webp"
+"gambar": "/gambar/stainless-steel-insulated-vacuum-flask-double-wall-st7253.webp",
+"galeri": [
+"/gambar/stainless-steel-insulated-vacuum-flask-double-wall-st7253-g2.webp",
+"/gambar/stainless-steel-insulated-vacuum-flask-double-wall-st7253-g3.webp",
+"/gambar/stainless-steel-insulated-vacuum-flask-double-wall-st7253-g4.webp"
+]
 },
 {
 "id": 16961,
@@ -1708,7 +2218,12 @@
 "Household Series"
 ],
 "jenama": null,
-"gambar": "/gambar/stainless-steel-insulated-vacuum-flask-double-wall-st7258.webp"
+"gambar": "/gambar/stainless-steel-insulated-vacuum-flask-double-wall-st7258.webp",
+"galeri": [
+"/gambar/stainless-steel-insulated-vacuum-flask-double-wall-st7258-g2.webp",
+"/gambar/stainless-steel-insulated-vacuum-flask-double-wall-st7258-g3.webp",
+"/gambar/stainless-steel-insulated-vacuum-flask-double-wall-st7258-g4.webp"
+]
 },
 {
 "id": 15741,
@@ -1722,7 +2237,12 @@
 "New Arrival"
 ],
 "jenama": null,
-"gambar": "/gambar/stainless-steel-insulated-vacuum-flask-st733-c-w-box.webp"
+"gambar": "/gambar/stainless-steel-insulated-vacuum-flask-st733-c-w-box.webp",
+"galeri": [
+"/gambar/stainless-steel-insulated-vacuum-flask-st733-c-w-box-g2.webp",
+"/gambar/stainless-steel-insulated-vacuum-flask-st733-c-w-box-g3.webp",
+"/gambar/stainless-steel-insulated-vacuum-flask-st733-c-w-box-g4.webp"
+]
 },
 {
 "id": 16853,
@@ -1735,7 +2255,12 @@
 "Household Series"
 ],
 "jenama": null,
-"gambar": "/gambar/stainless-steel-sport-bottle-st6910.webp"
+"gambar": "/gambar/stainless-steel-sport-bottle-st6910.webp",
+"galeri": [
+"/gambar/stainless-steel-sport-bottle-st6910-g2.webp",
+"/gambar/stainless-steel-sport-bottle-st6910-g3.webp",
+"/gambar/stainless-steel-sport-bottle-st6910-g4.webp"
+]
 },
 {
 "id": 15011,
@@ -1761,7 +2286,12 @@
 "Household Series"
 ],
 "jenama": null,
-"gambar": "/gambar/stainless-steel-vacuum-flask-double-wall-st5168-1-c-wbox.webp"
+"gambar": "/gambar/stainless-steel-vacuum-flask-double-wall-st5168-1-c-wbox.webp",
+"galeri": [
+"/gambar/stainless-steel-vacuum-flask-double-wall-st5168-1-c-wbox-g2.webp",
+"/gambar/stainless-steel-vacuum-flask-double-wall-st5168-1-c-wbox-g3.webp",
+"/gambar/stainless-steel-vacuum-flask-double-wall-st5168-1-c-wbox-g4.webp"
+]
 },
 {
 "id": 9621,
@@ -1774,7 +2304,12 @@
 "Household Series"
 ],
 "jenama": null,
-"gambar": "/gambar/stainless-steel-insulated-vacuum-flask-double-wall-st3041-1000ml-c-wbo.webp"
+"gambar": "/gambar/stainless-steel-insulated-vacuum-flask-double-wall-st3041-1000ml-c-wbo.webp",
+"galeri": [
+"/gambar/stainless-steel-insulated-vacuum-flask-double-wall-st3041-1000ml-c-wbo-g2.webp",
+"/gambar/stainless-steel-insulated-vacuum-flask-double-wall-st3041-1000ml-c-wbo-g3.webp",
+"/gambar/stainless-steel-insulated-vacuum-flask-double-wall-st3041-1000ml-c-wbo-g4.webp"
+]
 },
 {
 "id": 9649,
@@ -1787,7 +2322,12 @@
 "Household Series"
 ],
 "jenama": null,
-"gambar": "/gambar/stainless-steel-insulated-vacuum-flask-double-wall-st3161-c-wbox.webp"
+"gambar": "/gambar/stainless-steel-insulated-vacuum-flask-double-wall-st3161-c-wbox.webp",
+"galeri": [
+"/gambar/stainless-steel-insulated-vacuum-flask-double-wall-st3161-c-wbox-g2.webp",
+"/gambar/stainless-steel-insulated-vacuum-flask-double-wall-st3161-c-wbox-g3.webp",
+"/gambar/stainless-steel-insulated-vacuum-flask-double-wall-st3161-c-wbox-g4.webp"
+]
 },
 {
 "id": 9641,
@@ -1800,7 +2340,12 @@
 "Household Series"
 ],
 "jenama": null,
-"gambar": "/gambar/stainless-steel-insulated-vacuum-flask-double-wall-st3163-c-wbox.webp"
+"gambar": "/gambar/stainless-steel-insulated-vacuum-flask-double-wall-st3163-c-wbox.webp",
+"galeri": [
+"/gambar/stainless-steel-insulated-vacuum-flask-double-wall-st3163-c-wbox-g2.webp",
+"/gambar/stainless-steel-insulated-vacuum-flask-double-wall-st3163-c-wbox-g3.webp",
+"/gambar/stainless-steel-insulated-vacuum-flask-double-wall-st3163-c-wbox-g4.webp"
+]
 },
 {
 "id": 9618,
@@ -1826,7 +2371,11 @@
 "Household Series"
 ],
 "jenama": null,
-"gambar": "/gambar/stainless-steel-insulated-vacuum-flask-double-wall-st5576-c-wbox.webp"
+"gambar": "/gambar/stainless-steel-insulated-vacuum-flask-double-wall-st5576-c-wbox.webp",
+"galeri": [
+"/gambar/stainless-steel-insulated-vacuum-flask-double-wall-st5576-c-wbox-g2.webp",
+"/gambar/stainless-steel-insulated-vacuum-flask-double-wall-st5576-c-wbox-g3.webp"
+]
 },
 {
 "id": 9445,
@@ -1839,7 +2388,10 @@
 "Household Series"
 ],
 "jenama": null,
-"gambar": "/gambar/stainless-steel-sport-bottle-st695-c-wbox.webp"
+"gambar": "/gambar/stainless-steel-sport-bottle-st695-c-wbox.webp",
+"galeri": [
+"/gambar/stainless-steel-sport-bottle-st695-c-wbox-g2.webp"
+]
 },
 {
 "id": 9449,
@@ -1852,7 +2404,11 @@
 "Household Series"
 ],
 "jenama": null,
-"gambar": "/gambar/stainless-steel-sport-bottle-st697-c-wbox.webp"
+"gambar": "/gambar/stainless-steel-sport-bottle-st697-c-wbox.webp",
+"galeri": [
+"/gambar/stainless-steel-sport-bottle-st697-c-wbox-g2.webp",
+"/gambar/stainless-steel-sport-bottle-st697-c-wbox-g3.webp"
+]
 },
 {
 "id": 16878,
@@ -1865,7 +2421,12 @@
 "Household Series"
 ],
 "jenama": null,
-"gambar": "/gambar/stainless-steel-vacuum-flask-double-wall-st-6820.webp"
+"gambar": "/gambar/stainless-steel-vacuum-flask-double-wall-st-6820.webp",
+"galeri": [
+"/gambar/stainless-steel-vacuum-flask-double-wall-st-6820-g2.webp",
+"/gambar/stainless-steel-vacuum-flask-double-wall-st-6820-g3.webp",
+"/gambar/stainless-steel-vacuum-flask-double-wall-st-6820-g4.webp"
+]
 },
 {
 "id": 16946,
@@ -1878,7 +2439,12 @@
 "Household Series"
 ],
 "jenama": null,
-"gambar": "/gambar/stainless-steel-vacuum-flask-double-wall-st7256.webp"
+"gambar": "/gambar/stainless-steel-vacuum-flask-double-wall-st7256.webp",
+"galeri": [
+"/gambar/stainless-steel-vacuum-flask-double-wall-st7256-g2.webp",
+"/gambar/stainless-steel-vacuum-flask-double-wall-st7256-g3.webp",
+"/gambar/stainless-steel-vacuum-flask-double-wall-st7256-g4.webp"
+]
 },
 {
 "id": 16976,
@@ -1891,7 +2457,12 @@
 "Household Series"
 ],
 "jenama": null,
-"gambar": "/gambar/stainless-steel-vacuum-flask-double-wall-st7300.webp"
+"gambar": "/gambar/stainless-steel-vacuum-flask-double-wall-st7300.webp",
+"galeri": [
+"/gambar/stainless-steel-vacuum-flask-double-wall-st7300-g2.webp",
+"/gambar/stainless-steel-vacuum-flask-double-wall-st7300-g3.webp",
+"/gambar/stainless-steel-vacuum-flask-double-wall-st7300-g4.webp"
+]
 },
 {
 "id": 18247,
@@ -1905,7 +2476,11 @@
 "New Arrival"
 ],
 "jenama": null,
-"gambar": "/gambar/suction-mug-double-wall-scm9800.webp"
+"gambar": "/gambar/suction-mug-double-wall-scm9800.webp",
+"galeri": [
+"/gambar/suction-mug-double-wall-scm9800-g2.webp",
+"/gambar/suction-mug-double-wall-scm9800-g3.webp"
+]
 },
 {
 "id": 18223,
@@ -1919,7 +2494,11 @@
 "New Arrival"
 ],
 "jenama": null,
-"gambar": "/gambar/suction-mug-scm9805.webp"
+"gambar": "/gambar/suction-mug-scm9805.webp",
+"galeri": [
+"/gambar/suction-mug-scm9805-g2.webp",
+"/gambar/suction-mug-scm9805-g3.webp"
+]
 },
 {
 "id": 9957,
@@ -1930,7 +2509,12 @@
 "kategori": "Cap",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/2-way-fisherman-cap-cap1025.webp"
+"gambar": "/gambar/2-way-fisherman-cap-cap1025.webp",
+"galeri": [
+"/gambar/2-way-fisherman-cap-cap1025-g2.webp",
+"/gambar/2-way-fisherman-cap-cap1025-g3.webp",
+"/gambar/2-way-fisherman-cap-cap1025-g4.webp"
+]
 },
 {
 "id": 9971,
@@ -1941,7 +2525,12 @@
 "kategori": "Cap",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/cap-cap1015-1.webp"
+"gambar": "/gambar/cap-cap1015-1.webp",
+"galeri": [
+"/gambar/cap-cap1015-1-g2.webp",
+"/gambar/cap-cap1015-1-g3.webp",
+"/gambar/cap-cap1015-1-g4.webp"
+]
 },
 {
 "id": 9949,
@@ -1952,7 +2541,12 @@
 "kategori": "Cap",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/cap-cap1055.webp"
+"gambar": "/gambar/cap-cap1055.webp",
+"galeri": [
+"/gambar/cap-cap1055-g2.webp",
+"/gambar/cap-cap1055-g3.webp",
+"/gambar/cap-cap1055-g4.webp"
+]
 },
 {
 "id": 18755,
@@ -1963,7 +2557,12 @@
 "kategori": "Cap",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/cap-cap1066.webp"
+"gambar": "/gambar/cap-cap1066.webp",
+"galeri": [
+"/gambar/cap-cap1066-g2.webp",
+"/gambar/cap-cap1066-g3.webp",
+"/gambar/cap-cap1066-g4.webp"
+]
 },
 {
 "id": 9943,
@@ -1974,7 +2573,12 @@
 "kategori": "Cap",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/cap-cap5551.webp"
+"gambar": "/gambar/cap-cap5551.webp",
+"galeri": [
+"/gambar/cap-cap5551-g2.webp",
+"/gambar/cap-cap5551-g3.webp",
+"/gambar/cap-cap5551-g4.webp"
+]
 },
 {
 "id": 9937,
@@ -1985,7 +2589,12 @@
 "kategori": "Cap",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/cap-cap7030.webp"
+"gambar": "/gambar/cap-cap7030.webp",
+"galeri": [
+"/gambar/cap-cap7030-g2.webp",
+"/gambar/cap-cap7030-g3.webp",
+"/gambar/cap-cap7030-g4.webp"
+]
 },
 {
 "id": 16276,
@@ -1996,7 +2605,11 @@
 "kategori": "Cap",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/padi-embroidery-cap-cap1069.webp"
+"gambar": "/gambar/padi-embroidery-cap-cap1069.webp",
+"galeri": [
+"/gambar/padi-embroidery-cap-cap1069-g2.webp",
+"/gambar/padi-embroidery-cap-cap1069-g3.webp"
+]
 },
 {
 "id": 28854,
@@ -2007,7 +2620,12 @@
 "kategori": "Cap",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/snapback-cap-cap1064.webp"
+"gambar": "/gambar/snapback-cap-cap1064.webp",
+"galeri": [
+"/gambar/snapback-cap-cap1064-g2.webp",
+"/gambar/snapback-cap-cap1064-g3.webp",
+"/gambar/snapback-cap-cap1064-g4.webp"
+]
 },
 {
 "id": 14980,
@@ -2033,7 +2651,12 @@
 "IT Series"
 ],
 "jenama": null,
-"gambar": "/gambar/eva-hardcover-box-pb7100.webp"
+"gambar": "/gambar/eva-hardcover-box-pb7100.webp",
+"galeri": [
+"/gambar/eva-hardcover-box-pb7100-g2.webp",
+"/gambar/eva-hardcover-box-pb7100-g3.webp",
+"/gambar/eva-hardcover-box-pb7100-g4.webp"
+]
 },
 {
 "id": 14974,
@@ -2125,7 +2748,10 @@
 "IT Series"
 ],
 "jenama": null,
-"gambar": "/gambar/transparent-box-pb32-boxonly.webp"
+"gambar": "/gambar/transparent-box-pb32-boxonly.webp",
+"galeri": [
+"/gambar/transparent-box-pb32-boxonly-g2.webp"
+]
 },
 {
 "id": 14988,
@@ -2149,7 +2775,11 @@
 "kategori": "Certificate Holder",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/art-card-certificate-holder-ch225.webp"
+"gambar": "/gambar/art-card-certificate-holder-ch225.webp",
+"galeri": [
+"/gambar/art-card-certificate-holder-ch225-g2.webp",
+"/gambar/art-card-certificate-holder-ch225-g3.webp"
+]
 },
 {
 "id": 8949,
@@ -2171,7 +2801,10 @@
 "kategori": "Certificate Holder",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/certificate-scroll-holder-ch220.webp"
+"gambar": "/gambar/certificate-scroll-holder-ch220.webp",
+"galeri": [
+"/gambar/certificate-scroll-holder-ch220-g2.webp"
+]
 },
 {
 "id": 28743,
@@ -2184,7 +2817,12 @@
 "New Arrival"
 ],
 "jenama": null,
-"gambar": "/gambar/craft-certificate-holder-ch231.webp"
+"gambar": "/gambar/craft-certificate-holder-ch231.webp",
+"galeri": [
+"/gambar/craft-certificate-holder-ch231-g2.webp",
+"/gambar/craft-certificate-holder-ch231-g3.webp",
+"/gambar/craft-certificate-holder-ch231-g4.webp"
+]
 },
 {
 "id": 28744,
@@ -2197,7 +2835,12 @@
 "New Arrival"
 ],
 "jenama": null,
-"gambar": "/gambar/craft-certificate-holder-ch232.webp"
+"gambar": "/gambar/craft-certificate-holder-ch232.webp",
+"galeri": [
+"/gambar/craft-certificate-holder-ch232-g2.webp",
+"/gambar/craft-certificate-holder-ch232-g3.webp",
+"/gambar/craft-certificate-holder-ch232-g4.webp"
+]
 },
 {
 "id": 8943,
@@ -2208,7 +2851,12 @@
 "kategori": "Certificate Holder",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/craft-paper-certificate-holder-ch219.webp"
+"gambar": "/gambar/craft-paper-certificate-holder-ch219.webp",
+"galeri": [
+"/gambar/craft-paper-certificate-holder-ch219-g2.webp",
+"/gambar/craft-paper-certificate-holder-ch219-g3.webp",
+"/gambar/craft-paper-certificate-holder-ch219-g4.webp"
+]
 },
 {
 "id": 18806,
@@ -2219,7 +2867,12 @@
 "kategori": "Certificate Holder",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/pu-certificate-holder-ch222.webp"
+"gambar": "/gambar/pu-certificate-holder-ch222.webp",
+"galeri": [
+"/gambar/pu-certificate-holder-ch222-g2.webp",
+"/gambar/pu-certificate-holder-ch222-g3.webp",
+"/gambar/pu-certificate-holder-ch222-g4.webp"
+]
 },
 {
 "id": 18821,
@@ -2230,7 +2883,12 @@
 "kategori": "Certificate Holder",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/pu-certificate-holder-ch224.webp"
+"gambar": "/gambar/pu-certificate-holder-ch224.webp",
+"galeri": [
+"/gambar/pu-certificate-holder-ch224-g2.webp",
+"/gambar/pu-certificate-holder-ch224-g3.webp",
+"/gambar/pu-certificate-holder-ch224-g4.webp"
+]
 },
 {
 "id": 18845,
@@ -2241,7 +2899,10 @@
 "kategori": "Certificate Holder",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/pu-certificate-holder-ch227.webp"
+"gambar": "/gambar/pu-certificate-holder-ch227.webp",
+"galeri": [
+"/gambar/pu-certificate-holder-ch227-g2.webp"
+]
 },
 {
 "id": 13674,
@@ -2274,7 +2935,12 @@
 "kategori": "Clock",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/round-wall-clock-clk3015-c-wbox-3.webp"
+"gambar": "/gambar/round-wall-clock-clk3015-c-wbox-3.webp",
+"galeri": [
+"/gambar/round-wall-clock-clk3015-c-wbox-3-g2.webp",
+"/gambar/round-wall-clock-clk3015-c-wbox-3-g3.webp",
+"/gambar/round-wall-clock-clk3015-c-wbox-3-g4.webp"
+]
 },
 {
 "id": 9878,
@@ -2285,7 +2951,12 @@
 "kategori": "Clock",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/round-wall-clock-clk3018.webp"
+"gambar": "/gambar/round-wall-clock-clk3018.webp",
+"galeri": [
+"/gambar/round-wall-clock-clk3018-g2.webp",
+"/gambar/round-wall-clock-clk3018-g3.webp",
+"/gambar/round-wall-clock-clk3018-g4.webp"
+]
 },
 {
 "id": 9873,
@@ -2296,7 +2967,12 @@
 "kategori": "Clock",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/square-wall-clock-clk3019.webp"
+"gambar": "/gambar/square-wall-clock-clk3019.webp",
+"galeri": [
+"/gambar/square-wall-clock-clk3019-g2.webp",
+"/gambar/square-wall-clock-clk3019-g3.webp",
+"/gambar/square-wall-clock-clk3019-g4.webp"
+]
 },
 {
 "id": 9868,
@@ -2307,7 +2983,11 @@
 "kategori": "Clock",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/square-wall-clock-clk582-c-wbox.webp"
+"gambar": "/gambar/square-wall-clock-clk582-c-wbox.webp",
+"galeri": [
+"/gambar/square-wall-clock-clk582-c-wbox-g2.webp",
+"/gambar/square-wall-clock-clk582-c-wbox-g3.webp"
+]
 },
 {
 "id": 29316,
@@ -2320,7 +3000,11 @@
 "Digital Alarm Clock"
 ],
 "jenama": null,
-"gambar": "/gambar/wooden-digital-led-alarm-clock-clk3024.webp"
+"gambar": "/gambar/wooden-digital-led-alarm-clock-clk3024.webp",
+"galeri": [
+"/gambar/wooden-digital-led-alarm-clock-clk3024-g2.webp",
+"/gambar/wooden-digital-led-alarm-clock-clk3024-g3.webp"
+]
 },
 {
 "id": 29550,
@@ -2333,7 +3017,10 @@
 "Digital Alarm Clock"
 ],
 "jenama": null,
-"gambar": "/gambar/wooden-digital-led-alarm-clock-clk3022.webp"
+"gambar": "/gambar/wooden-digital-led-alarm-clock-clk3022.webp",
+"galeri": [
+"/gambar/wooden-digital-led-alarm-clock-clk3022-g2.webp"
+]
 },
 {
 "id": 34263,
@@ -2346,7 +3033,12 @@
 "Crystal Trophies & Awards"
 ],
 "jenama": null,
-"gambar": "/gambar/crystal-hanging-medal-chm133.webp"
+"gambar": "/gambar/crystal-hanging-medal-chm133.webp",
+"galeri": [
+"/gambar/crystal-hanging-medal-chm133-g2.webp",
+"/gambar/crystal-hanging-medal-chm133-g3.webp",
+"/gambar/crystal-hanging-medal-chm133-g4.webp"
+]
 },
 {
 "id": 34288,
@@ -2359,7 +3051,12 @@
 "Crystal Trophies & Awards"
 ],
 "jenama": null,
-"gambar": "/gambar/crystal-hanging-medal-chm136.webp"
+"gambar": "/gambar/crystal-hanging-medal-chm136.webp",
+"galeri": [
+"/gambar/crystal-hanging-medal-chm136-g2.webp",
+"/gambar/crystal-hanging-medal-chm136-g3.webp",
+"/gambar/crystal-hanging-medal-chm136-g4.webp"
+]
 },
 {
 "id": 34115,
@@ -2385,7 +3082,11 @@
 "Crystal Trophies & Awards"
 ],
 "jenama": null,
-"gambar": "/gambar/crystal-cp3936.webp"
+"gambar": "/gambar/crystal-cp3936.webp",
+"galeri": [
+"/gambar/crystal-cp3936-g2.webp",
+"/gambar/crystal-cp3936-g3.webp"
+]
 },
 {
 "id": 28647,
@@ -2400,7 +3101,12 @@
 "New Arrival"
 ],
 "jenama": null,
-"gambar": "/gambar/crystal-hanging-medal-chm134.webp"
+"gambar": "/gambar/crystal-hanging-medal-chm134.webp",
+"galeri": [
+"/gambar/crystal-hanging-medal-chm134-g2.webp",
+"/gambar/crystal-hanging-medal-chm134-g3.webp",
+"/gambar/crystal-hanging-medal-chm134-g4.webp"
+]
 },
 {
 "id": 34282,
@@ -2414,7 +3120,12 @@
 "Medal"
 ],
 "jenama": null,
-"gambar": "/gambar/crystal-hanging-medal-chm135.webp"
+"gambar": "/gambar/crystal-hanging-medal-chm135.webp",
+"galeri": [
+"/gambar/crystal-hanging-medal-chm135-g2.webp",
+"/gambar/crystal-hanging-medal-chm135-g3.webp",
+"/gambar/crystal-hanging-medal-chm135-g4.webp"
+]
 },
 {
 "id": 34293,
@@ -2795,7 +3506,12 @@
 "Crystal Trophies & Awards"
 ],
 "jenama": null,
-"gambar": "/gambar/crystal-plaque-cp3867.webp"
+"gambar": "/gambar/crystal-plaque-cp3867.webp",
+"galeri": [
+"/gambar/crystal-plaque-cp3867-g2.webp",
+"/gambar/crystal-plaque-cp3867-g3.webp",
+"/gambar/crystal-plaque-cp3867-g4.webp"
+]
 },
 {
 "id": 30732,
@@ -2808,7 +3524,12 @@
 "Crystal Trophies & Awards"
 ],
 "jenama": null,
-"gambar": "/gambar/crystal-plaque-cp3869.webp"
+"gambar": "/gambar/crystal-plaque-cp3869.webp",
+"galeri": [
+"/gambar/crystal-plaque-cp3869-g2.webp",
+"/gambar/crystal-plaque-cp3869-g3.webp",
+"/gambar/crystal-plaque-cp3869-g4.webp"
+]
 },
 {
 "id": 31159,
@@ -2990,7 +3711,12 @@
 "Crystal Trophies & Awards"
 ],
 "jenama": null,
-"gambar": "/gambar/crystal-plaque-cp3886.webp"
+"gambar": "/gambar/crystal-plaque-cp3886.webp",
+"galeri": [
+"/gambar/crystal-plaque-cp3886-g2.webp",
+"/gambar/crystal-plaque-cp3886-g3.webp",
+"/gambar/crystal-plaque-cp3886-g4.webp"
+]
 },
 {
 "id": 30786,
@@ -3120,7 +3846,10 @@
 "Crystal Trophies & Awards"
 ],
 "jenama": null,
-"gambar": "/gambar/crystal-plaque-cp3901.webp"
+"gambar": "/gambar/crystal-plaque-cp3901.webp",
+"galeri": [
+"/gambar/crystal-plaque-cp3901-g2.webp"
+]
 },
 {
 "id": 31250,
@@ -3432,7 +4161,12 @@
 "Crystal Trophies & Awards"
 ],
 "jenama": null,
-"gambar": "/gambar/crystal-plaque-cp3928.webp"
+"gambar": "/gambar/crystal-plaque-cp3928.webp",
+"galeri": [
+"/gambar/crystal-plaque-cp3928-g2.webp",
+"/gambar/crystal-plaque-cp3928-g3.webp",
+"/gambar/crystal-plaque-cp3928-g4.webp"
+]
 },
 {
 "id": 33914,
@@ -3484,7 +4218,11 @@
 "Crystal Trophies & Awards"
 ],
 "jenama": null,
-"gambar": "/gambar/crystal-with-led-light-cp3916.webp"
+"gambar": "/gambar/crystal-with-led-light-cp3916.webp",
+"galeri": [
+"/gambar/crystal-with-led-light-cp3916-g2.webp",
+"/gambar/crystal-with-led-light-cp3916-g3.webp"
+]
 },
 {
 "id": 30609,
@@ -3705,7 +4443,12 @@
 "Plaque"
 ],
 "jenama": null,
-"gambar": "/gambar/batik-wooden-box-nf120.webp"
+"gambar": "/gambar/batik-wooden-box-nf120.webp",
+"galeri": [
+"/gambar/batik-wooden-box-nf120-g2.webp",
+"/gambar/batik-wooden-box-nf120-g3.webp",
+"/gambar/batik-wooden-box-nf120-g4.webp"
+]
 },
 {
 "id": 34446,
@@ -3719,7 +4462,11 @@
 "Wooden Box"
 ],
 "jenama": null,
-"gambar": "/gambar/batik-wooden-box-nf121.webp"
+"gambar": "/gambar/batik-wooden-box-nf121.webp",
+"galeri": [
+"/gambar/batik-wooden-box-nf121-g2.webp",
+"/gambar/batik-wooden-box-nf121-g3.webp"
+]
 },
 {
 "id": 32398,
@@ -3732,7 +4479,12 @@
 "Medal"
 ],
 "jenama": null,
-"gambar": "/gambar/crystal-hanging-medal-chm122.webp"
+"gambar": "/gambar/crystal-hanging-medal-chm122.webp",
+"galeri": [
+"/gambar/crystal-hanging-medal-chm122-g2.webp",
+"/gambar/crystal-hanging-medal-chm122-g3.webp",
+"/gambar/crystal-hanging-medal-chm122-g4.webp"
+]
 },
 {
 "id": 32405,
@@ -3745,7 +4497,12 @@
 "Medal"
 ],
 "jenama": null,
-"gambar": "/gambar/crystal-hanging-medal-chm124.webp"
+"gambar": "/gambar/crystal-hanging-medal-chm124.webp",
+"galeri": [
+"/gambar/crystal-hanging-medal-chm124-g2.webp",
+"/gambar/crystal-hanging-medal-chm124-g3.webp",
+"/gambar/crystal-hanging-medal-chm124-g4.webp"
+]
 },
 {
 "id": 16572,
@@ -3871,7 +4628,12 @@
 "Medal"
 ],
 "jenama": null,
-"gambar": "/gambar/metal-hanging-medal-mhm5500.webp"
+"gambar": "/gambar/metal-hanging-medal-mhm5500.webp",
+"galeri": [
+"/gambar/metal-hanging-medal-mhm5500-g2.webp",
+"/gambar/metal-hanging-medal-mhm5500-g3.webp",
+"/gambar/metal-hanging-medal-mhm5500-g4.webp"
+]
 },
 {
 "id": 32421,
@@ -3884,7 +4646,12 @@
 "Medal"
 ],
 "jenama": null,
-"gambar": "/gambar/metal-hanging-medal-mhm5501.webp"
+"gambar": "/gambar/metal-hanging-medal-mhm5501.webp",
+"galeri": [
+"/gambar/metal-hanging-medal-mhm5501-g2.webp",
+"/gambar/metal-hanging-medal-mhm5501-g3.webp",
+"/gambar/metal-hanging-medal-mhm5501-g4.webp"
+]
 },
 {
 "id": 32434,
@@ -3897,7 +4664,12 @@
 "Medal"
 ],
 "jenama": null,
-"gambar": "/gambar/metal-hanging-medal-mhm5502.webp"
+"gambar": "/gambar/metal-hanging-medal-mhm5502.webp",
+"galeri": [
+"/gambar/metal-hanging-medal-mhm5502-g2.webp",
+"/gambar/metal-hanging-medal-mhm5502-g3.webp",
+"/gambar/metal-hanging-medal-mhm5502-g4.webp"
+]
 },
 {
 "id": 32428,
@@ -3910,7 +4682,12 @@
 "Metal Hanging Medal"
 ],
 "jenama": null,
-"gambar": "/gambar/metal-hanging-medal-mhm5503.webp"
+"gambar": "/gambar/metal-hanging-medal-mhm5503.webp",
+"galeri": [
+"/gambar/metal-hanging-medal-mhm5503-g2.webp",
+"/gambar/metal-hanging-medal-mhm5503-g3.webp",
+"/gambar/metal-hanging-medal-mhm5503-g4.webp"
+]
 },
 {
 "id": 32391,
@@ -3923,7 +4700,12 @@
 "Metal Hanging Medal"
 ],
 "jenama": null,
-"gambar": "/gambar/metal-hanging-medal-mhm5504.webp"
+"gambar": "/gambar/metal-hanging-medal-mhm5504.webp",
+"galeri": [
+"/gambar/metal-hanging-medal-mhm5504-g2.webp",
+"/gambar/metal-hanging-medal-mhm5504-g3.webp",
+"/gambar/metal-hanging-medal-mhm5504-g4.webp"
+]
 },
 {
 "id": 32448,
@@ -3936,7 +4718,12 @@
 "Metal Hanging Medal"
 ],
 "jenama": null,
-"gambar": "/gambar/metal-hanging-medal-mhm5505.webp"
+"gambar": "/gambar/metal-hanging-medal-mhm5505.webp",
+"galeri": [
+"/gambar/metal-hanging-medal-mhm5505-g2.webp",
+"/gambar/metal-hanging-medal-mhm5505-g3.webp",
+"/gambar/metal-hanging-medal-mhm5505-g4.webp"
+]
 },
 {
 "id": 32380,
@@ -3949,7 +4736,12 @@
 "Medal"
 ],
 "jenama": null,
-"gambar": "/gambar/metal-hanging-medal-mhm5506.webp"
+"gambar": "/gambar/metal-hanging-medal-mhm5506.webp",
+"galeri": [
+"/gambar/metal-hanging-medal-mhm5506-g2.webp",
+"/gambar/metal-hanging-medal-mhm5506-g3.webp",
+"/gambar/metal-hanging-medal-mhm5506-g4.webp"
+]
 },
 {
 "id": 32386,
@@ -3962,7 +4754,12 @@
 "Medal"
 ],
 "jenama": null,
-"gambar": "/gambar/metal-hanging-medal-mhm5507.webp"
+"gambar": "/gambar/metal-hanging-medal-mhm5507.webp",
+"galeri": [
+"/gambar/metal-hanging-medal-mhm5507-g2.webp",
+"/gambar/metal-hanging-medal-mhm5507-g3.webp",
+"/gambar/metal-hanging-medal-mhm5507-g4.webp"
+]
 },
 {
 "id": 31990,
@@ -3975,7 +4772,12 @@
 "Metal Hanging Medal"
 ],
 "jenama": null,
-"gambar": "/gambar/metal-hanging-medal-mhm5508.webp"
+"gambar": "/gambar/metal-hanging-medal-mhm5508.webp",
+"galeri": [
+"/gambar/metal-hanging-medal-mhm5508-g2.webp",
+"/gambar/metal-hanging-medal-mhm5508-g3.webp",
+"/gambar/metal-hanging-medal-mhm5508-g4.webp"
+]
 },
 {
 "id": 32284,
@@ -3988,7 +4790,12 @@
 "Medal"
 ],
 "jenama": null,
-"gambar": "/gambar/metal-hanging-medal-mhm5509.webp"
+"gambar": "/gambar/metal-hanging-medal-mhm5509.webp",
+"galeri": [
+"/gambar/metal-hanging-medal-mhm5509-g2.webp",
+"/gambar/metal-hanging-medal-mhm5509-g3.webp",
+"/gambar/metal-hanging-medal-mhm5509-g4.webp"
+]
 },
 {
 "id": 32359,
@@ -4001,7 +4808,12 @@
 "Medal"
 ],
 "jenama": null,
-"gambar": "/gambar/metal-hanging-medal-mhm5510.webp"
+"gambar": "/gambar/metal-hanging-medal-mhm5510.webp",
+"galeri": [
+"/gambar/metal-hanging-medal-mhm5510-g2.webp",
+"/gambar/metal-hanging-medal-mhm5510-g3.webp",
+"/gambar/metal-hanging-medal-mhm5510-g4.webp"
+]
 },
 {
 "id": 32365,
@@ -4014,7 +4826,12 @@
 "Metal Hanging Medal"
 ],
 "jenama": null,
-"gambar": "/gambar/metal-hanging-medal-mhm5511.webp"
+"gambar": "/gambar/metal-hanging-medal-mhm5511.webp",
+"galeri": [
+"/gambar/metal-hanging-medal-mhm5511-g2.webp",
+"/gambar/metal-hanging-medal-mhm5511-g3.webp",
+"/gambar/metal-hanging-medal-mhm5511-g4.webp"
+]
 },
 {
 "id": 28767,
@@ -4028,7 +4845,12 @@
 "New Arrival"
 ],
 "jenama": null,
-"gambar": "/gambar/metal-hanging-medal-mhm5512.webp"
+"gambar": "/gambar/metal-hanging-medal-mhm5512.webp",
+"galeri": [
+"/gambar/metal-hanging-medal-mhm5512-g2.webp",
+"/gambar/metal-hanging-medal-mhm5512-g3.webp",
+"/gambar/metal-hanging-medal-mhm5512-g4.webp"
+]
 },
 {
 "id": 28768,
@@ -4042,7 +4864,12 @@
 "New Arrival"
 ],
 "jenama": null,
-"gambar": "/gambar/metal-hanging-medal-mhm5513.webp"
+"gambar": "/gambar/metal-hanging-medal-mhm5513.webp",
+"galeri": [
+"/gambar/metal-hanging-medal-mhm5513-g2.webp",
+"/gambar/metal-hanging-medal-mhm5513-g3.webp",
+"/gambar/metal-hanging-medal-mhm5513-g4.webp"
+]
 },
 {
 "id": 29346,
@@ -4056,7 +4883,12 @@
 "New Arrival"
 ],
 "jenama": null,
-"gambar": "/gambar/metal-hanging-medal-mhm5514.webp"
+"gambar": "/gambar/metal-hanging-medal-mhm5514.webp",
+"galeri": [
+"/gambar/metal-hanging-medal-mhm5514-g2.webp",
+"/gambar/metal-hanging-medal-mhm5514-g3.webp",
+"/gambar/metal-hanging-medal-mhm5514-g4.webp"
+]
 },
 {
 "id": 32441,
@@ -4069,7 +4901,12 @@
 "Medal"
 ],
 "jenama": null,
-"gambar": "/gambar/metal-hanging-medal-mhm999.webp"
+"gambar": "/gambar/metal-hanging-medal-mhm999.webp",
+"galeri": [
+"/gambar/metal-hanging-medal-mhm999-g2.webp",
+"/gambar/metal-hanging-medal-mhm999-g3.webp",
+"/gambar/metal-hanging-medal-mhm999-g4.webp"
+]
 },
 {
 "id": 31446,
@@ -4109,7 +4946,12 @@
 "Resin Trophy"
 ],
 "jenama": null,
-"gambar": "/gambar/resin-trophy-rt2301.webp"
+"gambar": "/gambar/resin-trophy-rt2301.webp",
+"galeri": [
+"/gambar/resin-trophy-rt2301-g2.webp",
+"/gambar/resin-trophy-rt2301-g3.webp",
+"/gambar/resin-trophy-rt2301-g4.webp"
+]
 },
 {
 "id": 28279,
@@ -4123,7 +4965,12 @@
 "Resin Trophy"
 ],
 "jenama": null,
-"gambar": "/gambar/resin-trophy-rt2302.webp"
+"gambar": "/gambar/resin-trophy-rt2302.webp",
+"galeri": [
+"/gambar/resin-trophy-rt2302-g2.webp",
+"/gambar/resin-trophy-rt2302-g3.webp",
+"/gambar/resin-trophy-rt2302-g4.webp"
+]
 },
 {
 "id": 28300,
@@ -4137,7 +4984,12 @@
 "Resin Trophy"
 ],
 "jenama": null,
-"gambar": "/gambar/resin-trophy-rt2304.webp"
+"gambar": "/gambar/resin-trophy-rt2304.webp",
+"galeri": [
+"/gambar/resin-trophy-rt2304-g2.webp",
+"/gambar/resin-trophy-rt2304-g3.webp",
+"/gambar/resin-trophy-rt2304-g4.webp"
+]
 },
 {
 "id": 28310,
@@ -4151,7 +5003,12 @@
 "Resin Trophy"
 ],
 "jenama": null,
-"gambar": "/gambar/resin-trophy-rt2305.webp"
+"gambar": "/gambar/resin-trophy-rt2305.webp",
+"galeri": [
+"/gambar/resin-trophy-rt2305-g2.webp",
+"/gambar/resin-trophy-rt2305-g3.webp",
+"/gambar/resin-trophy-rt2305-g4.webp"
+]
 },
 {
 "id": 28367,
@@ -4165,7 +5022,12 @@
 "Resin Trophy"
 ],
 "jenama": null,
-"gambar": "/gambar/resin-trophy-rt2306.webp"
+"gambar": "/gambar/resin-trophy-rt2306.webp",
+"galeri": [
+"/gambar/resin-trophy-rt2306-g2.webp",
+"/gambar/resin-trophy-rt2306-g3.webp",
+"/gambar/resin-trophy-rt2306-g4.webp"
+]
 },
 {
 "id": 28377,
@@ -4179,7 +5041,12 @@
 "Resin Trophy"
 ],
 "jenama": null,
-"gambar": "/gambar/resin-trophy-rt2307.webp"
+"gambar": "/gambar/resin-trophy-rt2307.webp",
+"galeri": [
+"/gambar/resin-trophy-rt2307-g2.webp",
+"/gambar/resin-trophy-rt2307-g3.webp",
+"/gambar/resin-trophy-rt2307-g4.webp"
+]
 },
 {
 "id": 28289,
@@ -4193,7 +5060,12 @@
 "Resin Trophy"
 ],
 "jenama": null,
-"gambar": "/gambar/resin-trophy-rt2303.webp"
+"gambar": "/gambar/resin-trophy-rt2303.webp",
+"galeri": [
+"/gambar/resin-trophy-rt2303-g2.webp",
+"/gambar/resin-trophy-rt2303-g3.webp",
+"/gambar/resin-trophy-rt2303-g4.webp"
+]
 },
 {
 "id": 29454,
@@ -4207,7 +5079,10 @@
 "Songket Plague in Display Case"
 ],
 "jenama": null,
-"gambar": "/gambar/songket-plaque-in-display-case-nf502-b.webp"
+"gambar": "/gambar/songket-plaque-in-display-case-nf502-b.webp",
+"galeri": [
+"/gambar/songket-plaque-in-display-case-nf502-b-g2.webp"
+]
 },
 {
 "id": 29501,
@@ -4221,7 +5096,10 @@
 "Songket Plague in Display Case"
 ],
 "jenama": null,
-"gambar": "/gambar/songket-plaque-in-display-case-nf502-r.webp"
+"gambar": "/gambar/songket-plaque-in-display-case-nf502-r.webp",
+"galeri": [
+"/gambar/songket-plaque-in-display-case-nf502-r-g2.webp"
+]
 },
 {
 "id": 34342,
@@ -4234,7 +5112,11 @@
 "Plaque"
 ],
 "jenama": null,
-"gambar": "/gambar/songket-plaque-in-display-case-nf502.webp"
+"gambar": "/gambar/songket-plaque-in-display-case-nf502.webp",
+"galeri": [
+"/gambar/songket-plaque-in-display-case-nf502-g2.webp",
+"/gambar/songket-plaque-in-display-case-nf502-g3.webp"
+]
 },
 {
 "id": 10295,
@@ -4247,7 +5129,12 @@
 "Plaque"
 ],
 "jenama": null,
-"gambar": "/gambar/songket-wooden-box-nf107.webp"
+"gambar": "/gambar/songket-wooden-box-nf107.webp",
+"galeri": [
+"/gambar/songket-wooden-box-nf107-g2.webp",
+"/gambar/songket-wooden-box-nf107-g3.webp",
+"/gambar/songket-wooden-box-nf107-g4.webp"
+]
 },
 {
 "id": 10285,
@@ -4260,7 +5147,12 @@
 "Plaque"
 ],
 "jenama": null,
-"gambar": "/gambar/songket-wooden-box-nf112.webp"
+"gambar": "/gambar/songket-wooden-box-nf112.webp",
+"galeri": [
+"/gambar/songket-wooden-box-nf112-g2.webp",
+"/gambar/songket-wooden-box-nf112-g3.webp",
+"/gambar/songket-wooden-box-nf112-g4.webp"
+]
 },
 {
 "id": 10275,
@@ -4273,7 +5165,12 @@
 "Plaque"
 ],
 "jenama": null,
-"gambar": "/gambar/songket-wooden-box-nf113.webp"
+"gambar": "/gambar/songket-wooden-box-nf113.webp",
+"galeri": [
+"/gambar/songket-wooden-box-nf113-g2.webp",
+"/gambar/songket-wooden-box-nf113-g3.webp",
+"/gambar/songket-wooden-box-nf113-g4.webp"
+]
 },
 {
 "id": 17442,
@@ -4286,7 +5183,12 @@
 "Plaque"
 ],
 "jenama": null,
-"gambar": "/gambar/songket-wooden-box-nf114.webp"
+"gambar": "/gambar/songket-wooden-box-nf114.webp",
+"galeri": [
+"/gambar/songket-wooden-box-nf114-g2.webp",
+"/gambar/songket-wooden-box-nf114-g3.webp",
+"/gambar/songket-wooden-box-nf114-g4.webp"
+]
 },
 {
 "id": 17466,
@@ -4299,7 +5201,12 @@
 "Plaque"
 ],
 "jenama": null,
-"gambar": "/gambar/songket-wooden-box-nf115.webp"
+"gambar": "/gambar/songket-wooden-box-nf115.webp",
+"galeri": [
+"/gambar/songket-wooden-box-nf115-g2.webp",
+"/gambar/songket-wooden-box-nf115-g3.webp",
+"/gambar/songket-wooden-box-nf115-g4.webp"
+]
 },
 {
 "id": 17480,
@@ -4312,7 +5219,12 @@
 "Plaque"
 ],
 "jenama": null,
-"gambar": "/gambar/songket-wooden-box-nf116.webp"
+"gambar": "/gambar/songket-wooden-box-nf116.webp",
+"galeri": [
+"/gambar/songket-wooden-box-nf116-g2.webp",
+"/gambar/songket-wooden-box-nf116-g3.webp",
+"/gambar/songket-wooden-box-nf116-g4.webp"
+]
 },
 {
 "id": 34416,
@@ -4325,7 +5237,12 @@
 "Plaque"
 ],
 "jenama": null,
-"gambar": "/gambar/songket-wooden-box-nf119.webp"
+"gambar": "/gambar/songket-wooden-box-nf119.webp",
+"galeri": [
+"/gambar/songket-wooden-box-nf119-g2.webp",
+"/gambar/songket-wooden-box-nf119-g3.webp",
+"/gambar/songket-wooden-box-nf119-g4.webp"
+]
 },
 {
 "id": 34364,
@@ -4338,7 +5255,11 @@
 "Plaque"
 ],
 "jenama": null,
-"gambar": "/gambar/songket-wooden-box-nf122.webp"
+"gambar": "/gambar/songket-wooden-box-nf122.webp",
+"galeri": [
+"/gambar/songket-wooden-box-nf122-g2.webp",
+"/gambar/songket-wooden-box-nf122-g3.webp"
+]
 },
 {
 "id": 34348,
@@ -4351,7 +5272,11 @@
 "Plaque"
 ],
 "jenama": null,
-"gambar": "/gambar/songket-wooden-box-nf123.webp"
+"gambar": "/gambar/songket-wooden-box-nf123.webp",
+"galeri": [
+"/gambar/songket-wooden-box-nf123-g2.webp",
+"/gambar/songket-wooden-box-nf123-g3.webp"
+]
 },
 {
 "id": 34409,
@@ -4365,7 +5290,11 @@
 "Wooden Box"
 ],
 "jenama": null,
-"gambar": "/gambar/songket-wooden-box-nf125.webp"
+"gambar": "/gambar/songket-wooden-box-nf125.webp",
+"galeri": [
+"/gambar/songket-wooden-box-nf125-g2.webp",
+"/gambar/songket-wooden-box-nf125-g3.webp"
+]
 },
 {
 "id": 34378,
@@ -4379,7 +5308,11 @@
 "Wooden Box"
 ],
 "jenama": null,
-"gambar": "/gambar/songket-wooden-box-nf126.webp"
+"gambar": "/gambar/songket-wooden-box-nf126.webp",
+"galeri": [
+"/gambar/songket-wooden-box-nf126-g2.webp",
+"/gambar/songket-wooden-box-nf126-g3.webp"
+]
 },
 {
 "id": 34431,
@@ -4392,7 +5325,12 @@
 "Plaque"
 ],
 "jenama": null,
-"gambar": "/gambar/songket-wooden-box-nf127.webp"
+"gambar": "/gambar/songket-wooden-box-nf127.webp",
+"galeri": [
+"/gambar/songket-wooden-box-nf127-g2.webp",
+"/gambar/songket-wooden-box-nf127-g3.webp",
+"/gambar/songket-wooden-box-nf127-g4.webp"
+]
 },
 {
 "id": 10263,
@@ -4405,7 +5343,12 @@
 "Plaque"
 ],
 "jenama": null,
-"gambar": "/gambar/songket-wooden-box-swb102.webp"
+"gambar": "/gambar/songket-wooden-box-swb102.webp",
+"galeri": [
+"/gambar/songket-wooden-box-swb102-g2.webp",
+"/gambar/songket-wooden-box-swb102-g3.webp",
+"/gambar/songket-wooden-box-swb102-g4.webp"
+]
 },
 {
 "id": 31428,
@@ -4457,7 +5400,12 @@
 "Plaque"
 ],
 "jenama": null,
-"gambar": "/gambar/velvet-box-f741.webp"
+"gambar": "/gambar/velvet-box-f741.webp",
+"galeri": [
+"/gambar/velvet-box-f741-g2.webp",
+"/gambar/velvet-box-f741-g3.webp",
+"/gambar/velvet-box-f741-g4.webp"
+]
 },
 {
 "id": 10251,
@@ -4470,7 +5418,12 @@
 "Plaque"
 ],
 "jenama": null,
-"gambar": "/gambar/velvet-box-f752.webp"
+"gambar": "/gambar/velvet-box-f752.webp",
+"galeri": [
+"/gambar/velvet-box-f752-g2.webp",
+"/gambar/velvet-box-f752-g3.webp",
+"/gambar/velvet-box-f752-g4.webp"
+]
 },
 {
 "id": 10231,
@@ -4483,7 +5436,11 @@
 "Plaque"
 ],
 "jenama": null,
-"gambar": "/gambar/velvet-box-wb2115.webp"
+"gambar": "/gambar/velvet-box-wb2115.webp",
+"galeri": [
+"/gambar/velvet-box-wb2115-g2.webp",
+"/gambar/velvet-box-wb2115-g3.webp"
+]
 },
 {
 "id": 31461,
@@ -4535,7 +5492,10 @@
 "Plaque"
 ],
 "jenama": null,
-"gambar": "/gambar/wooden-arcylic-plaque-wp48.webp"
+"gambar": "/gambar/wooden-arcylic-plaque-wp48.webp",
+"galeri": [
+"/gambar/wooden-arcylic-plaque-wp48-g2.webp"
+]
 },
 {
 "id": 31481,
@@ -4548,7 +5508,10 @@
 "Plaque"
 ],
 "jenama": null,
-"gambar": "/gambar/wooden-arcylic-plaque-wp59.webp"
+"gambar": "/gambar/wooden-arcylic-plaque-wp59.webp",
+"galeri": [
+"/gambar/wooden-arcylic-plaque-wp59-g2.webp"
+]
 },
 {
 "id": 31458,
@@ -4561,7 +5524,10 @@
 "Plaque"
 ],
 "jenama": null,
-"gambar": "/gambar/wooden-metal-plaque-wp58.webp"
+"gambar": "/gambar/wooden-metal-plaque-wp58.webp",
+"galeri": [
+"/gambar/wooden-metal-plaque-wp58-g2.webp"
+]
 },
 {
 "id": 31935,
@@ -4587,7 +5553,10 @@
 "Plaque"
 ],
 "jenama": null,
-"gambar": "/gambar/wooden-box-plaque-wp50.webp"
+"gambar": "/gambar/wooden-box-plaque-wp50.webp",
+"galeri": [
+"/gambar/wooden-box-plaque-wp50-g2.webp"
+]
 },
 {
 "id": 33782,
@@ -4652,7 +5621,12 @@
 "Plaque"
 ],
 "jenama": null,
-"gambar": "/gambar/wooden-plaque-wp40.webp"
+"gambar": "/gambar/wooden-plaque-wp40.webp",
+"galeri": [
+"/gambar/wooden-plaque-wp40-g2.webp",
+"/gambar/wooden-plaque-wp40-g3.webp",
+"/gambar/wooden-plaque-wp40-g4.webp"
+]
 },
 {
 "id": 31490,
@@ -4665,7 +5639,11 @@
 "Plaque"
 ],
 "jenama": null,
-"gambar": "/gambar/wooden-plaque-wp41.webp"
+"gambar": "/gambar/wooden-plaque-wp41.webp",
+"galeri": [
+"/gambar/wooden-plaque-wp41-g2.webp",
+"/gambar/wooden-plaque-wp41-g3.webp"
+]
 },
 {
 "id": 31493,
@@ -4678,7 +5656,11 @@
 "Plaque"
 ],
 "jenama": null,
-"gambar": "/gambar/wooden-plaque-wp42.webp"
+"gambar": "/gambar/wooden-plaque-wp42.webp",
+"galeri": [
+"/gambar/wooden-plaque-wp42-g2.webp",
+"/gambar/wooden-plaque-wp42-g3.webp"
+]
 },
 {
 "id": 30406,
@@ -4718,7 +5700,11 @@
 "Wooden Certificate Holder"
 ],
 "jenama": null,
-"gambar": "/gambar/wooden-songket-frame-nf500.webp"
+"gambar": "/gambar/wooden-songket-frame-nf500.webp",
+"galeri": [
+"/gambar/wooden-songket-frame-nf500-g2.webp",
+"/gambar/wooden-songket-frame-nf500-g3.webp"
+]
 },
 {
 "id": 34251,
@@ -4732,7 +5718,12 @@
 "New Arrival"
 ],
 "jenama": null,
-"gambar": "/gambar/zinc-alloy-medal-rotation-mhm5515.webp"
+"gambar": "/gambar/zinc-alloy-medal-rotation-mhm5515.webp",
+"galeri": [
+"/gambar/zinc-alloy-medal-rotation-mhm5515-g2.webp",
+"/gambar/zinc-alloy-medal-rotation-mhm5515-g3.webp",
+"/gambar/zinc-alloy-medal-rotation-mhm5515-g4.webp"
+]
 },
 {
 "id": 34257,
@@ -4746,7 +5737,12 @@
 "New Arrival"
 ],
 "jenama": null,
-"gambar": "/gambar/zinc-alloy-medal-rotation-mhm5516.webp"
+"gambar": "/gambar/zinc-alloy-medal-rotation-mhm5516.webp",
+"galeri": [
+"/gambar/zinc-alloy-medal-rotation-mhm5516-g2.webp",
+"/gambar/zinc-alloy-medal-rotation-mhm5516-g3.webp",
+"/gambar/zinc-alloy-medal-rotation-mhm5516-g4.webp"
+]
 },
 {
 "id": 9996,
@@ -4759,7 +5755,12 @@
 "Miscellaneous"
 ],
 "jenama": null,
-"gambar": "/gambar/cutlery-set-fs1260.webp"
+"gambar": "/gambar/cutlery-set-fs1260.webp",
+"galeri": [
+"/gambar/cutlery-set-fs1260-g2.webp",
+"/gambar/cutlery-set-fs1260-g3.webp",
+"/gambar/cutlery-set-fs1260-g4.webp"
+]
 },
 {
 "id": 9977,
@@ -4772,7 +5773,12 @@
 "Miscellaneous"
 ],
 "jenama": null,
-"gambar": "/gambar/cutlery-set-fs1277.webp"
+"gambar": "/gambar/cutlery-set-fs1277.webp",
+"galeri": [
+"/gambar/cutlery-set-fs1277-g2.webp",
+"/gambar/cutlery-set-fs1277-g3.webp",
+"/gambar/cutlery-set-fs1277-g4.webp"
+]
 },
 {
 "id": 16652,
@@ -4785,7 +5791,12 @@
 "Miscellaneous"
 ],
 "jenama": null,
-"gambar": "/gambar/cutlery-set-fs1287-c-w-box.webp"
+"gambar": "/gambar/cutlery-set-fs1287-c-w-box.webp",
+"galeri": [
+"/gambar/cutlery-set-fs1287-c-w-box-g2.webp",
+"/gambar/cutlery-set-fs1287-c-w-box-g3.webp",
+"/gambar/cutlery-set-fs1287-c-w-box-g4.webp"
+]
 },
 {
 "id": 9984,
@@ -4798,7 +5809,12 @@
 "Miscellaneous"
 ],
 "jenama": null,
-"gambar": "/gambar/cutlery-set-fs1288.webp"
+"gambar": "/gambar/cutlery-set-fs1288.webp",
+"galeri": [
+"/gambar/cutlery-set-fs1288-g2.webp",
+"/gambar/cutlery-set-fs1288-g3.webp",
+"/gambar/cutlery-set-fs1288-g4.webp"
+]
 },
 {
 "id": 9990,
@@ -4811,7 +5827,12 @@
 "Miscellaneous"
 ],
 "jenama": null,
-"gambar": "/gambar/cutlery-set-fs1289.webp"
+"gambar": "/gambar/cutlery-set-fs1289.webp",
+"galeri": [
+"/gambar/cutlery-set-fs1289-g2.webp",
+"/gambar/cutlery-set-fs1289-g3.webp",
+"/gambar/cutlery-set-fs1289-g4.webp"
+]
 },
 {
 "id": 10003,
@@ -4824,7 +5845,12 @@
 "Miscellaneous"
 ],
 "jenama": null,
-"gambar": "/gambar/cutlery-set-fs129.webp"
+"gambar": "/gambar/cutlery-set-fs129.webp",
+"galeri": [
+"/gambar/cutlery-set-fs129-g2.webp",
+"/gambar/cutlery-set-fs129-g3.webp",
+"/gambar/cutlery-set-fs129-g4.webp"
+]
 },
 {
 "id": 16631,
@@ -4837,7 +5863,10 @@
 "Miscellaneous"
 ],
 "jenama": null,
-"gambar": "/gambar/cutlery-set-fs129-1.webp"
+"gambar": "/gambar/cutlery-set-fs129-1.webp",
+"galeri": [
+"/gambar/cutlery-set-fs129-1-g2.webp"
+]
 },
 {
 "id": 16643,
@@ -4850,7 +5879,11 @@
 "Miscellaneous"
 ],
 "jenama": null,
-"gambar": "/gambar/cutlery-set-fs131-c-w-box.webp"
+"gambar": "/gambar/cutlery-set-fs131-c-w-box.webp",
+"galeri": [
+"/gambar/cutlery-set-fs131-c-w-box-g2.webp",
+"/gambar/cutlery-set-fs131-c-w-box-g3.webp"
+]
 },
 {
 "id": 15627,
@@ -4928,7 +5961,10 @@
 "Eco Bag"
 ],
 "jenama": null,
-"gambar": "/gambar/canvas-bag-can3064.webp"
+"gambar": "/gambar/canvas-bag-can3064.webp",
+"galeri": [
+"/gambar/canvas-bag-can3064-g2.webp"
+]
 },
 {
 "id": 29310,
@@ -4941,7 +5977,10 @@
 "Eco Bag"
 ],
 "jenama": null,
-"gambar": "/gambar/canvas-bag-can3070.webp"
+"gambar": "/gambar/canvas-bag-can3070.webp",
+"galeri": [
+"/gambar/canvas-bag-can3070-g2.webp"
+]
 },
 {
 "id": 29074,
@@ -4954,7 +5993,10 @@
 "Eco Bag"
 ],
 "jenama": null,
-"gambar": "/gambar/canvas-bag-12oz-can30669.webp"
+"gambar": "/gambar/canvas-bag-12oz-can30669.webp",
+"galeri": [
+"/gambar/canvas-bag-12oz-can30669-g2.webp"
+]
 },
 {
 "id": 29175,
@@ -4967,7 +6009,12 @@
 "Eco Bag"
 ],
 "jenama": null,
-"gambar": "/gambar/canvas-bag-12oz-can346.webp"
+"gambar": "/gambar/canvas-bag-12oz-can346.webp",
+"galeri": [
+"/gambar/canvas-bag-12oz-can346-g2.webp",
+"/gambar/canvas-bag-12oz-can346-g3.webp",
+"/gambar/canvas-bag-12oz-can346-g4.webp"
+]
 },
 {
 "id": 16261,
@@ -4980,7 +6027,10 @@
 "Eco Bag"
 ],
 "jenama": null,
-"gambar": "/gambar/canvas-bag-thickness-can30668-10-oz.webp"
+"gambar": "/gambar/canvas-bag-thickness-can30668-10-oz.webp",
+"galeri": [
+"/gambar/canvas-bag-thickness-can30668-10-oz-g2.webp"
+]
 },
 {
 "id": 29155,
@@ -4993,7 +6043,10 @@
 "Eco Bag"
 ],
 "jenama": null,
-"gambar": "/gambar/canvas-bag-with-zipper-12oz-can30552.webp"
+"gambar": "/gambar/canvas-bag-with-zipper-12oz-can30552.webp",
+"galeri": [
+"/gambar/canvas-bag-with-zipper-12oz-can30552-g2.webp"
+]
 },
 {
 "id": 29214,
@@ -5006,7 +6059,10 @@
 "Eco Bag"
 ],
 "jenama": null,
-"gambar": "/gambar/canvas-cosmetic-bag-pencil-case-10oz-can0350.webp"
+"gambar": "/gambar/canvas-cosmetic-bag-pencil-case-10oz-can0350.webp",
+"galeri": [
+"/gambar/canvas-cosmetic-bag-pencil-case-10oz-can0350-g2.webp"
+]
 },
 {
 "id": 29233,
@@ -5019,7 +6075,12 @@
 "Eco Bag"
 ],
 "jenama": null,
-"gambar": "/gambar/canvas-cosmetic-bag-pencil-case-12oz-can0353.webp"
+"gambar": "/gambar/canvas-cosmetic-bag-pencil-case-12oz-can0353.webp",
+"galeri": [
+"/gambar/canvas-cosmetic-bag-pencil-case-12oz-can0353-g2.webp",
+"/gambar/canvas-cosmetic-bag-pencil-case-12oz-can0353-g3.webp",
+"/gambar/canvas-cosmetic-bag-pencil-case-12oz-can0353-g4.webp"
+]
 },
 {
 "id": 14387,
@@ -5032,7 +6093,10 @@
 "Eco Bag"
 ],
 "jenama": null,
-"gambar": "/gambar/canvas-drawstring-bag-can548.webp"
+"gambar": "/gambar/canvas-drawstring-bag-can548.webp",
+"galeri": [
+"/gambar/canvas-drawstring-bag-can548-g2.webp"
+]
 },
 {
 "id": 16265,
@@ -5045,7 +6109,11 @@
 "Eco Bag"
 ],
 "jenama": null,
-"gambar": "/gambar/canvas-pencil-case-cpc0348-pg116.webp"
+"gambar": "/gambar/canvas-pencil-case-cpc0348-pg116.webp",
+"galeri": [
+"/gambar/canvas-pencil-case-cpc0348-pg116-g2.webp",
+"/gambar/canvas-pencil-case-cpc0348-pg116-g3.webp"
+]
 },
 {
 "id": 29163,
@@ -5058,7 +6126,12 @@
 "Eco Bag"
 ],
 "jenama": null,
-"gambar": "/gambar/foldable-canvas-bag-12oz-can333-2.webp"
+"gambar": "/gambar/foldable-canvas-bag-12oz-can333-2.webp",
+"galeri": [
+"/gambar/foldable-canvas-bag-12oz-can333-2-g2.webp",
+"/gambar/foldable-canvas-bag-12oz-can333-2-g3.webp",
+"/gambar/foldable-canvas-bag-12oz-can333-2-g4.webp"
+]
 },
 {
 "id": 16253,
@@ -5071,7 +6144,11 @@
 "Eco Bag"
 ],
 "jenama": null,
-"gambar": "/gambar/foldable-canvas-bag-12oz-can344-1.webp"
+"gambar": "/gambar/foldable-canvas-bag-12oz-can344-1.webp",
+"galeri": [
+"/gambar/foldable-canvas-bag-12oz-can344-1-g2.webp",
+"/gambar/foldable-canvas-bag-12oz-can344-1-g3.webp"
+]
 },
 {
 "id": 29195,
@@ -5084,7 +6161,10 @@
 "Eco Bag"
 ],
 "jenama": null,
-"gambar": "/gambar/foldable-canvas-shopping-bag-8oz-can30550.webp"
+"gambar": "/gambar/foldable-canvas-shopping-bag-8oz-can30550.webp",
+"galeri": [
+"/gambar/foldable-canvas-shopping-bag-8oz-can30550-g2.webp"
+]
 },
 {
 "id": 17088,
@@ -5097,7 +6177,12 @@
 "Eco Bag"
 ],
 "jenama": null,
-"gambar": "/gambar/jute-canvas-laminated-bag-jcl269.webp"
+"gambar": "/gambar/jute-canvas-laminated-bag-jcl269.webp",
+"galeri": [
+"/gambar/jute-canvas-laminated-bag-jcl269-g2.webp",
+"/gambar/jute-canvas-laminated-bag-jcl269-g3.webp",
+"/gambar/jute-canvas-laminated-bag-jcl269-g4.webp"
+]
 },
 {
 "id": 17137,
@@ -5110,7 +6195,12 @@
 "Eco Bag"
 ],
 "jenama": null,
-"gambar": "/gambar/jute-bag-with-canvas-compartment-jute2499.webp"
+"gambar": "/gambar/jute-bag-with-canvas-compartment-jute2499.webp",
+"galeri": [
+"/gambar/jute-bag-with-canvas-compartment-jute2499-g2.webp",
+"/gambar/jute-bag-with-canvas-compartment-jute2499-g3.webp",
+"/gambar/jute-bag-with-canvas-compartment-jute2499-g4.webp"
+]
 },
 {
 "id": 17105,
@@ -5123,7 +6213,12 @@
 "Eco Bag"
 ],
 "jenama": null,
-"gambar": "/gambar/jute-bag-with-canvas-compartment-jute270.webp"
+"gambar": "/gambar/jute-bag-with-canvas-compartment-jute270.webp",
+"galeri": [
+"/gambar/jute-bag-with-canvas-compartment-jute270-g2.webp",
+"/gambar/jute-bag-with-canvas-compartment-jute270-g3.webp",
+"/gambar/jute-bag-with-canvas-compartment-jute270-g4.webp"
+]
 },
 {
 "id": 17119,
@@ -5136,7 +6231,12 @@
 "Eco Bag"
 ],
 "jenama": null,
-"gambar": "/gambar/jute-bag-with-canvas-compartment-jute272.webp"
+"gambar": "/gambar/jute-bag-with-canvas-compartment-jute272.webp",
+"galeri": [
+"/gambar/jute-bag-with-canvas-compartment-jute272-g2.webp",
+"/gambar/jute-bag-with-canvas-compartment-jute272-g3.webp",
+"/gambar/jute-bag-with-canvas-compartment-jute272-g4.webp"
+]
 },
 {
 "id": 28832,
@@ -5149,7 +6249,12 @@
 "Eco Bag"
 ],
 "jenama": null,
-"gambar": "/gambar/jute-bag-with-canvas-compartment-jute275.webp"
+"gambar": "/gambar/jute-bag-with-canvas-compartment-jute275.webp",
+"galeri": [
+"/gambar/jute-bag-with-canvas-compartment-jute275-g2.webp",
+"/gambar/jute-bag-with-canvas-compartment-jute275-g3.webp",
+"/gambar/jute-bag-with-canvas-compartment-jute275-g4.webp"
+]
 },
 {
 "id": 28873,
@@ -5162,7 +6267,12 @@
 "Eco Bag"
 ],
 "jenama": null,
-"gambar": "/gambar/jute-bag-with-canvas-compartment-jute276.webp"
+"gambar": "/gambar/jute-bag-with-canvas-compartment-jute276.webp",
+"galeri": [
+"/gambar/jute-bag-with-canvas-compartment-jute276-g2.webp",
+"/gambar/jute-bag-with-canvas-compartment-jute276-g3.webp",
+"/gambar/jute-bag-with-canvas-compartment-jute276-g4.webp"
+]
 },
 {
 "id": 28790,
@@ -5175,7 +6285,12 @@
 "Eco Bag"
 ],
 "jenama": null,
-"gambar": "/gambar/jute-bag-with-canvas-compartment-jute278.webp"
+"gambar": "/gambar/jute-bag-with-canvas-compartment-jute278.webp",
+"galeri": [
+"/gambar/jute-bag-with-canvas-compartment-jute278-g2.webp",
+"/gambar/jute-bag-with-canvas-compartment-jute278-g3.webp",
+"/gambar/jute-bag-with-canvas-compartment-jute278-g4.webp"
+]
 },
 {
 "id": 28806,
@@ -5188,7 +6303,12 @@
 "Eco Bag"
 ],
 "jenama": null,
-"gambar": "/gambar/jute-bag-with-canvas-compartment-jute279.webp"
+"gambar": "/gambar/jute-bag-with-canvas-compartment-jute279.webp",
+"galeri": [
+"/gambar/jute-bag-with-canvas-compartment-jute279-g2.webp",
+"/gambar/jute-bag-with-canvas-compartment-jute279-g3.webp",
+"/gambar/jute-bag-with-canvas-compartment-jute279-g4.webp"
+]
 },
 {
 "id": 28902,
@@ -5201,7 +6321,12 @@
 "Eco Bag"
 ],
 "jenama": null,
-"gambar": "/gambar/jute-bag-with-canvas-compartment-jute280.webp"
+"gambar": "/gambar/jute-bag-with-canvas-compartment-jute280.webp",
+"galeri": [
+"/gambar/jute-bag-with-canvas-compartment-jute280-g2.webp",
+"/gambar/jute-bag-with-canvas-compartment-jute280-g3.webp",
+"/gambar/jute-bag-with-canvas-compartment-jute280-g4.webp"
+]
 },
 {
 "id": 28890,
@@ -5214,7 +6339,12 @@
 "Eco Bag"
 ],
 "jenama": null,
-"gambar": "/gambar/jute-bag-with-canvas-compartment-jute281.webp"
+"gambar": "/gambar/jute-bag-with-canvas-compartment-jute281.webp",
+"galeri": [
+"/gambar/jute-bag-with-canvas-compartment-jute281-g2.webp",
+"/gambar/jute-bag-with-canvas-compartment-jute281-g3.webp",
+"/gambar/jute-bag-with-canvas-compartment-jute281-g4.webp"
+]
 },
 {
 "id": 29051,
@@ -5227,7 +6357,12 @@
 "Eco Bag"
 ],
 "jenama": null,
-"gambar": "/gambar/jute-bag-with-canvas-compartment-jute284.webp"
+"gambar": "/gambar/jute-bag-with-canvas-compartment-jute284.webp",
+"galeri": [
+"/gambar/jute-bag-with-canvas-compartment-jute284-g2.webp",
+"/gambar/jute-bag-with-canvas-compartment-jute284-g3.webp",
+"/gambar/jute-bag-with-canvas-compartment-jute284-g4.webp"
+]
 },
 {
 "id": 28939,
@@ -5240,7 +6375,12 @@
 "Eco Bag"
 ],
 "jenama": null,
-"gambar": "/gambar/laminated-canvas-bag-cl460.webp"
+"gambar": "/gambar/laminated-canvas-bag-cl460.webp",
+"galeri": [
+"/gambar/laminated-canvas-bag-cl460-g2.webp",
+"/gambar/laminated-canvas-bag-cl460-g3.webp",
+"/gambar/laminated-canvas-bag-cl460-g4.webp"
+]
 },
 {
 "id": 17061,
@@ -5253,7 +6393,12 @@
 "Eco Bag"
 ],
 "jenama": null,
-"gambar": "/gambar/laminated-canvas-bag-cl462.webp"
+"gambar": "/gambar/laminated-canvas-bag-cl462.webp",
+"galeri": [
+"/gambar/laminated-canvas-bag-cl462-g2.webp",
+"/gambar/laminated-canvas-bag-cl462-g3.webp",
+"/gambar/laminated-canvas-bag-cl462-g4.webp"
+]
 },
 {
 "id": 17076,
@@ -5266,7 +6411,12 @@
 "Eco Bag"
 ],
 "jenama": null,
-"gambar": "/gambar/laminated-canvas-bag-cl463.webp"
+"gambar": "/gambar/laminated-canvas-bag-cl463.webp",
+"galeri": [
+"/gambar/laminated-canvas-bag-cl463-g2.webp",
+"/gambar/laminated-canvas-bag-cl463-g3.webp",
+"/gambar/laminated-canvas-bag-cl463-g4.webp"
+]
 },
 {
 "id": 28914,
@@ -5279,7 +6429,12 @@
 "Eco Bag"
 ],
 "jenama": null,
-"gambar": "/gambar/laminated-canvas-bag-cl465.webp"
+"gambar": "/gambar/laminated-canvas-bag-cl465.webp",
+"galeri": [
+"/gambar/laminated-canvas-bag-cl465-g2.webp",
+"/gambar/laminated-canvas-bag-cl465-g3.webp",
+"/gambar/laminated-canvas-bag-cl465-g4.webp"
+]
 },
 {
 "id": 28996,
@@ -5292,7 +6447,12 @@
 "Eco Bag"
 ],
 "jenama": null,
-"gambar": "/gambar/laminated-canvas-bag-with-strap-cl4800.webp"
+"gambar": "/gambar/laminated-canvas-bag-with-strap-cl4800.webp",
+"galeri": [
+"/gambar/laminated-canvas-bag-with-strap-cl4800-g2.webp",
+"/gambar/laminated-canvas-bag-with-strap-cl4800-g3.webp",
+"/gambar/laminated-canvas-bag-with-strap-cl4800-g4.webp"
+]
 },
 {
 "id": 28927,
@@ -5305,7 +6465,12 @@
 "Eco Bag"
 ],
 "jenama": null,
-"gambar": "/gambar/laminated-canvas-bag-with-strap-cl4802.webp"
+"gambar": "/gambar/laminated-canvas-bag-with-strap-cl4802.webp",
+"galeri": [
+"/gambar/laminated-canvas-bag-with-strap-cl4802-g2.webp",
+"/gambar/laminated-canvas-bag-with-strap-cl4802-g3.webp",
+"/gambar/laminated-canvas-bag-with-strap-cl4802-g4.webp"
+]
 },
 {
 "id": 8954,
@@ -5316,7 +6481,12 @@
 "kategori": "ECO Memo Pad",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/certificate-frame-a4-size-cf310.webp"
+"gambar": "/gambar/certificate-frame-a4-size-cf310.webp",
+"galeri": [
+"/gambar/certificate-frame-a4-size-cf310-g2.webp",
+"/gambar/certificate-frame-a4-size-cf310-g3.webp",
+"/gambar/certificate-frame-a4-size-cf310-g4.webp"
+]
 },
 {
 "id": 14638,
@@ -5327,7 +6497,10 @@
 "kategori": "ECO Memo Pad",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/eco-memopad-with-pen-eme3128.webp"
+"gambar": "/gambar/eco-memopad-with-pen-eme3128.webp",
+"galeri": [
+"/gambar/eco-memopad-with-pen-eme3128-g2.webp"
+]
 },
 {
 "id": 18435,
@@ -5338,7 +6511,12 @@
 "kategori": "ECO Memo Pad",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/eco-memopad-with-pen-holder-eme23.webp"
+"gambar": "/gambar/eco-memopad-with-pen-holder-eme23.webp",
+"galeri": [
+"/gambar/eco-memopad-with-pen-holder-eme23-g2.webp",
+"/gambar/eco-memopad-with-pen-holder-eme23-g3.webp",
+"/gambar/eco-memopad-with-pen-holder-eme23-g4.webp"
+]
 },
 {
 "id": 14646,
@@ -5349,7 +6527,10 @@
 "kategori": "ECO Memo Pad",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/memopad-memo1216-c-wbox.webp"
+"gambar": "/gambar/memopad-memo1216-c-wbox.webp",
+"galeri": [
+"/gambar/memopad-memo1216-c-wbox-g2.webp"
+]
 },
 {
 "id": 14650,
@@ -5360,7 +6541,10 @@
 "kategori": "ECO Memo Pad",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/memopad-memo1231-c-wbox.webp"
+"gambar": "/gambar/memopad-memo1231-c-wbox.webp",
+"galeri": [
+"/gambar/memopad-memo1231-c-wbox-g2.webp"
+]
 },
 {
 "id": 14642,
@@ -5371,7 +6555,10 @@
 "kategori": "ECO Memo Pad",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/memopad-memo13-c-wbox.webp"
+"gambar": "/gambar/memopad-memo13-c-wbox.webp",
+"galeri": [
+"/gambar/memopad-memo13-c-wbox-g2.webp"
+]
 },
 {
 "id": 12352,
@@ -5496,7 +6683,10 @@
 "kategori": "ECO Notebook & Memo Pad",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/eco-notebook-with-pen-enb104.webp"
+"gambar": "/gambar/eco-notebook-with-pen-enb104.webp",
+"galeri": [
+"/gambar/eco-notebook-with-pen-enb104-g2.webp"
+]
 },
 {
 "id": 18370,
@@ -5507,7 +6697,12 @@
 "kategori": "ECO Notebook & Memo Pad",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/eco-notebook-with-pen-enb1252.webp"
+"gambar": "/gambar/eco-notebook-with-pen-enb1252.webp",
+"galeri": [
+"/gambar/eco-notebook-with-pen-enb1252-g2.webp",
+"/gambar/eco-notebook-with-pen-enb1252-g3.webp",
+"/gambar/eco-notebook-with-pen-enb1252-g4.webp"
+]
 },
 {
 "id": 18385,
@@ -5518,7 +6713,12 @@
 "kategori": "ECO Notebook & Memo Pad",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/eco-notebook-with-pen-enb1259.webp"
+"gambar": "/gambar/eco-notebook-with-pen-enb1259.webp",
+"galeri": [
+"/gambar/eco-notebook-with-pen-enb1259-g2.webp",
+"/gambar/eco-notebook-with-pen-enb1259-g3.webp",
+"/gambar/eco-notebook-with-pen-enb1259-g4.webp"
+]
 },
 {
 "id": 18355,
@@ -5529,7 +6729,12 @@
 "kategori": "ECO Notebook & Memo Pad",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/eco-notebook-with-pen-enb1261.webp"
+"gambar": "/gambar/eco-notebook-with-pen-enb1261.webp",
+"galeri": [
+"/gambar/eco-notebook-with-pen-enb1261-g2.webp",
+"/gambar/eco-notebook-with-pen-enb1261-g3.webp",
+"/gambar/eco-notebook-with-pen-enb1261-g4.webp"
+]
 },
 {
 "id": 14620,
@@ -5540,7 +6745,11 @@
 "kategori": "ECO Notebook & Memo Pad",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/eco-notebook-with-pen-enb3002.webp"
+"gambar": "/gambar/eco-notebook-with-pen-enb3002.webp",
+"galeri": [
+"/gambar/eco-notebook-with-pen-enb3002-g2.webp",
+"/gambar/eco-notebook-with-pen-enb3002-g3.webp"
+]
 },
 {
 "id": 14625,
@@ -5551,7 +6760,10 @@
 "kategori": "ECO Notebook & Memo Pad",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/eco-notebook-with-pen-enb3129.webp"
+"gambar": "/gambar/eco-notebook-with-pen-enb3129.webp",
+"galeri": [
+"/gambar/eco-notebook-with-pen-enb3129-g2.webp"
+]
 },
 {
 "id": 18400,
@@ -5562,7 +6774,11 @@
 "kategori": "ECO Notebook & Memo Pad",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/eco-notebook-with-pen-enb3386.webp"
+"gambar": "/gambar/eco-notebook-with-pen-enb3386.webp",
+"galeri": [
+"/gambar/eco-notebook-with-pen-enb3386-g2.webp",
+"/gambar/eco-notebook-with-pen-enb3386-g3.webp"
+]
 },
 {
 "id": 18424,
@@ -5595,7 +6811,11 @@
 "kategori": "ECO Notebook & Memo Pad",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/eco-notebook-with-pen-enb905.webp"
+"gambar": "/gambar/eco-notebook-with-pen-enb905.webp",
+"galeri": [
+"/gambar/eco-notebook-with-pen-enb905-g2.webp",
+"/gambar/eco-notebook-with-pen-enb905-g3.webp"
+]
 },
 {
 "id": 18329,
@@ -5606,7 +6826,12 @@
 "kategori": "ECO Notebook & Memo Pad",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/eco-notebook-with-pen-nb706b.webp"
+"gambar": "/gambar/eco-notebook-with-pen-nb706b.webp",
+"galeri": [
+"/gambar/eco-notebook-with-pen-nb706b-g2.webp",
+"/gambar/eco-notebook-with-pen-nb706b-g3.webp",
+"/gambar/eco-notebook-with-pen-nb706b-g4.webp"
+]
 },
 {
 "id": 12318,
@@ -5680,7 +6905,12 @@
 "kategori": "ECO Notebook & Memo Pad",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/eco-restick-memo-pad-with-pen-enb3005-4.webp"
+"gambar": "/gambar/eco-restick-memo-pad-with-pen-enb3005-4.webp",
+"galeri": [
+"/gambar/eco-restick-memo-pad-with-pen-enb3005-4-g2.webp",
+"/gambar/eco-restick-memo-pad-with-pen-enb3005-4-g3.webp",
+"/gambar/eco-restick-memo-pad-with-pen-enb3005-4-g4.webp"
+]
 },
 {
 "id": 29920,
@@ -5691,7 +6921,12 @@
 "kategori": "Eco Bag",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/laminated-pp-woven-bag.webp"
+"gambar": "/gambar/laminated-pp-woven-bag.webp",
+"galeri": [
+"/gambar/laminated-pp-woven-bag-g2.webp",
+"/gambar/laminated-pp-woven-bag-g3.webp",
+"/gambar/laminated-pp-woven-bag-g4.webp"
+]
 },
 {
 "id": 30339,
@@ -5702,7 +6937,12 @@
 "kategori": "Eco Bag",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/laminated-pp-woven-bag-lwb565.webp"
+"gambar": "/gambar/laminated-pp-woven-bag-lwb565.webp",
+"galeri": [
+"/gambar/laminated-pp-woven-bag-lwb565-g2.webp",
+"/gambar/laminated-pp-woven-bag-lwb565-g3.webp",
+"/gambar/laminated-pp-woven-bag-lwb565-g4.webp"
+]
 },
 {
 "id": 29915,
@@ -5713,7 +6953,12 @@
 "kategori": "Eco Bag",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/laundry-bags-carrier-bag-lwb560.webp"
+"gambar": "/gambar/laundry-bags-carrier-bag-lwb560.webp",
+"galeri": [
+"/gambar/laundry-bags-carrier-bag-lwb560-g2.webp",
+"/gambar/laundry-bags-carrier-bag-lwb560-g3.webp",
+"/gambar/laundry-bags-carrier-bag-lwb560-g4.webp"
+]
 },
 {
 "id": 15718,
@@ -5803,7 +7048,12 @@
 "Ultrasonic Bag"
 ],
 "jenama": null,
-"gambar": "/gambar/non-woven-bag-a5-size-ultrasonic-nwb15-1u-6.webp"
+"gambar": "/gambar/non-woven-bag-a5-size-ultrasonic-nwb15-1u-6.webp",
+"galeri": [
+"/gambar/non-woven-bag-a5-size-ultrasonic-nwb15-1u-6-g2.webp",
+"/gambar/non-woven-bag-a5-size-ultrasonic-nwb15-1u-6-g3.webp",
+"/gambar/non-woven-bag-a5-size-ultrasonic-nwb15-1u-6-g4.webp"
+]
 },
 {
 "id": 11393,
@@ -5829,7 +7079,12 @@
 "Ultrasonic Bag"
 ],
 "jenama": null,
-"gambar": "/gambar/non-woven-bag-ultrasonic-nwb42-u.webp"
+"gambar": "/gambar/non-woven-bag-ultrasonic-nwb42-u.webp",
+"galeri": [
+"/gambar/non-woven-bag-ultrasonic-nwb42-u-g2.webp",
+"/gambar/non-woven-bag-ultrasonic-nwb42-u-g3.webp",
+"/gambar/non-woven-bag-ultrasonic-nwb42-u-g4.webp"
+]
 },
 {
 "id": 17530,
@@ -5842,7 +7097,12 @@
 "Ultrasonic Bag"
 ],
 "jenama": null,
-"gambar": "/gambar/non-woven-bag-ultrasonic-nwb0050-u.webp"
+"gambar": "/gambar/non-woven-bag-ultrasonic-nwb0050-u.webp",
+"galeri": [
+"/gambar/non-woven-bag-ultrasonic-nwb0050-u-g2.webp",
+"/gambar/non-woven-bag-ultrasonic-nwb0050-u-g3.webp",
+"/gambar/non-woven-bag-ultrasonic-nwb0050-u-g4.webp"
+]
 },
 {
 "id": 28487,
@@ -5857,7 +7117,12 @@
 "New Arrival"
 ],
 "jenama": null,
-"gambar": "/gambar/portable-ice-cooling-usb-rechargeable-handheld-fan-fan023.webp"
+"gambar": "/gambar/portable-ice-cooling-usb-rechargeable-handheld-fan-fan023.webp",
+"galeri": [
+"/gambar/portable-ice-cooling-usb-rechargeable-handheld-fan-fan023-g2.webp",
+"/gambar/portable-ice-cooling-usb-rechargeable-handheld-fan-fan023-g3.webp",
+"/gambar/portable-ice-cooling-usb-rechargeable-handheld-fan-fan023-g4.webp"
+]
 },
 {
 "id": 17022,
@@ -5871,7 +7136,11 @@
 "IT Series"
 ],
 "jenama": null,
-"gambar": "/gambar/portable-usb-rechargeable-handheld-fan-fan013.webp"
+"gambar": "/gambar/portable-usb-rechargeable-handheld-fan-fan013.webp",
+"galeri": [
+"/gambar/portable-usb-rechargeable-handheld-fan-fan013-g2.webp",
+"/gambar/portable-usb-rechargeable-handheld-fan-fan013-g3.webp"
+]
 },
 {
 "id": 24519,
@@ -5899,7 +7168,12 @@
 "IT Series"
 ],
 "jenama": null,
-"gambar": "/gambar/portable-usb-rechargeable-handheld-fan-fan017.webp"
+"gambar": "/gambar/portable-usb-rechargeable-handheld-fan-fan017.webp",
+"galeri": [
+"/gambar/portable-usb-rechargeable-handheld-fan-fan017-g2.webp",
+"/gambar/portable-usb-rechargeable-handheld-fan-fan017-g3.webp",
+"/gambar/portable-usb-rechargeable-handheld-fan-fan017-g4.webp"
+]
 },
 {
 "id": 28478,
@@ -5914,7 +7188,11 @@
 "New Arrival"
 ],
 "jenama": null,
-"gambar": "/gambar/portable-usb-rechargeable-turbo-handheld-fan-fan021.webp"
+"gambar": "/gambar/portable-usb-rechargeable-turbo-handheld-fan-fan021.webp",
+"galeri": [
+"/gambar/portable-usb-rechargeable-turbo-handheld-fan-fan021-g2.webp",
+"/gambar/portable-usb-rechargeable-turbo-handheld-fan-fan021-g3.webp"
+]
 },
 {
 "id": 28325,
@@ -5929,7 +7207,12 @@
 "New Arrival"
 ],
 "jenama": null,
-"gambar": "/gambar/portable-usb-rechargeable-turbo-handheld-fan-fan638.webp"
+"gambar": "/gambar/portable-usb-rechargeable-turbo-handheld-fan-fan638.webp",
+"galeri": [
+"/gambar/portable-usb-rechargeable-turbo-handheld-fan-fan638-g2.webp",
+"/gambar/portable-usb-rechargeable-turbo-handheld-fan-fan638-g3.webp",
+"/gambar/portable-usb-rechargeable-turbo-handheld-fan-fan638-g4.webp"
+]
 },
 {
 "id": 32151,
@@ -6003,7 +7286,10 @@
 "New Arrival"
 ],
 "jenama": null,
-"gambar": "/gambar/acrylic-fridge-magnet-fm58.webp"
+"gambar": "/gambar/acrylic-fridge-magnet-fm58.webp",
+"galeri": [
+"/gambar/acrylic-fridge-magnet-fm58-g2.webp"
+]
 },
 {
 "id": 28613,
@@ -6017,7 +7303,10 @@
 "New Arrival"
 ],
 "jenama": null,
-"gambar": "/gambar/acrylic-fridge-magnet-fm59.webp"
+"gambar": "/gambar/acrylic-fridge-magnet-fm59.webp",
+"galeri": [
+"/gambar/acrylic-fridge-magnet-fm59-g2.webp"
+]
 },
 {
 "id": 28618,
@@ -6031,7 +7320,10 @@
 "New Arrival"
 ],
 "jenama": null,
-"gambar": "/gambar/wooden-fridge-magnet-fm60.webp"
+"gambar": "/gambar/wooden-fridge-magnet-fm60.webp",
+"galeri": [
+"/gambar/wooden-fridge-magnet-fm60-g2.webp"
+]
 },
 {
 "id": 28623,
@@ -6045,7 +7337,10 @@
 "New Arrival"
 ],
 "jenama": null,
-"gambar": "/gambar/wooden-fridge-magnet-fm61.webp"
+"gambar": "/gambar/wooden-fridge-magnet-fm61.webp",
+"galeri": [
+"/gambar/wooden-fridge-magnet-fm61-g2.webp"
+]
 },
 {
 "id": 16992,
@@ -6058,7 +7353,12 @@
 "IT Series"
 ],
 "jenama": null,
-"gambar": "/gambar/3-in-1-usb-cable-cable3100.webp"
+"gambar": "/gambar/3-in-1-usb-cable-cable3100.webp",
+"galeri": [
+"/gambar/3-in-1-usb-cable-cable3100-g2.webp",
+"/gambar/3-in-1-usb-cable-cable3100-g3.webp",
+"/gambar/3-in-1-usb-cable-cable3100-g4.webp"
+]
 },
 {
 "id": 29335,
@@ -6071,7 +7371,12 @@
 "IT Series"
 ],
 "jenama": "Awei",
-"gambar": "/gambar/awei-smart-watch-h-21.webp"
+"gambar": "/gambar/awei-smart-watch-h-21.webp",
+"galeri": [
+"/gambar/awei-smart-watch-h-21-g2.webp",
+"/gambar/awei-smart-watch-h-21-g3.webp",
+"/gambar/awei-smart-watch-h-21-g4.webp"
+]
 },
 {
 "id": 29565,
@@ -6084,7 +7389,11 @@
 "IT Series"
 ],
 "jenama": "Awei",
-"gambar": "/gambar/awei-wireless-sports-earbuds-with-charging-case-450mah-t-29.webp"
+"gambar": "/gambar/awei-wireless-sports-earbuds-with-charging-case-450mah-t-29.webp",
+"galeri": [
+"/gambar/awei-wireless-sports-earbuds-with-charging-case-450mah-t-29-g2.webp",
+"/gambar/awei-wireless-sports-earbuds-with-charging-case-450mah-t-29-g3.webp"
+]
 },
 {
 "id": 29280,
@@ -6097,7 +7406,11 @@
 "IT Series"
 ],
 "jenama": "Awei",
-"gambar": "/gambar/awei-wireless-stereo-headphone-300-mah-at-6.webp"
+"gambar": "/gambar/awei-wireless-stereo-headphone-300-mah-at-6.webp",
+"galeri": [
+"/gambar/awei-wireless-stereo-headphone-300-mah-at-6-g2.webp",
+"/gambar/awei-wireless-stereo-headphone-300-mah-at-6-g3.webp"
+]
 },
 {
 "id": 16988,
@@ -6110,7 +7423,10 @@
 "IT Series"
 ],
 "jenama": null,
-"gambar": "/gambar/bluetooth-wireless-earbuds.webp"
+"gambar": "/gambar/bluetooth-wireless-earbuds.webp",
+"galeri": [
+"/gambar/bluetooth-wireless-earbuds-g2.webp"
+]
 },
 {
 "id": 17009,
@@ -6123,7 +7439,10 @@
 "IT Series"
 ],
 "jenama": null,
-"gambar": "/gambar/digital-alarm-clock-clk3020.webp"
+"gambar": "/gambar/digital-alarm-clock-clk3020.webp",
+"galeri": [
+"/gambar/digital-alarm-clock-clk3020-g2.webp"
+]
 },
 {
 "id": 17013,
@@ -6136,7 +7455,11 @@
 "IT Series"
 ],
 "jenama": null,
-"gambar": "/gambar/foldable-adjustable-height-mobile-tablet-stand-ms115.webp"
+"gambar": "/gambar/foldable-adjustable-height-mobile-tablet-stand-ms115.webp",
+"galeri": [
+"/gambar/foldable-adjustable-height-mobile-tablet-stand-ms115-g2.webp",
+"/gambar/foldable-adjustable-height-mobile-tablet-stand-ms115-g3.webp"
+]
 },
 {
 "id": 28259,
@@ -6151,7 +7474,12 @@
 "New Arrival"
 ],
 "jenama": null,
-"gambar": "/gambar/portable-usb-rechargable-pocket-handheld-fan-fan019.webp"
+"gambar": "/gambar/portable-usb-rechargable-pocket-handheld-fan-fan019.webp",
+"galeri": [
+"/gambar/portable-usb-rechargable-pocket-handheld-fan-fan019-g2.webp",
+"/gambar/portable-usb-rechargable-pocket-handheld-fan-fan019-g3.webp",
+"/gambar/portable-usb-rechargable-pocket-handheld-fan-fan019-g4.webp"
+]
 },
 {
 "id": 29537,
@@ -6164,7 +7492,12 @@
 "IT Series"
 ],
 "jenama": "Remax",
-"gambar": "/gambar/remax-sky-mirror-portable-wireless-speaker-1200mah-rb-h1.webp"
+"gambar": "/gambar/remax-sky-mirror-portable-wireless-speaker-1200mah-rb-h1.webp",
+"galeri": [
+"/gambar/remax-sky-mirror-portable-wireless-speaker-1200mah-rb-h1-g2.webp",
+"/gambar/remax-sky-mirror-portable-wireless-speaker-1200mah-rb-h1-g3.webp",
+"/gambar/remax-sky-mirror-portable-wireless-speaker-1200mah-rb-h1-g4.webp"
+]
 },
 {
 "id": 14952,
@@ -6202,7 +7535,10 @@
 "IT Series"
 ],
 "jenama": null,
-"gambar": "/gambar/worldwide-travel-adapter-c-w-dual-2-0a-usb-port-ua933-c-wbox.webp"
+"gambar": "/gambar/worldwide-travel-adapter-c-w-dual-2-0a-usb-port-ua933-c-wbox.webp",
+"galeri": [
+"/gambar/worldwide-travel-adapter-c-w-dual-2-0a-usb-port-ua933-c-wbox-g2.webp"
+]
 },
 {
 "id": 28392,
@@ -6217,7 +7553,10 @@
 "OEM 2in1"
 ],
 "jenama": null,
-"gambar": "/gambar/2-in-1-gift-box-box206-1.webp"
+"gambar": "/gambar/2-in-1-gift-box-box206-1.webp",
+"galeri": [
+"/gambar/2-in-1-gift-box-box206-1-g2.webp"
+]
 },
 {
 "id": 29325,
@@ -6232,7 +7571,11 @@
 "Mug"
 ],
 "jenama": null,
-"gambar": "/gambar/ceramic-mug-electric-warmer-gift-set-cm173.webp"
+"gambar": "/gambar/ceramic-mug-electric-warmer-gift-set-cm173.webp",
+"galeri": [
+"/gambar/ceramic-mug-electric-warmer-gift-set-cm173-g2.webp",
+"/gambar/ceramic-mug-electric-warmer-gift-set-cm173-g3.webp"
+]
 },
 {
 "id": 29303,
@@ -6245,7 +7588,10 @@
 "Gift Sets & OEM Gifts"
 ],
 "jenama": null,
-"gambar": "/gambar/diary-box-box17.webp"
+"gambar": "/gambar/diary-box-box17.webp",
+"galeri": [
+"/gambar/diary-box-box17-g2.webp"
+]
 },
 {
 "id": 17414,
@@ -6259,7 +7605,10 @@
 "Towel Series"
 ],
 "jenama": null,
-"gambar": "/gambar/gift-box-box201.webp"
+"gambar": "/gambar/gift-box-box201.webp",
+"galeri": [
+"/gambar/gift-box-box201-g2.webp"
+]
 },
 {
 "id": 25772,
@@ -6298,7 +7647,10 @@
 "Towel Series"
 ],
 "jenama": null,
-"gambar": "/gambar/box-09-box09.webp"
+"gambar": "/gambar/box-09-box09.webp",
+"galeri": [
+"/gambar/box-09-box09-g2.webp"
+]
 },
 {
 "id": 18090,
@@ -6326,7 +7678,12 @@
 "Towel Series"
 ],
 "jenama": null,
-"gambar": "/gambar/box-11-box11.webp"
+"gambar": "/gambar/box-11-box11.webp",
+"galeri": [
+"/gambar/box-11-box11-g2.webp",
+"/gambar/box-11-box11-g3.webp",
+"/gambar/box-11-box11-g4.webp"
+]
 },
 {
 "id": 18084,
@@ -6340,7 +7697,10 @@
 "Towel Series"
 ],
 "jenama": null,
-"gambar": "/gambar/box-12-box12.webp"
+"gambar": "/gambar/box-12-box12.webp",
+"galeri": [
+"/gambar/box-12-box12-g2.webp"
+]
 },
 {
 "id": 18049,
@@ -6353,7 +7713,10 @@
 "Lanyard"
 ],
 "jenama": null,
-"gambar": "/gambar/bear-kc10829.webp"
+"gambar": "/gambar/bear-kc10829.webp",
+"galeri": [
+"/gambar/bear-kc10829-g2.webp"
+]
 },
 {
 "id": 17409,
@@ -6383,7 +7746,10 @@
 "Mug"
 ],
 "jenama": null,
-"gambar": "/gambar/gift-box-box01-3-solelybuyboxonly.webp"
+"gambar": "/gambar/gift-box-box01-3-solelybuyboxonly.webp",
+"galeri": [
+"/gambar/gift-box-box01-3-solelybuyboxonly-g2.webp"
+]
 },
 {
 "id": 17419,
@@ -6426,7 +7792,12 @@
 "Lanyard"
 ],
 "jenama": null,
-"gambar": "/gambar/keychain-pen-box-a.webp"
+"gambar": "/gambar/keychain-pen-box-a.webp",
+"galeri": [
+"/gambar/keychain-pen-box-a-g2.webp",
+"/gambar/keychain-pen-box-a-g3.webp",
+"/gambar/keychain-pen-box-a-g4.webp"
+]
 },
 {
 "id": 14761,
@@ -6440,7 +7811,10 @@
 "Lanyard"
 ],
 "jenama": null,
-"gambar": "/gambar/keychain-case-box03-1.webp"
+"gambar": "/gambar/keychain-case-box03-1.webp",
+"galeri": [
+"/gambar/keychain-case-box03-1-g2.webp"
+]
 },
 {
 "id": 14757,
@@ -6481,7 +7855,10 @@
 "Towel Series"
 ],
 "jenama": null,
-"gambar": "/gambar/organizer-diary-face-towel-box-box08-solelybuyboxonly.webp"
+"gambar": "/gambar/organizer-diary-face-towel-box-box08-solelybuyboxonly.webp",
+"galeri": [
+"/gambar/organizer-diary-face-towel-box-box08-solelybuyboxonly-g2.webp"
+]
 },
 {
 "id": 14755,
@@ -6520,7 +7897,12 @@
 "Lanyard"
 ],
 "jenama": null,
-"gambar": "/gambar/powerbank-pen-nc-holder-thumbdrive-box-e.webp"
+"gambar": "/gambar/powerbank-pen-nc-holder-thumbdrive-box-e.webp",
+"galeri": [
+"/gambar/powerbank-pen-nc-holder-thumbdrive-box-e-g2.webp",
+"/gambar/powerbank-pen-nc-holder-thumbdrive-box-e-g3.webp",
+"/gambar/powerbank-pen-nc-holder-thumbdrive-box-e-g4.webp"
+]
 },
 {
 "id": 14747,
@@ -6546,7 +7928,10 @@
 "Lanyard"
 ],
 "jenama": null,
-"gambar": "/gambar/rabbit-kc10625.webp"
+"gambar": "/gambar/rabbit-kc10625.webp",
+"galeri": [
+"/gambar/rabbit-kc10625-g2.webp"
+]
 },
 {
 "id": 18057,
@@ -6557,7 +7942,12 @@
 "kategori": "Gift Sets & OEM Gifts",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/shredded-paper-spp.webp"
+"gambar": "/gambar/shredded-paper-spp.webp",
+"galeri": [
+"/gambar/shredded-paper-spp-g2.webp",
+"/gambar/shredded-paper-spp-g3.webp",
+"/gambar/shredded-paper-spp-g4.webp"
+]
 },
 {
 "id": 14765,
@@ -6597,7 +7987,12 @@
 "New Arrival"
 ],
 "jenama": null,
-"gambar": "/gambar/mini-glass-bottle-with-phone-stand-gb4500.webp"
+"gambar": "/gambar/mini-glass-bottle-with-phone-stand-gb4500.webp",
+"galeri": [
+"/gambar/mini-glass-bottle-with-phone-stand-gb4500-g2.webp",
+"/gambar/mini-glass-bottle-with-phone-stand-gb4500-g3.webp",
+"/gambar/mini-glass-bottle-with-phone-stand-gb4500-g4.webp"
+]
 },
 {
 "id": 28687,
@@ -6611,7 +8006,10 @@
 "Pen Series"
 ],
 "jenama": null,
-"gambar": "/gambar/coral-highlighter-hp04.webp"
+"gambar": "/gambar/coral-highlighter-hp04.webp",
+"galeri": [
+"/gambar/coral-highlighter-hp04-g2.webp"
+]
 },
 {
 "id": 9772,
@@ -6624,7 +8022,12 @@
 "Mug"
 ],
 "jenama": null,
-"gambar": "/gambar/11oz-inner-colour-coating-mug-cm04-c-wbox.webp"
+"gambar": "/gambar/11oz-inner-colour-coating-mug-cm04-c-wbox.webp",
+"galeri": [
+"/gambar/11oz-inner-colour-coating-mug-cm04-c-wbox-g2.webp",
+"/gambar/11oz-inner-colour-coating-mug-cm04-c-wbox-g3.webp",
+"/gambar/11oz-inner-colour-coating-mug-cm04-c-wbox-g4.webp"
+]
 },
 {
 "id": 9777,
@@ -6637,7 +8040,12 @@
 "Mug"
 ],
 "jenama": null,
-"gambar": "/gambar/11oz-rim-handle-colour-coating-mug-cm08-c-wbox.webp"
+"gambar": "/gambar/11oz-rim-handle-colour-coating-mug-cm08-c-wbox.webp",
+"galeri": [
+"/gambar/11oz-rim-handle-colour-coating-mug-cm08-c-wbox-g2.webp",
+"/gambar/11oz-rim-handle-colour-coating-mug-cm08-c-wbox-g3.webp",
+"/gambar/11oz-rim-handle-colour-coating-mug-cm08-c-wbox-g4.webp"
+]
 },
 {
 "id": 31684,
@@ -6650,7 +8058,11 @@
 "Lunch Box"
 ],
 "jenama": null,
-"gambar": "/gambar/3-tiers-food-container-double-wall-lb8150.webp"
+"gambar": "/gambar/3-tiers-food-container-double-wall-lb8150.webp",
+"galeri": [
+"/gambar/3-tiers-food-container-double-wall-lb8150-g2.webp",
+"/gambar/3-tiers-food-container-double-wall-lb8150-g3.webp"
+]
 },
 {
 "id": 15036,
@@ -6676,7 +8088,12 @@
 "Mug"
 ],
 "jenama": null,
-"gambar": "/gambar/bone-ceramic-mug-cm09-c-w-box.webp"
+"gambar": "/gambar/bone-ceramic-mug-cm09-c-w-box.webp",
+"galeri": [
+"/gambar/bone-ceramic-mug-cm09-c-w-box-g2.webp",
+"/gambar/bone-ceramic-mug-cm09-c-w-box-g3.webp",
+"/gambar/bone-ceramic-mug-cm09-c-w-box-g4.webp"
+]
 },
 {
 "id": 16293,
@@ -6689,7 +8106,12 @@
 "Mug"
 ],
 "jenama": null,
-"gambar": "/gambar/cm-16-ceramic-mug-with-wooden-lid-and-spoon-cm16-c-w-box.webp"
+"gambar": "/gambar/cm-16-ceramic-mug-with-wooden-lid-and-spoon-cm16-c-w-box.webp",
+"galeri": [
+"/gambar/cm-16-ceramic-mug-with-wooden-lid-and-spoon-cm16-c-w-box-g2.webp",
+"/gambar/cm-16-ceramic-mug-with-wooden-lid-and-spoon-cm16-c-w-box-g3.webp",
+"/gambar/cm-16-ceramic-mug-with-wooden-lid-and-spoon-cm16-c-w-box-g4.webp"
+]
 },
 {
 "id": 28397,
@@ -6703,7 +8125,12 @@
 "New Arrival"
 ],
 "jenama": null,
-"gambar": "/gambar/ceramic-coating-mug-cm170.webp"
+"gambar": "/gambar/ceramic-coating-mug-cm170.webp",
+"galeri": [
+"/gambar/ceramic-coating-mug-cm170-g2.webp",
+"/gambar/ceramic-coating-mug-cm170-g3.webp",
+"/gambar/ceramic-coating-mug-cm170-g4.webp"
+]
 },
 {
 "id": 28411,
@@ -6715,7 +8142,13 @@
 "kategori_lain": [
 "Mug"
 ],
-"jenama": null
+"jenama": null,
+"galeri": [
+"/gambar/ceramic-coating-mug-cm171-g2.webp",
+"/gambar/ceramic-coating-mug-cm171-g3.webp",
+"/gambar/ceramic-coating-mug-cm171-g4.webp"
+],
+"gambar": "/gambar/ceramic-coating-mug-cm171.webp"
 },
 {
 "id": 9788,
@@ -6728,7 +8161,12 @@
 "Mug"
 ],
 "jenama": null,
-"gambar": "/gambar/coloured-mug-cm14-c-wbox.webp"
+"gambar": "/gambar/coloured-mug-cm14-c-wbox.webp",
+"galeri": [
+"/gambar/coloured-mug-cm14-c-wbox-g2.webp",
+"/gambar/coloured-mug-cm14-c-wbox-g3.webp",
+"/gambar/coloured-mug-cm14-c-wbox-g4.webp"
+]
 },
 {
 "id": 9704,
@@ -6741,7 +8179,11 @@
 "Lunch Box"
 ],
 "jenama": null,
-"gambar": "/gambar/double-layer-food-container-slb720-c-wbox.webp"
+"gambar": "/gambar/double-layer-food-container-slb720-c-wbox.webp",
+"galeri": [
+"/gambar/double-layer-food-container-slb720-c-wbox-g2.webp",
+"/gambar/double-layer-food-container-slb720-c-wbox-g3.webp"
+]
 },
 {
 "id": 9731,
@@ -6754,7 +8196,12 @@
 "Lunch Box"
 ],
 "jenama": null,
-"gambar": "/gambar/double-layer-stainless-steel-food-container-slb1800-c-wbox.webp"
+"gambar": "/gambar/double-layer-stainless-steel-food-container-slb1800-c-wbox.webp",
+"galeri": [
+"/gambar/double-layer-stainless-steel-food-container-slb1800-c-wbox-g2.webp",
+"/gambar/double-layer-stainless-steel-food-container-slb1800-c-wbox-g3.webp",
+"/gambar/double-layer-stainless-steel-food-container-slb1800-c-wbox-g4.webp"
+]
 },
 {
 "id": 9737,
@@ -6767,7 +8214,12 @@
 "Lunch Box"
 ],
 "jenama": null,
-"gambar": "/gambar/food-container-2-layers-lb763.webp"
+"gambar": "/gambar/food-container-2-layers-lb763.webp",
+"galeri": [
+"/gambar/food-container-2-layers-lb763-g2.webp",
+"/gambar/food-container-2-layers-lb763-g3.webp",
+"/gambar/food-container-2-layers-lb763-g4.webp"
+]
 },
 {
 "id": 31675,
@@ -6780,7 +8232,11 @@
 "Lunch Box"
 ],
 "jenama": null,
-"gambar": "/gambar/food-container-double-wall-lb8149.webp"
+"gambar": "/gambar/food-container-double-wall-lb8149.webp",
+"galeri": [
+"/gambar/food-container-double-wall-lb8149-g2.webp",
+"/gambar/food-container-double-wall-lb8149-g3.webp"
+]
 },
 {
 "id": 16729,
@@ -6793,7 +8249,11 @@
 "Lunch Box"
 ],
 "jenama": null,
-"gambar": "/gambar/food-container-lb8132.webp"
+"gambar": "/gambar/food-container-lb8132.webp",
+"galeri": [
+"/gambar/food-container-lb8132-g2.webp",
+"/gambar/food-container-lb8132-g3.webp"
+]
 },
 {
 "id": 9743,
@@ -6806,7 +8266,11 @@
 "Lunch Box"
 ],
 "jenama": null,
-"gambar": "/gambar/food-container-lb8136.webp"
+"gambar": "/gambar/food-container-lb8136.webp",
+"galeri": [
+"/gambar/food-container-lb8136-g2.webp",
+"/gambar/food-container-lb8136-g3.webp"
+]
 },
 {
 "id": 16740,
@@ -6819,7 +8283,11 @@
 "Lunch Box"
 ],
 "jenama": null,
-"gambar": "/gambar/food-container-lb8137.webp"
+"gambar": "/gambar/food-container-lb8137.webp",
+"galeri": [
+"/gambar/food-container-lb8137-g2.webp",
+"/gambar/food-container-lb8137-g3.webp"
+]
 },
 {
 "id": 31692,
@@ -6832,7 +8300,12 @@
 "Lunch Box"
 ],
 "jenama": null,
-"gambar": "/gambar/food-container-lb8145.webp"
+"gambar": "/gambar/food-container-lb8145.webp",
+"galeri": [
+"/gambar/food-container-lb8145-g2.webp",
+"/gambar/food-container-lb8145-g3.webp",
+"/gambar/food-container-lb8145-g4.webp"
+]
 },
 {
 "id": 31702,
@@ -6845,7 +8318,12 @@
 "Lunch Box"
 ],
 "jenama": null,
-"gambar": "/gambar/food-container-lb8146.webp"
+"gambar": "/gambar/food-container-lb8146.webp",
+"galeri": [
+"/gambar/food-container-lb8146-g2.webp",
+"/gambar/food-container-lb8146-g3.webp",
+"/gambar/food-container-lb8146-g4.webp"
+]
 },
 {
 "id": 31712,
@@ -6858,7 +8336,12 @@
 "Lunch Box"
 ],
 "jenama": null,
-"gambar": "/gambar/food-container-lb8147.webp"
+"gambar": "/gambar/food-container-lb8147.webp",
+"galeri": [
+"/gambar/food-container-lb8147-g2.webp",
+"/gambar/food-container-lb8147-g3.webp",
+"/gambar/food-container-lb8147-g4.webp"
+]
 },
 {
 "id": 31728,
@@ -6871,7 +8354,12 @@
 "Lunch Box"
 ],
 "jenama": null,
-"gambar": "/gambar/food-container-lb8148.webp"
+"gambar": "/gambar/food-container-lb8148.webp",
+"galeri": [
+"/gambar/food-container-lb8148-g2.webp",
+"/gambar/food-container-lb8148-g3.webp",
+"/gambar/food-container-lb8148-g4.webp"
+]
 },
 {
 "id": 9677,
@@ -6884,7 +8372,12 @@
 "Lunch Box"
 ],
 "jenama": null,
-"gambar": "/gambar/food-container-lb815-c-wbox.webp"
+"gambar": "/gambar/food-container-lb815-c-wbox.webp",
+"galeri": [
+"/gambar/food-container-lb815-c-wbox-g2.webp",
+"/gambar/food-container-lb815-c-wbox-g3.webp",
+"/gambar/food-container-lb815-c-wbox-g4.webp"
+]
 },
 {
 "id": 9683,
@@ -6897,7 +8390,12 @@
 "Lunch Box"
 ],
 "jenama": null,
-"gambar": "/gambar/food-container-lb816-c-wbox.webp"
+"gambar": "/gambar/food-container-lb816-c-wbox.webp",
+"galeri": [
+"/gambar/food-container-lb816-c-wbox-g2.webp",
+"/gambar/food-container-lb816-c-wbox-g3.webp",
+"/gambar/food-container-lb816-c-wbox-g4.webp"
+]
 },
 {
 "id": 24918,
@@ -6910,7 +8408,10 @@
 "Mug"
 ],
 "jenama": null,
-"gambar": "/gambar/mug-cm01-c-wbox.webp"
+"gambar": "/gambar/mug-cm01-c-wbox.webp",
+"galeri": [
+"/gambar/mug-cm01-c-wbox-g2.webp"
+]
 },
 {
 "id": 15044,
@@ -6949,7 +8450,12 @@
 "Lunch Box"
 ],
 "jenama": null,
-"gambar": "/gambar/organic-wheat-lunch-box-lb8143-c-wbox.webp"
+"gambar": "/gambar/organic-wheat-lunch-box-lb8143-c-wbox.webp",
+"galeri": [
+"/gambar/organic-wheat-lunch-box-lb8143-c-wbox-g2.webp",
+"/gambar/organic-wheat-lunch-box-lb8143-c-wbox-g3.webp",
+"/gambar/organic-wheat-lunch-box-lb8143-c-wbox-g4.webp"
+]
 },
 {
 "id": 28427,
@@ -6976,7 +8482,11 @@
 "Lunch Box"
 ],
 "jenama": null,
-"gambar": "/gambar/single-layer-food-container-slb710-c-wbox.webp"
+"gambar": "/gambar/single-layer-food-container-slb710-c-wbox.webp",
+"galeri": [
+"/gambar/single-layer-food-container-slb710-c-wbox-g2.webp",
+"/gambar/single-layer-food-container-slb710-c-wbox-g3.webp"
+]
 },
 {
 "id": 28347,
@@ -6990,7 +8500,12 @@
 "Thermo Mug"
 ],
 "jenama": null,
-"gambar": "/gambar/smart-temperature-thermo-mug-double-wall-tm677.webp"
+"gambar": "/gambar/smart-temperature-thermo-mug-double-wall-tm677.webp",
+"galeri": [
+"/gambar/smart-temperature-thermo-mug-double-wall-tm677-g2.webp",
+"/gambar/smart-temperature-thermo-mug-double-wall-tm677-g3.webp",
+"/gambar/smart-temperature-thermo-mug-double-wall-tm677-g4.webp"
+]
 },
 {
 "id": 9662,
@@ -7003,7 +8518,12 @@
 "Vacuum Flask"
 ],
 "jenama": null,
-"gambar": "/gambar/smart-temperature-vacuum-flask-st7231-c-wbox.webp"
+"gambar": "/gambar/smart-temperature-vacuum-flask-st7231-c-wbox.webp",
+"galeri": [
+"/gambar/smart-temperature-vacuum-flask-st7231-c-wbox-g2.webp",
+"/gambar/smart-temperature-vacuum-flask-st7231-c-wbox-g3.webp",
+"/gambar/smart-temperature-vacuum-flask-st7231-c-wbox-g4.webp"
+]
 },
 {
 "id": 29556,
@@ -7016,7 +8536,11 @@
 "Sport Bottle"
 ],
 "jenama": null,
-"gambar": "/gambar/sport-bottle-sb1300.webp"
+"gambar": "/gambar/sport-bottle-sb1300.webp",
+"galeri": [
+"/gambar/sport-bottle-sb1300-g2.webp",
+"/gambar/sport-bottle-sb1300-g3.webp"
+]
 },
 {
 "id": 9551,
@@ -7029,7 +8553,12 @@
 "Sport Bottle"
 ],
 "jenama": null,
-"gambar": "/gambar/sport-bottle-sb2030.webp"
+"gambar": "/gambar/sport-bottle-sb2030.webp",
+"galeri": [
+"/gambar/sport-bottle-sb2030-g2.webp",
+"/gambar/sport-bottle-sb2030-g3.webp",
+"/gambar/sport-bottle-sb2030-g4.webp"
+]
 },
 {
 "id": 31656,
@@ -7042,7 +8571,12 @@
 "Sport Bottle"
 ],
 "jenama": null,
-"gambar": "/gambar/sport-bottle-sb3794.webp"
+"gambar": "/gambar/sport-bottle-sb3794.webp",
+"galeri": [
+"/gambar/sport-bottle-sb3794-g2.webp",
+"/gambar/sport-bottle-sb3794-g3.webp",
+"/gambar/sport-bottle-sb3794-g4.webp"
+]
 },
 {
 "id": 16824,
@@ -7055,7 +8589,12 @@
 "Sport Bottle"
 ],
 "jenama": null,
-"gambar": "/gambar/sport-bottle-sb3890.webp"
+"gambar": "/gambar/sport-bottle-sb3890.webp",
+"galeri": [
+"/gambar/sport-bottle-sb3890-g2.webp",
+"/gambar/sport-bottle-sb3890-g3.webp",
+"/gambar/sport-bottle-sb3890-g4.webp"
+]
 },
 {
 "id": 9542,
@@ -7068,7 +8607,12 @@
 "Sport Bottle"
 ],
 "jenama": null,
-"gambar": "/gambar/sport-bottle-sb3900.webp"
+"gambar": "/gambar/sport-bottle-sb3900.webp",
+"galeri": [
+"/gambar/sport-bottle-sb3900-g2.webp",
+"/gambar/sport-bottle-sb3900-g3.webp",
+"/gambar/sport-bottle-sb3900-g4.webp"
+]
 },
 {
 "id": 30865,
@@ -7081,7 +8625,12 @@
 "Vacuum Flask"
 ],
 "jenama": null,
-"gambar": "/gambar/stainless-steel-insulated-vacuum-flask-double-wall-st7242.webp"
+"gambar": "/gambar/stainless-steel-insulated-vacuum-flask-double-wall-st7242.webp",
+"galeri": [
+"/gambar/stainless-steel-insulated-vacuum-flask-double-wall-st7242-g2.webp",
+"/gambar/stainless-steel-insulated-vacuum-flask-double-wall-st7242-g3.webp",
+"/gambar/stainless-steel-insulated-vacuum-flask-double-wall-st7242-g4.webp"
+]
 },
 {
 "id": 29513,
@@ -7094,7 +8643,12 @@
 "Mug"
 ],
 "jenama": "Penguin",
-"gambar": "/gambar/stainless-steel-insulated-vacuum-flask-double-wall-qe2132.webp"
+"gambar": "/gambar/stainless-steel-insulated-vacuum-flask-double-wall-qe2132.webp",
+"galeri": [
+"/gambar/stainless-steel-insulated-vacuum-flask-double-wall-qe2132-g2.webp",
+"/gambar/stainless-steel-insulated-vacuum-flask-double-wall-qe2132-g3.webp",
+"/gambar/stainless-steel-insulated-vacuum-flask-double-wall-qe2132-g4.webp"
+]
 },
 {
 "id": 29526,
@@ -7107,7 +8661,12 @@
 "Mug"
 ],
 "jenama": "Penguin",
-"gambar": "/gambar/stainless-steel-insulated-vacuum-flask-double-wall-qe8383.webp"
+"gambar": "/gambar/stainless-steel-insulated-vacuum-flask-double-wall-qe8383.webp",
+"galeri": [
+"/gambar/stainless-steel-insulated-vacuum-flask-double-wall-qe8383-g2.webp",
+"/gambar/stainless-steel-insulated-vacuum-flask-double-wall-qe8383-g3.webp",
+"/gambar/stainless-steel-insulated-vacuum-flask-double-wall-qe8383-g4.webp"
+]
 },
 {
 "id": 29574,
@@ -7118,7 +8677,12 @@
 "kategori": "Household Series",
 "kategori_lain": [],
 "jenama": "Tyeso",
-"gambar": "/gambar/stainless-steel-insulated-vacuum-flask-double-wall-ts-01-01002.webp"
+"gambar": "/gambar/stainless-steel-insulated-vacuum-flask-double-wall-ts-01-01002.webp",
+"galeri": [
+"/gambar/stainless-steel-insulated-vacuum-flask-double-wall-ts-01-01002-g2.webp",
+"/gambar/stainless-steel-insulated-vacuum-flask-double-wall-ts-01-01002-g3.webp",
+"/gambar/stainless-steel-insulated-vacuum-flask-double-wall-ts-01-01002-g4.webp"
+]
 },
 {
 "id": 29591,
@@ -7129,7 +8693,12 @@
 "kategori": "Household Series",
 "kategori_lain": [],
 "jenama": "Tyeso",
-"gambar": "/gambar/stainless-steel-insulated-vacuum-flask-double-wall-ts-01-01006.webp"
+"gambar": "/gambar/stainless-steel-insulated-vacuum-flask-double-wall-ts-01-01006.webp",
+"galeri": [
+"/gambar/stainless-steel-insulated-vacuum-flask-double-wall-ts-01-01006-g2.webp",
+"/gambar/stainless-steel-insulated-vacuum-flask-double-wall-ts-01-01006-g3.webp",
+"/gambar/stainless-steel-insulated-vacuum-flask-double-wall-ts-01-01006-g4.webp"
+]
 },
 {
 "id": 29607,
@@ -7140,7 +8709,12 @@
 "kategori": "Household Series",
 "kategori_lain": [],
 "jenama": "Tyeso",
-"gambar": "/gambar/stainless-steel-insulated-vacuum-flask-double-wall-ts-01-01009.webp"
+"gambar": "/gambar/stainless-steel-insulated-vacuum-flask-double-wall-ts-01-01009.webp",
+"galeri": [
+"/gambar/stainless-steel-insulated-vacuum-flask-double-wall-ts-01-01009-g2.webp",
+"/gambar/stainless-steel-insulated-vacuum-flask-double-wall-ts-01-01009-g3.webp",
+"/gambar/stainless-steel-insulated-vacuum-flask-double-wall-ts-01-01009-g4.webp"
+]
 },
 {
 "id": 29627,
@@ -7153,7 +8727,12 @@
 "Vacuum Flask"
 ],
 "jenama": "Tyeso",
-"gambar": "/gambar/stainless-steel-insulated-vacuum-flask-double-wall-ts-01-01013.webp"
+"gambar": "/gambar/stainless-steel-insulated-vacuum-flask-double-wall-ts-01-01013.webp",
+"galeri": [
+"/gambar/stainless-steel-insulated-vacuum-flask-double-wall-ts-01-01013-g2.webp",
+"/gambar/stainless-steel-insulated-vacuum-flask-double-wall-ts-01-01013-g3.webp",
+"/gambar/stainless-steel-insulated-vacuum-flask-double-wall-ts-01-01013-g4.webp"
+]
 },
 {
 "id": 29651,
@@ -7166,7 +8745,12 @@
 "Vacuum Flask"
 ],
 "jenama": "Tyeso",
-"gambar": "/gambar/stainless-steel-insulated-vacuum-flask-double-wall-ts-01-01028.webp"
+"gambar": "/gambar/stainless-steel-insulated-vacuum-flask-double-wall-ts-01-01028.webp",
+"galeri": [
+"/gambar/stainless-steel-insulated-vacuum-flask-double-wall-ts-01-01028-g2.webp",
+"/gambar/stainless-steel-insulated-vacuum-flask-double-wall-ts-01-01028-g3.webp",
+"/gambar/stainless-steel-insulated-vacuum-flask-double-wall-ts-01-01028-g4.webp"
+]
 },
 {
 "id": 29698,
@@ -7179,7 +8763,12 @@
 "Vacuum Flask"
 ],
 "jenama": "Tyeso",
-"gambar": "/gambar/stainless-steel-insulated-vacuum-flask-double-wall-ts-8729b.webp"
+"gambar": "/gambar/stainless-steel-insulated-vacuum-flask-double-wall-ts-8729b.webp",
+"galeri": [
+"/gambar/stainless-steel-insulated-vacuum-flask-double-wall-ts-8729b-g2.webp",
+"/gambar/stainless-steel-insulated-vacuum-flask-double-wall-ts-8729b-g3.webp",
+"/gambar/stainless-steel-insulated-vacuum-flask-double-wall-ts-8729b-g4.webp"
+]
 },
 {
 "id": 9420,
@@ -7205,7 +8794,12 @@
 "Mug"
 ],
 "jenama": "Tyeso",
-"gambar": "/gambar/stainless-steel-mug-with-inner-ceramic-coating-ts-01-01043.webp"
+"gambar": "/gambar/stainless-steel-mug-with-inner-ceramic-coating-ts-01-01043.webp",
+"galeri": [
+"/gambar/stainless-steel-mug-with-inner-ceramic-coating-ts-01-01043-g2.webp",
+"/gambar/stainless-steel-mug-with-inner-ceramic-coating-ts-01-01043-g3.webp",
+"/gambar/stainless-steel-mug-with-inner-ceramic-coating-ts-01-01043-g4.webp"
+]
 },
 {
 "id": 14998,
@@ -7231,7 +8825,12 @@
 "Mug"
 ],
 "jenama": null,
-"gambar": "/gambar/stainless-steel-thermo-mug-double-wall-tm676.webp"
+"gambar": "/gambar/stainless-steel-thermo-mug-double-wall-tm676.webp",
+"galeri": [
+"/gambar/stainless-steel-thermo-mug-double-wall-tm676-g2.webp",
+"/gambar/stainless-steel-thermo-mug-double-wall-tm676-g3.webp",
+"/gambar/stainless-steel-thermo-mug-double-wall-tm676-g4.webp"
+]
 },
 {
 "id": 31027,
@@ -7244,7 +8843,12 @@
 "Thermo Mug"
 ],
 "jenama": null,
-"gambar": "/gambar/stainless-steel-thermo-mug-double-wall-tm678.webp"
+"gambar": "/gambar/stainless-steel-thermo-mug-double-wall-tm678.webp",
+"galeri": [
+"/gambar/stainless-steel-thermo-mug-double-wall-tm678-g2.webp",
+"/gambar/stainless-steel-thermo-mug-double-wall-tm678-g3.webp",
+"/gambar/stainless-steel-thermo-mug-double-wall-tm678-g4.webp"
+]
 },
 {
 "id": 31013,
@@ -7257,7 +8861,12 @@
 "Mug"
 ],
 "jenama": null,
-"gambar": "/gambar/stainless-steel-thermo-mug-double-wall-tm699.webp"
+"gambar": "/gambar/stainless-steel-thermo-mug-double-wall-tm699.webp",
+"galeri": [
+"/gambar/stainless-steel-thermo-mug-double-wall-tm699-g2.webp",
+"/gambar/stainless-steel-thermo-mug-double-wall-tm699-g3.webp",
+"/gambar/stainless-steel-thermo-mug-double-wall-tm699-g4.webp"
+]
 },
 {
 "id": 31608,
@@ -7270,7 +8879,12 @@
 "Mug"
 ],
 "jenama": null,
-"gambar": "/gambar/stainless-steel-thermo-mug-double-wall-tm700.webp"
+"gambar": "/gambar/stainless-steel-thermo-mug-double-wall-tm700.webp",
+"galeri": [
+"/gambar/stainless-steel-thermo-mug-double-wall-tm700-g2.webp",
+"/gambar/stainless-steel-thermo-mug-double-wall-tm700-g3.webp",
+"/gambar/stainless-steel-thermo-mug-double-wall-tm700-g4.webp"
+]
 },
 {
 "id": 18268,
@@ -7283,7 +8897,12 @@
 "Mug"
 ],
 "jenama": null,
-"gambar": "/gambar/stainless-steel-thermo-mug-double-wall-tm688.webp"
+"gambar": "/gambar/stainless-steel-thermo-mug-double-wall-tm688.webp",
+"galeri": [
+"/gambar/stainless-steel-thermo-mug-double-wall-tm688-g2.webp",
+"/gambar/stainless-steel-thermo-mug-double-wall-tm688-g3.webp",
+"/gambar/stainless-steel-thermo-mug-double-wall-tm688-g4.webp"
+]
 },
 {
 "id": 18275,
@@ -7296,7 +8915,11 @@
 "Thermo Mug"
 ],
 "jenama": null,
-"gambar": "/gambar/stainless-steel-thermo-mug-double-wall-tm690.webp"
+"gambar": "/gambar/stainless-steel-thermo-mug-double-wall-tm690.webp",
+"galeri": [
+"/gambar/stainless-steel-thermo-mug-double-wall-tm690-g2.webp",
+"/gambar/stainless-steel-thermo-mug-double-wall-tm690-g3.webp"
+]
 },
 {
 "id": 29487,
@@ -7309,7 +8932,11 @@
 "Mug"
 ],
 "jenama": "Penguin",
-"gambar": "/gambar/stainless-steel-thermo-mug-qe2092.webp"
+"gambar": "/gambar/stainless-steel-thermo-mug-qe2092.webp",
+"galeri": [
+"/gambar/stainless-steel-thermo-mug-qe2092-g2.webp",
+"/gambar/stainless-steel-thermo-mug-qe2092-g3.webp"
+]
 },
 {
 "id": 29494,
@@ -7322,7 +8949,11 @@
 "Mug"
 ],
 "jenama": "Penguin",
-"gambar": "/gambar/stainless-steel-thermo-mug-qe2093.webp"
+"gambar": "/gambar/stainless-steel-thermo-mug-qe2093.webp",
+"galeri": [
+"/gambar/stainless-steel-thermo-mug-qe2093-g2.webp",
+"/gambar/stainless-steel-thermo-mug-qe2093-g3.webp"
+]
 },
 {
 "id": 29506,
@@ -7335,7 +8966,11 @@
 "Mug"
 ],
 "jenama": "Penguin",
-"gambar": "/gambar/stainless-steel-thermo-mug-qe2094.webp"
+"gambar": "/gambar/stainless-steel-thermo-mug-qe2094.webp",
+"galeri": [
+"/gambar/stainless-steel-thermo-mug-qe2094-g2.webp",
+"/gambar/stainless-steel-thermo-mug-qe2094-g3.webp"
+]
 },
 {
 "id": 28218,
@@ -7362,7 +8997,11 @@
 "Mug"
 ],
 "jenama": null,
-"gambar": "/gambar/stainless-steel-thermo-mug-st6709-c-wbox.webp"
+"gambar": "/gambar/stainless-steel-thermo-mug-st6709-c-wbox.webp",
+"galeri": [
+"/gambar/stainless-steel-thermo-mug-st6709-c-wbox-g2.webp",
+"/gambar/stainless-steel-thermo-mug-st6709-c-wbox-g3.webp"
+]
 },
 {
 "id": 15001,
@@ -7375,7 +9014,10 @@
 "Mug"
 ],
 "jenama": null,
-"gambar": "/gambar/stainless-steel-thermo-mug-st7899-c-wbox.webp"
+"gambar": "/gambar/stainless-steel-thermo-mug-st7899-c-wbox.webp",
+"galeri": [
+"/gambar/stainless-steel-thermo-mug-st7899-c-wbox-g2.webp"
+]
 },
 {
 "id": 30991,
@@ -7388,7 +9030,12 @@
 "Mug"
 ],
 "jenama": null,
-"gambar": "/gambar/stainless-steel-thermo-mug-tm06.webp"
+"gambar": "/gambar/stainless-steel-thermo-mug-tm06.webp",
+"galeri": [
+"/gambar/stainless-steel-thermo-mug-tm06-g2.webp",
+"/gambar/stainless-steel-thermo-mug-tm06-g3.webp",
+"/gambar/stainless-steel-thermo-mug-tm06-g4.webp"
+]
 },
 {
 "id": 18255,
@@ -7401,7 +9048,12 @@
 "Mug"
 ],
 "jenama": null,
-"gambar": "/gambar/stainless-steel-thermo-mug-tm675.webp"
+"gambar": "/gambar/stainless-steel-thermo-mug-tm675.webp",
+"galeri": [
+"/gambar/stainless-steel-thermo-mug-tm675-g2.webp",
+"/gambar/stainless-steel-thermo-mug-tm675-g3.webp",
+"/gambar/stainless-steel-thermo-mug-tm675-g4.webp"
+]
 },
 {
 "id": 29714,
@@ -7414,7 +9066,12 @@
 "Mug"
 ],
 "jenama": "Tyeso",
-"gambar": "/gambar/stainless-steel-thermo-mug-double-wall-ts-8836.webp"
+"gambar": "/gambar/stainless-steel-thermo-mug-double-wall-ts-8836.webp",
+"galeri": [
+"/gambar/stainless-steel-thermo-mug-double-wall-ts-8836-g2.webp",
+"/gambar/stainless-steel-thermo-mug-double-wall-ts-8836-g3.webp",
+"/gambar/stainless-steel-thermo-mug-double-wall-ts-8836-g4.webp"
+]
 },
 {
 "id": 28568,
@@ -7428,7 +9085,12 @@
 "Thermo Mug"
 ],
 "jenama": null,
-"gambar": "/gambar/stainless-steel-thermo-mug-with-built-in-filter-tm634.webp"
+"gambar": "/gambar/stainless-steel-thermo-mug-with-built-in-filter-tm634.webp",
+"galeri": [
+"/gambar/stainless-steel-thermo-mug-with-built-in-filter-tm634-g2.webp",
+"/gambar/stainless-steel-thermo-mug-with-built-in-filter-tm634-g3.webp",
+"/gambar/stainless-steel-thermo-mug-with-built-in-filter-tm634-g4.webp"
+]
 },
 {
 "id": 28442,
@@ -7442,7 +9104,12 @@
 "Thermo Mug"
 ],
 "jenama": null,
-"gambar": "/gambar/stainless-steel-thermo-mug-with-stainless-steel-straw-double-wall-tm63.webp"
+"gambar": "/gambar/stainless-steel-thermo-mug-with-stainless-steel-straw-double-wall-tm63.webp",
+"galeri": [
+"/gambar/stainless-steel-thermo-mug-with-stainless-steel-straw-double-wall-tm63-g2.webp",
+"/gambar/stainless-steel-thermo-mug-with-stainless-steel-straw-double-wall-tm63-g3.webp",
+"/gambar/stainless-steel-thermo-mug-with-stainless-steel-straw-double-wall-tm63-g4.webp"
+]
 },
 {
 "id": 18301,
@@ -7455,7 +9122,11 @@
 "Thermo Mug"
 ],
 "jenama": null,
-"gambar": "/gambar/stainless-steel-thermo-mug-with-straw-double-wall-tm6811.webp"
+"gambar": "/gambar/stainless-steel-thermo-mug-with-straw-double-wall-tm6811.webp",
+"galeri": [
+"/gambar/stainless-steel-thermo-mug-with-straw-double-wall-tm6811-g2.webp",
+"/gambar/stainless-steel-thermo-mug-with-straw-double-wall-tm6811-g3.webp"
+]
 },
 {
 "id": 18291,
@@ -7468,7 +9139,12 @@
 "Thermo Mug"
 ],
 "jenama": null,
-"gambar": "/gambar/stainless-steel-thermo-mug-with-straw-tm671.webp"
+"gambar": "/gambar/stainless-steel-thermo-mug-with-straw-tm671.webp",
+"galeri": [
+"/gambar/stainless-steel-thermo-mug-with-straw-tm671-g2.webp",
+"/gambar/stainless-steel-thermo-mug-with-straw-tm671-g3.webp",
+"/gambar/stainless-steel-thermo-mug-with-straw-tm671-g4.webp"
+]
 },
 {
 "id": 18280,
@@ -7481,7 +9157,12 @@
 "Mug"
 ],
 "jenama": null,
-"gambar": "/gambar/stainless-steel-thermo-mug-with-straw-tm692.webp"
+"gambar": "/gambar/stainless-steel-thermo-mug-with-straw-tm692.webp",
+"galeri": [
+"/gambar/stainless-steel-thermo-mug-with-straw-tm692-g2.webp",
+"/gambar/stainless-steel-thermo-mug-with-straw-tm692-g3.webp",
+"/gambar/stainless-steel-thermo-mug-with-straw-tm692-g4.webp"
+]
 },
 {
 "id": 16867,
@@ -7492,7 +9173,11 @@
 "kategori": "Household Series",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/stainless-steel-insulated-vacuum-flask-set-double-wall-st3055-c-w-box0.webp"
+"gambar": "/gambar/stainless-steel-insulated-vacuum-flask-set-double-wall-st3055-c-w-box0.webp",
+"galeri": [
+"/gambar/stainless-steel-insulated-vacuum-flask-set-double-wall-st3055-c-w-box0-g2.webp",
+"/gambar/stainless-steel-insulated-vacuum-flask-set-double-wall-st3055-c-w-box0-g3.webp"
+]
 },
 {
 "id": 18286,
@@ -7505,7 +9190,11 @@
 "Thermo Mug"
 ],
 "jenama": null,
-"gambar": "/gambar/stainless-steel-thermo-mug-tm685.webp"
+"gambar": "/gambar/stainless-steel-thermo-mug-tm685.webp",
+"galeri": [
+"/gambar/stainless-steel-thermo-mug-tm685-g2.webp",
+"/gambar/stainless-steel-thermo-mug-tm685-g3.webp"
+]
 },
 {
 "id": 15722,
@@ -7519,7 +9208,11 @@
 "Vacuum Flask"
 ],
 "jenama": null,
-"gambar": "/gambar/stainless-steel-vacuum-flask-st3230-c-w-box.webp"
+"gambar": "/gambar/stainless-steel-vacuum-flask-st3230-c-w-box.webp",
+"galeri": [
+"/gambar/stainless-steel-vacuum-flask-st3230-c-w-box-g2.webp",
+"/gambar/stainless-steel-vacuum-flask-st3230-c-w-box-g3.webp"
+]
 },
 {
 "id": 30980,
@@ -7532,7 +9225,12 @@
 "Suction Mug"
 ],
 "jenama": null,
-"gambar": "/gambar/suction-mug-double-wall-scm9807.webp"
+"gambar": "/gambar/suction-mug-double-wall-scm9807.webp",
+"galeri": [
+"/gambar/suction-mug-double-wall-scm9807-g2.webp",
+"/gambar/suction-mug-double-wall-scm9807-g3.webp",
+"/gambar/suction-mug-double-wall-scm9807-g4.webp"
+]
 },
 {
 "id": 18239,
@@ -7546,7 +9244,12 @@
 "Suction Mug"
 ],
 "jenama": null,
-"gambar": "/gambar/suction-mug-double-wall-scm9803.webp"
+"gambar": "/gambar/suction-mug-double-wall-scm9803.webp",
+"galeri": [
+"/gambar/suction-mug-double-wall-scm9803-g2.webp",
+"/gambar/suction-mug-double-wall-scm9803-g3.webp",
+"/gambar/suction-mug-double-wall-scm9803-g4.webp"
+]
 },
 {
 "id": 9377,
@@ -7559,7 +9262,12 @@
 "Mug"
 ],
 "jenama": null,
-"gambar": "/gambar/thermo-mug-tm01-c-wbox.webp"
+"gambar": "/gambar/thermo-mug-tm01-c-wbox.webp",
+"galeri": [
+"/gambar/thermo-mug-tm01-c-wbox-g2.webp",
+"/gambar/thermo-mug-tm01-c-wbox-g3.webp",
+"/gambar/thermo-mug-tm01-c-wbox-g4.webp"
+]
 },
 {
 "id": 9383,
@@ -7572,7 +9280,12 @@
 "Mug"
 ],
 "jenama": null,
-"gambar": "/gambar/thermo-mug-tm02-c-wbox.webp"
+"gambar": "/gambar/thermo-mug-tm02-c-wbox.webp",
+"galeri": [
+"/gambar/thermo-mug-tm02-c-wbox-g2.webp",
+"/gambar/thermo-mug-tm02-c-wbox-g3.webp",
+"/gambar/thermo-mug-tm02-c-wbox-g4.webp"
+]
 },
 {
 "id": 9391,
@@ -7585,7 +9298,12 @@
 "Mug"
 ],
 "jenama": null,
-"gambar": "/gambar/thermo-mug-tm03-c-wbox.webp"
+"gambar": "/gambar/thermo-mug-tm03-c-wbox.webp",
+"galeri": [
+"/gambar/thermo-mug-tm03-c-wbox-g2.webp",
+"/gambar/thermo-mug-tm03-c-wbox-g3.webp",
+"/gambar/thermo-mug-tm03-c-wbox-g4.webp"
+]
 },
 {
 "id": 31722,
@@ -7598,7 +9316,10 @@
 "Lunch Box"
 ],
 "jenama": null,
-"gambar": "/gambar/tiffin-carrier-2-tiers-lb8151.webp"
+"gambar": "/gambar/tiffin-carrier-2-tiers-lb8151.webp",
+"galeri": [
+"/gambar/tiffin-carrier-2-tiers-lb8151-g2.webp"
+]
 },
 {
 "id": 28321,
@@ -7696,7 +9417,12 @@
 "Powerbank"
 ],
 "jenama": null,
-"gambar": "/gambar/fast-charges-power-bank-10-000mah-bank6201.webp"
+"gambar": "/gambar/fast-charges-power-bank-10-000mah-bank6201.webp",
+"galeri": [
+"/gambar/fast-charges-power-bank-10-000mah-bank6201-g2.webp",
+"/gambar/fast-charges-power-bank-10-000mah-bank6201-g3.webp",
+"/gambar/fast-charges-power-bank-10-000mah-bank6201-g4.webp"
+]
 },
 {
 "id": 18680,
@@ -7709,7 +9435,12 @@
 "Powerbank"
 ],
 "jenama": null,
-"gambar": "/gambar/fast-charges-power-bank-20-000mah-bank6209.webp"
+"gambar": "/gambar/fast-charges-power-bank-20-000mah-bank6209.webp",
+"galeri": [
+"/gambar/fast-charges-power-bank-20-000mah-bank6209-g2.webp",
+"/gambar/fast-charges-power-bank-20-000mah-bank6209-g3.webp",
+"/gambar/fast-charges-power-bank-20-000mah-bank6209-g4.webp"
+]
 },
 {
 "id": 14930,
@@ -7747,7 +9478,12 @@
 "Powerbank"
 ],
 "jenama": null,
-"gambar": "/gambar/mini-portable-powerbank-10-000mah-bank6210-c-wbox.webp"
+"gambar": "/gambar/mini-portable-powerbank-10-000mah-bank6210-c-wbox.webp",
+"galeri": [
+"/gambar/mini-portable-powerbank-10-000mah-bank6210-c-wbox-g2.webp",
+"/gambar/mini-portable-powerbank-10-000mah-bank6210-c-wbox-g3.webp",
+"/gambar/mini-portable-powerbank-10-000mah-bank6210-c-wbox-g4.webp"
+]
 },
 {
 "id": 29469,
@@ -7760,7 +9496,12 @@
 "Powerbank"
 ],
 "jenama": "Pineng",
-"gambar": "/gambar/pineng-22-5w-fast-charges-power-bank-10000mah-pn797.webp"
+"gambar": "/gambar/pineng-22-5w-fast-charges-power-bank-10000mah-pn797.webp",
+"galeri": [
+"/gambar/pineng-22-5w-fast-charges-power-bank-10000mah-pn797-g2.webp",
+"/gambar/pineng-22-5w-fast-charges-power-bank-10000mah-pn797-g3.webp",
+"/gambar/pineng-22-5w-fast-charges-power-bank-10000mah-pn797-g4.webp"
+]
 },
 {
 "id": 29459,
@@ -7773,7 +9514,12 @@
 "Powerbank"
 ],
 "jenama": "Pineng",
-"gambar": "/gambar/pineng-power-bank-10000mah-pn732.webp"
+"gambar": "/gambar/pineng-power-bank-10000mah-pn732.webp",
+"galeri": [
+"/gambar/pineng-power-bank-10000mah-pn732-g2.webp",
+"/gambar/pineng-power-bank-10000mah-pn732-g3.webp",
+"/gambar/pineng-power-bank-10000mah-pn732-g4.webp"
+]
 },
 {
 "id": 29479,
@@ -7786,7 +9532,11 @@
 "Powerbank"
 ],
 "jenama": "Pineng",
-"gambar": "/gambar/pineng-power-bank-20000mah-pn932.webp"
+"gambar": "/gambar/pineng-power-bank-20000mah-pn932.webp",
+"galeri": [
+"/gambar/pineng-power-bank-20000mah-pn932-g2.webp",
+"/gambar/pineng-power-bank-20000mah-pn932-g3.webp"
+]
 },
 {
 "id": 18603,
@@ -7799,7 +9549,12 @@
 "Powerbank"
 ],
 "jenama": null,
-"gambar": "/gambar/power-bank-with-handphone-stand-20-000mah-bank6206.webp"
+"gambar": "/gambar/power-bank-with-handphone-stand-20-000mah-bank6206.webp",
+"galeri": [
+"/gambar/power-bank-with-handphone-stand-20-000mah-bank6206-g2.webp",
+"/gambar/power-bank-with-handphone-stand-20-000mah-bank6206-g3.webp",
+"/gambar/power-bank-with-handphone-stand-20-000mah-bank6206-g4.webp"
+]
 },
 {
 "id": 18665,
@@ -7812,7 +9567,12 @@
 "Powerbank"
 ],
 "jenama": null,
-"gambar": "/gambar/powerbank-10-000mah-bank6103.webp"
+"gambar": "/gambar/powerbank-10-000mah-bank6103.webp",
+"galeri": [
+"/gambar/powerbank-10-000mah-bank6103-g2.webp",
+"/gambar/powerbank-10-000mah-bank6103-g3.webp",
+"/gambar/powerbank-10-000mah-bank6103-g4.webp"
+]
 },
 {
 "id": 18657,
@@ -7825,7 +9585,11 @@
 "Powerbank"
 ],
 "jenama": null,
-"gambar": "/gambar/powerbank-10-000mah-bank6105.webp"
+"gambar": "/gambar/powerbank-10-000mah-bank6105.webp",
+"galeri": [
+"/gambar/powerbank-10-000mah-bank6105-g2.webp",
+"/gambar/powerbank-10-000mah-bank6105-g3.webp"
+]
 },
 {
 "id": 9190,
@@ -7838,7 +9602,12 @@
 "Powerbank"
 ],
 "jenama": null,
-"gambar": "/gambar/powerbank-10-000mah-bank7306-c-wbox.webp"
+"gambar": "/gambar/powerbank-10-000mah-bank7306-c-wbox.webp",
+"galeri": [
+"/gambar/powerbank-10-000mah-bank7306-c-wbox-g2.webp",
+"/gambar/powerbank-10-000mah-bank7306-c-wbox-g3.webp",
+"/gambar/powerbank-10-000mah-bank7306-c-wbox-g4.webp"
+]
 },
 {
 "id": 14886,
@@ -7851,7 +9620,12 @@
 "Powerbank"
 ],
 "jenama": null,
-"gambar": "/gambar/powerbank-25-000mah-bank2150-c-wbox.webp"
+"gambar": "/gambar/powerbank-25-000mah-bank2150-c-wbox.webp",
+"galeri": [
+"/gambar/powerbank-25-000mah-bank2150-c-wbox-g2.webp",
+"/gambar/powerbank-25-000mah-bank2150-c-wbox-g3.webp",
+"/gambar/powerbank-25-000mah-bank2150-c-wbox-g4.webp"
+]
 },
 {
 "id": 28229,
@@ -7865,7 +9639,12 @@
 "Powerbank"
 ],
 "jenama": null,
-"gambar": "/gambar/powerbank-bank7306.webp"
+"gambar": "/gambar/powerbank-bank7306.webp",
+"galeri": [
+"/gambar/powerbank-bank7306-g2.webp",
+"/gambar/powerbank-bank7306-g3.webp",
+"/gambar/powerbank-bank7306-g4.webp"
+]
 },
 {
 "id": 32920,
@@ -7878,7 +9657,12 @@
 "Powerbank"
 ],
 "jenama": null,
-"gambar": "/gambar/powerbank-with-flash-light-10-000mah-bank6213-c-wbox.webp"
+"gambar": "/gambar/powerbank-with-flash-light-10-000mah-bank6213-c-wbox.webp",
+"galeri": [
+"/gambar/powerbank-with-flash-light-10-000mah-bank6213-c-wbox-g2.webp",
+"/gambar/powerbank-with-flash-light-10-000mah-bank6213-c-wbox-g3.webp",
+"/gambar/powerbank-with-flash-light-10-000mah-bank6213-c-wbox-g4.webp"
+]
 },
 {
 "id": 9290,
@@ -7891,7 +9675,11 @@
 "Thumb Drive"
 ],
 "jenama": null,
-"gambar": "/gambar/thumb-drive-mp10388.webp"
+"gambar": "/gambar/thumb-drive-mp10388.webp",
+"galeri": [
+"/gambar/thumb-drive-mp10388-g2.webp",
+"/gambar/thumb-drive-mp10388-g3.webp"
+]
 },
 {
 "id": 9273,
@@ -7904,7 +9692,12 @@
 "Thumb Drive"
 ],
 "jenama": null,
-"gambar": "/gambar/thumb-drive-otg-16gb-usw001-2.webp"
+"gambar": "/gambar/thumb-drive-otg-16gb-usw001-2.webp",
+"galeri": [
+"/gambar/thumb-drive-otg-16gb-usw001-2-g2.webp",
+"/gambar/thumb-drive-otg-16gb-usw001-2-g3.webp",
+"/gambar/thumb-drive-otg-16gb-usw001-2-g4.webp"
+]
 },
 {
 "id": 12858,
@@ -7917,7 +9710,12 @@
 "Thumb Drive"
 ],
 "jenama": null,
-"gambar": "/gambar/thumb-drive-p077.webp"
+"gambar": "/gambar/thumb-drive-p077.webp",
+"galeri": [
+"/gambar/thumb-drive-p077-g2.webp",
+"/gambar/thumb-drive-p077-g3.webp",
+"/gambar/thumb-drive-p077-g4.webp"
+]
 },
 {
 "id": 14915,
@@ -7943,7 +9741,11 @@
 "Thumb Drive"
 ],
 "jenama": null,
-"gambar": "/gambar/thumb-drive-uex006.webp"
+"gambar": "/gambar/thumb-drive-uex006.webp",
+"galeri": [
+"/gambar/thumb-drive-uex006-g2.webp",
+"/gambar/thumb-drive-uex006-g3.webp"
+]
 },
 {
 "id": 9295,
@@ -7956,7 +9758,10 @@
 "Thumb Drive"
 ],
 "jenama": null,
-"gambar": "/gambar/thumb-drive-uex008.webp"
+"gambar": "/gambar/thumb-drive-uex008.webp",
+"galeri": [
+"/gambar/thumb-drive-uex008-g2.webp"
+]
 },
 {
 "id": 12862,
@@ -7981,7 +9786,12 @@
 "Thumb Drive"
 ],
 "jenama": null,
-"gambar": "/gambar/thumb-drive-16gb-otg-usw601.webp"
+"gambar": "/gambar/thumb-drive-16gb-otg-usw601.webp",
+"galeri": [
+"/gambar/thumb-drive-16gb-otg-usw601-g2.webp",
+"/gambar/thumb-drive-16gb-otg-usw601-g3.webp",
+"/gambar/thumb-drive-16gb-otg-usw601-g4.webp"
+]
 },
 {
 "id": 9259,
@@ -7994,7 +9804,12 @@
 "Thumb Drive"
 ],
 "jenama": null,
-"gambar": "/gambar/thumb-drive-16gb-type-c-u22typec.webp"
+"gambar": "/gambar/thumb-drive-16gb-type-c-u22typec.webp",
+"galeri": [
+"/gambar/thumb-drive-16gb-type-c-u22typec-g2.webp",
+"/gambar/thumb-drive-16gb-type-c-u22typec-g3.webp",
+"/gambar/thumb-drive-16gb-type-c-u22typec-g4.webp"
+]
 },
 {
 "id": 14912,
@@ -8020,7 +9835,12 @@
 "Thumb Drive"
 ],
 "jenama": null,
-"gambar": "/gambar/thumb-drive-16gb-ule008-8.webp"
+"gambar": "/gambar/thumb-drive-16gb-ule008-8.webp",
+"galeri": [
+"/gambar/thumb-drive-16gb-ule008-8-g2.webp",
+"/gambar/thumb-drive-16gb-ule008-8-g3.webp",
+"/gambar/thumb-drive-16gb-ule008-8-g4.webp"
+]
 },
 {
 "id": 14895,
@@ -8085,7 +9905,12 @@
 "Thumb Drive"
 ],
 "jenama": null,
-"gambar": "/gambar/thumb-drive-16gb-ust015.webp"
+"gambar": "/gambar/thumb-drive-16gb-ust015.webp",
+"galeri": [
+"/gambar/thumb-drive-16gb-ust015-g2.webp",
+"/gambar/thumb-drive-16gb-ust015-g3.webp",
+"/gambar/thumb-drive-16gb-ust015-g4.webp"
+]
 },
 {
 "id": 14918,
@@ -8150,7 +9975,12 @@
 "Thumb Drive"
 ],
 "jenama": null,
-"gambar": "/gambar/thumb-drive-16gb-usw001.webp"
+"gambar": "/gambar/thumb-drive-16gb-usw001.webp",
+"galeri": [
+"/gambar/thumb-drive-16gb-usw001-g2.webp",
+"/gambar/thumb-drive-16gb-usw001-g3.webp",
+"/gambar/thumb-drive-16gb-usw001-g4.webp"
+]
 },
 {
 "id": 12884,
@@ -8163,7 +9993,12 @@
 "Thumb Drive"
 ],
 "jenama": null,
-"gambar": "/gambar/thumb-drive-16gb-usw008.webp"
+"gambar": "/gambar/thumb-drive-16gb-usw008.webp",
+"galeri": [
+"/gambar/thumb-drive-16gb-usw008-g2.webp",
+"/gambar/thumb-drive-16gb-usw008-g3.webp",
+"/gambar/thumb-drive-16gb-usw008-g4.webp"
+]
 },
 {
 "id": 12906,
@@ -8189,7 +10024,10 @@
 "Thumb Drive"
 ],
 "jenama": null,
-"gambar": "/gambar/thumb-drive-16gb-usw1501-2.webp"
+"gambar": "/gambar/thumb-drive-16gb-usw1501-2.webp",
+"galeri": [
+"/gambar/thumb-drive-16gb-usw1501-2-g2.webp"
+]
 },
 {
 "id": 9255,
@@ -8202,7 +10040,11 @@
 "Thumb Drive"
 ],
 "jenama": null,
-"gambar": "/gambar/thumb-drive-16gb-usw1502.webp"
+"gambar": "/gambar/thumb-drive-16gb-usw1502.webp",
+"galeri": [
+"/gambar/thumb-drive-16gb-usw1502-g2.webp",
+"/gambar/thumb-drive-16gb-usw1502-g3.webp"
+]
 },
 {
 "id": 12830,
@@ -8241,7 +10083,11 @@
 "Thumb Drive"
 ],
 "jenama": null,
-"gambar": "/gambar/thumb-drive-16gb-usw1503-3.webp"
+"gambar": "/gambar/thumb-drive-16gb-usw1503-3.webp",
+"galeri": [
+"/gambar/thumb-drive-16gb-usw1503-3-g2.webp",
+"/gambar/thumb-drive-16gb-usw1503-3-g3.webp"
+]
 },
 {
 "id": 9205,
@@ -8254,7 +10100,12 @@
 "Thumb Drive"
 ],
 "jenama": null,
-"gambar": "/gambar/thumb-drive-16gb-usw1504.webp"
+"gambar": "/gambar/thumb-drive-16gb-usw1504.webp",
+"galeri": [
+"/gambar/thumb-drive-16gb-usw1504-g2.webp",
+"/gambar/thumb-drive-16gb-usw1504-g3.webp",
+"/gambar/thumb-drive-16gb-usw1504-g4.webp"
+]
 },
 {
 "id": 9210,
@@ -8267,7 +10118,12 @@
 "Thumb Drive"
 ],
 "jenama": null,
-"gambar": "/gambar/thumb-drive-16gb-usw1505.webp"
+"gambar": "/gambar/thumb-drive-16gb-usw1505.webp",
+"galeri": [
+"/gambar/thumb-drive-16gb-usw1505-g2.webp",
+"/gambar/thumb-drive-16gb-usw1505-g3.webp",
+"/gambar/thumb-drive-16gb-usw1505-g4.webp"
+]
 },
 {
 "id": 14906,
@@ -8293,7 +10149,12 @@
 "Thumb Drive"
 ],
 "jenama": null,
-"gambar": "/gambar/thumb-drive-16gb-usw211.webp"
+"gambar": "/gambar/thumb-drive-16gb-usw211.webp",
+"galeri": [
+"/gambar/thumb-drive-16gb-usw211-g2.webp",
+"/gambar/thumb-drive-16gb-usw211-g3.webp",
+"/gambar/thumb-drive-16gb-usw211-g4.webp"
+]
 },
 {
 "id": 9216,
@@ -8306,7 +10167,12 @@
 "Thumb Drive"
 ],
 "jenama": null,
-"gambar": "/gambar/thumb-drive-16gb-usw307.webp"
+"gambar": "/gambar/thumb-drive-16gb-usw307.webp",
+"galeri": [
+"/gambar/thumb-drive-16gb-usw307-g2.webp",
+"/gambar/thumb-drive-16gb-usw307-g3.webp",
+"/gambar/thumb-drive-16gb-usw307-g4.webp"
+]
 },
 {
 "id": 14935,
@@ -8403,7 +10269,11 @@
 "kategori": "Keychain",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/acrylic-keychain-2-sided-akcy101.webp"
+"gambar": "/gambar/acrylic-keychain-2-sided-akcy101.webp",
+"galeri": [
+"/gambar/acrylic-keychain-2-sided-akcy101-g2.webp",
+"/gambar/acrylic-keychain-2-sided-akcy101-g3.webp"
+]
 },
 {
 "id": 14814,
@@ -8436,7 +10306,10 @@
 "kategori": "Keychain",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/acrylic-keychain-2-sided-akcy105.webp"
+"gambar": "/gambar/acrylic-keychain-2-sided-akcy105.webp",
+"galeri": [
+"/gambar/acrylic-keychain-2-sided-akcy105-g2.webp"
+]
 },
 {
 "id": 14827,
@@ -8469,7 +10342,12 @@
 "kategori": "Keychain",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/key-pouch-c-w-box-kp355-c-wbox.webp"
+"gambar": "/gambar/key-pouch-c-w-box-kp355-c-wbox.webp",
+"galeri": [
+"/gambar/key-pouch-c-w-box-kp355-c-wbox-g2.webp",
+"/gambar/key-pouch-c-w-box-kp355-c-wbox-g3.webp",
+"/gambar/key-pouch-c-w-box-kp355-c-wbox-g4.webp"
+]
 },
 {
 "id": 12728,
@@ -8490,7 +10368,12 @@
 "kategori": "Keychain",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/keychain-2-sided-kc335-c-wpvcbox03.webp"
+"gambar": "/gambar/keychain-2-sided-kc335-c-wpvcbox03.webp",
+"galeri": [
+"/gambar/keychain-2-sided-kc335-c-wpvcbox03-g2.webp",
+"/gambar/keychain-2-sided-kc335-c-wpvcbox03-g3.webp",
+"/gambar/keychain-2-sided-kc335-c-wpvcbox03-g4.webp"
+]
 },
 {
 "id": 12720,
@@ -8558,7 +10441,10 @@
 "New Arrival"
 ],
 "jenama": null,
-"gambar": "/gambar/keychain-kc15.webp"
+"gambar": "/gambar/keychain-kc15.webp",
+"galeri": [
+"/gambar/keychain-kc15-g2.webp"
+]
 },
 {
 "id": 14878,
@@ -8580,7 +10466,10 @@
 "kategori": "Keychain",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/metal-keychain-2-sided-kc12-c-wpvcbox03.webp"
+"gambar": "/gambar/metal-keychain-2-sided-kc12-c-wpvcbox03.webp",
+"galeri": [
+"/gambar/metal-keychain-2-sided-kc12-c-wpvcbox03-g2.webp"
+]
 },
 {
 "id": 14872,
@@ -8613,7 +10502,10 @@
 "kategori": "Keychain",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/metal-keychain-kc52-c-wpvcbox03.webp"
+"gambar": "/gambar/metal-keychain-kc52-c-wpvcbox03.webp",
+"galeri": [
+"/gambar/metal-keychain-kc52-c-wpvcbox03-g2.webp"
+]
 },
 {
 "id": 14853,
@@ -8624,7 +10516,10 @@
 "kategori": "Keychain",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/metal-keychain-kc61-c-wpvcbox03.webp"
+"gambar": "/gambar/metal-keychain-kc61-c-wpvcbox03.webp",
+"galeri": [
+"/gambar/metal-keychain-kc61-c-wpvcbox03-g2.webp"
+]
 },
 {
 "id": 14857,
@@ -8679,7 +10574,12 @@
 "kategori": "Keychain",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/metal-keychain-kc772-c-wpvcbox03.webp"
+"gambar": "/gambar/metal-keychain-kc772-c-wpvcbox03.webp",
+"galeri": [
+"/gambar/metal-keychain-kc772-c-wpvcbox03-g2.webp",
+"/gambar/metal-keychain-kc772-c-wpvcbox03-g3.webp",
+"/gambar/metal-keychain-kc772-c-wpvcbox03-g4.webp"
+]
 },
 {
 "id": 14835,
@@ -8734,7 +10634,11 @@
 "kategori": "Keychain",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/pu-keychain-2-sided-lkc24-c-wpvcbox03.webp"
+"gambar": "/gambar/pu-keychain-2-sided-lkc24-c-wpvcbox03.webp",
+"galeri": [
+"/gambar/pu-keychain-2-sided-lkc24-c-wpvcbox03-g2.webp",
+"/gambar/pu-keychain-2-sided-lkc24-c-wpvcbox03-g3.webp"
+]
 },
 {
 "id": 27463,
@@ -8745,7 +10649,12 @@
 "kategori": "Keychain",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/pu-keychain-lkc21-c-wpvcbox03.webp"
+"gambar": "/gambar/pu-keychain-lkc21-c-wpvcbox03.webp",
+"galeri": [
+"/gambar/pu-keychain-lkc21-c-wpvcbox03-g2.webp",
+"/gambar/pu-keychain-lkc21-c-wpvcbox03-g3.webp",
+"/gambar/pu-keychain-lkc21-c-wpvcbox03-g4.webp"
+]
 },
 {
 "id": 27480,
@@ -8756,7 +10665,12 @@
 "kategori": "Keychain",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/pu-keychain-lkc26-c-wpvcbox03.webp"
+"gambar": "/gambar/pu-keychain-lkc26-c-wpvcbox03.webp",
+"galeri": [
+"/gambar/pu-keychain-lkc26-c-wpvcbox03-g2.webp",
+"/gambar/pu-keychain-lkc26-c-wpvcbox03-g3.webp",
+"/gambar/pu-keychain-lkc26-c-wpvcbox03-g4.webp"
+]
 },
 {
 "id": 14791,
@@ -8767,7 +10681,12 @@
 "kategori": "Keychain",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/wooden-keychain-kc-w01-c-wbox.webp"
+"gambar": "/gambar/wooden-keychain-kc-w01-c-wbox.webp",
+"galeri": [
+"/gambar/wooden-keychain-kc-w01-c-wbox-g2.webp",
+"/gambar/wooden-keychain-kc-w01-c-wbox-g3.webp",
+"/gambar/wooden-keychain-kc-w01-c-wbox-g4.webp"
+]
 },
 {
 "id": 14798,
@@ -8833,7 +10752,11 @@
 "kategori": "Keychain",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/wooden-keychain-kc-w08-c-wbox.webp"
+"gambar": "/gambar/wooden-keychain-kc-w08-c-wbox.webp",
+"galeri": [
+"/gambar/wooden-keychain-kc-w08-c-wbox-g2.webp",
+"/gambar/wooden-keychain-kc-w08-c-wbox-g3.webp"
+]
 },
 {
 "id": 16562,
@@ -8866,7 +10789,10 @@
 "kategori": "Keychain",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/wooden-keychain-kc-w11-c-wbox.webp"
+"gambar": "/gambar/wooden-keychain-kc-w11-c-wbox.webp",
+"galeri": [
+"/gambar/wooden-keychain-kc-w11-c-wbox-g2.webp"
+]
 },
 {
 "id": 16570,
@@ -8888,7 +10814,11 @@
 "kategori": "Keychain",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/wooden-keychain-kc-w13-c-wbox.webp"
+"gambar": "/gambar/wooden-keychain-kc-w13-c-wbox.webp",
+"galeri": [
+"/gambar/wooden-keychain-kc-w13-c-wbox-g2.webp",
+"/gambar/wooden-keychain-kc-w13-c-wbox-g3.webp"
+]
 },
 {
 "id": 16585,
@@ -9001,7 +10931,12 @@
 "New Arrival"
 ],
 "jenama": null,
-"gambar": "/gambar/lanyard-for-medal-ly31-ly44.webp"
+"gambar": "/gambar/lanyard-for-medal-ly31-ly44.webp",
+"galeri": [
+"/gambar/lanyard-for-medal-ly31-ly44-g2.webp",
+"/gambar/lanyard-for-medal-ly31-ly44-g3.webp",
+"/gambar/lanyard-for-medal-ly31-ly44-g4.webp"
+]
 },
 {
 "id": 17151,
@@ -9012,7 +10947,12 @@
 "kategori": "Lanyard",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/nylon-lanyard-15mm-ly15.webp"
+"gambar": "/gambar/nylon-lanyard-15mm-ly15.webp",
+"galeri": [
+"/gambar/nylon-lanyard-15mm-ly15-g2.webp",
+"/gambar/nylon-lanyard-15mm-ly15-g3.webp",
+"/gambar/nylon-lanyard-15mm-ly15-g4.webp"
+]
 },
 {
 "id": 9038,
@@ -9023,7 +10963,12 @@
 "kategori": "Lanyard",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/nylon-lanyard-15mm-ly16.webp"
+"gambar": "/gambar/nylon-lanyard-15mm-ly16.webp",
+"galeri": [
+"/gambar/nylon-lanyard-15mm-ly16-g2.webp",
+"/gambar/nylon-lanyard-15mm-ly16-g3.webp",
+"/gambar/nylon-lanyard-15mm-ly16-g4.webp"
+]
 },
 {
 "id": 12644,
@@ -9045,7 +10990,12 @@
 "kategori": "Lanyard",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/nylon-lanyard-15mm-lyc215-2.webp"
+"gambar": "/gambar/nylon-lanyard-15mm-lyc215-2.webp",
+"galeri": [
+"/gambar/nylon-lanyard-15mm-lyc215-2-g2.webp",
+"/gambar/nylon-lanyard-15mm-lyc215-2-g3.webp",
+"/gambar/nylon-lanyard-15mm-lyc215-2-g4.webp"
+]
 },
 {
 "id": 23389,
@@ -9056,7 +11006,12 @@
 "kategori": "Lanyard",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/nylon-lanyard-20mm-dcly20.webp"
+"gambar": "/gambar/nylon-lanyard-20mm-dcly20.webp",
+"galeri": [
+"/gambar/nylon-lanyard-20mm-dcly20-g2.webp",
+"/gambar/nylon-lanyard-20mm-dcly20-g3.webp",
+"/gambar/nylon-lanyard-20mm-dcly20-g4.webp"
+]
 },
 {
 "id": 32476,
@@ -9067,7 +11022,12 @@
 "kategori": "Lanyard",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/nylon-lanyard-20mm-ly21.webp"
+"gambar": "/gambar/nylon-lanyard-20mm-ly21.webp",
+"galeri": [
+"/gambar/nylon-lanyard-20mm-ly21-g2.webp",
+"/gambar/nylon-lanyard-20mm-ly21-g3.webp",
+"/gambar/nylon-lanyard-20mm-ly21-g4.webp"
+]
 },
 {
 "id": 9097,
@@ -9077,7 +11037,13 @@
 "harga": 3.0,
 "kategori": "Lanyard",
 "kategori_lain": [],
-"jenama": null
+"jenama": null,
+"galeri": [
+"/gambar/nylon-lanyard-20mm-lyb20-g2.webp",
+"/gambar/nylon-lanyard-20mm-lyb20-g3.webp",
+"/gambar/nylon-lanyard-20mm-lyb20-g4.webp"
+],
+"gambar": "/gambar/nylon-lanyard-20mm-lyb20.webp"
 },
 {
 "id": 9106,
@@ -9088,7 +11054,12 @@
 "kategori": "Lanyard",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/nylon-lanyard-20mm-lyb23.webp"
+"gambar": "/gambar/nylon-lanyard-20mm-lyb23.webp",
+"galeri": [
+"/gambar/nylon-lanyard-20mm-lyb23-g2.webp",
+"/gambar/nylon-lanyard-20mm-lyb23-g3.webp",
+"/gambar/nylon-lanyard-20mm-lyb23-g4.webp"
+]
 },
 {
 "id": 14711,
@@ -9135,7 +11106,12 @@
 "New Arrival"
 ],
 "jenama": null,
-"gambar": "/gambar/manicure-set-6-in-1-med972.webp"
+"gambar": "/gambar/manicure-set-6-in-1-med972.webp",
+"galeri": [
+"/gambar/manicure-set-6-in-1-med972-g2.webp",
+"/gambar/manicure-set-6-in-1-med972-g3.webp",
+"/gambar/manicure-set-6-in-1-med972-g4.webp"
+]
 },
 {
 "id": 10020,
@@ -9148,7 +11124,12 @@
 "Miscellaneous"
 ],
 "jenama": null,
-"gambar": "/gambar/manicure-set-4in1-med433.webp"
+"gambar": "/gambar/manicure-set-4in1-med433.webp",
+"galeri": [
+"/gambar/manicure-set-4in1-med433-g2.webp",
+"/gambar/manicure-set-4in1-med433-g3.webp",
+"/gambar/manicure-set-4in1-med433-g4.webp"
+]
 },
 {
 "id": 10036,
@@ -9161,7 +11142,12 @@
 "Miscellaneous"
 ],
 "jenama": null,
-"gambar": "/gambar/manicure-set-6in1-med4861.webp"
+"gambar": "/gambar/manicure-set-6in1-med4861.webp",
+"galeri": [
+"/gambar/manicure-set-6in1-med4861-g2.webp",
+"/gambar/manicure-set-6in1-med4861-g3.webp",
+"/gambar/manicure-set-6in1-med4861-g4.webp"
+]
 },
 {
 "id": 15132,
@@ -9174,7 +11160,11 @@
 "Miscellaneous"
 ],
 "jenama": null,
-"gambar": "/gambar/manicure-set-6in1-med808.webp"
+"gambar": "/gambar/manicure-set-6in1-med808.webp",
+"galeri": [
+"/gambar/manicure-set-6in1-med808-g2.webp",
+"/gambar/manicure-set-6in1-med808-g3.webp"
+]
 },
 {
 "id": 10024,
@@ -9187,7 +11177,12 @@
 "Miscellaneous"
 ],
 "jenama": null,
-"gambar": "/gambar/manicure-set-6in1-med969.webp"
+"gambar": "/gambar/manicure-set-6in1-med969.webp",
+"galeri": [
+"/gambar/manicure-set-6in1-med969-g2.webp",
+"/gambar/manicure-set-6in1-med969-g3.webp",
+"/gambar/manicure-set-6in1-med969-g4.webp"
+]
 },
 {
 "id": 10031,
@@ -9200,7 +11195,11 @@
 "Miscellaneous"
 ],
 "jenama": null,
-"gambar": "/gambar/manicure-set-8in1-med3090.webp"
+"gambar": "/gambar/manicure-set-8in1-med3090.webp",
+"galeri": [
+"/gambar/manicure-set-8in1-med3090-g2.webp",
+"/gambar/manicure-set-8in1-med3090-g3.webp"
+]
 },
 {
 "id": 15136,
@@ -9226,7 +11225,11 @@
 "Miscellaneous"
 ],
 "jenama": null,
-"gambar": "/gambar/pu-manicure-set-7in1-med0017.webp"
+"gambar": "/gambar/pu-manicure-set-7in1-med0017.webp",
+"galeri": [
+"/gambar/pu-manicure-set-7in1-med0017-g2.webp",
+"/gambar/pu-manicure-set-7in1-med0017-g3.webp"
+]
 },
 {
 "id": 17716,
@@ -9239,7 +11242,12 @@
 "Pen Series"
 ],
 "jenama": null,
-"gambar": "/gambar/aluminium-gel-ink-pen-ap4353g.webp"
+"gambar": "/gambar/aluminium-gel-ink-pen-ap4353g.webp",
+"galeri": [
+"/gambar/aluminium-gel-ink-pen-ap4353g-g2.webp",
+"/gambar/aluminium-gel-ink-pen-ap4353g-g3.webp",
+"/gambar/aluminium-gel-ink-pen-ap4353g-g4.webp"
+]
 },
 {
 "id": 17696,
@@ -9252,7 +11260,12 @@
 "Pen Series"
 ],
 "jenama": null,
-"gambar": "/gambar/aluminium-pen-ball-ap3000.webp"
+"gambar": "/gambar/aluminium-pen-ball-ap3000.webp",
+"galeri": [
+"/gambar/aluminium-pen-ball-ap3000-g2.webp",
+"/gambar/aluminium-pen-ball-ap3000-g3.webp",
+"/gambar/aluminium-pen-ball-ap3000-g4.webp"
+]
 },
 {
 "id": 17732,
@@ -9265,7 +11278,12 @@
 "Pen Series"
 ],
 "jenama": null,
-"gambar": "/gambar/aluminium-pen-ball-ap3002.webp"
+"gambar": "/gambar/aluminium-pen-ball-ap3002.webp",
+"galeri": [
+"/gambar/aluminium-pen-ball-ap3002-g2.webp",
+"/gambar/aluminium-pen-ball-ap3002-g3.webp",
+"/gambar/aluminium-pen-ball-ap3002-g4.webp"
+]
 },
 {
 "id": 17747,
@@ -9278,7 +11296,12 @@
 "Pen Series"
 ],
 "jenama": null,
-"gambar": "/gambar/aluminium-pen-ball-ap3004.webp"
+"gambar": "/gambar/aluminium-pen-ball-ap3004.webp",
+"galeri": [
+"/gambar/aluminium-pen-ball-ap3004-g2.webp",
+"/gambar/aluminium-pen-ball-ap3004-g3.webp",
+"/gambar/aluminium-pen-ball-ap3004-g4.webp"
+]
 },
 {
 "id": 17653,
@@ -9291,7 +11314,11 @@
 "Pen Series"
 ],
 "jenama": null,
-"gambar": "/gambar/ball-pen-mp10366b.webp"
+"gambar": "/gambar/ball-pen-mp10366b.webp",
+"galeri": [
+"/gambar/ball-pen-mp10366b-g2.webp",
+"/gambar/ball-pen-mp10366b-g3.webp"
+]
 },
 {
 "id": 17680,
@@ -9304,7 +11331,12 @@
 "Pen Series"
 ],
 "jenama": null,
-"gambar": "/gambar/ball-pen-mp10370b.webp"
+"gambar": "/gambar/ball-pen-mp10370b.webp",
+"galeri": [
+"/gambar/ball-pen-mp10370b-g2.webp",
+"/gambar/ball-pen-mp10370b-g3.webp",
+"/gambar/ball-pen-mp10370b-g4.webp"
+]
 },
 {
 "id": 17608,
@@ -9317,7 +11349,10 @@
 "Pen Series"
 ],
 "jenama": null,
-"gambar": "/gambar/ball-pen-mp10372b.webp"
+"gambar": "/gambar/ball-pen-mp10372b.webp",
+"galeri": [
+"/gambar/ball-pen-mp10372b-g2.webp"
+]
 },
 {
 "id": 14472,
@@ -9330,7 +11365,11 @@
 "Pen Series"
 ],
 "jenama": null,
-"gambar": "/gambar/ball-pen-mp10397b.webp"
+"gambar": "/gambar/ball-pen-mp10397b.webp",
+"galeri": [
+"/gambar/ball-pen-mp10397b-g2.webp",
+"/gambar/ball-pen-mp10397b-g3.webp"
+]
 },
 {
 "id": 17677,
@@ -9356,7 +11395,12 @@
 "Pen Series"
 ],
 "jenama": null,
-"gambar": "/gambar/ball-pen-mp10403b.webp"
+"gambar": "/gambar/ball-pen-mp10403b.webp",
+"galeri": [
+"/gambar/ball-pen-mp10403b-g2.webp",
+"/gambar/ball-pen-mp10403b-g3.webp",
+"/gambar/ball-pen-mp10403b-g4.webp"
+]
 },
 {
 "id": 34659,
@@ -9370,7 +11414,11 @@
 "PHYLEX Series"
 ],
 "jenama": null,
-"gambar": "/gambar/ink-for-metal-pen-phylex-phylex01-02.webp"
+"gambar": "/gambar/ink-for-metal-pen-phylex-phylex01-02.webp",
+"galeri": [
+"/gambar/ink-for-metal-pen-phylex-phylex01-02-g2.webp",
+"/gambar/ink-for-metal-pen-phylex-phylex01-02-g3.webp"
+]
 },
 {
 "id": 14503,
@@ -9422,7 +11470,10 @@
 "Pen Series"
 ],
 "jenama": null,
-"gambar": "/gambar/metal-ball-pen-mp10398b.webp"
+"gambar": "/gambar/metal-ball-pen-mp10398b.webp",
+"galeri": [
+"/gambar/metal-ball-pen-mp10398b-g2.webp"
+]
 },
 {
 "id": 17650,
@@ -9448,7 +11499,10 @@
 "Pen Series"
 ],
 "jenama": null,
-"gambar": "/gambar/metal-ball-pen-mp125b.webp"
+"gambar": "/gambar/metal-ball-pen-mp125b.webp",
+"galeri": [
+"/gambar/metal-ball-pen-mp125b-g2.webp"
+]
 },
 {
 "id": 14522,
@@ -9526,7 +11580,11 @@
 "Pen Series"
 ],
 "jenama": null,
-"gambar": "/gambar/metal-pen-mp10371r-3.webp"
+"gambar": "/gambar/metal-pen-mp10371r-3.webp",
+"galeri": [
+"/gambar/metal-pen-mp10371r-3-g2.webp",
+"/gambar/metal-pen-mp10371r-3-g3.webp"
+]
 },
 {
 "id": 17627,
@@ -9539,7 +11597,12 @@
 "Pen Series"
 ],
 "jenama": null,
-"gambar": "/gambar/metal-pen-mp10406r.webp"
+"gambar": "/gambar/metal-pen-mp10406r.webp",
+"galeri": [
+"/gambar/metal-pen-mp10406r-g2.webp",
+"/gambar/metal-pen-mp10406r-g3.webp",
+"/gambar/metal-pen-mp10406r-g4.webp"
+]
 },
 {
 "id": 17646,
@@ -9565,7 +11628,10 @@
 "Pen Series"
 ],
 "jenama": null,
-"gambar": "/gambar/metal-pen-mp104r-2.webp"
+"gambar": "/gambar/metal-pen-mp104r-2.webp",
+"galeri": [
+"/gambar/metal-pen-mp104r-2-g2.webp"
+]
 },
 {
 "id": 34454,
@@ -9579,7 +11645,12 @@
 "PHYLEX Series"
 ],
 "jenama": null,
-"gambar": "/gambar/metal-pen-phylex-mp10330.webp"
+"gambar": "/gambar/metal-pen-phylex-mp10330.webp",
+"galeri": [
+"/gambar/metal-pen-phylex-mp10330-g2.webp",
+"/gambar/metal-pen-phylex-mp10330-g3.webp",
+"/gambar/metal-pen-phylex-mp10330-g4.webp"
+]
 },
 {
 "id": 34478,
@@ -9593,7 +11664,11 @@
 "PHYLEX Series"
 ],
 "jenama": null,
-"gambar": "/gambar/metal-pen-phylex-mp10331.webp"
+"gambar": "/gambar/metal-pen-phylex-mp10331.webp",
+"galeri": [
+"/gambar/metal-pen-phylex-mp10331-g2.webp",
+"/gambar/metal-pen-phylex-mp10331-g3.webp"
+]
 },
 {
 "id": 34494,
@@ -9607,7 +11682,12 @@
 "PHYLEX Series"
 ],
 "jenama": null,
-"gambar": "/gambar/metal-pen-phylex-mp10332.webp"
+"gambar": "/gambar/metal-pen-phylex-mp10332.webp",
+"galeri": [
+"/gambar/metal-pen-phylex-mp10332-g2.webp",
+"/gambar/metal-pen-phylex-mp10332-g3.webp",
+"/gambar/metal-pen-phylex-mp10332-g4.webp"
+]
 },
 {
 "id": 34486,
@@ -9649,7 +11729,11 @@
 "PHYLEX Series"
 ],
 "jenama": null,
-"gambar": "/gambar/metal-pen-phylex-mp10351.webp"
+"gambar": "/gambar/metal-pen-phylex-mp10351.webp",
+"galeri": [
+"/gambar/metal-pen-phylex-mp10351-g2.webp",
+"/gambar/metal-pen-phylex-mp10351-g3.webp"
+]
 },
 {
 "id": 34645,
@@ -9663,7 +11747,12 @@
 "PHYLEX Series"
 ],
 "jenama": null,
-"gambar": "/gambar/metal-pen-phylex-mp10360.webp"
+"gambar": "/gambar/metal-pen-phylex-mp10360.webp",
+"galeri": [
+"/gambar/metal-pen-phylex-mp10360-g2.webp",
+"/gambar/metal-pen-phylex-mp10360-g3.webp",
+"/gambar/metal-pen-phylex-mp10360-g4.webp"
+]
 },
 {
 "id": 34555,
@@ -9677,7 +11766,11 @@
 "PHYLEX Series"
 ],
 "jenama": null,
-"gambar": "/gambar/metal-pen-phylex-mp10362.webp"
+"gambar": "/gambar/metal-pen-phylex-mp10362.webp",
+"galeri": [
+"/gambar/metal-pen-phylex-mp10362-g2.webp",
+"/gambar/metal-pen-phylex-mp10362-g3.webp"
+]
 },
 {
 "id": 34542,
@@ -9691,7 +11784,11 @@
 "PHYLEX Series"
 ],
 "jenama": null,
-"gambar": "/gambar/metal-pen-phylex-mp10363.webp"
+"gambar": "/gambar/metal-pen-phylex-mp10363.webp",
+"galeri": [
+"/gambar/metal-pen-phylex-mp10363-g2.webp",
+"/gambar/metal-pen-phylex-mp10363-g3.webp"
+]
 },
 {
 "id": 34567,
@@ -9705,7 +11802,11 @@
 "PHYLEX Series"
 ],
 "jenama": null,
-"gambar": "/gambar/metal-pen-phylex-mp10364.webp"
+"gambar": "/gambar/metal-pen-phylex-mp10364.webp",
+"galeri": [
+"/gambar/metal-pen-phylex-mp10364-g2.webp",
+"/gambar/metal-pen-phylex-mp10364-g3.webp"
+]
 },
 {
 "id": 34573,
@@ -9719,7 +11820,11 @@
 "PHYLEX Series"
 ],
 "jenama": null,
-"gambar": "/gambar/metal-pen-phylex-mp10365.webp"
+"gambar": "/gambar/metal-pen-phylex-mp10365.webp",
+"galeri": [
+"/gambar/metal-pen-phylex-mp10365-g2.webp",
+"/gambar/metal-pen-phylex-mp10365-g3.webp"
+]
 },
 {
 "id": 34620,
@@ -9733,7 +11838,11 @@
 "PHYLEX Series"
 ],
 "jenama": null,
-"gambar": "/gambar/metal-pen-phylex-mp10367.webp"
+"gambar": "/gambar/metal-pen-phylex-mp10367.webp",
+"galeri": [
+"/gambar/metal-pen-phylex-mp10367-g2.webp",
+"/gambar/metal-pen-phylex-mp10367-g3.webp"
+]
 },
 {
 "id": 34536,
@@ -9747,7 +11856,11 @@
 "PHYLEX Series"
 ],
 "jenama": null,
-"gambar": "/gambar/metal-pen-phylex-mp10380.webp"
+"gambar": "/gambar/metal-pen-phylex-mp10380.webp",
+"galeri": [
+"/gambar/metal-pen-phylex-mp10380-g2.webp",
+"/gambar/metal-pen-phylex-mp10380-g3.webp"
+]
 },
 {
 "id": 34549,
@@ -9761,7 +11874,11 @@
 "PHYLEX Series"
 ],
 "jenama": null,
-"gambar": "/gambar/metal-pen-phylex-mp10383.webp"
+"gambar": "/gambar/metal-pen-phylex-mp10383.webp",
+"galeri": [
+"/gambar/metal-pen-phylex-mp10383-g2.webp",
+"/gambar/metal-pen-phylex-mp10383-g3.webp"
+]
 },
 {
 "id": 34608,
@@ -9775,7 +11892,11 @@
 "PHYLEX Series"
 ],
 "jenama": null,
-"gambar": "/gambar/metal-pen-phylex-mp10384.webp"
+"gambar": "/gambar/metal-pen-phylex-mp10384.webp",
+"galeri": [
+"/gambar/metal-pen-phylex-mp10384-g2.webp",
+"/gambar/metal-pen-phylex-mp10384-g3.webp"
+]
 },
 {
 "id": 34614,
@@ -9789,7 +11910,11 @@
 "PHYLEX Series"
 ],
 "jenama": null,
-"gambar": "/gambar/metal-pen-phylex-mp10387.webp"
+"gambar": "/gambar/metal-pen-phylex-mp10387.webp",
+"galeri": [
+"/gambar/metal-pen-phylex-mp10387-g2.webp",
+"/gambar/metal-pen-phylex-mp10387-g3.webp"
+]
 },
 {
 "id": 34634,
@@ -9803,7 +11928,11 @@
 "PHYLEX Series"
 ],
 "jenama": null,
-"gambar": "/gambar/metal-pen-phylex-mp10390.webp"
+"gambar": "/gambar/metal-pen-phylex-mp10390.webp",
+"galeri": [
+"/gambar/metal-pen-phylex-mp10390-g2.webp",
+"/gambar/metal-pen-phylex-mp10390-g3.webp"
+]
 },
 {
 "id": 34631,
@@ -9859,7 +11988,11 @@
 "PHYLEX Series"
 ],
 "jenama": null,
-"gambar": "/gambar/metal-pen-phylex-mp10395.webp"
+"gambar": "/gambar/metal-pen-phylex-mp10395.webp",
+"galeri": [
+"/gambar/metal-pen-phylex-mp10395-g2.webp",
+"/gambar/metal-pen-phylex-mp10395-g3.webp"
+]
 },
 {
 "id": 34561,
@@ -9873,7 +12006,11 @@
 "PHYLEX Series"
 ],
 "jenama": null,
-"gambar": "/gambar/metal-pen-phylex-mp10396.webp"
+"gambar": "/gambar/metal-pen-phylex-mp10396.webp",
+"galeri": [
+"/gambar/metal-pen-phylex-mp10396-g2.webp",
+"/gambar/metal-pen-phylex-mp10396-g3.webp"
+]
 },
 {
 "id": 14529,
@@ -9912,7 +12049,10 @@
 "Pen Box"
 ],
 "jenama": null,
-"gambar": "/gambar/roller-pen-mp10372r.webp"
+"gambar": "/gambar/roller-pen-mp10372r.webp",
+"galeri": [
+"/gambar/roller-pen-mp10372r-g2.webp"
+]
 },
 {
 "id": 27436,
@@ -9925,7 +12065,10 @@
 "Pen Series"
 ],
 "jenama": null,
-"gambar": "/gambar/roller-pen-mp10373r.webp"
+"gambar": "/gambar/roller-pen-mp10373r.webp",
+"galeri": [
+"/gambar/roller-pen-mp10373r-g2.webp"
+]
 },
 {
 "id": 14477,
@@ -10010,7 +12153,12 @@
 "Straw Set"
 ],
 "jenama": null,
-"gambar": "/gambar/casing-box60.webp"
+"gambar": "/gambar/casing-box60.webp",
+"galeri": [
+"/gambar/casing-box60-g2.webp",
+"/gambar/casing-box60-g3.webp",
+"/gambar/casing-box60-g4.webp"
+]
 },
 {
 "id": 15103,
@@ -10056,7 +12204,10 @@
 "kategori": "Miscellaneous",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/coin-box-cb3691.webp"
+"gambar": "/gambar/coin-box-cb3691.webp",
+"galeri": [
+"/gambar/coin-box-cb3691-g2.webp"
+]
 },
 {
 "id": 15151,
@@ -10067,7 +12218,10 @@
 "kategori": "Miscellaneous",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/first-aid-kit-fak471.webp"
+"gambar": "/gambar/first-aid-kit-fak471.webp",
+"galeri": [
+"/gambar/first-aid-kit-fak471-g2.webp"
+]
 },
 {
 "id": 17285,
@@ -10078,7 +12232,12 @@
 "kategori": "Miscellaneous",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/foldable-hand-fan-hf110.webp"
+"gambar": "/gambar/foldable-hand-fan-hf110.webp",
+"galeri": [
+"/gambar/foldable-hand-fan-hf110-g2.webp",
+"/gambar/foldable-hand-fan-hf110-g3.webp",
+"/gambar/foldable-hand-fan-hf110-g4.webp"
+]
 },
 {
 "id": 15100,
@@ -10102,7 +12261,10 @@
 "kategori": "Miscellaneous",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/led-torch-light-led8897-c-wbox.webp"
+"gambar": "/gambar/led-torch-light-led8897-c-wbox.webp",
+"galeri": [
+"/gambar/led-torch-light-led8897-c-wbox-g2.webp"
+]
 },
 {
 "id": 10096,
@@ -10113,7 +12275,12 @@
 "kategori": "Miscellaneous",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/luggage-name-tag-lut7763.webp"
+"gambar": "/gambar/luggage-name-tag-lut7763.webp",
+"galeri": [
+"/gambar/luggage-name-tag-lut7763-g2.webp",
+"/gambar/luggage-name-tag-lut7763-g3.webp",
+"/gambar/luggage-name-tag-lut7763-g4.webp"
+]
 },
 {
 "id": 10093,
@@ -10135,7 +12302,12 @@
 "kategori": "Miscellaneous",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/luggage-name-tag-nt802.webp"
+"gambar": "/gambar/luggage-name-tag-nt802.webp",
+"galeri": [
+"/gambar/luggage-name-tag-nt802-g2.webp",
+"/gambar/luggage-name-tag-nt802-g3.webp",
+"/gambar/luggage-name-tag-nt802-g4.webp"
+]
 },
 {
 "id": 10106,
@@ -10146,7 +12318,10 @@
 "kategori": "Miscellaneous",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/luggage-name-tag-nt803.webp"
+"gambar": "/gambar/luggage-name-tag-nt803.webp",
+"galeri": [
+"/gambar/luggage-name-tag-nt803-g2.webp"
+]
 },
 {
 "id": 30380,
@@ -10157,7 +12332,11 @@
 "kategori": "Miscellaneous",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/mouse-pad-mop-r-sq.webp"
+"gambar": "/gambar/mouse-pad-mop-r-sq.webp",
+"galeri": [
+"/gambar/mouse-pad-mop-r-sq-g2.webp",
+"/gambar/mouse-pad-mop-r-sq-g3.webp"
+]
 },
 {
 "id": 30349,
@@ -10168,7 +12347,12 @@
 "kategori": "Miscellaneous",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/neck-pillow-npw0849.webp"
+"gambar": "/gambar/neck-pillow-npw0849.webp",
+"galeri": [
+"/gambar/neck-pillow-npw0849-g2.webp",
+"/gambar/neck-pillow-npw0849-g3.webp",
+"/gambar/neck-pillow-npw0849-g4.webp"
+]
 },
 {
 "id": 30359,
@@ -10179,7 +12363,12 @@
 "kategori": "Miscellaneous",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/neck-pillow-npw0850.webp"
+"gambar": "/gambar/neck-pillow-npw0850.webp",
+"galeri": [
+"/gambar/neck-pillow-npw0850-g2.webp",
+"/gambar/neck-pillow-npw0850-g3.webp",
+"/gambar/neck-pillow-npw0850-g4.webp"
+]
 },
 {
 "id": 15630,
@@ -10231,7 +12420,10 @@
 "Straw Set"
 ],
 "jenama": null,
-"gambar": "/gambar/oem-straw-set-straw1130-straw1130.webp"
+"gambar": "/gambar/oem-straw-set-straw1130-straw1130.webp",
+"galeri": [
+"/gambar/oem-straw-set-straw1130-straw1130-g2.webp"
+]
 },
 {
 "id": 15655,
@@ -10244,7 +12436,10 @@
 "Straw Set"
 ],
 "jenama": null,
-"gambar": "/gambar/oem-straw-set-straw1140-straw1140.webp"
+"gambar": "/gambar/oem-straw-set-straw1140-straw1140.webp",
+"galeri": [
+"/gambar/oem-straw-set-straw1140-straw1140-g2.webp"
+]
 },
 {
 "id": 15633,
@@ -10317,7 +12512,12 @@
 "kategori": "Miscellaneous",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/pp-hand-fan-hf105.webp"
+"gambar": "/gambar/pp-hand-fan-hf105.webp",
+"galeri": [
+"/gambar/pp-hand-fan-hf105-g2.webp",
+"/gambar/pp-hand-fan-hf105-g3.webp",
+"/gambar/pp-hand-fan-hf105-g4.webp"
+]
 },
 {
 "id": 15188,
@@ -10328,7 +12528,11 @@
 "kategori": "Miscellaneous",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/pp-hand-fan-hf109.webp"
+"gambar": "/gambar/pp-hand-fan-hf109.webp",
+"galeri": [
+"/gambar/pp-hand-fan-hf109-g2.webp",
+"/gambar/pp-hand-fan-hf109-g3.webp"
+]
 },
 {
 "id": 30016,
@@ -10339,7 +12543,12 @@
 "kategori": "Miscellaneous",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/pp-hand-fan-hf121.webp"
+"gambar": "/gambar/pp-hand-fan-hf121.webp",
+"galeri": [
+"/gambar/pp-hand-fan-hf121-g2.webp",
+"/gambar/pp-hand-fan-hf121-g3.webp",
+"/gambar/pp-hand-fan-hf121-g4.webp"
+]
 },
 {
 "id": 30006,
@@ -10350,7 +12559,12 @@
 "kategori": "Miscellaneous",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/pp-hand-fan-hf122.webp"
+"gambar": "/gambar/pp-hand-fan-hf122.webp",
+"galeri": [
+"/gambar/pp-hand-fan-hf122-g2.webp",
+"/gambar/pp-hand-fan-hf122-g3.webp",
+"/gambar/pp-hand-fan-hf122-g4.webp"
+]
 },
 {
 "id": 10137,
@@ -10361,7 +12575,12 @@
 "kategori": "Miscellaneous",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/pp-hand-fan-handle-hf108.webp"
+"gambar": "/gambar/pp-hand-fan-handle-hf108.webp",
+"galeri": [
+"/gambar/pp-hand-fan-handle-hf108-g2.webp",
+"/gambar/pp-hand-fan-handle-hf108-g3.webp",
+"/gambar/pp-hand-fan-handle-hf108-g4.webp"
+]
 },
 {
 "id": 10063,
@@ -10372,7 +12591,12 @@
 "kategori": "Miscellaneous",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/pulley-pl681.webp"
+"gambar": "/gambar/pulley-pl681.webp",
+"galeri": [
+"/gambar/pulley-pl681-g2.webp",
+"/gambar/pulley-pl681-g3.webp",
+"/gambar/pulley-pl681-g4.webp"
+]
 },
 {
 "id": 10071,
@@ -10383,7 +12607,12 @@
 "kategori": "Miscellaneous",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/pulley-pl688.webp"
+"gambar": "/gambar/pulley-pl688.webp",
+"galeri": [
+"/gambar/pulley-pl688-g2.webp",
+"/gambar/pulley-pl688-g3.webp",
+"/gambar/pulley-pl688-g4.webp"
+]
 },
 {
 "id": 33145,
@@ -10394,7 +12623,12 @@
 "kategori": "Miscellaneous",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/pulley-for-lanyard-pl682.webp"
+"gambar": "/gambar/pulley-for-lanyard-pl682.webp",
+"galeri": [
+"/gambar/pulley-for-lanyard-pl682-g2.webp",
+"/gambar/pulley-for-lanyard-pl682-g3.webp",
+"/gambar/pulley-for-lanyard-pl682-g4.webp"
+]
 },
 {
 "id": 14070,
@@ -10467,7 +12701,12 @@
 "kategori": "Miscellaneous",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/stress-ball-stb6550.webp"
+"gambar": "/gambar/stress-ball-stb6550.webp",
+"galeri": [
+"/gambar/stress-ball-stb6550-g2.webp",
+"/gambar/stress-ball-stb6550-g3.webp",
+"/gambar/stress-ball-stb6550-g4.webp"
+]
 },
 {
 "id": 15185,
@@ -10478,7 +12717,10 @@
 "kategori": "Miscellaneous",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/stress-ball-stb6560.webp"
+"gambar": "/gambar/stress-ball-stb6560.webp",
+"galeri": [
+"/gambar/stress-ball-stb6560-g2.webp"
+]
 },
 {
 "id": 15139,
@@ -10503,7 +12745,12 @@
 "New Arrival"
 ],
 "jenama": null,
-"gambar": "/gambar/trendy-ultra-soft-travel-neck-pillow-npw0851.webp"
+"gambar": "/gambar/trendy-ultra-soft-travel-neck-pillow-npw0851.webp",
+"galeri": [
+"/gambar/trendy-ultra-soft-travel-neck-pillow-npw0851-g2.webp",
+"/gambar/trendy-ultra-soft-travel-neck-pillow-npw0851-g3.webp",
+"/gambar/trendy-ultra-soft-travel-neck-pillow-npw0851-g4.webp"
+]
 },
 {
 "id": 15167,
@@ -10536,7 +12783,12 @@
 "kategori": "Mug",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/11oz-colour-coating-mug-cm77-c-wbox.webp"
+"gambar": "/gambar/11oz-colour-coating-mug-cm77-c-wbox.webp",
+"galeri": [
+"/gambar/11oz-colour-coating-mug-cm77-c-wbox-g2.webp",
+"/gambar/11oz-colour-coating-mug-cm77-c-wbox-g3.webp",
+"/gambar/11oz-colour-coating-mug-cm77-c-wbox-g4.webp"
+]
 },
 {
 "id": 9002,
@@ -10547,7 +12799,11 @@
 "kategori": "Name Card & ID Card Holder",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/id-card-holder-id-d.webp"
+"gambar": "/gambar/id-card-holder-id-d.webp",
+"galeri": [
+"/gambar/id-card-holder-id-d-g2.webp",
+"/gambar/id-card-holder-id-d-g3.webp"
+]
 },
 {
 "id": 14698,
@@ -10580,7 +12836,12 @@
 "kategori": "Name Card & ID Card Holder",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/id-card-holder-id-k.webp"
+"gambar": "/gambar/id-card-holder-id-k.webp",
+"galeri": [
+"/gambar/id-card-holder-id-k-g2.webp",
+"/gambar/id-card-holder-id-k-g3.webp",
+"/gambar/id-card-holder-id-k-g4.webp"
+]
 },
 {
 "id": 8978,
@@ -10591,7 +12852,12 @@
 "kategori": "Name Card & ID Card Holder",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/id-card-holder-id-m.webp"
+"gambar": "/gambar/id-card-holder-id-m.webp",
+"galeri": [
+"/gambar/id-card-holder-id-m-g2.webp",
+"/gambar/id-card-holder-id-m-g3.webp",
+"/gambar/id-card-holder-id-m-g4.webp"
+]
 },
 {
 "id": 8985,
@@ -10602,7 +12868,12 @@
 "kategori": "Name Card & ID Card Holder",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/id-card-holder-id101.webp"
+"gambar": "/gambar/id-card-holder-id101.webp",
+"galeri": [
+"/gambar/id-card-holder-id101-g2.webp",
+"/gambar/id-card-holder-id101-g3.webp",
+"/gambar/id-card-holder-id101-g4.webp"
+]
 },
 {
 "id": 8996,
@@ -10613,7 +12884,12 @@
 "kategori": "Name Card & ID Card Holder",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/id-card-holder-id103.webp"
+"gambar": "/gambar/id-card-holder-id103.webp",
+"galeri": [
+"/gambar/id-card-holder-id103-g2.webp",
+"/gambar/id-card-holder-id103-g3.webp",
+"/gambar/id-card-holder-id103-g4.webp"
+]
 },
 {
 "id": 18725,
@@ -10624,7 +12900,12 @@
 "kategori": "Name Card & ID Card Holder",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/id-card-holder-id107.webp"
+"gambar": "/gambar/id-card-holder-id107.webp",
+"galeri": [
+"/gambar/id-card-holder-id107-g2.webp",
+"/gambar/id-card-holder-id107-g3.webp",
+"/gambar/id-card-holder-id107-g4.webp"
+]
 },
 {
 "id": 8991,
@@ -10635,7 +12916,11 @@
 "kategori": "Name Card & ID Card Holder",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/id-card-holder-id202.webp"
+"gambar": "/gambar/id-card-holder-id202.webp",
+"galeri": [
+"/gambar/id-card-holder-id202-g2.webp",
+"/gambar/id-card-holder-id202-g3.webp"
+]
 },
 {
 "id": 8972,
@@ -10646,7 +12931,12 @@
 "kategori": "Name Card & ID Card Holder",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/id-card-holder-c-w-zip-compartment-id104.webp"
+"gambar": "/gambar/id-card-holder-c-w-zip-compartment-id104.webp",
+"galeri": [
+"/gambar/id-card-holder-c-w-zip-compartment-id104-g2.webp",
+"/gambar/id-card-holder-c-w-zip-compartment-id104-g3.webp",
+"/gambar/id-card-holder-c-w-zip-compartment-id104-g4.webp"
+]
 },
 {
 "id": 18737,
@@ -10657,7 +12947,12 @@
 "kategori": "Name Card & ID Card Holder",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/id-card-holder-vertical-id108.webp"
+"gambar": "/gambar/id-card-holder-vertical-id108.webp",
+"galeri": [
+"/gambar/id-card-holder-vertical-id108-g2.webp",
+"/gambar/id-card-holder-vertical-id108-g3.webp",
+"/gambar/id-card-holder-vertical-id108-g4.webp"
+]
 },
 {
 "id": 14684,
@@ -10690,7 +12985,10 @@
 "kategori": "Name Card & ID Card Holder",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/name-card-holder-nc25-c-wbox.webp"
+"gambar": "/gambar/name-card-holder-nc25-c-wbox.webp",
+"galeri": [
+"/gambar/name-card-holder-nc25-c-wbox-g2.webp"
+]
 },
 {
 "id": 14674,
@@ -10734,7 +13032,12 @@
 "kategori": "Name Card & ID Card Holder",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/passport-holder-ph7777.webp"
+"gambar": "/gambar/passport-holder-ph7777.webp",
+"galeri": [
+"/gambar/passport-holder-ph7777-g2.webp",
+"/gambar/passport-holder-ph7777-g3.webp",
+"/gambar/passport-holder-ph7777-g4.webp"
+]
 },
 {
 "id": 28587,
@@ -10747,7 +13050,10 @@
 "Towel Series"
 ],
 "jenama": null,
-"gambar": "/gambar/face-towel-ft271.webp"
+"gambar": "/gambar/face-towel-ft271.webp",
+"galeri": [
+"/gambar/face-towel-ft271-g2.webp"
+]
 },
 {
 "id": 28516,
@@ -10760,7 +13066,12 @@
 "Umbrella Series"
 ],
 "jenama": null,
-"gambar": "/gambar/fully-automatic-foldable-umbrella-fny1810.webp"
+"gambar": "/gambar/fully-automatic-foldable-umbrella-fny1810.webp",
+"galeri": [
+"/gambar/fully-automatic-foldable-umbrella-fny1810-g2.webp",
+"/gambar/fully-automatic-foldable-umbrella-fny1810-g3.webp",
+"/gambar/fully-automatic-foldable-umbrella-fny1810-g4.webp"
+]
 },
 {
 "id": 28692,
@@ -10773,7 +13084,12 @@
 "Vacuum Flask"
 ],
 "jenama": null,
-"gambar": "/gambar/stainless-steel-vacuum-flask-double-wall-st7301.webp"
+"gambar": "/gambar/stainless-steel-vacuum-flask-double-wall-st7301.webp",
+"galeri": [
+"/gambar/stainless-steel-vacuum-flask-double-wall-st7301-g2.webp",
+"/gambar/stainless-steel-vacuum-flask-double-wall-st7301-g3.webp",
+"/gambar/stainless-steel-vacuum-flask-double-wall-st7301-g4.webp"
+]
 },
 {
 "id": 18529,
@@ -10784,7 +13100,12 @@
 "kategori": "Notebook",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/notebook-nb5201.webp"
+"gambar": "/gambar/notebook-nb5201.webp",
+"galeri": [
+"/gambar/notebook-nb5201-g2.webp",
+"/gambar/notebook-nb5201-g3.webp",
+"/gambar/notebook-nb5201-g4.webp"
+]
 },
 {
 "id": 18503,
@@ -10797,7 +13118,12 @@
 "PU Organizer"
 ],
 "jenama": null,
-"gambar": "/gambar/notebook-nb5202.webp"
+"gambar": "/gambar/notebook-nb5202.webp",
+"galeri": [
+"/gambar/notebook-nb5202-g2.webp",
+"/gambar/notebook-nb5202-g3.webp",
+"/gambar/notebook-nb5202-g4.webp"
+]
 },
 {
 "id": 18517,
@@ -10810,7 +13136,12 @@
 "PU Organizer"
 ],
 "jenama": null,
-"gambar": "/gambar/notebook-nb5203.webp"
+"gambar": "/gambar/notebook-nb5203.webp",
+"galeri": [
+"/gambar/notebook-nb5203-g2.webp",
+"/gambar/notebook-nb5203-g3.webp",
+"/gambar/notebook-nb5203-g4.webp"
+]
 },
 {
 "id": 18476,
@@ -10823,7 +13154,12 @@
 "PU Organizer"
 ],
 "jenama": null,
-"gambar": "/gambar/notebook-nb635.webp"
+"gambar": "/gambar/notebook-nb635.webp",
+"galeri": [
+"/gambar/notebook-nb635-g2.webp",
+"/gambar/notebook-nb635-g3.webp",
+"/gambar/notebook-nb635-g4.webp"
+]
 },
 {
 "id": 18491,
@@ -10836,7 +13172,12 @@
 "PU Organizer"
 ],
 "jenama": null,
-"gambar": "/gambar/notebook-nb637.webp"
+"gambar": "/gambar/notebook-nb637.webp",
+"galeri": [
+"/gambar/notebook-nb637-g2.webp",
+"/gambar/notebook-nb637-g3.webp",
+"/gambar/notebook-nb637-g4.webp"
+]
 },
 {
 "id": 14612,
@@ -10860,7 +13201,12 @@
 "PU Organizer"
 ],
 "jenama": null,
-"gambar": "/gambar/pu-organizer-nb508.webp"
+"gambar": "/gambar/pu-organizer-nb508.webp",
+"galeri": [
+"/gambar/pu-organizer-nb508-g2.webp",
+"/gambar/pu-organizer-nb508-g3.webp",
+"/gambar/pu-organizer-nb508-g4.webp"
+]
 },
 {
 "id": 18566,
@@ -10873,7 +13219,12 @@
 "PU Organizer"
 ],
 "jenama": null,
-"gambar": "/gambar/pu-organizer-with-calendar-nb259.webp"
+"gambar": "/gambar/pu-organizer-with-calendar-nb259.webp",
+"galeri": [
+"/gambar/pu-organizer-with-calendar-nb259-g2.webp",
+"/gambar/pu-organizer-with-calendar-nb259-g3.webp",
+"/gambar/pu-organizer-with-calendar-nb259-g4.webp"
+]
 },
 {
 "id": 18464,
@@ -10886,7 +13237,12 @@
 "PU Organizer"
 ],
 "jenama": null,
-"gambar": "/gambar/pu-organizer-with-calendar-nb5205.webp"
+"gambar": "/gambar/pu-organizer-with-calendar-nb5205.webp",
+"galeri": [
+"/gambar/pu-organizer-with-calendar-nb5205-g2.webp",
+"/gambar/pu-organizer-with-calendar-nb5205-g3.webp",
+"/gambar/pu-organizer-with-calendar-nb5205-g4.webp"
+]
 },
 {
 "id": 18554,
@@ -10899,7 +13255,12 @@
 "PU Organizer"
 ],
 "jenama": null,
-"gambar": "/gambar/pu-organizer-with-calendar-nb703.webp"
+"gambar": "/gambar/pu-organizer-with-calendar-nb703.webp",
+"galeri": [
+"/gambar/pu-organizer-with-calendar-nb703-g2.webp",
+"/gambar/pu-organizer-with-calendar-nb703-g3.webp",
+"/gambar/pu-organizer-with-calendar-nb703-g4.webp"
+]
 },
 {
 "id": 14615,
@@ -10998,7 +13359,12 @@
 "kategori": "OEM 4in1 & 3in1",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/oem-set-4-in-1-box0910.webp"
+"gambar": "/gambar/oem-set-4-in-1-box0910.webp",
+"galeri": [
+"/gambar/oem-set-4-in-1-box0910-g2.webp",
+"/gambar/oem-set-4-in-1-box0910-g3.webp",
+"/gambar/oem-set-4-in-1-box0910-g4.webp"
+]
 },
 {
 "id": 18104,
@@ -11129,7 +13495,10 @@
 "kategori": "PU Organizer",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/pu-organizer-nb500-1.webp"
+"gambar": "/gambar/pu-organizer-nb500-1.webp",
+"galeri": [
+"/gambar/pu-organizer-nb500-1-g2.webp"
+]
 },
 {
 "id": 18580,
@@ -11140,7 +13509,11 @@
 "kategori": "PU Organizer",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/pu-organizer-with-calendar-nb412.webp"
+"gambar": "/gambar/pu-organizer-with-calendar-nb412.webp",
+"galeri": [
+"/gambar/pu-organizer-with-calendar-nb412-g2.webp",
+"/gambar/pu-organizer-with-calendar-nb412-g3.webp"
+]
 },
 {
 "id": 18591,
@@ -11151,7 +13524,12 @@
 "kategori": "PU Organizer",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/pu-organizer-with-calendar-nb413.webp"
+"gambar": "/gambar/pu-organizer-with-calendar-nb413.webp",
+"galeri": [
+"/gambar/pu-organizer-with-calendar-nb413-g2.webp",
+"/gambar/pu-organizer-with-calendar-nb413-g3.webp",
+"/gambar/pu-organizer-with-calendar-nb413-g4.webp"
+]
 },
 {
 "id": 18541,
@@ -11162,7 +13540,11 @@
 "kategori": "PU Organizer",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/pu-organizer-with-calendar-nb705.webp"
+"gambar": "/gambar/pu-organizer-with-calendar-nb705.webp",
+"galeri": [
+"/gambar/pu-organizer-with-calendar-nb705-g2.webp",
+"/gambar/pu-organizer-with-calendar-nb705-g3.webp"
+]
 },
 {
 "id": 14558,
@@ -11315,7 +13697,10 @@
 "Plastic Pen"
 ],
 "jenama": null,
-"gambar": "/gambar/flower-highlighter-hp05.webp"
+"gambar": "/gambar/flower-highlighter-hp05.webp",
+"galeri": [
+"/gambar/flower-highlighter-hp05-g2.webp"
+]
 },
 {
 "id": 11648,
@@ -11404,7 +13789,12 @@
 "Plastic Pen"
 ],
 "jenama": null,
-"gambar": "/gambar/plastic-ball-pen-pp1992.webp"
+"gambar": "/gambar/plastic-ball-pen-pp1992.webp",
+"galeri": [
+"/gambar/plastic-ball-pen-pp1992-g2.webp",
+"/gambar/plastic-ball-pen-pp1992-g3.webp",
+"/gambar/plastic-ball-pen-pp1992-g4.webp"
+]
 },
 {
 "id": 17874,
@@ -11417,7 +13807,12 @@
 "Plastic Pen"
 ],
 "jenama": null,
-"gambar": "/gambar/plastic-gel-ink-pen-pp4329g.webp"
+"gambar": "/gambar/plastic-gel-ink-pen-pp4329g.webp",
+"galeri": [
+"/gambar/plastic-gel-ink-pen-pp4329g-g2.webp",
+"/gambar/plastic-gel-ink-pen-pp4329g-g3.webp",
+"/gambar/plastic-gel-ink-pen-pp4329g-g4.webp"
+]
 },
 {
 "id": 17853,
@@ -11430,7 +13825,12 @@
 "Plastic Pen"
 ],
 "jenama": null,
-"gambar": "/gambar/plastic-gel-ink-pen-pp4330g.webp"
+"gambar": "/gambar/plastic-gel-ink-pen-pp4330g.webp",
+"galeri": [
+"/gambar/plastic-gel-ink-pen-pp4330g-g2.webp",
+"/gambar/plastic-gel-ink-pen-pp4330g-g3.webp",
+"/gambar/plastic-gel-ink-pen-pp4330g-g4.webp"
+]
 },
 {
 "id": 17891,
@@ -11443,7 +13843,12 @@
 "Plastic Pen"
 ],
 "jenama": null,
-"gambar": "/gambar/plastic-gel-ink-pen-pp4350g.webp"
+"gambar": "/gambar/plastic-gel-ink-pen-pp4350g.webp",
+"galeri": [
+"/gambar/plastic-gel-ink-pen-pp4350g-g2.webp",
+"/gambar/plastic-gel-ink-pen-pp4350g-g3.webp",
+"/gambar/plastic-gel-ink-pen-pp4350g-g4.webp"
+]
 },
 {
 "id": 14536,
@@ -11456,7 +13861,10 @@
 "Plastic Pen"
 ],
 "jenama": null,
-"gambar": "/gambar/plastic-pen-mp004b.webp"
+"gambar": "/gambar/plastic-pen-mp004b.webp",
+"galeri": [
+"/gambar/plastic-pen-mp004b-g2.webp"
+]
 },
 {
 "id": 27444,
@@ -11469,7 +13877,10 @@
 "Plastic Pen"
 ],
 "jenama": null,
-"gambar": "/gambar/plastic-pen-mp005b.webp"
+"gambar": "/gambar/plastic-pen-mp005b.webp",
+"galeri": [
+"/gambar/plastic-pen-mp005b-g2.webp"
+]
 },
 {
 "id": 17821,
@@ -11482,7 +13893,12 @@
 "Plastic Pen"
 ],
 "jenama": null,
-"gambar": "/gambar/plastic-pen-pp1932.webp"
+"gambar": "/gambar/plastic-pen-pp1932.webp",
+"galeri": [
+"/gambar/plastic-pen-pp1932-g2.webp",
+"/gambar/plastic-pen-pp1932-g3.webp",
+"/gambar/plastic-pen-pp1932-g4.webp"
+]
 },
 {
 "id": 17767,
@@ -11495,7 +13911,12 @@
 "Plastic Pen"
 ],
 "jenama": null,
-"gambar": "/gambar/plastic-pen-pp1939.webp"
+"gambar": "/gambar/plastic-pen-pp1939.webp",
+"galeri": [
+"/gambar/plastic-pen-pp1939-g2.webp",
+"/gambar/plastic-pen-pp1939-g3.webp",
+"/gambar/plastic-pen-pp1939-g4.webp"
+]
 },
 {
 "id": 17958,
@@ -11508,7 +13929,12 @@
 "Plastic Pen"
 ],
 "jenama": null,
-"gambar": "/gambar/plastic-pen-pp1940.webp"
+"gambar": "/gambar/plastic-pen-pp1940.webp",
+"galeri": [
+"/gambar/plastic-pen-pp1940-g2.webp",
+"/gambar/plastic-pen-pp1940-g3.webp",
+"/gambar/plastic-pen-pp1940-g4.webp"
+]
 },
 {
 "id": 17973,
@@ -11521,7 +13947,12 @@
 "Plastic Pen"
 ],
 "jenama": null,
-"gambar": "/gambar/plastic-pen-pp1942.webp"
+"gambar": "/gambar/plastic-pen-pp1942.webp",
+"galeri": [
+"/gambar/plastic-pen-pp1942-g2.webp",
+"/gambar/plastic-pen-pp1942-g3.webp",
+"/gambar/plastic-pen-pp1942-g4.webp"
+]
 },
 {
 "id": 17988,
@@ -11534,7 +13965,12 @@
 "Plastic Pen"
 ],
 "jenama": null,
-"gambar": "/gambar/plastic-pen-pp1947.webp"
+"gambar": "/gambar/plastic-pen-pp1947.webp",
+"galeri": [
+"/gambar/plastic-pen-pp1947-g2.webp",
+"/gambar/plastic-pen-pp1947-g3.webp",
+"/gambar/plastic-pen-pp1947-g4.webp"
+]
 },
 {
 "id": 17803,
@@ -11560,7 +13996,12 @@
 "Plastic Pen"
 ],
 "jenama": null,
-"gambar": "/gambar/plastic-pen-pp1993.webp"
+"gambar": "/gambar/plastic-pen-pp1993.webp",
+"galeri": [
+"/gambar/plastic-pen-pp1993-g2.webp",
+"/gambar/plastic-pen-pp1993-g3.webp",
+"/gambar/plastic-pen-pp1993-g4.webp"
+]
 },
 {
 "id": 17764,
@@ -11586,7 +14027,12 @@
 "Plastic Pen"
 ],
 "jenama": null,
-"gambar": "/gambar/plastic-pen-pp4355g.webp"
+"gambar": "/gambar/plastic-pen-pp4355g.webp",
+"galeri": [
+"/gambar/plastic-pen-pp4355g-g2.webp",
+"/gambar/plastic-pen-pp4355g-g3.webp",
+"/gambar/plastic-pen-pp4355g-g4.webp"
+]
 },
 {
 "id": 11800,
@@ -11635,7 +14081,12 @@
 "Plastic Pen"
 ],
 "jenama": null,
-"gambar": "/gambar/plastic-pen-pp7322.webp"
+"gambar": "/gambar/plastic-pen-pp7322.webp",
+"galeri": [
+"/gambar/plastic-pen-pp7322-g2.webp",
+"/gambar/plastic-pen-pp7322-g3.webp",
+"/gambar/plastic-pen-pp7322-g4.webp"
+]
 },
 {
 "id": 11616,
@@ -11795,7 +14246,11 @@
 "kategori": "Towel Series",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/bath-towel-paper-box-pab03.webp"
+"gambar": "/gambar/bath-towel-paper-box-pab03.webp",
+"galeri": [
+"/gambar/bath-towel-paper-box-pab03-g2.webp",
+"/gambar/bath-towel-paper-box-pab03-g3.webp"
+]
 },
 {
 "id": 17404,
@@ -11806,7 +14261,11 @@
 "kategori": "Towel Series",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/drawstring-face-towel-bag-dsb123.webp"
+"gambar": "/gambar/drawstring-face-towel-bag-dsb123.webp",
+"galeri": [
+"/gambar/drawstring-face-towel-bag-dsb123-g2.webp",
+"/gambar/drawstring-face-towel-bag-dsb123-g3.webp"
+]
 },
 {
 "id": 15062,
@@ -11894,7 +14353,11 @@
 "kategori": "Towel Series",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/face-towel-paper-box-pab04.webp"
+"gambar": "/gambar/face-towel-paper-box-pab04.webp",
+"galeri": [
+"/gambar/face-towel-paper-box-pab04-g2.webp",
+"/gambar/face-towel-paper-box-pab04-g3.webp"
+]
 },
 {
 "id": 9907,
@@ -11938,7 +14401,12 @@
 "kategori": "Towel Series",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/ice-cooling-sport-towel-st9110.webp"
+"gambar": "/gambar/ice-cooling-sport-towel-st9110.webp",
+"galeri": [
+"/gambar/ice-cooling-sport-towel-st9110-g2.webp",
+"/gambar/ice-cooling-sport-towel-st9110-g3.webp",
+"/gambar/ice-cooling-sport-towel-st9110-g4.webp"
+]
 },
 {
 "id": 9859,
@@ -11949,7 +14417,11 @@
 "kategori": "Umbrella Series",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/1-set-front-mirror-sun-shade-ssf10.webp"
+"gambar": "/gambar/1-set-front-mirror-sun-shade-ssf10.webp",
+"galeri": [
+"/gambar/1-set-front-mirror-sun-shade-ssf10-g2.webp",
+"/gambar/1-set-front-mirror-sun-shade-ssf10-g3.webp"
+]
 },
 {
 "id": 9813,
@@ -11960,7 +14432,12 @@
 "kategori": "Umbrella Series",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/2-way-inverter-umbrella-nyi585.webp"
+"gambar": "/gambar/2-way-inverter-umbrella-nyi585.webp",
+"galeri": [
+"/gambar/2-way-inverter-umbrella-nyi585-g2.webp",
+"/gambar/2-way-inverter-umbrella-nyi585-g3.webp",
+"/gambar/2-way-inverter-umbrella-nyi585-g4.webp"
+]
 },
 {
 "id": 15841,
@@ -11971,7 +14448,11 @@
 "kategori": "Umbrella Series",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/bottle-umbrella-scb260-with-box.webp"
+"gambar": "/gambar/bottle-umbrella-scb260-with-box.webp",
+"galeri": [
+"/gambar/bottle-umbrella-scb260-with-box-g2.webp",
+"/gambar/bottle-umbrella-scb260-with-box-g3.webp"
+]
 },
 {
 "id": 15795,
@@ -11982,7 +14463,12 @@
 "kategori": "Umbrella Series",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/foldable-auto-umbrella-fny1803-with-cover.webp"
+"gambar": "/gambar/foldable-auto-umbrella-fny1803-with-cover.webp",
+"galeri": [
+"/gambar/foldable-auto-umbrella-fny1803-with-cover-g2.webp",
+"/gambar/foldable-auto-umbrella-fny1803-with-cover-g3.webp",
+"/gambar/foldable-auto-umbrella-fny1803-with-cover-g4.webp"
+]
 },
 {
 "id": 15764,
@@ -11993,7 +14479,12 @@
 "kategori": "Umbrella Series",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/foldable-nylon-umbrella-fny27-with-cover.webp"
+"gambar": "/gambar/foldable-nylon-umbrella-fny27-with-cover.webp",
+"galeri": [
+"/gambar/foldable-nylon-umbrella-fny27-with-cover-g2.webp",
+"/gambar/foldable-nylon-umbrella-fny27-with-cover-g3.webp",
+"/gambar/foldable-nylon-umbrella-fny27-with-cover-g4.webp"
+]
 },
 {
 "id": 15806,
@@ -12004,7 +14495,12 @@
 "kategori": "Umbrella Series",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/foldable-uv-torchlight-umbrella-fully-auto-fny1809-with-cover.webp"
+"gambar": "/gambar/foldable-uv-torchlight-umbrella-fully-auto-fny1809-with-cover.webp",
+"galeri": [
+"/gambar/foldable-uv-torchlight-umbrella-fully-auto-fny1809-with-cover-g2.webp",
+"/gambar/foldable-uv-torchlight-umbrella-fully-auto-fny1809-with-cover-g3.webp",
+"/gambar/foldable-uv-torchlight-umbrella-fully-auto-fny1809-with-cover-g4.webp"
+]
 },
 {
 "id": 9855,
@@ -12015,7 +14511,11 @@
 "kategori": "Umbrella Series",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/foldable-umbrella-fsc25-c-wcover.webp"
+"gambar": "/gambar/foldable-umbrella-fsc25-c-wcover.webp",
+"galeri": [
+"/gambar/foldable-umbrella-fsc25-c-wcover-g2.webp",
+"/gambar/foldable-umbrella-fsc25-c-wcover-g3.webp"
+]
 },
 {
 "id": 32685,
@@ -12026,7 +14526,12 @@
 "kategori": "Umbrella Series",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/full-automated-foldable-umbrella-fny1805-with-cover.webp"
+"gambar": "/gambar/full-automated-foldable-umbrella-fny1805-with-cover.webp",
+"galeri": [
+"/gambar/full-automated-foldable-umbrella-fny1805-with-cover-g2.webp",
+"/gambar/full-automated-foldable-umbrella-fny1805-with-cover-g3.webp",
+"/gambar/full-automated-foldable-umbrella-fny1805-with-cover-g4.webp"
+]
 },
 {
 "id": 9848,
@@ -12037,7 +14542,12 @@
 "kategori": "Umbrella Series",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/fully-automatic-umbrella-fny1800-c-wcover.webp"
+"gambar": "/gambar/fully-automatic-umbrella-fny1800-c-wcover.webp",
+"galeri": [
+"/gambar/fully-automatic-umbrella-fny1800-c-wcover-g2.webp",
+"/gambar/fully-automatic-umbrella-fny1800-c-wcover-g3.webp",
+"/gambar/fully-automatic-umbrella-fny1800-c-wcover-g4.webp"
+]
 },
 {
 "id": 15832,
@@ -12048,7 +14558,11 @@
 "kategori": "Umbrella Series",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/golf-umbrella-auto-sc307-with-cover.webp"
+"gambar": "/gambar/golf-umbrella-auto-sc307-with-cover.webp",
+"galeri": [
+"/gambar/golf-umbrella-auto-sc307-with-cover-g2.webp",
+"/gambar/golf-umbrella-auto-sc307-with-cover-g3.webp"
+]
 },
 {
 "id": 32743,
@@ -12059,7 +14573,12 @@
 "kategori": "Umbrella Series",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/golf-umbrella-with-uv-protection-auto-sc308-with-cover.webp"
+"gambar": "/gambar/golf-umbrella-with-uv-protection-auto-sc308-with-cover.webp",
+"galeri": [
+"/gambar/golf-umbrella-with-uv-protection-auto-sc308-with-cover-g2.webp",
+"/gambar/golf-umbrella-with-uv-protection-auto-sc308-with-cover-g3.webp",
+"/gambar/golf-umbrella-with-uv-protection-auto-sc308-with-cover-g4.webp"
+]
 },
 {
 "id": 32726,
@@ -12103,7 +14622,12 @@
 "kategori": "Umbrella Series",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/uv-protection-umbrella-auto-sc26.webp"
+"gambar": "/gambar/uv-protection-umbrella-auto-sc26.webp",
+"galeri": [
+"/gambar/uv-protection-umbrella-auto-sc26-g2.webp",
+"/gambar/uv-protection-umbrella-auto-sc26-g3.webp",
+"/gambar/uv-protection-umbrella-auto-sc26-g4.webp"
+]
 },
 {
 "id": 15850,
@@ -12114,7 +14638,12 @@
 "kategori": "Umbrella Series",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/uv-protection-umbrella-uuv1807-with-cover.webp"
+"gambar": "/gambar/uv-protection-umbrella-uuv1807-with-cover.webp",
+"galeri": [
+"/gambar/uv-protection-umbrella-uuv1807-with-cover-g2.webp",
+"/gambar/uv-protection-umbrella-uuv1807-with-cover-g3.webp",
+"/gambar/uv-protection-umbrella-uuv1807-with-cover-g4.webp"
+]
 },
 {
 "id": 15778,
@@ -12125,7 +14654,12 @@
 "kategori": "Umbrella Series",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/uv-protection-umbrella-with-pouch-fny29-with-cover-casing.webp"
+"gambar": "/gambar/uv-protection-umbrella-with-pouch-fny29-with-cover-casing.webp",
+"galeri": [
+"/gambar/uv-protection-umbrella-with-pouch-fny29-with-cover-casing-g2.webp",
+"/gambar/uv-protection-umbrella-with-pouch-fny29-with-cover-casing-g3.webp",
+"/gambar/uv-protection-umbrella-with-pouch-fny29-with-cover-casing-g4.webp"
+]
 },
 {
 "id": 9833,
@@ -12136,7 +14670,11 @@
 "kategori": "Umbrella Series",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/umbrella-auto-ny24.webp"
+"gambar": "/gambar/umbrella-auto-ny24.webp",
+"galeri": [
+"/gambar/umbrella-auto-ny24-g2.webp",
+"/gambar/umbrella-auto-ny24-g3.webp"
+]
 },
 {
 "id": 9825,
@@ -12147,7 +14685,12 @@
 "kategori": "Umbrella Series",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/umbrella-auto-ny241.webp"
+"gambar": "/gambar/umbrella-auto-ny241.webp",
+"galeri": [
+"/gambar/umbrella-auto-ny241-g2.webp",
+"/gambar/umbrella-auto-ny241-g3.webp",
+"/gambar/umbrella-auto-ny241-g4.webp"
+]
 },
 {
 "id": 9819,
@@ -12158,7 +14701,12 @@
 "kategori": "Umbrella Series",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/umbrella-auto-sc24.webp"
+"gambar": "/gambar/umbrella-auto-sc24.webp",
+"galeri": [
+"/gambar/umbrella-auto-sc24-g2.webp",
+"/gambar/umbrella-auto-sc24-g3.webp",
+"/gambar/umbrella-auto-sc24-g4.webp"
+]
 },
 {
 "id": 9801,
@@ -12169,7 +14717,12 @@
 "kategori": "Umbrella Series",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/umbrella-auto-sc301-withcover.webp"
+"gambar": "/gambar/umbrella-auto-sc301-withcover.webp",
+"galeri": [
+"/gambar/umbrella-auto-sc301-withcover-g2.webp",
+"/gambar/umbrella-auto-sc301-withcover-g3.webp",
+"/gambar/umbrella-auto-sc301-withcover-g4.webp"
+]
 },
 {
 "id": 9807,
@@ -12180,7 +14733,12 @@
 "kategori": "Umbrella Series",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/umbrella-auto-sc305-withcover.webp"
+"gambar": "/gambar/umbrella-auto-sc305-withcover.webp",
+"galeri": [
+"/gambar/umbrella-auto-sc305-withcover-g2.webp",
+"/gambar/umbrella-auto-sc305-withcover-g3.webp",
+"/gambar/umbrella-auto-sc305-withcover-g4.webp"
+]
 },
 {
 "id": 15818,
@@ -12191,7 +14749,12 @@
 "kategori": "Umbrella Series",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/umbrella-sc306.webp"
+"gambar": "/gambar/umbrella-sc306.webp",
+"galeri": [
+"/gambar/umbrella-sc306-g2.webp",
+"/gambar/umbrella-sc306-g3.webp",
+"/gambar/umbrella-sc306-g4.webp"
+]
 },
 {
 "id": 25606,
@@ -12202,6 +14765,10 @@
 "kategori": "Umbrella Series",
 "kategori_lain": [],
 "jenama": null,
-"gambar": "/gambar/wooden-umbrella-auto-wds126.webp"
+"gambar": "/gambar/wooden-umbrella-auto-wds126.webp",
+"galeri": [
+"/gambar/wooden-umbrella-auto-wds126-g2.webp",
+"/gambar/wooden-umbrella-auto-wds126-g3.webp"
+]
 }
 ]

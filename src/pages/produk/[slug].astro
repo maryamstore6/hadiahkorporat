@@ -26,10 +26,15 @@ const hargaTeks = p.harga > 0 ? duit(p.harga) : 'Sebut harga';
     </nav>
 
     <div class="prod-layout">
-      <div>
-        <div class="prod-hero-media" style={p.gambar ? undefined : `background:linear-gradient(${sudut}deg,${c1},${c2})`}>
+      <div class="galeri">
+        <div
+          class="prod-hero-media"
+          id="media-utama"
+          style={p.gambar ? undefined : `background:linear-gradient(${sudut}deg,${c1},${c2})`}
+        >
           {p.gambar
             ? <img
+                id="img-utama"
                 src={pautan(p.gambar)}
                 srcset={srcset(p.gambar)}
                 sizes={SAIZ_HERO}
@@ -41,6 +46,32 @@ const hargaTeks = p.harga > 0 ? duit(p.harga) : 'Sebut harga';
               />
             : <span class="ph">{inisial(p.nama)}</span>}
         </div>
+
+        {(p.gambar && p.galeri && p.galeri.length > 0) && (
+          <div class="galeri-thumb" id="galeri-thumb" role="group" aria-label="Gambar lain produk ini">
+            <button
+              type="button"
+              aria-pressed="true"
+              data-besar={pautan(p.gambar)}
+              data-set={srcset(p.gambar)}
+              data-alt={p.nama}
+            >
+              <img src={pautan(p.gambar.replace(/\.webp$/, '-300.webp'))} alt="" width="68" height="68" loading="lazy" decoding="async" />
+            </button>
+            {p.galeri.map((g, i) => (
+              <button
+                type="button"
+                aria-pressed="false"
+                data-besar={pautan(g)}
+                data-set=""
+                data-alt={`${p.nama} — gambar ${i + 2}`}
+              >
+                <img src={pautan(g.replace(/\.webp$/, '-t.webp'))} alt="" width="68" height="68" loading="lazy" decoding="async" />
+              </button>
+            ))}
+          </div>
+        )}
+
         {!p.gambar && (
           <p style="font-size:.8rem;color:var(--muted);margin-top:.6rem">
             Gambar sebenar akan dimuatkan oleh pembekal. Jubin di atas ialah pengganti sementara.
@@ -102,4 +133,18 @@ const hargaTeks = p.harga > 0 ? duit(p.harga) : 'Sebut harga';
       </section>
     )}
   </div>
+  <script is:inline>
+    // Galeri: tukar gambar utama bila thumbnail diklik
+    const kotak = document.getElementById('galeri-thumb');
+    const utama = document.getElementById('img-utama');
+    kotak?.addEventListener('click', (e) => {
+      const b = e.target.closest('button[data-besar]');
+      if (!b || !utama) return;
+      utama.src = b.dataset.besar;
+      if (b.dataset.set) utama.srcset = b.dataset.set;
+      else utama.removeAttribute('srcset');
+      utama.alt = b.dataset.alt || '';
+      kotak.querySelectorAll('button').forEach((x) => x.setAttribute('aria-pressed', x === b ? 'true' : 'false'));
+    });
+  </script>
 </Base>

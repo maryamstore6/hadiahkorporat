@@ -289,11 +289,14 @@ body.nav-open .mobile-nav { display: block; }
 .card:hover { border-color: var(--forest); box-shadow: var(--shadow-2); transform: translateY(-2px); }
 
 .card-media {
-  aspect-ratio: 4 / 3; position: relative; overflow: hidden;
+  aspect-ratio: 1 / 1; position: relative; overflow: hidden;
   display: grid; place-items: center;
-  background: var(--stone); border-bottom: 1px solid var(--line-2);
+  background: var(--white); border-bottom: 1px solid var(--line-2);
 }
-.card-media img { width: 100%; height: 100%; object-fit: contain; background: var(--white); }
+.card-media img {
+  width: 100%; height: 100%; object-fit: contain;
+  background: var(--white); padding: .5rem;
+}
 .card-media .ph { font-family: var(--disp); font-size: 2.2rem; color: var(--cream); }
 .card-media .tag {
   position: absolute; top: .55rem; left: .55rem;
@@ -375,7 +378,25 @@ textarea.input { border-radius: var(--r); resize: vertical; }
   display: grid; place-items: center; position: relative; overflow: hidden;
   background: var(--white);
 }
-.prod-hero-media img { width: 100%; height: 100%; object-fit: contain; }
+.prod-hero-media img { width: 100%; height: 100%; object-fit: contain; padding: .35rem; }
+
+/* ---- Galeri thumbnail ---- */
+.galeri { display: flex; flex-direction: column; gap: .6rem; }
+.galeri-thumb {
+  display: flex; gap: .45rem; overflow-x: auto; padding-bottom: .3rem;
+  scrollbar-width: thin;
+}
+.galeri-thumb button {
+  flex: none; width: 76px; height: 76px; padding: 3px;
+  border: 1px solid var(--line); border-radius: var(--r-sm);
+  background: var(--white); overflow: hidden;
+  transition: border-color .15s var(--ease), box-shadow .15s var(--ease);
+}
+.galeri-thumb button:hover { border-color: var(--sage); }
+.galeri-thumb button[aria-pressed="true"] {
+  border-color: var(--forest); box-shadow: 0 0 0 1px var(--forest) inset;
+}
+.galeri-thumb img { width: 100%; height: 100%; object-fit: contain; }
 .prod-hero-media .ph { font-family: var(--disp); font-size: 4rem; color: var(--cream); }
 
 .prod-specs { list-style: none; margin: 1.4rem 0; padding: 0; border-top: 1px solid var(--line); }
@@ -577,6 +598,8 @@ textarea.input { border-radius: var(--r); resize: vertical; }
 
   /* Halaman produk */
   .prod-hero-media { border-radius: var(--r); }
+  .galeri-thumb button { width: 68px; height: 68px; }
+  .card-media img { padding: .35rem; }
   .price-box .big { font-size: 2rem; }
   .prod-layout .btn { width: 100%; }
   .stack-mobile { flex-direction: column; }
