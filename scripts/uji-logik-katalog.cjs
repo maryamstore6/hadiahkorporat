@@ -77,9 +77,19 @@ uji('slug eco-bag dipetakan ke nama sebenar', !!jumpa, `-> "${jumpa}"`);
 const kHasil = tapis({ kat: jumpa || '' }, '').length;
 uji('tapis ikut slug beri hasil', kHasil > 0, `${kHasil} produk`);
 
-console.log('\n=== B6: ?maks=abc tidak kosongkan grid ===');
-const nombor = (v) => { const n = Number(v); return Number.isFinite(n) && n >= 0 ? n : null; };
-uji('maks=abc jadi null (bukan NaN)', nombor('abc') === null, `nombor('abc')=${nombor('abc')}`);
+console.log('\n=== B6: ?maks kosong/abc tidak kosongkan grid ===');
+const nombor = (v) => {
+  if (v === null || v === undefined || String(v).trim() === '') return null;
+  const n = Number(v);
+  return Number.isFinite(n) && n >= 0 ? n : null;
+};
+uji('maks tiada (null) -> null, BUKAN 0', nombor(null) === null, `nombor(null)=${nombor(null)}`);
+uji('maks="" -> null', nombor('') === null, `nombor('')=${nombor('')}`);
+uji('maks=abc -> null', nombor('abc') === null, `nombor('abc')=${nombor('abc')}`);
+uji('maks=60 -> 60', nombor('60') === 60, `nombor('60')=${nombor('60')}`);
+// regresi: URL tanpa parameter TIDAK boleh menapis semua produk keluar
+const asas = tapis({ kat: '', min: nombor(null), maks: nombor(null) }, '');
+uji('tanpa tapisan: semua 1,296 produk kekal', asas.length === SEMUA.length, `${asas.length} produk`);
 
 console.log(`\n${lulus} lulus, ${gagal} gagal`);
 process.exit(gagal ? 1 : 0);
