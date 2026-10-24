@@ -89,6 +89,15 @@ export function hargaCoret(n) {
   return Math.round(n * GANDA_CORET * 100) / 100;
 }
 
+/* Teks harga: julat kalau pembekal ada beberapa pilihan harga, jika tidak satu harga. */
+export function teksHarga(p) {
+  if (!p || !(p.harga > 0)) return '';
+  if (p.harga_max && p.harga_max > p.harga) {
+    return `${duit(p.harga)} – ${duit(p.harga_max)}`;
+  }
+  return duit(p.harga);
+}
+
 export function duit(n) {
   return 'RM' + Number(n).toLocaleString('ms-MY', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
 }

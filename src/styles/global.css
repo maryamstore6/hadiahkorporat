@@ -416,6 +416,10 @@ body.nav-open .mobile-nav { display: block; }
   white-space: nowrap;
 }
 .price-box .coret { font-size: .55em; display: block; margin: 0 0 .1rem; }
+.julat-nota {
+  font-size: .74rem; line-height: 1.5; color: var(--muted);
+  margin: .5rem 0 0; max-width: 42ch;
+}
 .card-price small {
   display: block; font-family: var(--sans); font-size: .6rem;
   letter-spacing: .13em; text-transform: uppercase; color: var(--muted); margin-top: .2rem;

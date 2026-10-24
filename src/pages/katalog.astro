@@ -10,6 +10,7 @@ const ringan = produkSemua.map((p) => ({
   n: p.nama,
   k: p.kategori,
   h: p.harga,
+  hm: p.harga_max || 0,   /* harga maksimum (0 = satu harga sahaja) */
   c: p.sku || '',
   g: p.gambar || '',
 }));
@@ -112,7 +113,7 @@ const ringan = produkSemua.map((p) => ({
           <h3 class="card-name"><a href="${BASE}/produk/${p.s}/">${p.n}</a></h3>
           <div class="card-meta">${p.c ? 'Kod: ' + p.c : ''}</div>
           <div class="card-foot">
-            <div class="card-price">${p.h > 0 ? `<s class="coret">${duit(p.h * GANDA)}</s>` : ''}${harga}<small>seunit · MOQ ${MOQ}</small></div>
+            <div class="card-price">${p.h > 0 && !(p.hm > p.h) ? `<s class="coret">${duit(p.h * GANDA)}</s>` : ''}${harga}<small>${p.hm > p.h ? 'seunit, ikut pilihan' : 'seunit'} · MOQ ${MOQ}</small></div>
             <button class="card-btn" type="button" data-tambah="${p.s}" data-nama="${p.n.replace(/"/g, '&quot;')}" data-harga="${harga}" data-sku="${p.c}">Tambah ke senarai</button>
           </div>
         </div>

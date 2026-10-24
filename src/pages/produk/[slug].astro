@@ -1,7 +1,7 @@
 ---
 import Base from '../../layouts/Base.astro';
 import ProductCard from '../../components/ProductCard.astro';
-import { SITE, produkSemua, warnaProduk, inisial, duit, hargaCoret, pautan, srcset, SAIZ_HERO, slugify } from '../../lib/site.js';
+import { SITE, produkSemua, warnaProduk, inisial, duit, hargaCoret, teksHarga, pautan, srcset, SAIZ_HERO, slugify } from '../../lib/site.js';
 
 export function getStaticPaths() {
   return produkSemua.map((p) => ({ params: { slug: p.slug }, props: { p } }));
@@ -13,7 +13,7 @@ const katSlug = slugify(p.kategori);
 const serupa = produkSemua
   .filter((x) => x.kategori === p.kategori && x.slug !== p.slug)
   .slice(0, 8);
-const hargaTeks = p.harga > 0 ? duit(p.harga) : 'Sebut harga';
+const hargaTeks = p.harga > 0 ? teksHarga(p) : 'Sebut harga';
 ---
 <Base
   tajuk={p.nama}
@@ -85,9 +85,14 @@ const hargaTeks = p.harga > 0 ? duit(p.harga) : 'Sebut harga';
 
         <div class="price-box">
           <div class="big">
-            {p.harga > 0 && <s class="coret">{duit(hargaCoret(p.harga))}</s>}
-            {hargaTeks}
+            {p.harga > 0 && !(p.harga_max > p.harga) && <s class="coret">{duit(hargaCoret(p.harga))}</s>}
+            {p.harga > 0 ? teksHarga(p) : hargaTeks}
           </div>
+          {p.harga_max > p.harga && (
+            <p class="julat-nota">
+              Harga bergantung pada pilihan saiz/reka. Julat {duit(p.harga)} – {duit(p.harga_max)} seunit.
+            </p>
+          )}
           <div class="note">
             {p.harga > 0
               ? `Harga seunit untuk MOQ ${SITE.moq} pcs. Cetakan logo & penghantaran dikira berasingan.`
