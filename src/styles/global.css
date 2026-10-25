@@ -574,6 +574,26 @@ textarea.input { border-radius: var(--r); resize: vertical; }
 .step h3 { font-family: var(--sans); font-size: .94rem; font-weight: 600; margin-bottom: .35rem; }
 .step p { font-size: .84rem; color: var(--ink-2); }
 
+/* ---------- Baris navigasi bajet ---------- */
+.section-bajet { padding: clamp(1.2rem, 2.5vw, 1.8rem) 0 clamp(.8rem, 2vw, 1.2rem); }
+.bajet-row { display: flex; align-items: center; gap: 1rem 1.4rem; flex-wrap: wrap; }
+.bajet-label {
+  font-size: .62rem; letter-spacing: .16em; text-transform: uppercase;
+  color: var(--muted); margin: 0; flex: none;
+}
+.bajet-chips { display: flex; gap: .45rem; flex-wrap: wrap; }
+.bajet-chip {
+  border: 1px solid var(--line); background: var(--white); border-radius: 100px;
+  padding: .42rem .85rem; font-size: .8rem; color: var(--ink); text-decoration: none;
+  transition: border-color .16s, background .16s, color .16s;
+}
+.bajet-chip:hover { border-color: var(--forest); background: var(--stone); }
+.bajet-semua { border-color: var(--forest); color: var(--forest); font-weight: 500; }
+
+/* Butang telefon dalam header */
+.head-tel { display: inline-flex; align-items: center; gap: .35rem; }
+.head-tel-ikon { font-size: 1rem; line-height: 1; }
+
 /* ---------- Ulasan pelanggan ---------- */
 .ulasan-grid {
   display: grid; grid-template-columns: repeat(3, 1fr); gap: .9rem;
@@ -713,6 +733,13 @@ textarea.input { border-radius: var(--r); resize: vertical; }
   .hero-cta .btn { width: 100%; }
   .hero-stats { grid-template-columns: 1fr 1fr; gap: 1.1rem; }
   .hero-stat b { font-size: 1.5rem; }
+  /* Ruang header terhad pada telefon: tunjuk ikon telefon sahaja,
+     nombor penuh ada di halaman Hubungi dan footer. */
+  .head-tel { padding: .4rem .5rem; }
+  .head-tel-ikon { font-size: 1.05rem; }
+  .head-tel { font-size: 0; gap: 0; }
+  .head-tel .head-tel-ikon { font-size: 1.05rem; }
+
   .marquee { padding: .8rem 0; }
   .marquee-group { gap: 1.4rem; padding-right: 1.4rem; }
   .marquee-track { animation-duration: 22s; }

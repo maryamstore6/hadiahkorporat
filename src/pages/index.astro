@@ -6,10 +6,23 @@ import ulasan from '../data/ulasan.json';
 
 const kategori = kategoriSemua();
 const teratas = kategori.slice(0, 10);
-const unggul = [...produkSemua]
-  .filter((p) => p.harga > 0 && p.harga < 60)
-  .sort((a, b) => a.nama.localeCompare(b.nama))
-  .slice(0, 8);
+/* Baris "bawah RM60".
+   Dulu ia disusun ikut NAMA tetapi dilabel "Paling laris" - dakwaan yang
+   tiada asas kerana kami tiada data jualan. Ia juga memaparkan 3 kad dengan
+   nama SAMA (varian warna ECP5566), jadi 3 daripada 8 slot terbazir dan
+   pelawat sangka laman rosak. */
+const unggul = (() => {
+  const nampak = new Set();
+  const keluar = [];
+  for (const p of [...produkSemua].sort((a, b) => a.nama.localeCompare(b.nama))) {
+    if (!(p.harga > 0 && p.harga < 60)) continue;
+    if (nampak.has(p.nama)) continue;      // satu kad sahaja bagi setiap nama
+    nampak.add(p.nama);
+    keluar.push(p);
+    if (keluar.length === 8) break;
+  }
+  return keluar;
+})();
 /* Baris "Untuk majlis besar" — hadiah anugerah sahaja.
    Sebelum ini ia ambil 4 produk TERMAHAL tanpa mengira kategori, jadi
    Bath Towel (BT270) RM528 — kesilapan taip pembekal (tuala lain RM23-37)
@@ -64,7 +77,7 @@ const adaHarga = produkSemua.filter((p) => p.harga > 0);
         </div>
         <div class="hero-stats">
           <div class="hero-stat"><b>{produkSemua.length}</b><span>Produk tersedia</span></div>
-          <div class="hero-stat"><b>{kategori.length}</b><span>Kategori</span></div>
+          <div class="hero-stat"><b>Percuma</b><span>Mock-up sebelum cetak</span></div>
           <div class="hero-stat"><b>1 hari</b><span>Masa sebut harga</span></div>
           <div class="hero-stat"><b>{SITE.moq}</b><span>MOQ (pcs)</span></div>
         </div>
@@ -113,6 +126,33 @@ const adaHarga = produkSemua.filter((p) => p.harga > 0);
       ))}
     </div>
   </div>
+
+  <!-- NAVIGASI BAJET: pembeli pilih sendiri, tidak perlu skrol 9 seksyen -->
+  <section class="section section-bajet">
+    <div class="wrap">
+      <div class="bajet-row">
+        <p class="bajet-label">Mula dari bajet anda</p>
+        <div class="bajet-chips">
+          {[
+            { nama: 'Bawah RM20', min: null, maks: 20 },
+            { nama: 'RM20 – RM60', min: 20, maks: 60 },
+            { nama: 'RM60 – RM150', min: 60, maks: 150 },
+            { nama: 'RM150 ke atas', min: 150, maks: null },
+          ].map((b) => (
+            <a
+              class="bajet-chip"
+              href={pautan(`/katalog${b.min !== null || b.maks !== null
+                ? `?${[b.min !== null ? `min=${b.min}` : '', b.maks !== null ? `maks=${b.maks}` : ''].filter(Boolean).join('&')}`
+                : ''}`)}
+            >
+              {b.nama}
+            </a>
+          ))}
+          <a class="bajet-chip bajet-semua" href={pautan('/katalog')}>Semua {produkSemua.length} produk →</a>
+        </div>
+      </div>
+    </div>
+  </section>
 
   <!-- PRODUK PREMIUM -->
   <section class="section">
@@ -167,8 +207,8 @@ const adaHarga = produkSemua.filter((p) => p.harga > 0);
     <div class="wrap">
       <div class="section-head">
         <div>
-          <p class="eyebrow">Paling laris</p>
-          <h2>Hadiah bawah RM60 seunit</h2>
+          <p class="eyebrow">Bawah RM60</p>
+          <h2>8 pilihan bawah RM60 seunit</h2>
           <p>Sesuai untuk sukan, seminar, dan hadiah kakitangan dalam bilangan besar.</p>
         </div>
         <a class="btn btn-ghost btn-sm" href={pautan('/katalog?maks=60')}>Lihat semua →</a>

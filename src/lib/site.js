@@ -10,6 +10,9 @@ export const SITE = {
   tagline: 'Hadiah korporat bercetak logo, dihantar terus dari kilang.',
   // ⚠️ Tukar kepada nombor WhatsApp bisnes anda (format antarabangsa, tiada +)
   whatsapp: '60176055349',
+  // Nombor untuk DIPAPARKAN (format tempatan, senang dibaca orang Malaysia).
+  // Pautan tetap guna `whatsapp` (format antarabangsa).
+  telefonPapar: '017-605 5349',
   emel: 'hello@hadiahkorporat.my',
   negeri: 'Melaka, Malaysia',
   moq: 10,
