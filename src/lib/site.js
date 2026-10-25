@@ -7,7 +7,10 @@ export const SITE = {
   // ⚠️ Tukar kepada nama jenama sebenar anda
   nama: 'HadiahKorporat',
   namaPendek: 'HK',
-  tagline: 'Hadiah korporat bercetak logo, dihantar terus dari kilang.',
+  /* Dakwaan mesti benar. Kami BELI dari pembekal — bukan kilang sendiri.
+     'Harga pembekal' pula betul secara literal: harga kami sama dengan
+     senarai harga pembekal (disahkan 969/969 padan pada satu masa). */
+  tagline: 'Hadiah korporat bercetak logo pada harga pembekal.',
   // ⚠️ Tukar kepada nombor WhatsApp bisnes anda (format antarabangsa, tiada +)
   whatsapp: '60176055349',
   // Nombor untuk DIPAPARKAN (format tempatan, senang dibaca orang Malaysia).

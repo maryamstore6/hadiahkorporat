@@ -78,7 +78,8 @@ const adaHarga = produkSemua.filter((p) => p.harga > 0);
         <div class="hero-stats">
           <div class="hero-stat"><b>{produkSemua.length}</b><span>Produk tersedia</span></div>
           <div class="hero-stat"><b>Percuma</b><span>Mock-up sebelum cetak</span></div>
-          <div class="hero-stat"><b>1 hari</b><span>Masa sebut harga</span></div>
+          <div class="hero-stat"><b>1 hari</b><span>Sebut harga</span></div>
+          <div class="hero-stat"><b>7–14 hari</b><span>Siap selepas kelulusan</span></div>
           <div class="hero-stat"><b>{SITE.moq}</b><span>MOQ (pcs)</span></div>
         </div>
       </div>
@@ -327,7 +328,8 @@ const adaHarga = produkSemua.filter((p) => p.harga > 0);
       <p class="eyebrow">Sedia mula?</p>
       <h2>Hantar senarai anda hari ini</h2>
       <p style="max-width:52ch;margin-inline:auto">
-        Sebut harga dalam 1 hari kerja. Tiada bayaran pendahuluan sehingga anda luluskan mock-up.
+        Sebut harga dalam 1 hari kerja, barang siap 7–14 hari kerja selepas anda luluskan
+        mock-up. Tiada bayaran pendahuluan sehingga mock-up diluluskan.
       </p>
       <div style="display:flex;gap:.7rem;justify-content:center;flex-wrap:wrap;margin-top:1.5rem">
         <a class="btn btn-lime" href={pautan('/katalog')}>Terokai {produkSemua.length} produk</a>

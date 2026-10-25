@@ -87,6 +87,10 @@ p:last-child { margin-bottom: 0; }
 
 /* ---------- Mikro-kaps: tekstur tandatangan ---------- */
 .eyebrow {
+  /* 'balance' mengagihkan baris supaya tiada perkataan tertinggal
+     sendirian pada baris terakhir (masalah pada telefon: 1295 produk ·
+     52 kategori · harga terpampang -> 'HARGA TERPAMPANG' tergantung). */
+  text-wrap: balance;
   font-family: var(--sans);
   font-size: .66rem;
   font-weight: 500;
@@ -292,8 +296,8 @@ body.nav-open .mobile-nav { display: block; }
 .hero-lead { font-size: clamp(1rem, 1.5vw, 1.1rem); color: var(--ink-2); max-width: 46ch; }
 .hero-cta { display: flex; flex-wrap: wrap; gap: .6rem; margin-top: 1.5rem; }
 .hero-stats {
-  display: grid; grid-template-columns: repeat(4, minmax(0, 1fr));
-  gap: 1.2rem; margin-top: 2.2rem; padding-top: 1.6rem;
+  display: grid; grid-template-columns: repeat(5, minmax(0, 1fr));
+  gap: 1rem; margin-top: 2.2rem; padding-top: 1.6rem;
   border-top: 1px solid var(--line);
 }
 .hero-stat b { display: block; font-family: var(--disp); font-weight: 400; font-size: clamp(1.5rem, 3vw, 2rem); line-height: 1; }
@@ -732,6 +736,10 @@ textarea.input { border-radius: var(--r); resize: vertical; }
   .hero-cta { flex-direction: column; align-items: stretch; }
   .hero-cta .btn { width: 100%; }
   .hero-stats { grid-template-columns: 1fr 1fr; gap: 1.1rem; }
+  /* 5 statistik dalam 2 lajur = 2+2+1 -> baris terakhir tinggal seorang.
+     Eyebrow di atas sudah sebut '1295 produk', jadi statistik itu berulang
+     pada telefon. Sembunyikan ia: tinggal 4 -> grid 2x2 yang seimbang. */
+  .hero-stat:first-child { display: none; }
   .hero-stat b { font-size: 1.5rem; }
   /* Ruang header terhad pada telefon: tunjuk ikon telefon sahaja,
      nombor penuh ada di halaman Hubungi dan footer. */
