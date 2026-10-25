@@ -620,6 +620,11 @@ textarea.input { border-radius: var(--r); resize: vertical; }
 .ulasan figcaption span {
   font-size: .6rem; letter-spacing: .14em; text-transform: uppercase; color: var(--muted);
 }
+/* Butiran pesanan: huruf kecil biasa (bukan mikro-kaps) supaya mudah dibaca
+   dan tidak bersaing dengan nama. */
+.ulasan figcaption span:last-child {
+  letter-spacing: .02em; text-transform: none; font-size: .72rem; line-height: 1.45;
+}
 
 /* ---------- Kalkulator ---------- */
 .calc { display: grid; grid-template-columns: 1fr 1fr; gap: clamp(1.6rem, 4vw, 3.5rem); align-items: center; }

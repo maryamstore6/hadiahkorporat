@@ -2,31 +2,55 @@
  {
   "nama": "Faizal R.",
   "bintang": 5,
-  "teks": "Hantar pertanyaan pagi, petang dah dapat mock-up. Kualiti cetakan kemas, tak perlu betulkan banyak kali."
+  "teks": "Hantar pertanyaan pagi, petang dah dapat mock-up. Kualiti cetakan kemas, tak perlu betulkan banyak kali.",
+  "bulan": "Ogos 2026",
+  "pesanan": "120 pcs mug",
+  "acara": "sukan tahunan",
+  "contoh": true
  },
  {
   "nama": "Aina M.",
   "bintang": 5,
-  "teks": "Harga seunit memang jelas dari awal. Bila sampai bil akhir, tiada caj tambahan yang mengejutkan."
+  "teks": "Harga seunit memang jelas dari awal. Bila sampai bil akhir, tiada caj tambahan yang mengejutkan.",
+  "bulan": "September 2026",
+  "pesanan": "80 pcs set hadiah",
+  "acara": "hadiah klien",
+  "contoh": true
  },
  {
   "nama": "Wei Jian L.",
   "bintang": 5,
-  "teks": "MOQ 10 pcs pun dilayan sama seperti pesanan besar. Sesuai untuk syarikat kecil macam kami."
+  "teks": "MOQ 10 pcs pun dilayan sama seperti pesanan besar. Sesuai untuk syarikat kecil macam kami.",
+  "bulan": "Julai 2026",
+  "pesanan": "10 pcs lanyard",
+  "acara": "mesyuarat agung",
+  "contoh": true
  },
  {
   "nama": "Suresh K.",
   "bintang": 5,
-  "teks": "Trophy untuk majlis anugerah sampai tepat pada tarikh. Semua dibungkus elok, tiada yang pecah."
+  "teks": "Trophy untuk majlis anugerah sampai tepat pada tarikh. Semua dibungkus elok, tiada yang pecah.",
+  "bulan": "Jun 2026",
+  "pesanan": "24 pcs trophy",
+  "acara": "majlis anugerah",
+  "contoh": true
  },
  {
   "nama": "Hafiz A.",
   "bintang": 5,
-  "teks": "Minta beberapa pilihan design, semua disediakan tanpa caj. Senang nak tunjuk kepada pengurusan."
+  "teks": "Minta beberapa pilihan design, semua disediakan tanpa caj. Senang nak tunjuk kepada pengurusan.",
+  "bulan": "Ogos 2026",
+  "pesanan": "200 pcs pen",
+  "acara": "pelancaran produk",
+  "contoh": true
  },
  {
   "nama": "Norhayati S.",
   "bintang": 5,
-  "teks": "Tempahan last minute pun masih boleh siap. Komunikasi pantas, senang nak tanya apa-apa."
+  "teks": "Tempahan last minute pun masih boleh siap. Komunikasi pantas, senang nak tanya apa-apa.",
+  "bulan": "September 2026",
+  "pesanan": "50 pcs tuala",
+  "acara": "sukan tahunan",
+  "contoh": true
  }
 ]

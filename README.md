@@ -66,8 +66,32 @@ Semua dalam `src/lib/site.js`:
 | Tetapan | Sekarang | Tukar kepada |
 |---|---|---|
 | `nama` | `HadiahKorporat` | Nama jenama sebenar anda |
-| `whatsapp` | `60196359232` | Nombor WhatsApp bisnes anda |
+| `whatsapp` | `60176055349` | Nombor WhatsApp bisnes anda |
 | `emel` | `hello@hadiahkorporat.my` | E-mel bisnes anda |
+
+### ⚠️ Ulasan pelanggan masih CONTOH
+
+`src/data/ulasan.json` mengandungi 6 ulasan **bertanda `"contoh": true`** —
+nama dan butiran pesanan adalah rekaan untuk mengisi reka bentuk.
+
+**Ganti dengan ulasan sebenar sebelum promosi serius.** Ulasan rekaan boleh
+menyalahi undang-undang perlindungan pengguna dan lebih merosakkan
+kredibiliti daripada tiada ulasan langsung.
+
+Bentuk setiap rekod:
+
+```json
+{
+  "nama": "Nama Pelanggan",
+  "bintang": 5,
+  "teks": "Petikan ulasan sebenar...",
+  "bulan": "Ogos 2026",
+  "pesanan": "120 pcs mug",
+  "acara": "sukan tahunan"
+}
+```
+
+Buang `"contoh": true` apabila sudah guna data sebenar.
 
 **Gambar produk:** ketika ini setiap kad memaparkan jubin berwarna dengan inisial
 (sebagai pengganti). Untuk guna gambar sebenar:

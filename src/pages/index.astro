@@ -313,8 +313,10 @@ const adaHarga = produkSemua.filter((p) => p.harga > 0);
               <blockquote>{u.teks}</blockquote>
               <figcaption>
                 <b>{u.nama}</b>
-                {(u.jawatan || u.syarikat) && (
-                  <span>{[u.jawatan, u.syarikat].filter(Boolean).join(' · ')}</span>
+                {/* Butiran pesanan menjadikan ulasan boleh dinilai: pembeli
+                    boleh lihat sama ada pesanan itu seakan-akan pesanan dia. */}
+                {(u.bulan || u.pesanan || u.acara) && (
+                  <span>{[u.bulan, u.pesanan, u.acara].filter(Boolean).join(' · ')}</span>
                 )}
               </figcaption>
             </figure>
