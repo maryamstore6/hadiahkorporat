@@ -737,9 +737,10 @@ textarea.input { border-radius: var(--r); resize: vertical; }
   .hero-cta .btn { width: 100%; }
   .hero-stats { grid-template-columns: 1fr 1fr; gap: 1.1rem; }
   /* 5 statistik dalam 2 lajur = 2+2+1 -> baris terakhir tinggal seorang.
-     Eyebrow di atas sudah sebut '1295 produk', jadi statistik itu berulang
-     pada telefon. Sembunyikan ia: tinggal 4 -> grid 2x2 yang seimbang. */
-  .hero-stat:first-child { display: none; }
+     MOQ sudah disebut dalam marquee DAN pada setiap kad produk, jadi
+     statistik itu paling kurang bernilai pada telefon. Sembunyikan ia:
+     tinggal 4 -> grid 2x2 yang seimbang. */
+  .hero-stat:last-child { display: none; }
   .hero-stat b { font-size: 1.5rem; }
   /* Ruang header terhad pada telefon: tunjuk ikon telefon sahaja,
      nombor penuh ada di halaman Hubungi dan footer. */

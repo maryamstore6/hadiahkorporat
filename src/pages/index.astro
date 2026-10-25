@@ -76,7 +76,7 @@ const adaHarga = produkSemua.filter((p) => p.harga > 0);
           <a class="btn btn-ghost" href={pautan('/sebut-harga')}>Minta sebut harga</a>
         </div>
         <div class="hero-stats">
-          <div class="hero-stat"><b>{produkSemua.length}</b><span>Produk tersedia</span></div>
+          <div class="hero-stat"><b>RM0</b><span>Bayaran pendahuluan</span></div>
           <div class="hero-stat"><b>Percuma</b><span>Mock-up sebelum cetak</span></div>
           <div class="hero-stat"><b>1 hari</b><span>Sebut harga</span></div>
           <div class="hero-stat"><b>7–14 hari</b><span>Siap selepas kelulusan</span></div>
@@ -121,6 +121,8 @@ const adaHarga = produkSemua.filter((p) => p.harga > 0);
           <span class="marquee-dot" aria-hidden="true">·</span>
           <span class="strip-item">MOQ {SITE.moq} pcs sahaja</span>
           <span class="marquee-dot" aria-hidden="true">·</span>
+          <span class="strip-item">Tiada bayaran sehingga mock-up diluluskan</span>
+          <span class="marquee-dot" aria-hidden="true">·</span>
           <span class="strip-item">Penghantaran seluruh Malaysia</span>
           <span class="marquee-dot" aria-hidden="true">·</span>
         </div>
@@ -151,6 +153,23 @@ const adaHarga = produkSemua.filter((p) => p.harga > 0);
           ))}
           <a class="bajet-chip bajet-semua" href={pautan('/katalog')}>Semua {produkSemua.length} produk →</a>
         </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- PRODUK BAWAH RM60 -->
+  <section class="section">
+    <div class="wrap">
+      <div class="section-head">
+        <div>
+          <p class="eyebrow">Bawah RM60</p>
+          <h2>8 pilihan bawah RM60 seunit</h2>
+          <p>Sesuai untuk sukan, seminar, dan hadiah kakitangan dalam bilangan besar.</p>
+        </div>
+        <a class="btn btn-ghost btn-sm" href={pautan('/katalog?maks=60')}>Lihat semua →</a>
+      </div>
+      <div class="grid-prod">
+        {unggul.map((p) => <ProductCard p={p} ringkas />)}
       </div>
     </div>
   </section>
@@ -199,23 +218,6 @@ const adaHarga = produkSemua.filter((p) => p.harga > 0);
             Tunjuk produk dalam bajet ini
           </a>
         </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- PRODUK BAWAH RM60 -->
-  <section class="section">
-    <div class="wrap">
-      <div class="section-head">
-        <div>
-          <p class="eyebrow">Bawah RM60</p>
-          <h2>8 pilihan bawah RM60 seunit</h2>
-          <p>Sesuai untuk sukan, seminar, dan hadiah kakitangan dalam bilangan besar.</p>
-        </div>
-        <a class="btn btn-ghost btn-sm" href={pautan('/katalog?maks=60')}>Lihat semua →</a>
-      </div>
-      <div class="grid-prod">
-        {unggul.map((p) => <ProductCard p={p} ringkas />)}
       </div>
     </div>
   </section>
