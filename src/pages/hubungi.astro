@@ -15,13 +15,24 @@ import { SITE, pautan } from '../lib/site.js';
       <a class="btn btn-primary" href={`https://wa.me/${SITE.whatsapp}`} target="_blank" rel="noopener" style="justify-content:center">
         WhatsApp kami
       </a>
+      <a class="btn btn-ghost" href={`tel:+${SITE.whatsapp}`} style="justify-content:center">
+        Telefon {SITE.telefonPapar}
+      </a>
       <a class="btn btn-ghost" href={`mailto:${SITE.emel}`} style="justify-content:center">E-mel {SITE.emel}</a>
     </div>
 
     <ul class="prod-specs" style="margin-top:2.5rem">
-      <li><span>WhatsApp</span><b><a href={`https://wa.me/${SITE.whatsapp}`}>+{SITE.whatsapp}</a></b></li>
+      <li><span>Syarikat</span><b>{SITE.syarikat}</b></li>
+      <li><span>Telefon</span><b><a href={`tel:+${SITE.whatsapp}`}>{SITE.telefonPapar}</a></b></li>
+      <li><span>WhatsApp</span><b><a href={`https://wa.me/${SITE.whatsapp}`}>{SITE.telefonPapar}</a></b></li>
       <li><span>E-mel</span><b><a href={`mailto:${SITE.emel}`}>{SITE.emel}</a></b></li>
-      <li><span>Lokasi</span><b>{SITE.negeri}</b></li>
+      <li>
+        <span>Alamat</span>
+        <b>
+          {SITE.alamat.baris1}, {SITE.alamat.baris2},<br />
+          {SITE.alamat.poskod} {SITE.alamat.bandar}
+        </b>
+      </li>
       <li><span>Waktu balasan</span><b>Isnin–Jumaat, 9:00 pagi – 5:30 petang</b></li>
     </ul>
 

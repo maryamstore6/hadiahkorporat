@@ -42,6 +42,39 @@ const kat = [
     <link rel="icon" type="image/png" sizes="32x32" href={pautan('/favicon-32.png')} />
     <link rel="icon" type="image/png" sizes="64x64" href={pautan('/favicon-64.png')} />
     <link rel="apple-touch-icon" href={pautan('/apple-touch-icon.png')} />
+
+    {/* Data berstruktur — bantu Google papar nama, telefon dan alamat
+        perniagaan dalam hasil carian dan peta. */}
+    <script
+      type="application/ld+json"
+      set:html={JSON.stringify({
+        '@context': 'https://schema.org',
+        '@type': 'LocalBusiness',
+        name: SITE.nama,
+        legalName: SITE.syarikat,
+        description: SITE.tagline,
+        url: new URL(pautan('/'), Astro.site).href,
+        telephone: `+${SITE.whatsapp}`,
+        email: SITE.emel,
+        image: new URL(pautan('/og.jpg'), Astro.site).href,
+        address: {
+          '@type': 'PostalAddress',
+          streetAddress: `${SITE.alamat.baris1}, ${SITE.alamat.baris2}`,
+          addressLocality: SITE.alamat.bandar,
+          addressRegion: 'Melaka',
+          postalCode: SITE.alamat.poskod,
+          addressCountry: 'MY',
+        },
+        openingHoursSpecification: [{
+          '@type': 'OpeningHoursSpecification',
+          dayOfWeek: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'],
+          opens: '09:00',
+          closes: '17:30',
+        }],
+        areaServed: { '@type': 'Country', name: 'Malaysia' },
+        priceCurrency: 'MYR',
+      })}
+    />
   </head>
   <body>
     <a class="sr" href="#utama">Lompat ke kandungan</a>
@@ -121,14 +154,24 @@ const kat = [
           <div>
             <h4>Hubungi</h4>
             <ul>
+              <li><a href={`tel:+${SITE.whatsapp}`}>{SITE.telefonPapar}</a></li>
               <li><a href={`https://wa.me/${SITE.whatsapp}`}>WhatsApp</a></li>
               <li><a href={`mailto:${SITE.emel}`}>{SITE.emel}</a></li>
-              <li>{SITE.negeri}</li>
             </ul>
+            <h4 style="margin-top:1.1rem">Alamat</h4>
+            <address style="font-style:normal;color:rgba(247,246,241,.72);font-size:.82rem;line-height:1.6">
+              {SITE.syarikat}<br />
+              {SITE.alamat.baris1}<br />
+              {SITE.alamat.baris2}<br />
+              {SITE.alamat.poskod} {SITE.alamat.bandar}
+            </address>
           </div>
         </div>
         <div class="foot-base">
-          <span>© {new Date().getFullYear()} {SITE.nama}. Semua hak terpelihara.</span>
+          <span>
+            © {new Date().getFullYear()} {SITE.nama} — dikendalikan oleh {SITE.syarikat}.
+            Semua hak terpelihara.
+          </span>
           <span>Harga seunit belum termasuk kos penghantaran &amp; caj cetakan.</span>
         </div>
       </div>

@@ -18,6 +18,18 @@ export const SITE = {
   telefonPapar: '017-605 5349',
   emel: 'hello@hadiahkorporat.my',
   negeri: 'Melaka, Malaysia',
+
+  /* Butiran entiti perniagaan berdaftar. Dipaparkan di footer dan halaman
+     Hubungi supaya pelanggan (terutama pembeli B2B dan kerajaan) boleh
+     sahkan siapa mereka berurusan. */
+  syarikat: 'LITTLE MARYAM ENTERPRISE',
+  alamat: {
+    baris1: 'No 6, Jalan Meranti 2/1',
+    baris2: 'Taman Merdeka, Batu Berendam',
+    poskod: '75350',
+    bandar: 'Melaka',
+    penuh: 'No 6, Jalan Meranti 2/1, Taman Merdeka, Batu Berendam, 75350 Melaka, Malaysia',
+  },
   moq: 10,
 };
 
