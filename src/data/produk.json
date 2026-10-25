@@ -1284,7 +1284,9 @@
    "Towel Series"
   ],
   "jenama": null,
-  "gambar": "/gambar/bath-towel-bt270.webp"
+  "gambar": "/gambar/bath-towel-bt270.webp",
+  "tersembunyi": true,
+  "sebab_tersembunyi": "Harga pembekal RM528 tidak munasabah (13 tuala lain median RM26.40) — menunggu pengesahan pembekal"
  },
  {
   "id": 16589,

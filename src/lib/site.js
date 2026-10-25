@@ -18,12 +18,15 @@ export const SITE = {
   moq: 10,
 };
 
-export const produkSemua = produk;
+/* Produk bertanda `tersembunyi` dikeluarkan dari SELURUH laman: katalog,
+   kategori, halaman produk, carian, sitemap, kiraan. Rekod kekal dalam
+   produk.json supaya mudah dipulihkan apabila harga pembekal disahkan. */
+export const produkSemua = produk.filter((p) => !p.tersembunyi);
 
 /* ---------- Kategori ---------- */
 export function kategoriSemua() {
   const map = new Map();
-  for (const p of produk) {
+  for (const p of produkSemua) {      // produk tersembunyi tidak dikira
     if (!map.has(p.kategori)) map.set(p.kategori, 0);
     map.set(p.kategori, map.get(p.kategori) + 1);
   }
@@ -33,7 +36,7 @@ export function kategoriSemua() {
 }
 
 export function produkKategori(slug) {
-  return produk.filter((p) => slugify(p.kategori) === slug);
+  return produkSemua.filter((p) => slugify(p.kategori) === slug);
 }
 
 /* ---------- Warna kategori (untuk jubin pengganti gambar) ---------- */
