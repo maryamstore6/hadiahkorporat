@@ -435,6 +435,16 @@ body.nav-open .mobile-nav { display: block; }
   white-space: nowrap;
 }
 .price-box .coret { font-size: .55em; display: block; margin: 0 0 .1rem; }
+/* Pecahan kos pada halaman produk — menjawab "apa lagi yang saya kena bayar"
+   sebelum pembeli perlu bertanya. */
+.prod-kos .tajuk-kos span {
+  font-weight: 600; color: var(--ink); letter-spacing: .02em;
+}
+.prod-kos .jumlah-kos { border-top: 1px solid var(--line); margin-top: .2rem; padding-top: .55rem; }
+.prod-kos .jumlah-kos span,
+.prod-kos .jumlah-kos b { color: var(--forest); font-weight: 600; }
+.prod-kos li b { font-weight: 400; text-align: right; }
+
 .julat-nota {
   font-size: .74rem; line-height: 1.5; color: var(--muted);
   margin: .5rem 0 0; max-width: 42ch;

@@ -96,7 +96,7 @@ const hargaTeks = p.harga > 0 ? teksHarga(p) : 'Sebut harga';
           )}
           <div class="note">
             {p.harga > 0
-              ? `Harga seunit untuk MOQ ${SITE.moq} pcs. Cetakan logo & penghantaran dikira berasingan.`
+              ? `Harga seunit (harga asas produk) untuk MOQ ${SITE.moq} pcs. Cetakan logo dan penghantaran dinyatakan berasingan dalam sebut harga — anda nampak jumlah penuh sebelum membayar.`
               : 'Hubungi kami untuk harga pada bilangan anda.'}
           </div>
         </div>
@@ -115,6 +115,26 @@ const hargaTeks = p.harga > 0 ? teksHarga(p) : 'Sebut harga';
           <a class="btn btn-ghost btn-sm" href={`https://wa.me/${SITE.whatsapp}?text=${encodeURIComponent(`Salam, saya berminat dengan ${p.nama}${p.sku ? ' (' + p.sku + ')' : ''}. Boleh dapatkan sebut harga untuk ${SITE.moq} pcs?`)}`} target="_blank" rel="noopener">Tanya terus di WhatsApp</a>
           <a class="btn btn-ghost btn-sm" href={pautan('/sebut-harga')}>Cara sebut harga</a>
         </div>
+
+        <ul class="prod-specs prod-kos">
+          <li class="tajuk-kos"><span>Pecahan kos</span><b></b></li>
+          <li>
+            <span>Harga seunit</span>
+            <b>{p.harga > 0 ? `${teksHarga(p)} × ${SITE.moq} pcs` : 'Sebut harga'}</b>
+          </li>
+          <li>
+            <span>Cetakan logo</span>
+            <b>Ikut bilangan &amp; kaedah cetakan — dalam sebut harga</b>
+          </li>
+          <li>
+            <span>Penghantaran</span>
+            <b>Ikut lokasi &amp; berat — dalam sebut harga</b>
+          </li>
+          <li class="jumlah-kos">
+            <span>Jumlah penuh</span>
+            <b>Dinyatakan sebelum anda bayar</b>
+          </li>
+        </ul>
 
         <ul class="prod-specs">
           {p.sku && <li><span>Kod produk</span><b>{p.sku}</b></li>}

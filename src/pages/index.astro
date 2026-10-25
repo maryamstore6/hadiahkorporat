@@ -10,7 +10,37 @@ const unggul = [...produkSemua]
   .filter((p) => p.harga > 0 && p.harga < 60)
   .sort((a, b) => a.nama.localeCompare(b.nama))
   .slice(0, 8);
-const berharga = [...produkSemua].filter((p) => p.harga >= 100).sort((a, b) => b.harga - a.harga).slice(0, 4);
+/* Baris "Untuk majlis besar" — hadiah anugerah sahaja.
+   Sebelum ini ia ambil 4 produk TERMAHAL tanpa mengira kategori, jadi
+   Bath Towel (BT270) RM528 — kesilapan taip pembekal (tuala lain RM23-37)
+   — muncul sebagai kad pertama di halaman utama dan merosakkan
+   kredibiliti 1,295 harga lain. */
+const KATA_ANUGERAH = ['crystal', 'trophy', 'plaque', 'award', 'medal', 'stone', 'resin', 'certificate'];
+
+/* Pengawal harga luar tabii: bandingkan dengan KELUARGA produk (dua patah
+   perkataan pertama nama), bukan kategori. Kategori terlalu luas — median
+   'Crystal Trophies & Awards' cuma RM60 walaupun ia mengandungi trofi RM290.
+   Keluarga menangkap kesilapan taip sebenar: Bath Towel (BT270) RM528
+   berbanding 13 tuala lain pada median RM26.40.
+   Ambang 6x sengaja longgar — hanya tangkap kes melampau. */
+function keluarga(nama) {
+  return nama.split(' ').slice(0, 2).join(' ').toLowerCase();
+}
+const hargaKeluarga = {};
+for (const p of produkSemua) {
+  if (p.harga > 0) (hargaKeluarga[keluarga(p.nama)] ||= []).push(p.harga);
+}
+const medianKeluarga = {};
+for (const k of Object.keys(hargaKeluarga)) {
+  const s = hargaKeluarga[k].sort((a, b) => a - b);
+  medianKeluarga[k] = s[Math.floor(s.length / 2)];
+}
+const berharga = [...produkSemua]
+  .filter((p) => p.harga >= 100
+    && KATA_ANUGERAH.some((w) => p.kategori.toLowerCase().includes(w))
+    && p.harga <= medianKeluarga[keluarga(p.nama)] * 6)
+  .sort((a, b) => b.harga - a.harga)
+  .slice(0, 4);
 const adaHarga = produkSemua.filter((p) => p.harga > 0);
 ---
 <Base huraian={`${produkSemua.length} produk hadiah korporat bercetak logo. Harga seunit, MOQ ${SITE.moq} pcs. Sebut harga dalam 1 hari kerja.`}>
@@ -71,7 +101,7 @@ const adaHarga = produkSemua.filter((p) => p.harga > 0);
     <div class="marquee-track">
       {[0, 1].map((n) => (
         <div class="marquee-group" aria-hidden={n === 1 ? 'true' : undefined}>
-          <span class="strip-item">Harga seunit, tanpa caj tersembunyi</span>
+          <span class="strip-item">Harga seunit terpampang — kos cetakan dinyatakan awal</span>
           <span class="marquee-dot" aria-hidden="true">·</span>
           <span class="strip-item">Mock-up percuma sebelum cetak</span>
           <span class="marquee-dot" aria-hidden="true">·</span>
@@ -123,7 +153,7 @@ const adaHarga = produkSemua.filter((p) => p.harga > 0);
         <div class="calc-out" style="margin-top:.6rem">
           <div class="lbl">Anggaran jumlah</div>
           <div class="val" id="k-jumlah">RM1,500.00</div>
-          <p id="k-nota">Untuk 50 pcs pada RM30 seunit. Cetakan &amp; penghantaran dikira berasingan.</p>
+          <p id="k-nota">Untuk 50 pcs pada RM30 seunit (harga asas produk). Cetakan logo dan penghantaran dinyatakan dalam sebut harga — anda nampak jumlah penuh sebelum membayar.</p>
           <a class="btn btn-lime" id="k-cari" href={pautan('/katalog')} style="margin-top:1rem;justify-content:center;width:100%">
             Tunjuk produk dalam bajet ini
           </a>
@@ -279,7 +309,7 @@ const adaHarga = produkSemua.filter((p) => p.harga > 0);
       const b = Math.max(1, Number(bil.value) || 0);
       const h = Math.max(0, Number(bajet.value) || 0);
       jumlah.textContent = 'RM' + (b * h).toLocaleString('ms-MY', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
-      nota.textContent = `Untuk ${b.toLocaleString('ms-MY')} pcs pada RM${h.toFixed(2)} seunit. Cetakan & penghantaran dikira berasingan.`;
+      nota.textContent = `Untuk ${b.toLocaleString('ms-MY')} pcs pada RM${h.toFixed(2)} seunit (harga asas produk). Cetakan logo dan penghantaran dinyatakan dalam sebut harga — anda nampak jumlah penuh sebelum membayar.`;
       if (cari && h > 0) cari.setAttribute('href', `${asasCari}?maks=${h}`);
     }
     bil?.addEventListener('input', kira);
